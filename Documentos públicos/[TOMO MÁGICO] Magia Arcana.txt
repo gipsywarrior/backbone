@@ -1,0 +1,250 @@
+
+================================================================================
+MAGIA ARCANA
+TOMO MÁGICO
+================================================================================
+================================================================================
+
+
+================================================================================
+HABILIDADES PASIVAS
+================================================================================
+================================================================================
+
+
+================================================================================
+[HECHICERÍA ARCANA] - AFINIDAD MÁGICA
+================================================================================
+  Mística - Habilidad Pasiva
+  Efecto visual: El usuario por diferentes motivos ha desarrollado o descubierto una afinidad a los fenómenos mágicos que transcurren a su alrededor. Su vínculo con los misticismos resulta increíblemente extenso, accediendo a un gran potencial dentro de esta área.
+  Efecto: El usuario adquiere siguientes beneficios: 
+[POTENCIAL MÁGICO]: La magia arcana se considera una magia difícil, pues sus practicantes no son seres que nacieron con un potencial o capacidad extensa, sin embargo, a lo largo de los años (décadas, o incluso siglos) han demostrado la capacidad de convertirse en talentosos hechiceros. El usuario obtiene acceso al TIER 4 – MISTICISMOS DE PODER BAJO de PODER MÁGICO (PM) salvo que se posea uno superior por documento ajeno.
+[FLUJO MÁGICO NATURAL]: El usuario extrae su magia desde las líneas ley que se trazan por debajo de la tierra con más facilidad, adquiriendo un increíble potencial a la hora de luchar cuando estas se encuentran más cerca. Uno de cada tres hechizos pertenecientes a este tomo (el tercero) ven reducidos su coste en “-1 PA” siempre y cuando luche al aire libre. Siempre consumirá como mínimo 1 PA en sus acciones.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+RANGO I
+================================================================================
+================================================================================
+
+
+================================================================================
+PERCEPCIÓN ARCANA
+================================================================================
+  100 EXP
+  Mística - Defensiva/Suplementaria
+  Alcance 4
+  TIER 3
+  Efecto visual: El usuario posee sensibilidad hacia aquella energía metafísica que compone muchas cosas existentes, así como aquellas auras que rodean a todo ser vivo y pensante.
+  Efecto: Anula una ilusión mística impuesta sobre el usuario o un aliado dentro del alcance, siempre y cuando iguale o supere en PM al ejecutor. Es posible usarlo sobre todos los aliados dentro del alcance, aumentado su consumo en +1 PA.
+
+ACLARACIONES:
+  - Ante casos de no poseer PM, requiere únicamente igualar en rango.
+================================================================================
+
+
+================================================================================
+TELEQUINESIS MÁGICA
+================================================================================
+  100 EXP
+  Mística -  Variable
+  Alcance 5 / Propio
+  TIER 3
+  Efecto visual: El usuario consigue dominar una capacidad básica de todo hechicero, el alzar objetos mediante su mente y energía mística a través de un moderado esfuerzo.
+  Efecto: Otorga al usuario los siguientes comandos, considerándose independientes uno del otro ante la restricción sistemática de habilidades:
+[LANZAMIENTO]: El usuario lanza un objeto cercano hacia su oponente. Produce daño físico de “PM*1.4” y aturde durante una acción. Habilidad Ofensiva.
+[INTERPOSICIÓN]: El usuario interpone un objeto cercano ante un ataque. Defiende “PM*1.4” ante habilidades con proyección física. Habilidad Defensiva Externa.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+EXPULSIÓN MÁGICA
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  Alcance 5
+  TIER 3
+  Efecto visual: El usuario concentra energía mística y la libera contra su oponente en un torrente arcano que lo empuja hacia atrás con fuerza.
+  Efecto: Genera un daño místico de “PM*1.25” y empuja 3 casillas. Colisión produce un aturdimiento de una acción. En caso de que se defienda mediante una defensa interna, sigue produciéndose el empuje pese a que se defienda íntegramente.
+
+ACLARACIONES:
+  No desplaza a inamovibles o poseedores de una fuerza TIER 2 o superior.
+================================================================================
+
+
+================================================================================
+RETENCIÓN MÁGICA
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  Alcance 5
+  TIER 3
+  Efecto visual: El usuario conjura ataduras que inmovilizan a su oponente, permitiéndole quedar completamente a merced de su accionar.
+  Efecto:  Inmoviliza durante 3 acciones a un oponente. Liberable únicamente por personajes con una FUE clasificada desde las 30 TON o superior.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+RANGO II
+================================================================================
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MODERADA] - CONCENTRACIÓN
+================================================================================
+  100 EXP
+  Mental - Ofensiva/Suplementaria
+  Alcance “2*VOL”
+  “MENTES” PA
+  TIER 3
+  Efecto visual: El usuario realiza un considerable esfuerzo para percibir la mente de las personas a su alrededor y captar sus pensamientos.
+  Efecto:  Permite hacer uso de habilidades pertenecientes al documento que tengan índole Mental sobre objetivos que se encuentren bajo Concentración. En caso de que el usuario esté concentrado en más mentes que “VOLUNTAD” verá reducidos los efectos de sus habilidades en un “25% [*0.75]” y en “-VOLUNTAD acciones” de forma general.
+Los siguientes escenarios anularán de manera automática esta habilidad.
+Recibir un daño superior a “15%*VOLUNTAD” de su VIT máxima.
+Recibir un control de masa que impida el turno del usuario. No aplican inmovilizaciones ni tampoco parálisis para este escenario.
+
+ACLARACIONES:
+  - Esta habilidad no puede ser reaccionada bajo métodos ordinarios salvo la reacción en cuestión especifique poder ser utilizada para esta habilidad.
+- Esta habilidad puede utilizarse también sobre aliados, considerándose Suplementaria.
+- En caso de que el usuario pierda la Concentración, deberá volver a ejecutarla en turno propio, gastando los puntos de acción correspondientes. 
+- Concentración se mantiene, aunque los objetivos se salgan posteriormente del alcance, pero las habilidades mentales requerirán del alcance de la habilidad para ejecutarse.
+================================================================================
+
+
+================================================================================
+[CONCENTRACIÓN] - LECTURA MENTAL
+================================================================================
+  100 EXP
+  Mental - Habilidad Pasiva
+  Efecto visual: El usuario es capaz de leer la mente de sus oponentes, obteniendo información automática mientras se encuentre concentrado.
+  Efecto: El usuario detecta a todo aquel usuario sobre el que se esté concentrado y se oculte mediante métodos ordinarios. Esta detección no aplica si la ocultación del objetivo tiene aclaraciones contrarias a la de esta pasiva.
+
+ACLARACIONES:
+  - Requiere poseer Concentración activa.
+- Se considera una intrusión mental.
+================================================================================
+
+
+================================================================================
+LEVITACIÓN MÁGICA
+================================================================================
+  100 EXP
+  Mística - Suplementaria
+  Alcance Propio
+  No clasificada
+  Efecto visual: El usuario canaliza energía mística, permitiéndole alzarse varios metros del suelo para transportarse o salir del alcance de sus enemigos.
+  Efecto: Otorga posición de Levitación hasta la finalización del próximo turno propio del usuario. A partir de RANGO III esta habilidad otorga posición de Vuelo.
+
+ACLARACIONES:
+  Una vez finalizada esta habilidad, debe pasar al menos un turno propio en el suelo para poder ser utilizada nuevamente.
+================================================================================
+
+
+================================================================================
+INVISIBILIDAD ARCANA
+================================================================================
+  100 EXP
+  Mística - Suplementaria
+  Alcance Propio
+  No clasificada
+  Efecto visual: El usuario manipula la percepción de su oponente para salir de su rango de visión a través de una ilusión mágica, volviéndose completamente invisible.
+  Efecto: El usuario se oculta durante las próximas 3 acciones. Mientras se mantenga en este estado no puede ser objetivo ni se ve afectada por áreas de habilidades ofensivas salvo que se le detecte. En caso de realizar una habilidad ofensiva mientras esta permanezca activa, susodicha pasará a requerir “REF 3” para reaccionar o se recibirán obligatoriamente el “50% [*0.50]” de los efectos. Este efecto finaliza con la invisibilidad automáticamente.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+RANGO III
+================================================================================
+================================================================================
+
+
+================================================================================
+[HECHICERÍA ARCANA] - APRENDIZAJE ESOTÉRICO
+================================================================================
+  250 EXP
+  Mística - Habilidad Pasiva
+  Efecto visual: El usuario ha alcanzado un punto clave en el largo camino de su aprendizaje mágico, siendo capaz de comprender hechizos mucho más complejos con gran facilidad.
+  Efecto:  Por cada 1.500 EXP que el usuario acumule o haya acumulado a lo largo de su travesía, puede desbloquear una de las siguientes tres pasivas. El canjeo de estas pasivas únicamente puede realizarse tres veces y sólo puede aplicarse un aumento por habilidad, no pudiéndose repetir. Adicionalmente otorga una bonificación de “5% [*1.05]” de PM extra por cada 3.500 EXP que se acumulen hasta un máximo de “RANGO” veces.
+[HECHICERO DEFENSIVO]: Marcando una habilidad mística defensiva, aumenta su defensa en un “10% [*1.10]”. Ante ofensivas de índole mística, la bonificación sobre la habilidad defensiva será reemplazado por un “20% [*1.20]”.
+[HECHICERO OFENSIVO]: Marcando una habilidad mística ofensiva, aumenta su daño en un “10% [*1.10]”. Ante defensivas de índole mística, la bonificación sobre la habilidad ofensiva será reemplazado por un “20% [*1.20]”.
+[HECHICERO CALCULADOR]: Permite marcar una habilidad que produzca un estado alterado, control de masa o habilidades basadas en ilusión/ocultación, aumentando su duración en 1 acción. No pueden superarse las 5 acciones de duración por este método.
+
+ACLARACIONES:
+  No es posible cambiar la característica elegida una vez se escoge. Debe estar representada en ficha al igual que la habilidad marcada según sea el caso.
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MODERADA] - PROYECCIÓN ASTRAL
+================================================================================
+  100 EXP
+  Mental/Mística - Suplementaria
+  Alcance FDC
+  No clasificada
+  Efecto visual: Por su gran habilidad mística el usuario es capaz de proyectar su forma astral fuera de su cuerpo, como muchos otros místicos y mentales..
+  Efecto:  El usuario utiliza esta habilidad para teletransportarse hacia el plano astral, donde dejará atrás su cuerpo para así visitar planos que normalmente afectarían o consumirían su cuerpo físico o que normalmente no serían accesibles por medio de entidades físicas.
+Esta habilidad permite al usuario mantenerse en dicho estado durante 30 minutos, colocando en su misión [PA], refiriéndose a Plano Astral. En este estado no es posible ser retado salvo por personajes que se encuentren en el mismo plano.
+
+ACLARACIONES:
+  Un uso cada 6 horas.
+================================================================================
+
+
+================================================================================
+BARRERA ARCANA
+================================================================================
+  100 EXP
+  Mística - Defensiva (Externa)
+  Alcance Propio
+  TIER 2
+  Efecto visual: El usuario concentra sus energías en materializar una resistente barrera de energía mística que repele una inminente ofensiva.
+  Efecto:  Genera una defensa de “PM x1.65”. El valor de esta defensa se ve aumentado en un “25% [*1.25]” ante ofensivas realizadas por personajes de naturaleza sobrenatural (demonios, usuarios de pactos, maldiciones mágicas, vampiros, etcétera).
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+PODER ARCANO
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  Alcance Área 3 sobre el usuario
+  TIER 2
+  Efecto visual: El usuario expulsa energía acumulada de forma omnidireccional, atravesando a sus oponentes mediante proyectiles místicos que además producen quemaduras.
+  Efecto:  Genera un daño de “PM x1.6” en área sobre el usuario y genera una quemadura del “10% [*0.10]” durante 3 acciones. Empuja dos casillas y aturde dos acciones en caso de colisión.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+RETENCIÓN ARCANA
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  Alcance 4
+  TIER 2
+  Efecto visual: El usuario controla el cuerpo de su oponente, obligándolo a permanecer estático y restringiendo completamente su movimiento.
+  Efecto: Genera una parálisis de 3 acciones. No posee proyección física.
+
+ACLARACIONES:
+  Resistible.
+================================================================================
+

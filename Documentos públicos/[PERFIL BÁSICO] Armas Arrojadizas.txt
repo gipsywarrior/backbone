@@ -1,0 +1,214 @@
+
+================================================================================
+ARMAS ARROJADIZAS
+PERFIL BÁSICO
+================================================================================
+================================================================================
+
+
+================================================================================
+HABILIDADES PASIVAS
+================================================================================
+================================================================================
+
+
+================================================================================
+ARSENAL ARROJADIZO
+================================================================================
+  Parafernalia - Arma Arrojadiza
+  Alcance 3
+  Efecto visual: El usuario posee un arsenal de armas arrojadizas capaces de perforar a sus oponentes con facilidad.
+  Efecto: Parafernalia que posee el escalado de ARMA CORTA CONVENCIONAL, siendo capaz de utilizarse con las habilidades de este documento.
+
+No consume hueco de manos para ser portadas, considerándose que se ocupan en tanto y en cuanto se ejecute una habilidad perteneciente a este perfil, o en su caso, cualquier otra que involucre armas arrojadizas. Puede ser interpretada como cualquier objeto susceptible de ser lanzado, como ser clavos, piedras, shurikens, senbons, etc.
+
+ACLARACIONES:
+  Consume un hueco de accesorio.
+================================================================================
+
+
+================================================================================
+RANGO I
+================================================================================
+================================================================================
+
+
+================================================================================
+[ARMAS ARROJADIZAS] - ACROBACIA EVASIVA
+================================================================================
+  Física - Defensiva
+  Alcance Arma
+  TIER 3
+  Efecto visual: El usuario realiza una hábil acrobacia para evadir a su oponente.
+  Efecto: Permite evadir una habilidad con proyección física que carezca de área. La velocidad utilizada para esta evasión no se consume.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[ARMAS ARROJADIZAS] - LANZAMIENTO RÁPIDO
+================================================================================
+  Física - Ofensiva
+  Alcance Arma
+  TIER 3
+  Efecto visual: El usuario lanza una de sus armas al pecho de su oponente, cortándolo.
+  Efecto: Causa daño físico de “ARMA*1.25” al oponente provoca un indirecto por hemorragia del “10% [x0.10]” del daño causado durante cuatro (4) acciones.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[ARMAS ARROJADIZAS] - LANZAMIENTO SORPRESA
+================================================================================
+  Física - Ofensiva
+  Alcance Arma
+  TIER 3
+  Efecto visual: El usuario lanza un arma oculta a los ojos del oponente, sorprendiéndolo.
+  Efecto: Causa daño físico de “ARMA*1.35” al oponente. Posee como requisito de evasión el contar con, al menos, tres (3) REF.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[ARMAS ARROJADIZAS] - LANZAMIENTO A LA “EXTREMIDAD”
+================================================================================
+  Física - Ofensiva
+  Alcance Arma
+  TIER 3
+  Efecto visual: El usuario lanza una de sus armas con precisión a la rodilla o articulación de su oponente, impidiendo que pueda utilizarla con normalidad.
+  Efecto: Causa daño físico de “ARMA*1.25” al oponente. En caso de dañar inhabilita una extremidad a elección durante tres (3) acciones.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+RANGO II
+================================================================================
+================================================================================
+
+
+================================================================================
+[ARMAS ARROJADIZAS] - LLUVIA DE ARMAS
+================================================================================
+  Física - Ofensiva
+  Cónico 3
+  TIER 2
+  Efecto visual: El usuario lanza sin cesar múltiples armas arrojadizas hacia sus oponentes, desatando una lluvia sobre ellos.
+  Efecto: Causa daño físico de “ARMA*2” a los oponentes en el área y provoca un indirecto por hemorragia del “10% [x0.10]” del daño causado durante cuatro (4) acciones.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[ARMAS ARROJADIZAS] - LANZAMIENTO CON REBOTE
+================================================================================
+  Física - Ofensiva
+  Alcance Arma
+  TIER 2
+  Efecto visual: El usuario da un corte preciso a las articulaciones de su oponente, impidiendo que pueda utilizarla correctamente.
+  Efecto: Causa daño físico de “ARMA*2” al oponente. En caso de reaccionar con una evasión, provoca la repetición del daño en un “50% [x0.50]”, requiriendo de cuatro (4) REF para evadir ese segundo impacto.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[ARMAS ARROJADIZAS] - LANZAMIENTO MÚLTIPLE
+================================================================================
+  Física - Ofensiva
+  Alcance Arma
+  TIER 3
+  Efecto visual: El usuario toma una serie de armas arrojadizas entre sus manos, arrojándolas directo a sus oponentes cercanos.
+  Efecto: Causa daño físico de “ARMA” tres veces sobre un rival, o dividiendo el ataque en varios objetivos.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[ARMAS ARROJADIZAS] - LANZAMIENTO PERFORANTE
+================================================================================
+  Física - Ofensiva
+  Alcance Arma
+  TIER 2
+  Efecto visual:  El usuario utiliza toda su fuerza y destreza en lanzar con precisión y letalidad su arma arrojadiza, siendo capaz de perforar fácilmente las defensas del oponente.
+  Efecto: Causa daño físico de “ARMA*2” al oponente e ignora un 25% [*0.75] de defensas internas utilizadas en respuesta.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+RANGO III
+================================================================================
+================================================================================
+
+
+================================================================================
+[ARMAS ARROJADIZAS] - LANZAMIENTO VENENOSO
+================================================================================
+  Física - Ofensiva
+  Alcance Arma
+  TIER 2
+  Efecto visual:  El usuario lanza un arma arrojadiza aparentemente inofensiva, aunque con gran capacidad perforante recubierta de un veneno peligroso.
+  Efecto: Causa daño físico de “ARMA*2.5” al oponente y provoca un indirecto por veneno del “5% [x0.05]” de la VIT. MÁX. durante 3 acciones. Al finalizar el indirecto, el oponente quedará Paralizado durante 1 acción.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[ARMAS ARROJADIZAS] - ASESINATO DE 360 GRADOS
+================================================================================
+  Física - Ofensiva
+  Alcance Arma
+  TIER 3
+  Efecto visual:  El usuario arroja armas desde todos los ángulos a su oponente.
+  Efecto: Causa daño físico de “ARMA*2.5” al oponente. No es posible defender esta habilidad salvo con habilidades que permitan defender todos los ángulos, como campos de fuerza.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[ARMAS ARROJADIZAS] - LANZAMIENTO PREVENTIVO
+================================================================================
+  Física - Defensiva
+  Alcance Arma
+  TIER 3
+  Efecto visual:  El usuario anticipa el ataque de su oponente, arrojando rápidamente un arma arrojadiza a su cuerpo para distraerlo.
+  Efecto: Anula una acción ofensiva con proyección física realizada por el oponente.
+
+ACLARACIONES:
+  Un uso cada dos turnos propios.
+================================================================================
+
+
+================================================================================
+[ARMAS ARROJADIZAS] - BOMBA DE CLAVOS
+================================================================================
+  Física - Ofensiva
+  Alcance 5, Área 2 sobre el objetivo
+  TIER 2
+  Efecto visual: El usuario arroja una bomba de clavos por el suelo, provocando que salgan disparados a todas las direcciones.
+  Efecto: Causa daño físico de “RANGO*500” en el área y provoca un indirecto por hemorragia del “10% [x0.10]” del daño causado durante 5 acciones.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+

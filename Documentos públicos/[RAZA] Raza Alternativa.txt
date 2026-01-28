@@ -1,0 +1,51 @@
+
+================================================================================
+RAZA ALTERNATIVA
+RAZAS
+================================================================================
+================================================================================
+
+
+================================================================================
+HABILIDADES PASIVAS
+================================================================================
+================================================================================
+
+
+================================================================================
+VARIEDAD DE ESPECÍMENES
+================================================================================
+  Física – Pasiva
+  Efecto visual: Desde seres que bajo concepto de evolución han podido adaptarse a las más extremas de las condiciones terrestres hasta especies forjadas bajo las estrellas de otras galaxias, el multiverso en su vastedad es albergue de una infinidad de razas que no acaban por encajar del todo con lo que la humanidad ha sabido categorizar.
+  Efecto: Se le concede al usuario la oportunidad de confeccionar un documento de raza a gusto de carácter temporal. Bajo esta premisa, se entiende a la raza alternativa como una plataforma a la hora de aspirar a algún poder que cuente con algún tipo de fisonomía especial y no termine de encajar con los parámetros estipulados por otras razas. Una vez se acceda al material pretendido, los beneficios prestados por este documento se revocarán de forma inmediata.
+El usuario obtiene un total de 10 puntos a repartir en función a las siguientes mejoras de STAT.
+[FUERZA]: Por cada 1 punto invertido, aumenta en una la posición en la escala.
+
+
+[VITALIDAD]: Por cada 2 puntos invertidos, aumenta en una la posición en la escala.
+
+[VELOCIDAD]: Por cada 2 puntos invertidos, aumenta en una la posición en la escala.
+
+[DEFENSA PASIVA]: Por cada 1 punto invertido, aumenta en una la posición en la escala.
+
+[REGENERACIÓN]: Invirtiendo 5 puntos, el usuario accede a la siguiente tabla de regeneración.
+El valor regenerado debe aplicarse al final de cada ronda. Adicionalmente, ven la duración de heridas post combate disminuidas en un “25% [*0.75]”.
+[REFLEJOS]: Por cada 3 puntos invertidos, el usuario ve aumentados sus reflejos en +1 (MÁX. 3)
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+VARIEDAD DE ESPECÍMENES
+================================================================================
+  Física – Pasiva
+  Efecto visual: En contextos determinados, la hostilidad de un ambiente puede empujar a ciertas especies a descubrir capacidades latentes.
+  Efecto: El usuario puede renunciar a la aspiración de un poder a cambio de acceder a los siguientes beneficios.
+[METAMORFOSIS]: Cada vez que el usuario ascienda de rango obtendrá la suma de 2 puntos adicionales a repartir en las mejoras de este documento. Bajo el mismo concepto, se le permitirá legalizar dos habilidades relacionadas a su fisionomía que mantengan coherencia con su proyecto de personaje.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+

@@ -1,0 +1,76 @@
+
+================================================================================
+CIENTÍFICO
+PERFIL BÁSICO
+================================================================================
+================================================================================
+
+
+================================================================================
+HABILIDADES PASIVAS
+================================================================================
+================================================================================
+
+
+================================================================================
+[CIENTÍFICO] - DESARROLLO CIENTÍFICO
+================================================================================
+  Mental - Habilidad Pasiva
+  Efecto visual: El usuario en su aprendizaje se especializó en una o múltiples ramas de la ciencia, permitiéndole enfocar todo su potencial al desarrollo de ciertas áreas humanas.
+  Efecto: Un científico debe elegir su camino entre los siguientes:
+[TECNOLOGÍA] ARMAMENTÍSTICA: El usuario se enfoca en la creación de PARAFERNALIAS bélicas yendo desde armas simples hasta armas prácticamente de capacidades espaciales. Su potencial está en la creación de equipamiento ofensivo.
+[TECNOLOGÍA] GADGETS: El usuario se enfoca en la creación de PARAFERNALIAS con aspectos suplementarios o de apoyo, destinadas a aumentar las capacidades básicas de un ser. Incluye brazaletes o cinturones multiusos o aparatos tecnológicos capaces de aportar potencial ofensivo, pero nunca con daño directo. 
+[TECNOLOGÍA] ROBÓTICA: El usuario se enfoca en la creación de ACOMPAÑANTES robóticos. Conforme su inteligencia se desarrolla es capaz de trasladar a la realidad acompañantes cada vez mejor equipados. [EXCLUSIVA]   
+[TECNOLOGÍA] ARMADURAS: El usuario se enfoca en la creación de ARMADURAS con el fin de compensar sus falencias en batalla. Si bien inicia de forma sumamente simple, la inteligencia puede desarrollarse hasta competir con metahumanos. [EXCLUSIVA]  
+[BOTÁNICA] TOXINAS: El usuario se enfoca en la creación de VENENOS que aplicar en sus armas o habilidades para derrotar fácilmente a sus oponentes. Su conocimiento de la ciencia incluye la naturaleza de las plantas, pero sólo aprovecha esto para la creación de venenos de gran peligrosidad.
+[FÍSICO] FÍSICO NUCLEAR: El usuario se enfoca en el estudio de la energía nuclear. Sus usos ofensivos son amplios, pero el usuario nunca ha llegado al punto de crear armas con ellos. A cambio, ama la ciencia y disfruta de su trabajo. Otorga acceso a [FÍSICO NUCLEAR] ACCIDENTE RADIOACTIVO.
+ACCIDENTE RADIACTIVO: Sólo utilizable desde Rango III. Permite acceder voluntariamente a un accidente radioactivo, entendiéndose que en la realidad ha sido eso, un accidente. El usuario obtiene acceso obligatorio a dos tiradas: la primera define si sobrevive, la segunda define la Bestia Gamma/Alteración Radioactiva que recibirá. La clasificación y valor de los dados es una cuestión interna, por lo que el usuario debe hacer esto a ojos cerrados. Si el usuario muere en esta tirada está obligado a iniciar desde Rango I. Sólo accesible por humanos sin poder previo.
+[GENÉTICA] POTENCIACIÓN: El usuario se enfoca en la creación de SUEROS con la capacidad de alterar o mejorar temporalmente las capacidades de quienes lo beben. Su conocimiento de la genética y la biología es considerable, pero aún están lejos de alcanzar a los más grandes genéticos.  
+[GENÉTICA] GÉNESIS: El usuario se enfoca en la creación de ACOMPAÑANTES con vida. Mediante la experimentación en los seres es capaz de crear ejércitos. Tan únicos como peligrosos, son uno en mil millones. [EXCLUSIVA]  
+[GENÉTICA] MODIFICACIÓN: El usuario se enfoca en dar la capacidad de DESARROLLAR HABILIDADES en otros personajes. Mediante la modificación de la cadena genética es capaz de hacerlos llegar a puntos superiores. No tan peligrosos, constituyen aún un peldaño de la ciencia poco conocido. [EXCLUSIVA]  
+[GENIO CIENTÍFICO] INTELIGENCIA SUPERIOR: El usuario se enfoca en superar los límites humanos mediante la CIENCIA. Obtiene acceso a DOS CAMINOS (sólo permite los exclusivos si lo indica) y la pasiva LO BELLO DE LA CIENCIA. [EXCLUSIVA]  
+LO BELLO DE LA CIENCIA: El usuario obtiene la capacidad de construir TRAMAS ÚNICAS mediante sus inventos. Para esto, se debe desarrollar una trama en la que se evidencien sus creaciones. Deben ser tramas obligatoriamente con trasfondo e interés científico, pues no están creadas para dar recompensas directas. Serán tan peligrosas como las intenciones de su propio creador, por lo que se recomienda cautela. Contactar con Administración para conocer mejor los límites.
+[GENIO CIENTÍFICO] CIENTÍFICO SUPREMO DE LA TIERRA: Has recibido el título del CIENTÍFICO SUPREMO DE LA TIERRA, título otorgado por Eternidad. Tus capacidades van más allá de cualquier científico, aún si estos demuestran tener una inteligencia con creces superior a la tuya. Efecto oculto.
+Es posible elegir tan sólo UN CAMINO al elegir el perfil. En caso de que el usuario carezca de un poder, puede elegir un segundo camino a cambio de renunciar a un hueco de perfil libre.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[CIENTÍFICO] - INVENCIÓN CIENTÍFICA
+================================================================================
+  Mental - Habilidad Pasiva
+  Efecto visual: El usuario dedica múltiples horas al desarrollo de la ciencia.
+  Efecto: Un científico una vez elige su camino obtiene acceso a LEGALIZACIONES (si lo permite) no limitadas por tiempo específico. A continuación, las especificaciones.
+Las legalizaciones no son creadas por los usuarios. El usuario debe dar una idea de su creación correctamente ejemplificada, con nombres y posibles efectos, y es el Administrador/Moderador el encargado de llevarla a cabo. Si el Equipo Administrativo considera que la legalización posee capacidades que no debería, sus efectos serán adaptados. El usuario podrá rechazar este nuevo efecto un máximo de 3 veces, pero nunca cambiarlo, por lo que deberá plantear uno nuevo. Siempre y cuando esté en discusión, no es posible contabilizar el tiempo de legalización.
+Un personaje que no posea un poder tendrá el derecho de acceder a tres legalizaciones. Podrá acceder a cada una siguiendo los parámetros establecidos en este mismo documento. 
+Un personaje con poder que tenga acceso al perfil científico únicamente tendrá derecho a una legalización de este salvo su poder indique una aclaración contraria.
+Un personaje considerado GENIO tendrá acceso a tantas legalizaciones como su documento respectivo lo indique, así como a sus correspondientes caminos.
+Por cada legalización a mandar, debe tenerse la cantidad de 2500 EXP acumulada. Este requisito únicamente aplica para personajes con poder o considerados GENIOS.
+Cuando una legalización sea validada, se establecerá un tiempo de espera para que el usuario mande su próxima legalización.
+Sólo es posible mandar una legalización por jugador indiferente a cuantos caminos se tenga acceso. Esta aclaración únicamente aplica para personajes con poder.
+Una legalización tiene un tiempo máximo de respuesta de 2 semanas. En caso contrario, el creador obtiene la capacidad de enviar otra legalización en el mismo tiempo siempre y cuando la anterior no haya sido respondido antes.
+Las aclaraciones para cada legalización a mandar son las siguientes:
+Legalizaciones ACTIVAS (armamentística, gadgets, armaduras, etc.) tendrán un límite de 5 efectos y 6 habilidades. Máximo 2 efectos por cada habilidad.
+Legalizaciones PASIVAS (potenciación, toxinas, etc.) tendrán un límite de 3 efectos.
+Legalizaciones de ACOMPAÑANTES tendrán un límite de 3 pasivas y 6 habilidades. Cada habilidad puede poseer como máximo 2 efectos.
+Cada legalización tendrá un COSTE DE EXPERIENCIA equivalente con la cantidad de efectos puestos. El precio no es negociable una vez se hace entrega del documento.
+Consideraciones especiales:
+En general, un efecto es cualquier cosa básica que un usuario puede aplicar a una habilidad RPG. Según las capacidades, un efecto puede convertirse en dos efectos.
+Un daño no es considerado un efecto, pero un control de masa sí.
+Escalar el TIER de una habilidad es considerado un efecto por cada TIER por encima del III. Es posible que se niegue el aumento de TIER de una habilidad en base a las propias capacidades del personaje. 
+Un indirecto es un efecto.
+En caso de realizar una habilidad con efecto Rolz, no podrá contener efectos RPG y viceversa.
+Controles de masas de duración mayor a 2 acciones son considerados 2 efectos. Dependiendo del control/alteración esto puede aumentar o disminuir.
+Ignorar puede variar en efectos. Dependiendo de lo que se plantee ignorar y en qué cantidad se determinará el número de efectos.
+Atravesar es considerado 3 efectos.
+Otorgar índole Sónica es considerado 2 efectos.
+Aplicar un alcance que no sea directo y/o mayor a 4 a una habilidad es considerado 2 efectos. Dependiendo del área esto puede aumentar.
+Esto es una guía de base. Es posible que, según la legalización, puedan permitirse más efectos en pos de mejorar capacidades propias de las habilidades.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+

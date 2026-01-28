@@ -1,0 +1,243 @@
+
+================================================================================
+MAGIA VOODOO
+TOMO MÁGICO
+================================================================================
+================================================================================
+
+
+================================================================================
+HABILIDADES PASIVAS
+================================================================================
+================================================================================
+
+
+================================================================================
+[HECHICERÍA VOODOO] - VÍNCULO CON LOS LOA
+================================================================================
+  Mística/Física - Habilidad Pasiva
+  Efecto visual: El usuario se ha introducido en una religión voodoo, la cual adora a los dioses conocidos como los Loa, deidades de las cuales extraen sus poderes. Practicada comúnmente en África y Haití, es considerada un tipo de magia con muchos secretos y oscuridad, pero que en las manos correctas puede llegar a representar una de las mayores magias benignas. Además, poseen una gran conexión con los espíritus.
+  Efecto: El usuario desarrolla las siguientes características:
+[LA LLAMA NO DAÑA A QUIEN HA MUERTO DOS VECES]: El usuario reduce en un “50% [*0.50]” los daños recibidos por parte de habilidades ígneas e ignora daños indirectos por quemaduras. No aplica a fuego infernal.
+[REINO ANIMAL]: El usuario no puede ser atacado por animales comandados por oponentes de menor RANGO al usuario. En caso de ser animales de pantano, como serpientes o cocodrilos, estos no pueden afectarle aún si el oponente iguala o supera en rango.
+[CONEXIÓN CON LA MUERTE]: El usuario posee una profunda conexión con los muertos, siendo capaz de extraer sus poderes cuando estos lo ofrecen. Cuando un aliado directo del usuario muere, es posible que este obtenga su espíritu. La entrega del espíritu debe ser voluntaria por parte de quien lo entrega, y en caso de revivir los beneficios descritos a continuación se anulan. Por cada espíritu aliado en posesión el usuario aumenta en “5% [*1.05]” sus daños y defensas de índole mágica. Acumulable hasta “RANGO” veces.
+[DOMINIO ÍGNEO]: El usuario puede anular una habilidad ígnea realizada sobre él. No aplica sobre habilidades TIER 1 o 0. Consume 2 PA y una vez utilizada no es posible volver a hacer uso de ella hasta pasar al menos dos turnos propios.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+RANGO I
+================================================================================
+================================================================================
+
+
+================================================================================
+LLAMAS DE LOS LOA
+================================================================================
+  100 EXP
+  Ígnea - Ofensiva
+  Alcance 4
+  TIER 3
+  Efecto visual:  El usuario concentra su magia en sus manos y la proyecta en forma de llamas en dirección a sus oponentes con completa naturalidad.
+  Efecto: Causa daño ígneo de “PM*1.25” y un indirecto por quemadura del “10% [*0.10]” de daño recibido durante 3 acciones.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+PROTECCIÓN DE LOS LOA
+================================================================================
+  100 EXP
+  Ígnea - Defensiva (Externa)
+  Alcance Propio
+  TIER 3
+  Efecto visual:  El usuario invoca un muro de llamas frente a él, siendo estas tan densas como para reducir el impacto de las habilidades de sus oponentes.
+  Efecto: Genera una defensa de “PM*1.45”. Ante ataques de contacto genera un daño por contacto de “PM” que ignora defensas pasivas de hasta TIER II.
+
+ACLARACIONES:
+  El daño por contacto no es reaccionable.
+================================================================================
+
+
+================================================================================
+ATADURA NATURAL
+================================================================================
+  100 EXP
+  Física - Ofensiva
+  Alcance 5
+  TIER 3
+  Efecto visual:  El usuario hace crecer múltiples raíces del suelo que atrapan a su oponente.
+  Efecto: Genera el estado de inmovilización sobre un oponente durante 3 acciones. Es posible invertir 1 PA adicional para el efecto pase a ser de parálisis. En casillas de césped, tierra, o cualquier otro semejante, requiere de REF 3 para ser evadida.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+DESPRENDIMIENTO ESPIRITUAL
+================================================================================
+  100 EXP
+  Mística - Suplementaria
+  No clasificada
+  Efecto visual:  Por su gran habilidad mística el usuario es capaz de proyectar su forma astral fuera de su cuerpo, como muchos otros místicos y mentales.
+  Efecto: El usuario utiliza esta habilidad para teletransportarse hacia el plano astral, donde dejará atrás su cuerpo para así visitar planos que normalmente afectarían o consumirían su cuerpo físico o que normalmente no serían accesibles por medio de entidades físicas.
+Esta habilidad permite al usuario mantenerse en dicho estado durante 30 minutos, colocando en su misión [PA], refiriéndose a Plano Astral. En este estado no es posible ser retado salvo por personajes que se encuentren en el mismo plano.
+
+ACLARACIONES:
+  Un uso cada 6 horas.
+================================================================================
+
+
+================================================================================
+RANGO II
+================================================================================
+================================================================================
+
+
+================================================================================
+LLAMARADA MÍSTICA
+================================================================================
+  100 EXP
+  Ígnea - Ofensiva
+  Alcance 5
+  TIER 2
+  Efecto visual: El usuario acumula y proyecta múltiples ondas de fuego sobre su oponente.
+  Efecto: Produce un indirecto por quemadura de “PM/2” durante 4 acciones. Esta habilidad no puede ser defendida mediante defensas internas que no posean recubrimientos.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+SERPIENTES DE DAMBALLAH
+================================================================================
+  100 EXP
+  Física - Ofensiva
+  Cónico 4
+  TIER 2
+  Efecto visual:  El usuario invoca una gran cantidad de serpientes venenosas que atacan a sus enemigos por el suelo.
+  Efecto: Produce daño físico de “PM*1.65” y un indirecto por envenenamiento del “10% [*0.10]” de daño recibido durante 4 acciones. Mientras se mantenga el envenenamiento se considera que el afectado se encuentra en el estado Desorientado.
+
+ACLARACIONES:
+  Ignora defensas internas que no posean recubrimientos.
+================================================================================
+
+
+================================================================================
+CALCINACIÓN DE LOS LOA
+================================================================================
+  100 EXP
+  Ígnea - Ofensiva
+  Área 3 sobre el usuario
+  TIER 2
+  Efecto visual: El usuario concentra su magia y libera un estallido de llamas a su alrededor.
+  Efecto: Causa daño ígneo de “PM*1.85” y un indirecto por quemadura del “10% [*0.10]” de daño recibido durante 5 acciones. Ignora un “50% [*0.50]” de defensas internas.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+HUMO DE LOS LOA
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  Alcance 4, Área 1 sobre el objetivo
+  TIER 2
+  Efecto visual: El usuario esparce unos extraños humos capaces de desorientar al oponente.
+  Efecto: Causa el estado Desorientado sobre quiénes se hayan visto afectados hasta el final del próximo turno propio del usuario.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+HIPNOSIS: DUÉRMETE
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  Alcance 4
+  TIER 2
+  Efecto visual: El usuario desprende un brillo de sus ojos al estar en contacto visual con su oponente, ordenándole mentalmente que quede dormido.
+  Efecto: Genera el estado Dormido durante 3 acciones. El usuario puede invertir 1 PA adicional para aumentar la duración a 5 acciones.
+
+ACLARACIONES:
+  - No afecta a rivales que no puedan mantener contacto visual con el usuario.
+- No afecta a oponentes que superen en VOL al usuario.
+================================================================================
+
+
+================================================================================
+RANGO III
+================================================================================
+================================================================================
+
+
+================================================================================
+LAGARTOS DE DAMBALLAH
+================================================================================
+  100 EXP
+  Física - Ofensiva
+  Alcance 5
+  TIER 2
+  Efecto visual: El usuario invoca una gran cantidad de cocodrilos capaces de devorar a sus oponentes con suma facilidad.
+  Efecto: Causa un daño físico de “PM*1.7” y un indirecto por hemorragia del “10% [*0.10]” de daño recibido durante 5 acciones. Inhabilita una extremidad a elección mientras permanezca activo el indirecto causado. Ignora un “30% [*0.70]” de defensas internas.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+EMPALAMIENTO NATURAL
+================================================================================
+  100 EXP
+  Física - Ofensiva
+  Alcance 5, Área 2 sobre el objetivo
+  TIER 2
+  Efecto visual: El usuario hace crecer vida natural debajo del oponente, desprendiendo múltiples espinas creadas por raíces en sus pies.
+  Efecto: Genera un daño físico de “PM*1.65” y un indirecto por hemorragia del “10% [*0.10]” de daño recibido durante 5 acciones. Requiere de REF 3 para evadirse.
+
+ACLARACIONES:
+  Ignora un “30% [*0.70]” defensas en respuesta salvo estas sean capaces de cubrir todos los ángulos.
+================================================================================
+
+
+================================================================================
+SANACIÓN NATURAL
+================================================================================
+  100 EXP
+  Mística - Suplementaria
+  Alcance 1
+  No clasificada
+  Efecto visual: El usuario se cubre con su magia a sí mismo o a un aliado, permitiéndole sanar sus heridas más profundas.
+  Efecto: Permite recuperar “PM*1.35” VIT pérdida a un aliado o a sí mismo.
+
+ACLARACIONES:
+  Se considera curación mística. No puede sobrepasar la VIT. Máxima del afectado.
+================================================================================
+
+
+================================================================================
+TELETRANSPORTACIÓN DE LOS LOA
+================================================================================
+  100 EXP
+  Mística - Defensiva (Evasión)
+  Alcance 0
+  TIER 2
+  Efecto visual: El usuario posee la capacidad de teletransportarse fácilmente gracias a los Loa. En conjunto a su aparición desprende una extraña capa de humo capaz de desorientar.
+  Efecto: Permite evadir una habilidad ofensiva con proyección física que posea como máximo “RANGO” área. Esta reacción se considera de REF 3 y aumenta en 1 REF por cada 2 espíritus de “Conexión con la muerte” se posean (máximo 5 REF)
+
+ACLARACIONES:
+  N/A.
+================================================================================
+

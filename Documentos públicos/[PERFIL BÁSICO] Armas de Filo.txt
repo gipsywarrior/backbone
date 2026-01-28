@@ -1,0 +1,199 @@
+
+================================================================================
+ARMAS DE FILO
+PERFIL BÁSICO
+================================================================================
+================================================================================
+
+
+================================================================================
+PARAFERNALIA
+================================================================================
+================================================================================
+
+
+================================================================================
+ARMA DE FILO
+================================================================================
+  Parafernalia - Arma Contundente
+  Efecto visual: El usuario posee un arma de filo de gran poder cortante.
+  Efecto: Parafernalia que posee el escalado de ARMA MEDIA CONVENCIONAL, siendo capaz de utilizarse con las habilidades de este documento.
+
+Posee dureza no clasificada, además de ocupar únicamente una mano. Puede interpretarse estéticamente como cualquier arma que carezca de filo, siempre que respete el concepto de ser portada a una mano (sierra, machete, lanza corta, estoque, etcétera).
+
+ACLARACIONES:
+  Ocupa una mano.
+================================================================================
+
+
+================================================================================
+RANGO I
+================================================================================
+================================================================================
+
+
+================================================================================
+BLOQUEO CON ARMA
+================================================================================
+  Física — Defensiva (Interna)
+  Alcance: 1
+  TIER 3
+  Efecto visual: El usuario interpone el filo de su arma frente a un ataque para defenderse.
+  Efecto: Genera una defensa interna equivalente a “ARMA*1.3” frente a ataques que posean proyección física.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+CORTE DIAGONAL
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 3
+  Efecto visual: El usuario realiza un rápido corte sobre el pecho de su oponente.
+  Efecto: Causa daño físico equivalente a “ARMA*1.25” y genera daño indirecto de hemorragia equivalente al “10% [0.1]” del daño recibido durante 3 acciones.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+CORTE BAJO
+================================================================================
+  Física — Ofensiva
+  Alcance: 1x3
+  TIER 3
+  Efecto visual: El usuario realiza un rápido corte a las piernas de su oponente, con la posibilidad de derribarlo.
+  Efecto: Causa daño físico equivalente a “ARMA*1.35”, en caso de producir daño genera el estado Derribado.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+RANGO II
+================================================================================
+================================================================================
+
+
+================================================================================
+ESTOCADA
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 2
+  Efecto visual: El usuario posiciona su espada recta para perforar el cuerpo de su oponente.
+  Efecto: Causa daño físico equivalente a “ARMA*2” e ignora un “25% [*0.25]” de defensas internas.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+CÍRCULO CORTANTE
+================================================================================
+  Física — Ofensiva
+  Alcance: Área 2 sobre el usuario
+  TIER 2
+  Efecto visual: El usuario realiza rápidos giros, cortando todo lo que le rodea.
+  Efecto: Causa daño físico equivalente a “ARMA*2” y genera daño indirecto de hemorragia equivalente al “10% [0.1]” del daño recibido durante 3 acciones.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+GOLPE CON MANGO
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 2
+  Efecto visual: El usuario da un potente golpe en la cabeza del rival, utilizando la empuñadura de su arma.
+  Efecto: Causa daño físico equivalente a “ARMA*2” y en caso de generar daño, genera aturdimiento durante 3 acciones.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+DANZA DE CORTES
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 2
+  Efecto visual: El usuario inicia una ráfaga de rápidos cortes directamente hacia el oponente.
+  Efecto: Causa daño físico equivalente a “ARMA*1.25” un total de 3 veces sobre un oponente, considerándose un combo. Además, genera daño indirecto de hemorragia equivalente al “10% [0.1]” del daño recibido durante 3 acciones.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+RANGO III
+================================================================================
+================================================================================
+
+
+================================================================================
+CORTE A LA ARTICULACIÓN
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 2
+  Efecto visual: El usuario da un corte preciso a una de las articulaciones de su adversario, impidiendo su correcto uso.
+  Efecto: Causa daño físico equivalente a “ARMA*2.25”, en caso de generar daño genera inhabilitación de una extremidad durante 3 acciones.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+CORTE RELÁMPAGO
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 2
+  Efecto visual: El usuario se desplaza hacia el adversario, moviendo su hoja con gran rapidez y cortándolo.
+  Efecto: Causa daño físico equivalente a “ARMA*2.5” y genera daño indirecto de hemorragia equivalente al “10% [0.1]” del daño recibido durante 3 acciones. Un “30% [*0.3]” del daño requiere “REF 4” para reaccionarse.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+DESANGRAR
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 2
+  Efecto visual: El usuario gira sobre su propio eje y clava su arma en la espalda del oponente, atravesando su estómago.
+  Efecto: Causa daño físico equivalente a “ARMA*2.5” y genera daño indirecto de hemorragia equivalente al “10% [0.1]” del daño original durante 5 acciones. La mitad del daño de hemorragia afecta incluso si es defendido el ataque por completo mediante una defensa interna.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+CORTE ANTICIPADO
+================================================================================
+  Física — Ofensiva/Defensiva (Anticipación)
+  Alcance: 2
+  TIER 2
+  Efecto visual: El usuario realiza un corte con la intención de detener la acción de un oponente.
+  Efecto: Causa daño físico equivalente a “ARMA*2” en forma de anticipación frente a una habilidad que posea proyección física, siempre que sea realizada dentro del alcance de esta habilidad.
+
+ACLARACIONES:
+  Un uso cada dos rondas.
+================================================================================
+

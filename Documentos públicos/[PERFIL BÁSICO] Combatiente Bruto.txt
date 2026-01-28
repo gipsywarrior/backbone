@@ -1,0 +1,185 @@
+
+================================================================================
+COMBATIENTE BRUTO
+PERFIL BÁSICO
+================================================================================
+================================================================================
+
+
+================================================================================
+RANGO I
+================================================================================
+================================================================================
+
+
+================================================================================
+PUÑETAZO CONTUNDENTE
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 3
+  Efecto visual: El usuario ejecuta un puñetazo directamente a la cabeza de su adversario, con la posibilidad de aturdir.
+  Efecto: Causa daño físico equivalente a “FUE*1.35” y genera aturdimiento durante 1 acción. 
+[RANGO III]: Puede ser utilizado una segunda vez en la misma ronda, sin ver disminuídos sus efectos.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+ROMPENARICES
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 3
+  Efecto visual: El usuario ejecuta un puñetazo al rostro del oponente, siendo capaz de partir su tabique nasal, generando un gran dolor.
+  Efecto: Causa daño físico equivalente a “FUE*1.3” y genera daño indirecto de dolor equivalente al “10% [0.1]” del daño recibido durante 3 acciones.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+BLOQUEO CON BRAZOS
+================================================================================
+  Física — Defensiva (Interna)
+  Alcance: 1
+  TIER 3
+  Efecto visual: El usuario ejecuta un puñetazo al rostro del oponente, siendo capaz de partir su tabique nasal, generando un gran dolor.
+  Efecto: Genera una defensa interna equivalente a “FUE*1.35” frente a ataques que posean proyección física.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+RANGO II
+================================================================================
+================================================================================
+
+
+================================================================================
+SACUDIDA BRUTAL
+================================================================================
+  Física — Ofensiva
+  Alcance: Área 2 sobre el usuario
+  TIER 2
+  Efecto visual: El usuario sacude sus brazos y golpea a todo oponente que se encuentre a su alrededor, empujándolos.
+  Efecto: Causa daño físico equivalente a “FUE*2” y en caso de dañar, genera retroceso equivalente a 3 casillas. En caso de colisión, genera aturdimiento durante 2 acciones.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+RODILLAZO AL ESTÓMAGO
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 2
+  Efecto visual: El usuario propina un potente rodillazo directamente al abdomen de su adversario.
+  Efecto: Causa daño físico equivalente a “FUE*2” y en caso de dañar, genera daño indirecto de asfixia equivalente al “5% [*0.05]” de la VIT. MÁX. durante 3 acciones.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+ROMPEMUROS
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 2
+  Efecto visual: El usuario da un golpe con una fuerza increíble, derrumbando las defensas que se interpongan.
+  Efecto: Causa daño físico equivalente a “FUE*2.25”. En caso de defender mediante defensas internas o externas, el daño aumenta un “30% [*1.3]”.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+CHOQUE DE FUERZAS
+================================================================================
+  Física — Defensiva (Contraataque/Interna)
+  Alcance: 1
+  TIER 2
+  Efecto visual: El usuario da un golpe con una fuerza increíble, derrumbando las defensas que se pongan por en medio.
+  Efecto: Genera una defensa interna de “FUE*2”. En caso de defender un ataque de contacto, pasa a ser un contraataque.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+RANGO III
+================================================================================
+================================================================================
+
+
+================================================================================
+ROMPECRÁNEOS
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 2
+  Efecto visual: El usuario envía un puñetazo al cráneo de su oponente, tan fuerte que es capaz de hacer que pierda su orientación espacial y quede completamente descoordinado.
+  Efecto: Causa daño físico equivalente a “FUE*2.5”. En caso de dañar, provoca el estado desorientado durante 5 acciones.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+PUÑETAZO DESTRUCTOR
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 2
+  Efecto visual: El usuario da un golpe increíblemente fuerte y preciso, destruyendo por completo el cuerpo de su oponente.
+  Efecto: Causa daño físico equivalente a “FUE*2.5”, un “50% [*0.5]” del daño atraviesa defensas internas que no defiendan por completo el daño. Además, genera aturdimiento durante 3 acciones.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+ASFIXIA
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 2
+  Efecto visual: El usuario cubre con sus brazos el cuello del oponente, dejándolo completamente inmóvil y asfixiándolo.
+  Efecto: Genera inmovilización durante “RANGO” acciones al oponente. Cada acción que se pasa inmovilizado genera daño indirecto de asfixia equivalente al “5% [*0.05]” de su VIT. MÁX. Generar el indirecto durante 3 acciones o más provoca inconsciencia durante 2 acciones.
+La habilidad finaliza si se dan las siguientes condiciones:
+El usuario se desplaza voluntariamente.
+El usuario es desplazado de forma involuntaria.
+El usuario realiza una acción que requiera ambas manos. Se considera que mantiene al menos un brazo sobre el oponente para mantener esta habilidad.
+El usuario cae bajo un control de masas.
+
+ACLARACIONES:
+  Esta inmovilización únicamente restringe el movimiento.
+================================================================================
+
+
+================================================================================
+ARROLLAMIENTO
+================================================================================
+  Física — Ofensiva
+  Alcance: Lineal 5
+  TIER 2
+  Efecto visual: El usuario embiste en línea recta, golpeando y llevándose a sus oponentes en el camino.
+  Efecto: Causa daño físico equivalente a “FUE*3” y genera aturdimiento durante 3 acciones a quiénes tenga a Alcance 1 en el trayecto. En caso de pasar sobre alguien, se considera que atraviesa defensas interpuestas si las supera en resistencia.
+
+ACLARACIONES:
+  N/A
+================================================================================
+

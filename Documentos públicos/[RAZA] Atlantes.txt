@@ -1,0 +1,54 @@
+
+================================================================================
+ATLANTES
+RAZAS
+================================================================================
+================================================================================
+
+
+================================================================================
+HABILIDADES PASIVAS
+================================================================================
+================================================================================
+
+
+================================================================================
+HOMO MERMANUS
+================================================================================
+  Física – Pasiva
+  Efecto visual: Tras el éxodo de una antigua raza nativa del planeta Vodan al planeta Tierra, los atlantes se asentaron en lo profundo de los mares como la primera civilización avanzada. Es una especie destacada por su apariencia humanoide y características anfibias, descrita por leyendas como una estirpe milenaria y dícese de ella bendecida por el mismo Neptuno.
+  Efecto: El usuario pasa a considerarse Atlante, por lo que gozará de los siguientes beneficios.
+[FUERZA DE LÍM. HUMANO]: Su contextura superior los dota de gran fuerza.
+[VITALIDAD LIM. HUMANO]: Los atlantes gozan de una resistencia superior en combate.
+[VELOCIDAD DE HUM. ENTRENADO]: Incluso fuera del agua, son raudos como un estoque.
+[2 REFLEJOS]: Su destreza para la batalla los arma de reflejos excepcionales.
+[LONGEVIDAD]: El cuerpo atlante se mantiene impertérrito al paso del tiempo, por lo que de cara a la interpretación se considera que el usuario es capaz de vivir alrededor de 120 años. Adicionalmente, obtiene una reducción del “20% [*0.8]” a habilidades relacionadas a los efectos fisiológicos del paso del tiempo, envejecimiento o símiles.
+[FISIONOMÍA ANFIBIA]: El cuerpo del usuario está diseñado para su supervivencia bajo el agua. Bajo esta premisa, se considera que el usuario ignora los efectos causados por inundaciones y asfixias por concepto de agua gracias a la presencia de branquias. A su vez, gracias al funcionamiento de su circulación sanguínea, se considera inmune a temperaturas y climas helados.
+[HIDRATACIÓN]: Cada vez que el usuario sea objetivo de una habilidad acuática, reduce en 3 acciones la duración de indirectos y estados alterados ya activos sobre éste. A su vez, sana de forma inmediata un “5% [*0.05]” de su VIT. MÁXIMA con un límite de una vez por ronda. Adicionalmente, recibe los beneficios de Espécimen Acuático hasta su próximo turno (inclusive).
+[DESHIDRATACIÓN]: La fisionomía del usuario es susceptible al calor, por lo que habilidades relacionadas al fuego o altas temperaturas dañarán al usuario en un “30% [*1.3]” adicional. La presencia de climas áridos o extremadamente calurosos en combate causarán que el jugador sufra el estado deshidratado. Este estado finaliza tras recibir los efectos de Hidratación o en su defecto tras colocarse sobre alguna zona del mapeado que represente agua.
+Deshidratado: El usuario ve su velocidad reducida a la mitad y sus reflejos disminuidos en -1. Pierde la potestad de realizar habilidades que consuman más de 2 PA.
+
+ACLARACIONES:
+  - Los efectos de deshidratación no entrarán en vigencia si el usuario ya se encuentra ubicado sobre alguna masa de agua.
+================================================================================
+
+
+================================================================================
+ESPÉCIMEN ACUÁTICO
+================================================================================
+  Física – Pasiva
+  Efecto visual: A pesar de que los atlantes puedan subsistir e incluso entablar combates en la superficie, pertenecen al agua. Una vez sumergidos es cuando serán capaces de acceder a la totalidad de su potencial.
+  Efecto: Siempre que el usuario se encuentre sobre una zona en el mapa que busque representar algún cuerpo de agua, el usuario verá sus atributos mejorados de la siguiente forma. 
+[FUERZA DE 5 TON]: Una vez que sus músculos se hidratan, la capacidad de estos se expande por fuera de los límites.
+[VITALIDAD SOBREHUMANA]: Al igual que su fuerza, la contextura de los atlantes parece endurecer una vez en su elemento. 
+[VELOCIDAD SOBREHUMANA]: La agilidad de natación atlante es difícil de igualar.
+[REGENERACIÓN]: La fisionomía atlante cuenta con una eficiente regeneración subacuática.
+
+El valor regenerado debe aplicarse al final de cada ronda. Adicionalmente, una vez por semana, el usuario puede realizar un posteo en el apartado de Heridas, Muertes y Sucesos en el que detalle que se retira a su hábitat natural a fin de beneficiarse de un “25% [*0.75]” de reducción en tiempos de espera para heridas post combate.
+[SENTIDOS AGUDIZADOS]: Una vez en el agua, el usuario pasa a ignorar ocultaciones siempre que estas no sean de tipo místico o mental. Adicionalmente, se considera bajo esta premisa que el usuario es inmune a impedimentos de vista, olfato y oído.
+[AFINIDAD SUBACUÁTICA]: En escenas y eventos, concede un bonificador acumulable de +1 siempre que el usuario esté sumergido bajo el agua.
+
+ACLARACIONES:
+  - N/A
+================================================================================
+

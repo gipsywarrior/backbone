@@ -1,0 +1,240 @@
+
+================================================================================
+MAGIA OSCURA
+TOMO MÍSTICO
+================================================================================
+================================================================================
+
+
+================================================================================
+HABILIDADES PASIVAS
+================================================================================
+================================================================================
+
+
+================================================================================
+[HECHICERÍA OSCURA] – PACTO SINIESTRO
+================================================================================
+  Mística — Pasiva
+  Efecto visual: En contraposición del Tomo Vishanti, la Magia Oscura o Negra existe para causar daño, destrucción, y empoderar a su portador. Generalmente conseguida a través de pactos o aprendizaje de magos oscuros de gran poder, puede traer varios beneficios a sus usuarios, así como alcanzar la vida eterna.
+  Efecto: El usuario puede elegir una entidad mística oscura, ya sea un Hell-Lord o una deidad siniestra como la fuente de su poder mágico. Tras cumplir determinados requisitos, puede obtener los siguientes beneficios: 
+[BENDICIÓN OSCURA]: El usuario, tras finalizar un combate y salir victorioso del mismo, puede pronunciar la siguiente oración “Te otorgo estas almas en sacrificio, oh poderoso [NOMBRE DE LA ENTIDAD]”, obteniendo 1 sacrificio por cada enemigo derrotado. Los sacrificios otorgan los siguientes beneficios:
+El usuario aumenta un “5% [*1.05]” su PODER MÁGICO (PM) por cada 10 sacrificios realizados. Este efecto es acumulable hasta un máximo de 5 veces.
+Por cada 20 sacrificios el usuario obtiene acceso a un nivel de REGENERACIÓN de vitalidad, hasta un máximo de TIER 2.
+Los hechizos pertenecientes a este tomo mágico no requieren del habla para poder ser utilizados salvo se posea una aclaración contraria.
+
+ACLARACIONES:
+  - Cada sacrificio debe figurar en la ficha del usuario y en el post de Heridas.
+================================================================================
+
+
+================================================================================
+RANGO I
+================================================================================
+================================================================================
+
+
+================================================================================
+DAGAS DE DAVEROTH
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: 4
+  TIER 3
+  Efecto visual: El usuario convoca las Dagas de Daveroth, un hechizo que forma energía mística en forma de dagas voladoras que persiguen al objetivo.
+  Efecto: Genera un daño místico de “PM x1.2”. Si esta habilidad es evadida sin salir del alcance máximo de esta, las dagas volverán a atacar al objetivo con un “50% [x0.50]” de daño reducido.
+
+ACLARACIONES:
+  - N/A
+================================================================================
+
+
+================================================================================
+LEVITACIÓN MÁGICA
+================================================================================
+  100 EXP
+  Mística — Suplementaria
+  Alcance: Propio
+  TIER no clasificado
+  Efecto visual: El usuario canaliza energía mística, permitiéndole alzarse varios metros del suelo para transportarse o salir del alcance de sus enemigos.
+  Efecto: Otorga posición de Levitación hasta la finalización del próximo turno propio del usuario. A partir de RANGO III esta habilidad otorga posición de Vuelo.
+
+ACLARACIONES:
+  - Una vez finalizada esta habilidad, debe pasar al menos un turno propio en el suelo para poder ser utilizada nuevamente.
+================================================================================
+
+
+================================================================================
+PROYECCIÓN ASTRAL
+================================================================================
+  100 EXP
+  Mística — Suplementaria
+  Alcance: FDC
+  TIER no clasificado
+  Efecto visual: Por su gran habilidad mística el usuario es capaz de proyectar su forma astral fuera de su cuerpo, como muchos otros místicos y mentales.
+  Efecto: El usuario utiliza esta habilidad para teletransportarse hacia el plano astral, donde dejará atrás su cuerpo para así visitar planos que normalmente afectarían o consumirían su cuerpo físico o que normalmente no serían accesibles por medio de entidades físicas.
+Esta habilidad permite al usuario mantenerse en dicho estado durante 30 minutos, colocando en su misión [PA], refiriéndose a Plano Astral. En este estado no es posible ser retado salvo por personajes que se encuentren en el mismo plano.
+
+ACLARACIONES:
+  - Un uso cada 6 horas.
+================================================================================
+
+
+================================================================================
+CAMBIO DE FORMA
+================================================================================
+  100 EXP
+  Mística — Suplementaria
+  Alcance: 5
+  TIER no clasificado
+  Efecto visual: El usuario es capaz de transformarse a sí mismo en cualquier persona humanoide e inclusive cambiar sus ropas en cuestión de instantes con este hechizo.
+  Efecto: Posee dos usos.
+[USO FUERA DE COMBATE]: Permite al usuario tomar la apariencia de un personaje anónimo o real, imposibilitando que se le pueda atacar desde fuera de combate en caso de que no se den razones como bien puede ser una actitud hostil o amenazante. Deberá indicar esto con el comando “[T]” en su misión. Sólo puede ser descubierto por telepatías o detecciones mágicas siempre y cuando no de indicios de que no es la persona en la que se ha transformado. Si el usuario no ha sido descubierto hasta el momento en que va a actuar el primer ataque desde fuera de combate que realizará tendrá como requisito poseer REF 3 para ser reaccionado y causará un “15% [x1.15]” más de daño por ser desprevenido. Un uso cada 24 horas.
+[USO ENEMIGO]: El usuario puede transformar a su oponente en uno de los suyos. Esto provocará que el primer ataque realizado por el oponente tras esto deba ir dirigido específicamente hacia el transformado producto de la confusión de no ser detectado (sólo puede ser detectado por telepatías o detecciones mágicas). La ofensiva por utilizar deberá ser de TIER 2 o superior o en su defecto, aquella que provoque más daño. Debe haber como mínimo 2 miembros en el bando afectado para que pueda utilizarse.
+
+ACLARACIONES:
+  - Resistible, anulable o anticipable.
+================================================================================
+
+
+================================================================================
+RANGO II
+================================================================================
+================================================================================
+
+
+================================================================================
+SERPIENTES DE VALTORR
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: 4
+  TIER 2
+  Efecto visual: El usuario canaliza su energía mística para así invocar las peligrosas Serpientes de Valtorr, unas serpientes conformadas por energía mística que envuelven y atacan a sus enemigos a la vez.
+  Efecto: Paraliza durante 3 acciones y provoca un indirecto por envenenamiento de “PM/2” mientras permanezca activa esta habilidad. Esta habilidad puede utilizarse hasta en tres objetivos dentro del alcance.
+
+ACLARACIONES:
+  - Únicamente resistible, anulable o anticipable.
+================================================================================
+
+
+================================================================================
+OCULTACIÓN DE ESENCIA
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: 4
+  TIER 4
+  Efecto visual: El usuario concentra su energía mística para generar un hechizo que oculta su presencia ante detecciones místicas.
+  Efecto: Anula la posibilidad de ser detectado por medios místicos durante los próximos 2 turnos propios. Es posible hacer uso de esta habilidad sobre todos los aliados dentro del alcance consumiendo 1 PA extra. No tiene efecto sobre personajes que superen en PM al usuario.
+
+ACLARACIONES:
+  - Esto no los vuelve invisibles ni indetectables por otros medios, como la simple visión. Al finalizar, debe pasar 1 turno propio visible para poder utilizarse nuevamente.
+================================================================================
+
+
+================================================================================
+POSESIÓN OSCURA
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: 5
+  TIER 2
+  Efecto visual: El usuario concentra una emoción deseada junto a su energía mística, para luego invocar un espíritu imbuido con dicho sentimiento, el cual poseerá a un enemigo.
+  Efecto: Es posible escoger uno de los dos siguientes efectos, los cuales afectarán al objetivo hasta finalizar el próximo turno propio del usuario:
+[MIEDO]: Reduce en un “25% [*0.75]” el valor de las acciones defensivas y ofensivas del objetivo. La voluntad del afectado se reduce en “-1 VOL”.
+[IRA]:  El usuario está en la obligación de atacar únicamente a su objetivo más cercano, consumiendo todos sus PA. Puede cambiar de objetivo a atacar luego de tres acciones ofensivas realizadas y sólo si posee la velocidad para alcanzar a otro.
+
+ACLARACIONES:
+  - Esta habilidad ignora inmunidades a emociones. Se considera posesión.
+- Resistible. Únicamente puede anticiparse o anularse por oponentes que posean habilidades específicamente contra espíritus.
+================================================================================
+
+
+================================================================================
+MORDAZA SINIESTRA
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: 4
+  PA variable
+  TIER 2
+  Efecto visual: El usuario convoca unas mordazas místicas invisibles sobre la parte que desee, imposibilitando así de una u otra forma al enemigo.
+  Efecto: Otorga los siguientes efectos separados al usuario. Se considera que NO comparten usos, por lo que solo es posible utilizar esta habilidad varias veces por ronda:
+[BOCA]: El enemigo afectado no podrá pronunciar palabra alguna en las próximas 3 acciones. Este uso consume 1 PA. Por cada PA adicional invertido puede aumentar la duración en 2 acciones.
+[MANOS]: El enemigo afectado se verá imposibilitado de realizar cualquier acción que requiera el uso de las manos por 1 turno propio. En caso de tener algo equipado en las manos, también se verá desequipado de dichos objetos y no podrá volver a equiparlos hasta acabado el efecto de la mordaza. Este uso consume 2 PA.
+[PIES]: El enemigo se ve inmovilizado durante 3 acciones. En caso de encontrarse en vuelo, baja y ve su habilidad de vuelo anulada. Este uso consume 1 PA.
+
+ACLARACIONES:
+  - N/A
+================================================================================
+
+
+================================================================================
+RANGO III
+================================================================================
+================================================================================
+
+
+================================================================================
+RAYOS DE BISHRUL
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: 4
+  TIER 2
+  Efecto visual: El usuario genera energía mística en sus manos y lanza los Rayos de Bishrul, un hechizo capaz de causar daño directamente al alma del afectado.
+  Efecto: Genera daño al alma de “PM*1.65” y un indirecto por quemadura del “10% [*0.10]” del daño recibido durante 4 acciones. Si se defiende esta habilidad con un arma lo desarma de forma automática.
+
+ACLARACIONES:
+  -
+================================================================================
+
+
+================================================================================
+CORRUPCIÓN INTERNA
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: 5
+  TIER 2
+  Efecto visual: El usuario canaliza su energía mística para invocar antiguos y oscuros poderes, con los cuales genera corrupción dentro del cuerpo del enemigo. El afectado comenzará a vomitar y expulsar por sus ojos y oídos una extraña materia gris burbujeante.
+  Efecto: Genera un indirecto místico no catalogado de “PM/2” durante 5 acciones. Esta habilidad solo puede reaccionarse con REF 3 o superior. Mientras esta habilidad permanezca activa, el afectado se considerará Desorientado.
+
+ACLARACIONES:
+  - Únicamente resistible, anulable o anticipable.
+- La duración de este indirecto no puede ser reducida por ningún medio.
+- El indirecto se considera realizado por corrosión.
+================================================================================
+
+
+================================================================================
+VAPORES OSCUROS DE VALTORR
+================================================================================
+  100 EXP
+  Mística — Defensiva
+  Alcance: 5, Área 2 sobre el objetivo
+  TIER 2
+  Efecto visual: El usuario invoca los Vapores de Valtorr, encerrando a su enemigo en ellos.
+  Efecto: Genera un área que ciega y atrapa al oponente que se mantiene hasta finalizar el próximo turno propio del usuario. En el área no es posible interactuar con nadie fuera ni dentro de esta y no es posible salir del área. Es posible dañar a quienes están dentro con habilidades de área 2 o superior, haciendo de objetivo a los vapores.
+Habilidades de naturaleza mental pueden seguir afectando a quienes se encuentran dentro de manera directa de encontrarse previamente concentrados en alguna de las mentes afectadas. Es posible salir de esta habilidad mediante habilidades de teletransportación, siempre y cuando sean de naturaleza mística o el afectado supere en VOL al usuario.
+
+ACLARACIONES:
+  -
+================================================================================
+
+
+================================================================================
+BESTIA ECTOPLASMÁTICA
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: 5, Área 1 sobre el objetivo
+  TIER 2
+  Efecto visual: El usuario invoca una gran cantidad de espíritus, los cuales toman la forma de una bestia que escupe un rayo ectoplasmático hacia el enemigo.
+  Efecto: Genera un daño místico de “PM*1.7” e ignora un “20% [*0.80]” de defensas internas. En caso de utilizar una defensa interna que no cubra todo el daño, inhabilita un brazo durante las próximas 3 acciones.
+
+ACLARACIONES:
+  - En caso de que el afectado reaccione con una anticipación o anulación que posea efectos adicionales a anular, afectan a la bestia ectoplasmática y no al usuario.
+================================================================================
+

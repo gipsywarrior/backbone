@@ -1,0 +1,213 @@
+
+================================================================================
+ARMAS CONTUNDENTES
+PERFIL BÁSICO
+================================================================================
+================================================================================
+
+
+================================================================================
+HABILIDADES PASIVAS
+================================================================================
+================================================================================
+
+
+================================================================================
+ARMA CONTUNDENTE
+================================================================================
+  Parafernalia - Arma Contundente
+  Efecto visual: El usuario posee un arma contundente de gran dureza.
+  Efecto: Parafernalia que posee el escalado de ARMA MEDIA CONVENCIONAL, siendo capaz de utilizarse con las habilidades de este documento.
+
+Posee dureza no clasificada, además de ocupar únicamente una mano. Puede interpretarse estéticamente como cualquier arma que carezca de filo, siempre que respete el concepto de ser portada a una mano (por ejemplo, una llave inglesa, un bate, un tablón de madera, una martillo, etc)
+
+ACLARACIONES:
+  Ocupa una mano.
+================================================================================
+
+
+================================================================================
+RANGO I
+================================================================================
+================================================================================
+
+
+================================================================================
+BLOQUEO PESADO
+================================================================================
+  Física - Defensiva
+  Alcance Propio
+  TIER 3
+  Efecto visual: El usuario interpone su arma para defenderse de un ataque.
+  Efecto: Interpone una defensa equivalente a “ARMA*1.3*” ante habilidades de proyección física.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+ROMPECARAS
+================================================================================
+  Física - Ofensiva
+  Alcance 1
+  TIER 3
+  Efecto visual: El usuario da un duro golpe con su arma al rostro del oponente.
+  Efecto: Causa un daño de “ARMA*1.3”. Adicionalmente, provoca un indirecto bajo concepto de dolor del “10% [*0.1]” del daño causado durante 4 acciones.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+DIRECTO A LA CABEZA
+================================================================================
+  Física - Ofensiva
+  Alcance 1
+  TIER 3
+  Efecto visual:  El usuario golpea con su arma justo en la cabeza al oponente, provocándole una corta inconsciencia.
+  Efecto: Causa un daño de “ARMA*1.25” y aturde durante una acción.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+GOLPE A LAS PIERNAS
+================================================================================
+  Física - Ofensiva
+  Alcance 1x3
+  TIER 3
+  Efecto visual:  El usuario da un golpe en forma de arco a las piernas de sus oponentes, probando que se caigan al suelo.
+  Efecto: Causa un daño de “ARMA*1.35” a los oponentes en el alcance. En caso de dañar, los derriba.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+RANGO II
+================================================================================
+================================================================================
+
+
+================================================================================
+GOLPE CIRCULAR
+================================================================================
+  Física - Ofensiva
+  Área 2 sobre el usuario
+  TIER 2
+  Efecto visual: El usuario extiende su arma para dar un giro sobre su propio eje, golpeando a todos los oponentes que se encuentren al alcance.
+  Efecto: Causa un daño de “ARMA*2” en el área y empuja 3 casillas.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+GOLPE A LAS MANOS
+================================================================================
+  Física - Ofensiva
+  Alcance 1
+  TIER 2
+  Efecto visual: El usuario da un golpe a las manos de su oponente, provocándole un gran dolor y obligándolo a soltar lo que sea que sostenga.
+  Efecto: Causa un daño de “ARMA*2.25” al oponente. En caso de dañar, desarma al oponente.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+ROMPEVOLUNTADES
+================================================================================
+  Física - Ofensiva
+  Alcance 1
+  TIER 2
+  Efecto visual: El usuario inicia una ráfaga de golpes contra el oponente.
+  Efecto: Causa un daño de “ARMA*2.5”. Produce un indirecto de dolor equivalente a “10% [*0.10]” del daño causado durante 5 acciones.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+GOLPE A LAS COSTILLAS
+================================================================================
+  Física - Ofensiva
+  Alcance 1
+  TIER 2
+  Efecto visual: El usuario golpea las costillas de su oponente, provocándole asfixia inmediata.
+  Efecto: Causa un daño de “ARMA*2” al oponente. Adicionalmente provoca un indirecto por asfixia del “5% [*0.05]” de la VIT MÁXIMA del oponente durante 3 acciones.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+RANGO III
+================================================================================
+================================================================================
+
+
+================================================================================
+ROMPEDEFENSAS
+================================================================================
+  Física - Ofensiva
+  Alcance 1
+  TIER 2
+  Efecto visual: El usuario golpea con fuerza al oponente, quebrando sus defensas en el camino.
+  Efecto: Causa un daño de “ARMA*2.25”. Un 50% del daño atraviesa defensas internas que no defiendan por completo el daño.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+GOLPE DEMOLEDOR
+================================================================================
+  Física - Ofensiva
+  Alcance 1
+  TIER 2
+  Efecto visual: El usuario impulsa su brazo con una fuerza descomunal y direcciona el arma a la cabeza del oponente y provocando una grave contusión.
+  Efecto: Causa un daño de “ARMA*2” y aturde 3 acciones. El aturdimiento se genera aún si no se defiende el daño por completo.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+GOLPE DESORIENTADOR
+================================================================================
+  Física - Ofensiva
+  Alcance 1
+  TIER 2
+  Efecto visual: El usuario golpea la sien del oponente con su arma, buscando desorientarlo.
+  Efecto: Causa un daño de “ARMA*2” y provoca el estado desorientado durante 5 acciones.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+RECHAZO CONTUNDENTE
+================================================================================
+  Física - Defensiva (Anulación)
+  Alcance 2
+  TIER 2
+  Efecto visual: El usuario prevé el ataque de su oponente y utiliza su arma para rechazarlo.
+  Efecto: Anula una habilidad con proyección física basada en proyectiles o rayos lineales.
+
+ACLARACIONES:
+  Un uso cada dos turnos propios.
+================================================================================
+

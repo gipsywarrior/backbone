@@ -1,0 +1,268 @@
+
+================================================================================
+LÍDER
+PERFIL BÁSICO
+================================================================================
+================================================================================
+
+
+================================================================================
+HABILIDADES PASIVAS
+================================================================================
+================================================================================
+
+
+================================================================================
+PERFIL LIMITADO
+================================================================================
+  Pasiva
+  Efecto visual: No cualquiera puede ser un gran líder.
+  Efecto: Solo se puede acceder al perfil líder si lo otorga el documento de poder o mediante recompensa de premios. El perfil líder no puede ser comprado.
+
+ACLARACIONES:
+  -
+================================================================================
+
+
+================================================================================
+[PERFIL LÍDER] - ÓRDENES
+================================================================================
+  Física - Habilidad Pasiva
+  Efecto visual: El usuario transmite su motivación en forma de órdenes a sus aliados.
+  Efecto: Las órdenes son un tipo único de habilidad que sólo aplican a aliados. Para poder ser afectado por una orden se requiere que se pueda escuchar. Todas las órdenes son de carácter suplementario salvo que estas posean una aclaración contraria. 
+Únicamente contabilizan acciones que cumplan las condiciones de cara a calcular cuántas quedan restantes a verse afectadas al recibir una orden, por ejemplo: si recibo un aumento de daño en mis próximas 3 acciones y realizo 4 acciones defensivas, aún contaré con esas 3 acciones hasta que bonifique habilidades que produzcan daño.
+
+ACLARACIONES:
+  - Se requiere poder utilizar el habla para las órdenes.
+- Personajes que poseen telepatía pueden transmitir las órdenes por esta vía.
+================================================================================
+
+
+================================================================================
+RANGO I
+================================================================================
+================================================================================
+
+
+================================================================================
+[PERFIL LÍDER] ORDEN: ¡CON TODO!
+================================================================================
+  Orden - Suplementaria
+  Alcance 6
+  No clasificada
+  Efecto visual: El usuario da un potente grito de motivación a un aliado, señalándole que ataque con todo su potencial.
+  Efecto: Aumenta el daño directo en un “25% [x1.25]” de la próxima habilidad del afectado.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[PERFIL LÍDER] ORDEN: ¡RÁPIDO!
+================================================================================
+  Orden - Suplementaria
+  Alcance 6
+  No clasificada
+  Efecto visual: El usuario ordena a su aliado que se desplace mucho más rápido.
+  Efecto: Brinda al aliado +2 [I/II] / +3 [III/IV] / +4 [V] casillas de desplazamiento durante su turno vigente.
+
+ACLARACIONES:
+  Se utiliza en el turno del aliado.
+================================================================================
+
+
+================================================================================
+[PERFIL LÍDER] ORDEN: ¡AGUANTA!
+================================================================================
+  Orden - Suplementaria
+  Alcance 6
+  No clasificada
+  Efecto visual: El usuario motiva a su aliado para que sea capaz de aguantar más daño del que debería normalmente.
+  Efecto: Brinda una reducción del “15% [x0.85]” ante daños después de aplicar defensas a un aliado durante las próximas 4 acciones en las que reciba daño. 
+Esta reducción no se suma a otras, prevalece siempre la mayor.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+RANGO II
+================================================================================
+================================================================================
+
+
+================================================================================
+[PERFIL LÍDER] ORDEN: ¡RESISTE!
+================================================================================
+  Orden - Suplementaria
+  Alcance 6
+  No clasificada
+  Efecto visual: El usuario motiva a su aliado, potenciando sus defensas realizadas.
+  Efecto: Aumenta el valor final en un “25% [x1.25]” de la próxima habilidad defensiva del afectado.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[PERFIL LÍDER] ORDEN: ¡DESPIERTA / LIBÉRATE!
+================================================================================
+  Orden - Suplementaria
+  Alcance 6
+  No clasificada
+  Efecto visual: El usuario grita con fuerza a un aliado para que sea capaz de recuperarse rápidamente de un control de masa.
+  Efecto:  Anula el efecto de control de masas o inmovilización sobre un aliado. Una vez utilizada no podrá volver a usarse tras 2 turnos propios.
+
+ACLARACIONES:
+  - No aplica ante el estado de Inconsciencia.
+- Se utiliza en respuesta a recibir el control de masas
+================================================================================
+
+
+================================================================================
+[PERFIL LÍDER] ORDEN: ¡RECUPÉRATE!
+================================================================================
+  Orden - Suplementaria
+  Alcance 6
+  No clasificada
+  Efecto visual: El usuario da un descanso a su aliado, provocando que pueda volver con todo al combate tras unos segundos.
+  Efecto:  Un aliado que ya tuvo turno durante la ronda recupera 2 PA, desapareciendo tras finalizar la misma. Una vez utilizada no podrá volver a usarse tras 2 turnos propios.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[PERFIL LÍDER] ORDEN: ¡CONTENLO!
+================================================================================
+  Orden - Suplementaria
+  Alcance 6
+  No clasificada
+  Efecto visual: El usuario obliga a un aliado a contener a un oponente de extremo peligro.
+  Efecto:  Aumenta en “RANGO” acciones el próximo control de masa aplicado por el aliado a un oponente. El control de masa tiene un límite de 5 acciones.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+RANGO III
+================================================================================
+================================================================================
+
+
+================================================================================
+[PERFIL LÍDER] ORDEN: ¡TODOS DETRÁS!
+================================================================================
+  Orden - Suplementaria
+  Alcance 6
+  No clasificada
+  Efecto visual: El usuario grita con fuerza y obliga a todos sus aliados a posicionarse rápidamente detrás del usuario, defendiéndolos él o un aliado a todos.
+  Efecto: Utilizada en conjunto, provoca que una defensa externa que comúnmente sólo defiende a una persona pase a defender a tres dentro de como máximo área 1 alrededor del ejecutor.
+
+ACLARACIONES:
+  – Aplicable sobre sí mismo o a un aliado (el aumento de defensa).
+================================================================================
+
+
+================================================================================
+[PERFIL LÍDER] ORDEN: ¡DE NUEVO!
+================================================================================
+  Orden - Suplementaria
+  Alcance 6
+  No clasificada
+  Efecto visual: El usuario halla la forma de derrotar al oponente, indicándole a su aliado la habilidad que debe repetir.
+  Efecto: Utilizada en turno aliado, permite que este realice por segunda vez una habilidad ofensiva. No puede usarse en habilidad que deban ser reaccionadas más de una vez.
+
+ACLARACIONES:
+  - Cualquier requisito previo que necesite la habilidad debe ser cumplido nuevamente.
+================================================================================
+
+
+================================================================================
+[PERFIL LÍDER] ORDEN: ¡REACCIONA RÁPIDO!
+================================================================================
+  Orden - Suplementaria
+  Alcance 6
+  No clasificada
+  Efecto visual: El usuario potencia la reacción de su aliado.
+  Efecto: El aliado obtiene +1 REF de cara a una reacción. Máximo 4 REF
+
+ACLARACIONES:
+  - Se utiliza en respuesta a una acción ofensiva que será reaccionada.
+================================================================================
+
+
+================================================================================
+[PERFIL LÍDER] ORDEN: ¡NO CAIGAS EN ESA TRAMPA!
+================================================================================
+  Orden - Suplementaria
+  Alcance 6
+  No clasificada
+  Efecto visual: El usuario reconoce el peligro de los controles de su oponente, reforzando la voluntad de su aliado.
+  Efecto: El aliado obtiene +1 VOL durante los próximos 2 turnos propios.
+
+ACLARACIONES:
+  - Esta bonificación únicamente se considera ante reacciones. No aplica para habilidades ofensivas que el usuario afectado pueda realizar.
+================================================================================
+
+
+================================================================================
+RANGO IV
+================================================================================
+================================================================================
+
+
+================================================================================
+[PERFIL LÍDER] ORDEN: ¡DESPIERTA, SOMOS TUS ALIADOS / ES TU ENEMIGO!
+================================================================================
+  Orden - Suplementaria
+  Alcance 6
+  No clasificada
+  Efecto visual: El usuario reconoce que su aliado ha caído en un control mental, por lo que intenta despertarlo de él.
+  Efecto: Anula el efecto de un control mental impuesto sobre un aliado.
+
+ACLARACIONES:
+  - Afecta a atracciones, persuasiones, controles mentales, etcétera.
+- Se quiere igualar o superar en VOL a quien realiza el control mental..
+================================================================================
+
+
+================================================================================
+[PERFIL LÍDER] ORDEN: ¡HORA DE DIVIDIRNOS!
+================================================================================
+  Orden - Suplementaria
+  Alcance 6
+  No clasificada
+  Efecto visual: El usuario obliga a sus aliados a enfrentarse en uno a uno contra sus oponentes.
+  Efecto: El usuario divide un combate grupal en combates individuales. Por ende, se requiere que el combate esté en igualdad numérica.
+
+ACLARACIONES:
+  - El usuario decide quiénes formarán parte de cada combate.
+- Los combates creados no permiten uniones por parte de sus aliados, a excepción de si el oponente une a uno a su favor.
+- Se requiere que el usuario iguale o supere en VOL a todo el bando enemigo de forma individual.
+- Un uso cada 72 HORAS.
+================================================================================
+
+
+================================================================================
+[PERFIL LÍDER] ÚLTIMO EN PIE
+================================================================================
+  Mental - Habilidad Pasiva
+  Efecto visual: El usuario ha observado a todos sus aliados caer. Su rabia es incontenible y un poder que no se poseía despierta en el interior con tal de derrotar a sus oponentes.
+  Efecto: Para que esta pasiva se active el usuario debe encontrarse en un combate con huecos llenos y habiendo visto caer a todo su bando, por lo que él debe ser el último en pie. De darse estas condiciones, el usuario obtiene los siguientes beneficios:
+El usuario causa un “25% [x1.25]” más de daño a todo el bando oponente.
+El usuario reduce en un “10% [x0.90]” cualquier daño recibido.
+El usuario reduce en -1 acción cualquier control de masa recibido.
+El usuario defiende un “15% [x1.15]” más con todas sus defensas.
+El usuario obtiene +1 VOL.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+

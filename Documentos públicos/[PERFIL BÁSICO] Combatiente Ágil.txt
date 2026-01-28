@@ -1,0 +1,179 @@
+
+================================================================================
+COMBATIENTE ÁGIL
+PERFIL BÁSICO
+================================================================================
+================================================================================
+
+
+================================================================================
+RANGO I
+================================================================================
+================================================================================
+
+
+================================================================================
+PATADA RÁPIDA
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 3
+  Efecto visual: El usuario ejecuta una patada rápida sobre un objetivo, buscando tomarlo desprevenido.
+  Efecto: Causa un daño físico equivalente a “FUE*1.25”. En caso de superar en VEL al objetivo ingresará un 50% del daño en caso de que reaccione con “Evadir”, más no efectos secundarios.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+RODILLAZO ELEVADO
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 3
+  Efecto visual: El usuario ejecuta un rápido rodillazo al oponente con el objetivo de abrir sus defensas para luego continuar con su ofensiva.
+  Efecto: Causa un daño físico equivalente a “FUE*1.3”. En caso de generar daño, la próxima habilidad cuerpo a cuerpo realizada sobre el oponente pasa a requerir REF 3 para evadir.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+REFLEJO INSTANTÁNEO
+================================================================================
+  Física — Defensiva
+  Alcance: 1
+  TIER 3
+  Efecto visual: El usuario desplaza sólo una pequeña parte de su cuerpo o realiza un amplio salto con giro incluido para evitar un ataque enemigo.
+  Efecto: Permite evadir una habilidad con proyección física que carezca de área.
+
+ACLARACIONES:
+  No requiere desplazarse de la casilla.
+================================================================================
+
+
+================================================================================
+GOLPE SECO
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 3
+  Efecto visual: El usuario da un golpe seco a la sien del oponente, provocando un daño que le desorienta.
+  Efecto: Causa daño físico equivalente a “FUE*1.35” y en caso de generar daño, el oponente recibe el estado desorientado durante 3 acciones.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+RANGO II
+================================================================================
+================================================================================
+
+
+================================================================================
+PATADA GIRATORIA
+================================================================================
+  Física — Ofensiva
+  Alcance: Área 2 sobre el usuario
+  TIER 2
+  Efecto visual: El usuario se agacha de manera casi instantánea y alarga sus piernas para girar con velocidad sobre su eje, derribando a todos sus oponentes.
+  Efecto: Causa daño físico equivalente a “FUE*2” y derriba.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+GOLPE PRECISO
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 2
+  Efecto visual: El usuario da un golpe preciso a un oponente, ignorando la mayoría de las defensas o bloqueos realizados.
+  Efecto: Causa daño físico equivalente a “FUE*2” e ignora en un “25% [*0.75]” las defensas internas.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+GOLPE DESARMADOR
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 2
+  Efecto visual: El usuario da un golpe rápido a las muñecas de su oponente, obligándolo a desequipar lo que portaba.
+  Efecto: Causa daño físico equivalente a “FUE*2.5” y en caso de recibir daño, desarma.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+RANGO III
+================================================================================
+================================================================================
+
+
+================================================================================
+DESVIACIÓN
+================================================================================
+  Física — Defensiva
+  Alcance: 1
+  TIER 2
+  Efecto visual: El usuario se anticipa a su oponente, desviando el golpe que realiza para que golpee al aire y quede desposicionado.
+  Efecto: Anula una habilidad física cuerpo a cuerpo realizada sobre el usuario.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+APERTURA
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 2
+  Efecto visual: El usuario da un duro puñetazo a su rival, aprovechando su impacto para realizar otro de forma instantánea.
+  Efecto: Causa daño físico equivalente a “FUE*2.5”. Si se genera contacto con el rival, haciendo daño o al ser defendido por una defensa interna, permite realizar un daño de “FUE” que el afectado no puede reaccionar.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+GOLPE A LOS OJOS
+================================================================================
+  Física — Ofensiva
+  Alcance: 1
+  TIER 2
+  Efecto visual: El usuario realiza un rápido golpe a los ojos del adversario, dejándolo temporalmente ciego.
+  Efecto: Causa daño físico equivalente a “FUE*2.25” y en caso de recibir daño, produce ceguera durante 3 acciones.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+PATADA MÚLTIPLE
+================================================================================
+  Física — Ofensiva
+  Alcance: 3x3
+  TIER 2
+  Efecto visual: El usuario se impulsa hacia delante y dando un rápido giro en el aire patea a todos los oponentes que se encuentren a su alcance.
+  Efecto: Causa daño físico equivalente a “FUE*2.5”. Empuja 5 casillas y en caso de colisión aturde durante 3 acciones. El empuje se da aún si no genera daño.
+
+ACLARACIONES:
+  N/A
+================================================================================
+

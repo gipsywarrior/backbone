@@ -1,0 +1,262 @@
+
+================================================================================
+MAGIA VISHANTI
+TOMO MÁGICO
+================================================================================
+================================================================================
+
+
+================================================================================
+HABILIDADES PASIVAS
+================================================================================
+================================================================================
+
+
+================================================================================
+[LIBRO VISHANTI] - CONOCIMIENTO ANCESTRAL
+================================================================================
+  Mística - Habilidad Pasiva
+  Efecto visual: El Libro de los Vishanti es la principal fuente de conocimiento de magia blanca en la Tierra. A lo largo de los tiempos, y tras su paso por cientos de hábiles hechiceros, el libro ha sumado conocimientos en la misma medida que estos se han difundido en la tradición de boca en boca. Es así como, con el pasar de las décadas, los conjuros y nociones alguna vez resguardadas tras el lomo del libro se han visto perdidas en los rincones más ocultos de la realidad.
+  Efecto: El usuario accede a los siguientes beneficios:
+[MAGIA BLANCA]: El hechicero adepto a las enseñanzas Vishanti procura hacer el bien por encima de todas las cosas, en tanto los hechizos del tomo se cimientan en los principios de la magia blanca. El usuario no puede utilizar los comandos de este documento para atacar de improvisto a otros jugadores. Adicionalmente, se considera que el usuario debe corresponder al eje de alineamiento “benigno” a fin de acceder a este tomo místico. El usuario obtiene acceso al TIER 4 – MISTICISMOS DE PODER BAJO de PODER MÁGICO (PM) salvo que se posea uno superior por documento ajeno.
+[HECHICERO ALTRUISTA]: Siempre que el usuario irrumpa o ingrese por llamada de ayuda a favor de un aliado, obtiene una bonificación de daños y defensas de índole místico del “10% [*1.1]”.
+[CONJUROS]: Los hechizos más poderosos del Tomo de los Vishanti, aquellos que ven su uso más frecuente, requieren una conjuración verbal. Se entiende que el usuario vocifera un encantamiento para cada hechizo de este tomo, por lo que el impedimento del habla bajo cualquier método volverá las habilidades de este documento inefectivas.
+
+ACLARACIONES:
+  - De cara a la interpretación, se considera que el usuario ha accedido a páginas o enseñanzas particulares del Libro de los Vishanti, pero bajo ningún concepto debe entenderse que posee acceso a la parafernalia como tal.
+- El usuario puede escoger entre fabricar un conjuro verbal para cada habilidad o bien obviar su mención literal, sin dejar de interpretar este aspecto.
+================================================================================
+
+
+================================================================================
+FAVOR VISHANTI
+================================================================================
+  Mística - Habilidad Pasiva
+  Efecto visual: El usuario tiene una tendencia, si no el mal hábito, de recurrir a las fuerzas de los divinos Vishanti para salir de aprietos.
+  Efecto: El usuario puede utilizar este comando una vez cada 3 turnos propios para potenciar el valor de daño o defensa de una habilidad de índole mística en un “50% [*1.5]”
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+RANGO I
+================================================================================
+================================================================================
+
+
+================================================================================
+PROYECCIÓN ASTRAL
+================================================================================
+  100 EXP
+  Mental/Mística - Pasiva (FDC)
+  Efecto visual: Por su gran habilidad mística, el usuario es capaz de proyectar su forma astral fuera de su cuerpo, así como muchos otros místicos y telépatas.
+  Efecto: El usuario utiliza esta habilidad para trascender al plano astral, dejando atrás su cuerpo y permitiéndose visitar locaciones inaccesibles por medios convencionales.
+Esta habilidad le permite al usuario mantenerse en dicho estado durante 30 minutos, colocando en su misión “[PA]” en alusión al Plano Astral. En este estado no es posible ser retado salvo por personajes que se encuentren en la misma dimensión.
+
+ACLARACIONES:
+  Un uso cada 6 horas.
+================================================================================
+
+
+================================================================================
+SUSPENSIÓN MÍSTICA
+================================================================================
+  100 EXP
+  Mística - Suplementaria
+  Alcance: Propio
+  No clasificada
+  Efecto visual: Tras utilizar un pequeño encantamiento de levitación, el usuario logra suspenderse por los aires.
+  Efecto: El usuario accede a los siguientes beneficios:
+[LEVITACIÓN]: El usuario pasa a posición levitante durante 2 turnos propios. Mientras la habilidad esté activa, ve su atributo de velocidad aumentado en +1.
+[VUELO]: A partir de Rango 2, el usuario pasa a posición voladora durante 3 turnos propios. Mientras la habilidad esté activa, ve su atributo de velocidad aumentado en +3.
+
+ACLARACIONES:
+  Los comandos comparten un TR/CD de 3 turnos propios tras la finalización.
+================================================================================
+
+
+================================================================================
+ILUSIÓN EVASIVA
+================================================================================
+  100 EXP
+  Mística - Defensiva (Evasión)
+  Alcance: Propio
+  Tier 3
+  Efecto visual: El usuario conjura una elaborada ilusión en la que fabricará una copia de sí mismo, causando que el oponente la objetive. Mientras tanto, se apartará de la trayectoria del ataque.
+  Efecto: Evade en respuesta a una habilidad ofensiva de proyección física que no supere “RANGO” área. Adicionalmente, permite que el usuario se mueva tantas casillas como “RANGO” tras evadir sin consumir su velocidad.
+
+ACLARACIONES:
+  Se considera una ilusión. Puede ser burlada por métodos místicos y mentales.
+================================================================================
+
+
+================================================================================
+FULGOR DIVINO
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  Alcance: Cónico 3
+  Tier 3
+  Efecto visual:  El usuario reúne sus manos para conjurar un devastador torrente de luz dorada, capaz de enceguecer a quien sea que cruce su trayectoria.
+  Efecto: Causa un daño místico de “PM*1.35” y produce ceguera durante 2 acciones. En caso de afectar a un jugador de alineación maligna, el daño aumenta en un “25% [*0.25]”.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+RANGO II
+================================================================================
+================================================================================
+
+
+================================================================================
+ESPINAS DE LOS SERAFINES
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  Alcance: 5
+  Tier 3
+  Efecto visual: El usuario invoca una ola de afiladas espinas energéticas propinadas por una esencia ponzoñosa.
+  Efecto: Inflige un daño místico de “PM*1.5” y un indirecto no clasificado del “10% [*0.1]” del daño provocado durante 3 acciones. Se considera que ignora un “20% [*0.8]” de las defensas externas utilizadas en respuesta.
+
+ACLARACIONES:
+  El indirecto no puede ser reducido bajo ningún concepto.
+================================================================================
+
+
+================================================================================
+ATADURAS DE MOKARR
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  Alcance: 4
+  Tier 2
+  Efecto visual: El usuario hace un llamamiento a los antiguos poderes de Mokarr para conjurar unas ataduras de luz magenta.
+  Efecto: Genera una parálisis de 3 acciones sobre el objetivo. Adicionalmente, aturde 1 acción a todo oponente adyacente al jugador afectado.
+
+ACLARACIONES:
+  Se considera únicamente anulable, anticipable, evadible o reaccionable mediante defensas externas.
+================================================================================
+
+
+================================================================================
+¡POR LOS VISHANTI…!
+================================================================================
+  100 EXP
+  Mística - Defensiva (Anulación)
+  Alcance: Propio
+  Tier 3
+  Efecto visual: Ante una situación sin aparente escapatoria, el usuario clama el nombre de los Vishanti a los cuatro vientos en una plegaria cargada de intención.
+  Efecto: Anula una habilidad ofensiva con proyección física.
+
+ACLARACIONES:
+  Un uso cada dos turnos propios.
+================================================================================
+
+
+================================================================================
+GRACIA DE OSHTUR
+================================================================================
+  100 EXP
+  Mística - Defensiva
+  Alcance: 5
+  Tier 3
+  Efecto visual: El usuario conjura la gracia de Oshtur a fin de deshacer cualquier influencia enemiga sobre su bando.
+  Efecto: El usuario deshace todos los efectos negativos activos sobre un aliado o bien sobre él mismo, aumentando el coste en +1 PA. No deshace estados permanentes como podrían ser amputaciones, fracturas o cualquier otra semejante.
+
+ACLARACIONES:
+  - De efectuarse sobre uno mismo, no puede utilizarse bajo controles de masa que especifiquen una restricción del movimiento o el habla.
+- No puede utilizarse en respuesta.
+================================================================================
+
+
+================================================================================
+RANGO III
+================================================================================
+================================================================================
+
+
+================================================================================
+PUERTAS DE NEVERISH
+================================================================================
+  100 EXP
+  Mística - Suplementaria
+  Alcance: 8
+  Variable
+  No clasificada
+  Efecto visual: El vasto conocimiento místico del usuario le otorga un control superior sobre los pórticos manifestados a través del Cortex del Neverish, volviéndose este su medio de preferencia a la hora de transportarse entre locaciones y planos.
+  Efecto: El usuario accede a las siguientes habilidades: 
+[VIAJE POR EL CÓRTEX DEL NEVERISH]: El usuario ve mejorada la habilidad homónima del Perfil Místico, de modo que pasa a dejar de requerir un teleport para su uso. Un uso cada 7 días.
+[PUERTA TRASERA]: Permite al usuario traer al combate a un usuario con el que comparta agrupación o facción, ignorando requisitos de unión convencionales e incorporándose en la ronda siguiente. 3 PA 
+[PUERTA VECINA]: El usuario utiliza esta habilidad para transportar a un aliado de una casilla a otra, teniendo de referencia el alcance estipulado en función al hechicero. 2 PA.
+
+ACLARACIONES:
+  El uso de los comandos de esta habilidad que posean tiempo de reutilización deben ver su uso registrado en el tópico de Heridas, Muertes y Sucesos.
+================================================================================
+
+
+================================================================================
+DESTIERRO
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  Alcance: 3
+  Tier 2
+  Efecto visual: El usuario, ya versado en la magia blanca, concentra su energía mística en un poderoso conjuro capaz de desterrar a seres y criaturas del plano espiritual.
+  Efecto: Expulsa del combate a cualquier entidad englobada por la noción de “espíritu” o que bien no posea una forma material (es decir, que interactúe en el mundo físico desde otro plano de la existencia). El jugador afectado recibirá el estado Desterrado durante 24 horas.
+[DESTERRADO]: El usuario es desterrado a su plano de origen o en su defecto al reino astral, por lo que se considera que no podrá acceder al mapeado ni interactuar con otros usuarios bajo ningún concepto hasta que el estado se dé por concluido.
+
+ACLARACIONES:
+  Únicamente anulable. Puede ser utilizada sobre acompañantes siempre que se cumpla con la premisa.
+================================================================================
+
+
+================================================================================
+VAPORES DE VALTORR
+================================================================================
+  100 EXP
+  Mística - Suplementaria
+  Alcance: Área 5
+  Tier 2
+  Efecto visual: El usuario concentra todo su poder en conjurar una manifestación menor de los Vapores de Valtorr, lo suficientemente poderosa como para cubrir el perímetro de una espesa bruma tan negra como la noche.
+  Efecto: Genera una zona de ocultación en área alrededor de la casilla en la que se ha utilizado la habilidad. Dentro de esta zona, el usuario y sus aliados pasan a considerarse ocultos por métodos místicos. Permanece durante 2 turnos generales.
+
+ACLARACIONES:
+  - La anulación de esta habilidad requiere superar en PM al usuario.
+- Tras finalizar, deben pasar 2 turnos propios para poder volver a ser utilizada.
+================================================================================
+
+
+================================================================================
+MANTO DE HOGGOTH
+================================================================================
+  100 EXP
+  Mística - Defensiva (Defensa externa)
+  Alcance: Propio
+  Tier 2
+  Efecto visual: El usuario recita un encantamiento en forma de plegaria a Hoggoth, conjurando de esta forma un resistente manto de energía divina que lo resguardará.
+  Efecto: Defiende una habilidad de proyección física según “PM*2”.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+ZARCILLOS HELADOS DE IKTHALON
+================================================================================
+  100 EXP
+  Mística/Gélida - Ofensiva
+  Alcance: 5
+  Tier 3
+  Efecto visual: El usuario es capaz de acceder a las fuerzas místicas de Ikthalon a través de un complejo conjuro, adquiriendo la capacidad de invocar vientos huracanados de temperaturas tan heladas como letales.
+  Efecto: Causa un daño gélido de “PM*1.5” y provoca una parálisis de 2 acciones. El usuario puede no elegir causar daño, provocando únicamente la parálisis y pasando a requerir de 3 REF para poder evadir la misma.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+

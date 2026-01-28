@@ -1,0 +1,269 @@
+
+================================================================================
+MAGIA NÓRDICA
+TOMO MÁGICO
+================================================================================
+================================================================================
+
+
+================================================================================
+HABILIDADES PASIVAS
+================================================================================
+================================================================================
+
+
+================================================================================
+[HECHICERÍA NÓRDICA] — APRENDIZAJE MILENARIO
+================================================================================
+  Mística/Física — Pasiva
+  Efecto visual: El usuario se apega a las raíces nórdicas de la magia, aprendiendo de forma innata su conexión con la magia de los 9 reinos. Su gran capacidad de aprendizaje lo vuelve un hechicero potencialmente mortal y audaz. Además, su apego con la magia nórdica lo vuelve versátil en la naturaleza y sus cercanías.
+  Efecto: El usuario accede a los siguientes beneficios:
+[CONOCIMIENTOS VANIR]: El usuario desarrolla una capacidad innata de magia al memorizar y aprender los orígenes de esta, alzándose por encima de sus propios compañeros. Obtiene acceso al TIER 4 — MISTICISMOS DE PODER BAJO de PODER MÁGICO (PM) salvo que se posea uno superior por documento ajeno.
+[MAGIA DEL YGGDRASIL]: Siempre que el usuario pelee en un reino del Yggdrasil distinto a MIDGARD, ve el coste de uno de cada tres hechizos pertenecientes a este tomo (el tercero) reducido en “-1 PA”, sin poder reducir este a 0.
+[FAMILIARIDAD A LOS REINOS]: En caso de que el usuario pelee en una ubicación de los Nueve Reinos siempre y cuando esta no pertenezca a MIDGARD, obtiene una bonificación de daños y defensas del “10% [*1.1]”.
+
+ACLARACIONES:
+  Ninguno de los hechizos de este documento son capaces de ejecutarse si el usuario no utiliza la habilidad Canalización de Auras previamente.
+================================================================================
+
+
+================================================================================
+[HECHICERÍA NÓRDICA] — ALLSPEAK
+================================================================================
+  Mística/Mental — Pasiva
+  Efecto visual: Como se lo permite su comprensión y su capacidad de comprender los tomos mágicos incluso en los idiomas más exóticos, el usuario adquiere la potestad de hablar todas las lenguas existentes de su realidad.
+  Efecto: El usuario puede entender de manera pasiva todos los idiomas, tanto terrestres como alienígenas. Frente a habilidades en otro idioma, si el usuario lo requiere, el enemigo tendrá que revelar su significado. En el sistema D&D, el usuario tiene un bonificador de +2 en tiradas relacionadas con el entendimiento de idiomas y mensajes encriptados.
+
+ACLARACIONES:
+================================================================================
+
+
+================================================================================
+RANGO I
+================================================================================
+================================================================================
+
+
+================================================================================
+[TELEPATÍA LATENTE] – CONCENTRACIÓN
+================================================================================
+  100 EXP
+  Mental — Suplementaria
+  Alcance ‘’2*VOL’’
+  ‘’MENTES’’ PA
+  TIER 4
+  Efecto visual: El usuario se adentra en la mente de sus adversarios o aliados, siendo capaz de concentrarse lo suficiente en sus pensamientos y deseos.
+  Efecto: Permite hacer uso de habilidades pertenecientes al documento que tengan índole mental sobre objetivos afectados por concentración. En caso de que el usuario se concentre en más mentes que “VOL”, verá reducidos los efectos de sus habilidades en un “25% [*0.75]” y en “-VOL acciones” de forma general.
+Los siguientes escenarios anularán de manera automática esta habilidad.
+Recibir un daño superior a “15*VOL%” de su vitalidad máxima.
+Recibir un control de masa que impida el turno del usuario. No aplican inmovilizaciones ni tampoco parálisis.
+
+ACLARACIONES:
+  - Esta habilidad no puede ser reaccionada bajo métodos ordinarios salvo la reacción en cuestión especifique poder ser utilizada para esta habilidad.
+- Esta habilidad puede utilizarse también sobre aliados, considerándose Suplementaria.
+- En caso de que el usuario pierda la Concentración, deberá volver a ejecutarla en turno propio, gastando los puntos de acción correspondientes. 
+- Concentración se mantiene, aunque los objetivos se salgan posteriormente del alcance, pero las habilidades mentales requerirán del alcance de la habilidad para ejecutarse.
+================================================================================
+
+
+================================================================================
+[CONCENTRACIÓN] — LECTURA MENTAL
+================================================================================
+  Mística/Mental — Pasiva
+  Efecto visual: El usuario es capaz de leer la mente de sus oponentes, obteniendo información automática mientras se encuentre concentrado.
+  Efecto: El usuario detecta a todo aquel usuario sobre el que se esté concentrando y se oculte mediante métodos ordinarios. Esta detección no aplica si la ocultación del objetivo tiene aclaraciones contrarias a la de esta pasiva.
+
+ACLARACIONES:
+  Requiere poseer Concentración activa. Adicionalmente, se considera una intrusión mental.
+================================================================================
+
+
+================================================================================
+FLUJO DE JOTTUNHEIM
+================================================================================
+  100 EXP
+  Mística/Elemental — Ofensiva
+  Alcance: 5
+  TIER 4
+  Efecto visual: El usuario canaliza los vientos místicos del Jottunheim en un torrente ofensivo, arremetiendo contra su oponente de manera feroz.
+  Efecto: Causa un daño místico de “PM*1.3” y provoca una parálisis de 2 acciones.
+
+ACLARACIONES:
+  - N/A
+================================================================================
+
+
+================================================================================
+BENDICIÓN DE FREYJA
+================================================================================
+  100 EXP
+  Mística — Defensiva (Def. Externa)
+  Alcance: Propio
+  TIER 3
+  Efecto visual: El usuario traza una suerte de runas en el suelo, invocando una gruesa capa de energía mística capaz de protegerle de ataques.
+  Efecto: Crea una cúpula defensiva externa alrededor del usuario que defiende según “PM*1.3” ante habilidades con proyección física. Defiende un “25% [*1.25]” más frente a habilidades de carácter místico.
+
+ACLARACIONES:
+  - Se considera que esta defensa cubre todos los ángulos.
+================================================================================
+
+
+================================================================================
+RAÍCES DE YGGDRASIL
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: 4
+  TIER 4
+  Efecto visual: El usuario clava sus manos en el suelo, invocando desde la tierra una serie de gruesas raíces que inmovilizan a su enemigo.
+  Efecto: Causa inmovilización durante 3 acciones.
+
+ACLARACIONES:
+  - Únicamente evadible.
+================================================================================
+
+
+================================================================================
+RANGO II
+================================================================================
+================================================================================
+
+
+================================================================================
+[MISTICISMOS TELEPÁTICOS] — PROYECCIÓN ASTRAL
+================================================================================
+  Mística/Mental — Pasiva
+  Efecto visual: Por su gran habilidad mística, el usuario es capaz de proyectar su forma astral fuera de su cuerpo, así como muchos otros místicos y telépatas.
+  Efecto: El usuario utiliza esta habilidad para trascender al plano astral, dejando atrás su cuerpo y permitiéndose visitar locaciones inaccesibles por medios convencionales.
+Esta habilidad le permite al usuario mantenerse en dicho estado durante 30 minutos, colocando en su misión “[PA]” en alusión al Plano Astral. En este estado no es posible ser retado salvo por personajes que se encuentren en la misma dimensión.
+
+ACLARACIONES:
+  Un uso cada 6 horas.
+================================================================================
+
+
+================================================================================
+TRANSFORMACIÓN HUMANOIDE
+================================================================================
+  100 EXP
+  Mística — Suplementaria
+  Alcance: 3
+  TIER 3
+  Efecto visual: Gracias a un simple hechizo, el usuario es capaz de transformarse a sí mismo en cualquier ser de aspecto antropomórfico e inclusive cambiar sus vestimentas en cuestión de instantes.
+  Efecto: Esta habilidad posee dos usos.
+[USO EN COMBATE]: En un combate grupal, el usuario puede transformarse a sí mismo o un aliado en un oponente. Esto provocará que la primera habilidad enemiga tras la utilización de este comando se vea dirigida hacia un miembro del bando adversario, pudiendo reaccionar con normalidad. Esta habilidad puede ser ignorada por jugadores capaces de detectar ocultaciones de índole místico. Posee un uso por combate.
+[USO FUERA DE COMBATE]: El usuario tiene la posibilidad de adoptar una apariencia distinta a su aspecto original, imposibilitando que se le pueda atacar desde fuera de combate sin motivos como bien pueden serlo actitudes hostiles o amenazantes. La vigencia de esta habilidad deberá indicarse con el comando “[T]” en la misión. Esta habilidad puede ser ignorada por telepatías, hechicerías y poderes que explícitamente tengan la capacidad de discernir ilusiones de índole mística. Cualquier ataque realizado bajo este concepto pasará a requerir “REF 2” para su reacción y causará un “15% [*1.15]” más de daño. Un uso cada 72 horas.
+
+ACLARACIONES:
+  - El uso en combate de esta habilidad requiere que el combate cuente con un mínimo de dos miembros por bando.
+================================================================================
+
+
+================================================================================
+BRISAS DE NJORD
+================================================================================
+  100 EXP
+  Mística/Mental — Ofensiva
+  Alcance: Propio
+  TIER 3
+  Efecto visual: El usuario canaliza su energía mística para invocar las Brisas de Njord, un encantamiento básico capaz de brindar al hechicero la capacidad de volar.
+  Efecto: El usuario pasa a adquirir posición voladora durante 2 turnos propios. Mientras la habilidad esté activa, ve su atributo de velocidad aumentado en +3.
+[ESPECIAL – ASGARDIANO]: En caso de que el usuario posea la raza Asgardiano, la bonificación de velocidad otorgada por esta habilidad pasa a ser de +4.
+
+ACLARACIONES:
+  - Posee un TR/CD de 3 turnos propios tras su finalización.
+================================================================================
+
+
+================================================================================
+VIGOR DE TYR
+================================================================================
+  100 EXP
+  Mística — Defensiva
+  Alcance: Propio
+  TIER 3
+  Efecto visual: El usuario luce su portento místico a fin de conjurar el Vigor de Tyr, un hechizo capaz de brindar voluntad y fuerza sin igual.
+  Efecto: Anula un control de masas de origen místico efectuado sobre un aliado.
+
+ACLARACIONES:
+  - Puede ser utilizada en respuesta.
+- Se considera inefectiva sobre controles de masas efectuados por jugadores que superen en PM al usuario.
+================================================================================
+
+
+================================================================================
+RANGO II
+================================================================================
+================================================================================
+
+
+================================================================================
+TELETRANSPORTACIÓN RÚNICA
+================================================================================
+  100 EXP
+  Mística — Suplementaria
+  Alcance: Área 1
+  1 PA cada 6 casillas
+  TIER no clasificado
+  Efecto visual: El usuario posee la habilidad de teletransportarse de una forma mucho más avanzada. Trazando una poderosa runa de energía mística, podrá transportarse a cualquier lugar de los Nueve Reinos con el que posea afinidad.
+  Efecto: El usuario accede a dos usos del comando.
+[USO SUPLEMENTARIO]: El usuario puede teletransportarse junto con cualquier otro objetivo en el área a cualquier punto de la sala. Podrá afectar a tantos jugadores como “RANGO”. Un uso cada 5 turnos propios.
+[HUÍDA]: El usuario puede huir de combate junto con todo aliado que se encuentre en el área, abandonando automáticamente la sala. Un uso cada 7 días.
+
+ACLARACIONES:
+  - Esta teletransportación pasa a sustituir la del perfil básico.
+================================================================================
+
+
+================================================================================
+EUFORIA DE EIRA
+================================================================================
+  100 EXP
+  Mística — Suplementaria
+  Alcance: Propio
+  TIER 4
+  Efecto visual: El usuario concentra sus capacidades mágicas en un hechizo capaz de regenerar las heridas del cuerpo y alma de un objetivo.
+  Efecto: Permite curar a un aliado o a sí mismo según “PM*1.5”. Sana hemorragias activas e indirectos místicos y mentales, así como daños al alma y a la mente.
+
+ACLARACIONES:
+  - Se considera sanación mística.
+================================================================================
+
+
+================================================================================
+IRA DIVINA
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: 5, área 1 sobre el objetivo
+  TIER 3
+  Efecto visual: El usuario hace un llamado a todos sus conocimientos de misticismos nórdicos para invocar un devastador torrente de energía asgardiana divina.
+  Efecto: Causa daño místico de “PM*2” a un oponente y a quienes le rodeen. Adicionalmente, provoca un indirecto por quemadura del “10% [*1.1]” durante 3 acciones.
+
+ACLARACIONES:
+  - N/A
+================================================================================
+
+
+================================================================================
+MANIPULACIÓN AURAL
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: CONCENTRACIÓN
+  TIER 3
+  Efecto visual: El usuario accede a la energía destilada por el aura del oponente, e invade por este medio la mente del mismo. De esta manera, se hace con el mando de su cuerpo y sus decisiones.
+  Efecto: Otorga control del cuerpo del oponente durante los próximos dos turnos. Durante la duración del control, accede a los siguientes comandos:
+[DETENTE]: Interrumpe una acción del rival ya sea suplementaria u ofensiva. Se utiliza en respuesta y es considerada inefectiva de cara a reacciones.
+[CONTROL DE MOVIMIENTO]: Desplaza al oponente a una casilla a elección siempre y cuando se corresponda con su velocidad disponible.
+[CONTROL DE ACCIÓN]: Obliga al oponente a realizar una acción. En caso de ser ofensiva, puede hacer que ataque a otro miembro del bando del afectado.
+Esta habilidad cuenta con un TR/CD de 5 turnos propios tras su finalización. Adicionalmente, se considera que cada comando tiene un uso.
+
+ACLARACIONES:
+  - Requiere que el oponente esté bajo CONCENTRACIÓN. No afecta a oponentes que superen en VOLUNTAD al ejecutor de esta habilidad.
+- Los comandos deben ser utilizados durante el turno del afectado.
+- Acabar voluntariamente con el control inicia su enfriamiento inmediatamente.
+- No es posible obligar al oponente a no defenderse o infligir daño a sí mismo.
+- El afectado consume sus propios puntos de acción en las órdenes, no el usuario.
+================================================================================
+

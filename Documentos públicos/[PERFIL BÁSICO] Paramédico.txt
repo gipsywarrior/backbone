@@ -1,0 +1,51 @@
+
+================================================================================
+PARAMÉDICO
+PERFIL BÁSICO
+================================================================================
+================================================================================
+
+
+================================================================================
+RANGO I
+================================================================================
+================================================================================
+
+
+================================================================================
+[PARAMÉDICO] - MÉDICO DE EMERGENCIA
+================================================================================
+  Física - Pasiva
+  Efecto visual: El usuario conoce ampliamente el arte de la medicina, pudiendo atender a sus aliados con facilidad.
+  Efecto: El usuario, siempre y cuando esté ileso, obtiene la habilidad de sanar distintos estados fuera de combate.
+[RANGO I] Permite sanar Heridas Leves de forma ilimitada y hasta una Herida Graves diaria.
+[RANGO II] Permite sanar Heridas Leves de forma ilimitada y hasta cuatro Heridas Graves diarias.
+[RANGO III] Permite sanar heridas menores a Heridas Críticas ilimitadamente. Permite sanar una Herida Crítica diariamente, reduciéndola por completo.
+[RANGO IV] Permite sanar hasta Heridas Críticas de forma ilimitada, requiriendo solamente el 25% de tiempo mínimo.
+Por cada Herida que el usuario sane, independientemente de su gravedad, obtendrá 20 EXP hasta un máximo semanal de 100 EXP.
+
+ACLARACIONES:
+  - Una sanación debe realizarse de forma obligatoria en salas conectadas al mapeado.
+- El usuario requiere que el aliado posea el tiempo mínimo de duración del estado para sanarlo.
+- Ninguna sanación se considera efectiva hasta haber subido su respectiva prueba al apartado correspondiente.
+================================================================================
+
+
+================================================================================
+[PARAMÉDICO] - CONOCIMIENTO MÉDICO
+================================================================================
+  Física - Pasiva
+  Efecto visual: El usuario ha adiestrado su conocimiento durante el tiempo, actualizando constantemente sus técnicas de sanación.
+  Efecto: Dependiendo de la cantidad de experiencia total acumulada del usuario, obtendrá distintos beneficios:
+[1.000 EXP] Las curaciones en combate del usuario se ven aumentadas un 10% [x1.1].
+[3.000 EXP] Las curaciones en combate del usuario se ven aumentadas un 20% adicional. Adicionalmente, las habilidades suplementarias que afecten únicamente a sus aliados ven su duración aumentada en 2 acciones siempre y cuando se midan por estas. No aplica en habilidades consideradas Órdenes.
+[5.000 EXP] Las curaciones en combate del usuario se ven aumentadas un 50% adicional. Una vez cada tres turnos propios, puede hacer uso de una habilidad suplementaria sobre un aliado o sí mismo a forma de reacción ante un ataque enemigo. 
+[7.500 EXP] El usuario pasa a poder usar Socorrer hasta dos veces en una ronda. Sus curaciones en combate se ven aumentadas un 70% adicional.
+[10.000 EXP] El usuario ve todos los costos de PA de habilidades suplementarias que afecten únicamente a sus aliados reducidos en -1. Mínimo 1 PA.
+Por cada Herida que el usuario sane, independientemente de su gravedad, obtendrá 20 EXP hasta un máximo semanal de 100 EXP.
+
+ACLARACIONES:
+  - Las mejoras son acumulables entre sí, sumándose en lugar de sustituirse.
+- No es necesario gastar la experiencia para acceder a las mejoras, simplemente alcanzar la cantidad indicada.
+================================================================================
+

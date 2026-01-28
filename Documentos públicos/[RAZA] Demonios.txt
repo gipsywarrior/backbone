@@ -1,0 +1,69 @@
+
+================================================================================
+DEMONIOS
+RAZAS
+================================================================================
+================================================================================
+
+
+================================================================================
+HABILIDADES PASIVAS
+================================================================================
+================================================================================
+
+
+================================================================================
+VÁSTAGO INFERNAL
+================================================================================
+  Física — Pasiva
+  Efecto visual: Los demonios son seres extradimensionales originarios de distintas locaciones conocidas como infiernos. Los demonios se entienden como entidades de tipo místico a menudo asociadas con el mal, que pueden tener o no una capacidad de raciocinio avanzada. Existen tantos tipos de demonios como especies animales en el plano terrestre, por lo que la apariencia de un demonio tanto como sus habilidades pueden variar drásticamente.
+  Efecto: El usuario pasa a considerarse Demonio, por lo que gozará de los siguientes beneficios.
+[FUERZA DE LÍM. HUMANO]: En promedio, un demonio de baja clasificación tiene una fuerza comparable con la de un humano en su límite máximo.
+[VITALIDAD SOBREHUMANA]: Los demonios son criaturas difíciles de derrotar por medios convencionales, por lo que su durabilidad en combate es vasta. Con frecuencia las debilidades de este tipo de criaturas yacen en el plano místico.
+[VELOCIDAD DE HUM. ENTRENADO]: De no poseer alas, los demonios convencionales son a menudo más veloces que la media humana.
+[2 REFLEJOS]: La naturaleza bélica de un demonio le dota de reflejos agudos.
+[DEFENSA PASIVA LIM. HUMANO]: Naturalmente, las criaturas forjadas en la hostilidad de los infiernos acaban desarrollando una resistencia superior a los golpes.
+[LONGEVIDAD]: La longevidad de un demonio suele confundirse por inmortalidad. El usuario se considera inmune a habilidades relacionadas a los efectos fisiológicos del paso del tiempo, envejecimiento o símiles.
+[REGENERACIÓN DE TIER IV]: Las heridas de un demonio sanan moderadamente rápido. El usuario ve reducida la duración de heridas en un “20% [*0.8]”.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+DIVERSIDAD
+================================================================================
+  Física — Pasiva
+  Efecto visual: La variedad entre demonios tanto como sus orígenes son diversos, pues este tipo de criaturas ven su formación dada de distintas maneras. Mientras algunos son engendrados, otros son forjados por magia oscura, y si bien los orígenes de cada demonio pueden ser inciertos, la influencia mística de los avernos es la que acaba moldeando a las criaturas que allí habitan.
+
+  Efecto: El usuario puede escoger 4 de las siguientes mejoras. En caso de aspirar a un poder del listado, la selección debe corresponder en su mayor parte con el concepto pretendido.
+[ALAS]: El usuario es concedido con un par de alas. Accede al siguiente comando:
+[ALZAR VUELO]: El usuario pasa a posición voladora por un total de 3 turnos propios. Adicionalmente, pasa a gozar de +3 VEL siempre que la habilidad esté en vigencia. 2 PA
+[COLA]: El usuario posee una larga cola prensil que puede utilizar como tercera extremidad. Adquiere un hueco adicional para equipar armas de contacto y obtiene el siguiente comando:
+[ATRAPAR]: Inmoviliza a un oponente durante 2 acciones. Alcance 2. 1 PA
+[PIROQUINESIS]: El usuario posee una afinidad mística con el fuego, por lo que es capaz de manipularlo y manifestarlo a voluntad. Accede al siguiente comando:
+[FOGONAZO]: Causa daño ígneo de “RANGO*250” y provoca una quemadura del “10% [*0.9]” del daño realizado durante 3 acciones. 2 PA
+[ABOMINABLE]: La apariencia del usuario es considerada monstruosa y cuanto menos grotesca. Obtiene acceso al siguiente comando:
+[INFUNDIR MIEDO]: Mediante este comando, el usuario aleja a todos los jugadores cercanos en su A3 bajo concepto de miedo, obligándolos a permanecer fuera del radio estipulado durante 3 acciones. Esta habilidad finaliza concentraciones telepáticas, canalización de auras y símiles. 3 PA — un uso por combate.
+[BELLEZA INFERNAL]: El usuario pasa a gozar de los beneficios de Atracción C.IV.
+El usuario reduce el daño directo de una de cada cuatro acciones ofensivas en su contra (la primera) en un “25% [*0.75]” antes de aplicar defensas activas y pasivas, siempre y cuando sean ejecutadas por personajes del sexo opuesto al del usuario.
+[PIERNAS DE CARNERO]: El usuario luce unas peludas piernas de cabra. Obtiene +1 VEL adicional siempre que se movilice por tierra. Además, la fuerza de habilidades de contacto realizadas con las piernas pasa a regirse por los valores de “10 TON”.
+[CUERNOS]: El usuario adquiere dos cuernos de tamaño variable en su cabeza. Obtiene la posibilidad de realizar habilidades de contacto simples con la cabeza, contabilizando la fuerza utilizada por los valores de “5 TON” y aturdiendo 1 acción adicional en caso de que la habilidad empleada ya posea el efecto.
+[GARRAS]: El usuario desfila una serie de afiladas garras en ambas manos. Las habilidades que utilicen específicamente las manos pasarán a provocar un indirecto por hemorragia del “10% [*0.9]” del daño realizado durante 2 acciones.
+[COLOSO]: El cuerpo del usuario es con creces superior a la estatura antropomórfica promedio. Pasa a corresponder a los valores de vitalidad “SOBREHUMANA+” a cambio de reducir su velocidad a “HUMANO”.
+[GOBLIN]: El cuerpo del usuario es mucho más pequeño de lo normal. Pasa a corresponder a los valores de velocidad “SOBREHUMANA” a cambio de reducir su vitalidad a “LÍMITE HUMANO”.
+[FUERZA DESCOMUNAL]: El usuario encuentra su portento en la fuerza bruta. Su atributo de fuerza pasa a corresponder a los valores de “2 TON” por defecto.
+[ESCAMAS]: La piel del usuario está recubierta por una serie de escamas de rojo intenso capaces de resistir golpes impetuosos. La defensa pasiva del usuario pasa a regirse por los valores de “RESISTENCIA SOBREHUMANA”.
+[TALENTO MÍSTICO]: El atributo de PM del usuario aumenta en “+15” una vez por rango.
+[SENTIDOS AGUDIZADOS]: El usuario recibe +1 REF adicional.
+[TERCER OJO]: Una vez cada 5 turnos propios, el usuario puede consultar a su oponente su VIT actual, interpretando que recibe información a través de voces del más allá.
+
+ACLARACIONES:
+  Todas las habilidades escogidas deben ser indicadas en la ficha de personaje.
+El usuario puede cambiar las habilidades escogidas una sola vez en la vida del personaje bajo concepto interpretativo y contando con un permiso de moderación.
+Todos los comandos otorgados por esta pasiva se consideran habilidades de TIER III de cara a la interacción con otros documentos.
+Los efectos de Abominable y Belleza Infernal pueden ser ignorados en su totalidad por personajes cuya voluntad sea igual o superior a 3.
+Estos beneficios deben entenderse como plataforma y no como habilidades permanentes. Una vez obtenido un poder, el jugador pasará a gozar exclusivamente de los atributos otorgados por su documento privado.
+================================================================================
+

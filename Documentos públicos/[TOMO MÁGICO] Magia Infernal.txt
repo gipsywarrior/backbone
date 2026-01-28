@@ -1,0 +1,242 @@
+
+================================================================================
+MAGIA INFERNAL
+TOMO MÍSTICO
+================================================================================
+================================================================================
+
+
+================================================================================
+HABILIDADES PASIVAS
+================================================================================
+================================================================================
+
+
+================================================================================
+[MAGIA INFERNAL] – FUEGO DEL ALMA
+================================================================================
+  Mística — Pasiva
+  Efecto visual: El fuego del alma, también llamado fuego infernal, es un tipo de proyección mística de portento arcano que posee la facultad de dañar directamente el alma de quienes entren en contacto con este.
+  Efecto: El usuario accede a las siguientes habilidades:
+[ENERGÍA DEL ALMA]: Las habilidades de fuego infernal siguen el concepto de daño ígneo y místico a la vez, y producen daño al alma. Ser inmune al fuego no vuelve a alguien inmune al fuego infernal salvo que la inmunidad lo especifique. Adicionalmente, el usuario es capaz de acceder de forma directa a la fuente de toda magia infernal. Obtiene acceso al TIER 4 de PODER MÁGICO (PM) salvo que se posea uno superior por documento ajeno.
+[PURGA INFERNAL]: Las habilidades de fuego infernal aumentan el daño realizado en un “25% [*1.25]” contra demonios e híbridos de demonios. “En un poderoso torrente, el fuego infernal es demasiado para que los demonios nacidos del infierno y los hombres nacidos de demonios lo soporten”.
+[CHI, MAGIA Y VOLUNTAD]: Las habilidades de fuego infernal aumentan su daño un “5% [x1.05]” por cada punto de voluntad que posea el usuario. Si la voluntad del usuario se encuentra en 0, este no podrá realizar habilidades que impliquen el uso de fuego infernal.
+
+ACLARACIONES:
+  - N/A
+================================================================================
+
+
+================================================================================
+[MAGIA INFERNAL] – DAÑO AL ALMA
+================================================================================
+  Mística — Pasiva
+  Efecto visual: Forma de daño único relacionado a misticismos específicos. Se caracterizan por causar un daño profundo dentro de sus oponentes, siendo capaces no sólo de dañar su cuerpo físico, sino lo más profundo de sus almas.
+  Efecto: Efecto exclusivo de habilidades capaces de provocar esta clase de efecto negativo basado en sus explicaciones en los cómics. Un ejemplo de magia de este tipo es el fuego infernal. Su efecto permite que el daño obtenga las siguientes propiedades:
+El daño al alma ignora un “50% [*0.50]” de las defensas internas, así como el “100% [x0]” de resistencias pasivas y reducciones de daño que no indiquen proteger daño al alma. Así mismo, el daño generado por estas habilidades no puede ser sanado ni regenerado a menos que sea tratado mediante habilidades activas o pasivas de índole místico.
+
+ACLARACIONES:
+  - N/A
+================================================================================
+
+
+================================================================================
+RANGO I
+================================================================================
+================================================================================
+
+
+================================================================================
+IGNICIÓN
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance 4
+  TIER 3
+  Efecto visual: El usuario manifiesta una esfera de energía infernal que procede a lanzar contra su oponente buscando causar daño directo.
+  Efecto: Causa un daño por fuego infernal de “PM*1.25” y un indirecto por quemadura del “10% [*0.10]” del daño causado durante 3 acciones.
+
+ACLARACIONES:
+  - N/A
+================================================================================
+
+
+================================================================================
+RAYO INFERNAL
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance 4
+  TIER 3
+  Efecto visual: El usuario lanza una proyección de energía infernal hacia su oponente desde la punta de sus dedos de manera rápida.
+  Efecto: Causa un daño por fuego infernal de “PM*1.35”. Si el daño afecta a un demonio además le inhabilita una extremidad a elección durante 3 acciones.
+
+ACLARACIONES:
+  - N/A
+================================================================================
+
+
+================================================================================
+LÁTIGO DE FUEGO
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: 5
+  TIER 3
+  Efecto visual: El usuario libera una llamarada que se extiende hacia adelante, consumiendo en fuego a todo aquello que se interponga.
+  Efecto: Inmoviliza durante 3 acciones a un oponente. Mientras esta habilidad permanezca activa, provoca un daño indirecto por quemadura de fuego infernal equivalente a “PM/2”.
+
+ACLARACIONES:
+  - N/A
+================================================================================
+
+
+================================================================================
+MANTO ARDIENTE
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: Propio
+  TIER 3
+  Efecto visual: El usuario invoca un manto de fuego que le rodea tal como si su carne se encendiese en llamaradas impetuosas.
+  Efecto: Recubre durante 2 turnos propios al usuario en fuego infernal. Mientras permanezca esta habilidad activa, oponentes que realicen contacto directo recibirán un daño irreaccionable de “PM*0.5”. En caso de que el usuario realice habilidades a contacto, pasaran a adquirir los efectos pasivos del fuego infernal.
+
+ACLARACIONES:
+  - Una vez esta habilidad finaliza, debe pasar un turno propio sin recubrimiento para poder volver a ser utilizada.
+================================================================================
+
+
+================================================================================
+RANGO II
+================================================================================
+================================================================================
+
+
+================================================================================
+SELLO DE ASFIXIA
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: 4
+  TIER 3
+  Efecto visual: El usuario general un sello místico alrededor del cuello de su enemigo, el cual se expande formando una burbuja mística que se pega al rostro y lo asfixia.
+  Efecto: Provoca un indirecto por asfixia equivalente al “5% [*0.05]” de la VIT. Máxima del objetivo durante 3 acciones. El afectado quedará cegado y no podrá realizar habilidades que requieran del habla o del uso de la boca durante la duración.
+
+ACLARACIONES:
+  - Únicamente resistible, anulable o anticipable.
+================================================================================
+
+
+================================================================================
+MAR DE LLAMAS INFERNALES
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: 3x4
+  TIER 2
+  Efecto visual: El usuario genera un gran torrente de fuego infernal frente a él, incinerando a todos a su paso.
+  Efecto: Genera un daño por fuego infernal de “PM*1.6” y un indirecto por quemadura del “10% [*0.10]” del daño recibido durante 5 acciones. 
+
+[ESPECIAL – USO DEFENSIVO]: Puede utilizarse a modo de contraataque, donde en caso de superar el daño inicial devuelve el restante si se encuentra dentro del alcance. Este uso aumenta su coste en +1 PA y sólo puede utilizarse una vez cada dos turnos propios.
+
+ACLARACIONES:
+  -
+================================================================================
+
+
+================================================================================
+CORTINA DE FUEGO
+================================================================================
+  100 EXP
+  Mística — Defensiva (Def. Externa)
+  Alcance: Propio
+  TIER 2
+  Efecto visual: El usuario con un rápido movimiento alza un muro de llamas frente a él.
+  Efecto: Genera una defensa de “PM*1.5”, la cual genera un daño indirecto por fuego infernal de “PM/2” durante 3 acciones si se defiende una habilidad de contacto.
+
+ACLARACIONES:
+  -El daño por contacto de esta habilidad no es reaccionable.
+================================================================================
+
+
+================================================================================
+SELLO DE CONTROL
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: 4
+  TIER 2
+  Efecto visual: El usuario convoca un sello con forma de pentagrama en el pecho del enemigo, el cual se expande sobre él en seis dimensiones, paralizando completamente en una pseudo animación suspendida.
+  Efecto: Genera una parálisis de 3 acciones. Requiere de REF 3 para reaccionarse.
+
+ACLARACIONES:
+  - N/A
+================================================================================
+
+
+================================================================================
+RANGO II
+================================================================================
+================================================================================
+
+
+================================================================================
+EXPLOSIÓN DE FUEGO INFERNAL
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: 5, Área 1 sobre el objetivo
+  TIER 3
+  Efecto visual: El usuario genera una bola de fuego infernal inestable, la cual explota tras lanzarse e impactar con un objetivo.
+  Efecto: Genera un daño por fuego infernal de “PM*1.5” y un indirecto por quemadura del “10% [*0.10]” del daño causado durante 5 acciones.
+
+ACLARACIONES:
+  -
+================================================================================
+
+
+================================================================================
+INCINERAR AL CONTACTO
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: 1
+  TIER 3
+  Efecto visual: El usuario pone sus manos sobre el enemigo, generando fuego infernal dentro del mismo a través del contacto.
+  Efecto: Genera un daño por fuego infernal de “PM*1.6”, el cual no puede defenderse mediante defensas internas.
+Es posible hacer uso de esta habilidad en conjunto de una acción de contacto, aumentando el daño en “PM” y otorgándole las características de daño por fuego infernal. Este uso reduce su consumo de PA en 1 a diferencia del uso básico.
+
+ACLARACIONES:
+  -
+================================================================================
+
+
+================================================================================
+SELLO DE PROTECCIÓN
+================================================================================
+  100 EXP
+  Mística — Defensiva
+  Alcance: Propio
+  TIER 3
+  Efecto visual: El usuario conjura un poderoso y antiguo hechizo infernal el cual desvía ataques a través de fuerzas místicas paranormales.
+  Efecto: Anula una acción ofensiva rival realizada dentro del alcance. Esta habilidad no puede volver a usarse tras dos turnos propios de ser realizada.
+
+ACLARACIONES:
+  -
+================================================================================
+
+
+================================================================================
+INCINERACIÓN INFERNAL
+================================================================================
+  100 EXP
+  Mística — Ofensiva
+  Alcance: 5
+  TIER 3
+  Efecto visual: El usuario provoca una combustión espontánea sobre el oponente, incinerándolo desde adentro de forma dolorosa y repentina.
+  Efecto: Provoca un daño por fuego infernal de “PM*1.65” y un indirecto por quemadura del “10% [*0.10]” del daño causado durante 5 acciones. Requiere de 3 REF para reaccionar.
+
+ACLARACIONES:
+  - Únicamente resistible, anulable o anticipable.
+================================================================================
+

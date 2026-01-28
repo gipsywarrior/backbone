@@ -1,0 +1,214 @@
+
+================================================================================
+ARMAS DE FUEGO
+PERFIL BÁSICO
+================================================================================
+================================================================================
+
+
+================================================================================
+HABILIDADES PASIVAS
+================================================================================
+================================================================================
+
+
+================================================================================
+ARMA DE FUEGO
+================================================================================
+  Parafernalia - Arma de Fuego
+  Alcance 4
+  Efecto visual: El usuario posee un arma de fuego con la cual va siempre a la acción.
+  Efecto: Parafernalia que posee el escalado de CALIBRE BÁSICO, siendo capaz de utilizarse con las habilidades de este documento.
+
+Puede interpretarse estéticamente como cualquier arma capaz de ejecutar un disparo, sea a través de la combustión de pólvora, por un mecanismo mecánico o con aire comprimido, respetando siempre el concepto de ser portada con una mano (pistola 9mm, .45, .36, etc.).
+
+ACLARACIONES:
+  Ocupa una sola mano.
+================================================================================
+
+
+================================================================================
+RANGO I
+================================================================================
+================================================================================
+
+
+================================================================================
+ACROBACIA DE TIRADOR
+================================================================================
+  Física - Defensiva (Evasión)
+  Alcance Propio
+  TIER 3
+  Efecto visual: El usuario realiza una rápida acrobacia para mantener la distancia con su oponente, permitiéndole mantener el ritmo de sus disparos.
+  Efecto:  Permite evadir una habilidad con proyección física que carezca de área. No consume la velocidad utilizada.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+DISPARO RÁPIDO
+================================================================================
+  Física - Ofensiva
+  Alcance Arma
+  TIER 3
+  Efecto visual: El usuario realiza un disparo al cuerpo del oponente.
+  Efecto:  Causa un daño de “ARMA*1.25”. Requiere 3 REF para evadir.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+DISPARO A LA RODILLA
+================================================================================
+  Física - Ofensiva
+  Alcance Arma
+  TIER 3
+  Efecto visual: El usuario dispara con precisión a la rodilla de su oponente, derribándolo.
+  Efecto:  Causa un daño de “ARMA*1.35” a un oponente y lo derriba.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+GOLPE CON CULATA
+================================================================================
+  Física - Ofensiva
+  Alcance 1
+  TIER 3
+  Efecto visual: El usuario da un golpe seco en la sien de su oponente con el mango del arma.
+  Efecto: Aturde durante 2 acciones.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+RANGO II
+================================================================================
+================================================================================
+
+
+================================================================================
+DISPARO PERFORANTE
+================================================================================
+  Física - Ofensiva
+  Alcance Arma
+  TIER 2
+  Efecto visual: El usuario realiza un preciso disparo capaz de perforar las defensas del oponente.
+  Efecto: Causa un daño de “ARMA*2”. Ignora un “25% [*0.75]” de defensas internas.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+LLUVIA DE FUEGO
+================================================================================
+  Física - Ofensiva
+  Cónico 4
+  TIER 2
+  Efecto visual: El usuario realiza una mortal ráfaga de disparos frente a sí mismo.
+  Efecto: Causa un daño de “ARMA*2” en el área y provoca un indirecto por hemorragia del “10% [*0.1]” del daño causado durante 3 acciones.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+TIRO EN EL AIRE
+================================================================================
+  Física - Ofensiva/Suplementaria
+  Alcance Arma
+  TIER 3
+  Efecto visual: Gracias a la destreza física del usuario, éste es capaz de realizar un ágil disparo en el aire.
+  Efecto: Tras una evasión, el usuario puede hacer uso de esta habilidad para provocar un daño de “ARMA*1.5”.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+DISPARO A LA EXTREMIDAD
+================================================================================
+  Física - Ofensiva
+  Alcance Arma
+  TIER 2
+  Efecto visual: El usuario dispara a una expremidad del oponente, provocándole un dolor paralizante en la zona afectada.
+  Efecto: Causa un daño de “ARMA*2.25”. En caso de impactar, inhabilita una extremidad a elección durante las próximas 5 acciones.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+RANGO III
+================================================================================
+================================================================================
+
+
+================================================================================
+DISPARO DE ADVERTENCIA
+================================================================================
+  Física - Defensiva (Anulación)
+  Alcance Arma
+  TIER 3
+  Efecto visual: El usuario dispara cerca de las piernas del oponente, disuadiéndolo de continuar su acción.
+  Efecto: Anula una acción ofensiva realizada dentro del alcance de la habilidad.
+
+ACLARACIONES:
+  Si el oponente es inmune al miedo o posee más de 3 VOL, esta habilidad es inefectiva. Un uso cada 2 turnos propios.
+================================================================================
+
+
+================================================================================
+GRANADA FLASH
+================================================================================
+  Física - Ofensiva
+  Alcance 5, Área 2
+  TIER 2
+  Efecto visual: El usuario retira el anillo de la granada y la arroja hacia el oponente, desencadenando un fuerte flash cegador a su alrededor.
+  Efecto: Causa ceguera a cualquiera en el área durante 3 acciones.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+GRANADA DE FRAGMENTACIÓN
+================================================================================
+  Física - Ofensiva
+  Alcance 5, Área 2
+  TIER 2
+  Efecto visual: El usuario retira el anillo de la granada y la arroja hacia el oponente, desencadenando una fuerte explosión.
+  Efecto: Causa un daño de “RANGO*450” a cualquiera en el área, retrocede 3 casillas de espaldas y en caso de generar colisión provoca aturdimiento durante 3 acciones.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+ACRIBILLAR
+================================================================================
+  Física - Ofensiva
+  Alcance Arma
+  TIER 3
+  Efecto visual: El usuario mantiene presionado el gatillo, continuando con una balacera sobre sus rivales.
+  Efecto: Permite repetir el daño y efectos de una habilidad que haya sido reaccionada justo en la acción anterior. No mantiene efectos de requisitos de reacción.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+

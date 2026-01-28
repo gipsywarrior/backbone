@@ -1,0 +1,44 @@
+
+================================================================================
+INHUMANOS
+RAZAS
+================================================================================
+================================================================================
+
+
+================================================================================
+HABILIDADES PASIVAS
+================================================================================
+================================================================================
+
+
+================================================================================
+INHOMO SUPREMIS
+================================================================================
+  Física – Pasiva
+  Efecto visual: Tras la incursión de los Celestiales en experimentos sobre las etapas tempranas de la humanidad y el subsecuente descubrimiento de los Kree de un gen superhumano latente en los especímenes trabajados, el hallazgo del potencial inhumano resulta tras la exposición a los vapores de los Cristales de Terrigen. Luego de siglos por delante de un fallido intento de acabar con los sujetos de experimento y la inminente expansión del gen mutado, los Inhumanos como especie supieron forjar una historia no contada por los libros.
+  Efecto: El usuario pasa a considerarse Inhumano, por lo que gozará de los siguientes beneficios.
+[FUERZA DE LÍM. HUMANO]: Los inhumanos ostentan de una fuerza superior a la media humana, convirtiéndolos en hábiles contendientes cuerpo a cuerpo.
+[VITALIDAD DE LÍM. HUMANO]: Su fisionomía superior da lugar a una resistencia avanzada.
+[VELOCIDAD DE HUM. ENTRENADO]: La velocidad natural de los inhumanos encuentra similitud con la de un atleta humano.
+[2 REFLEJOS]: Poseen una alta capacidad reactiva.
+[LONGEVIDAD]: El cuerpo inhumano se mantiene impertérrito al paso de tiempo, por lo que de cara a la interpretación se considera que el usuario es capaz de vivir alrededor de 150 años. Adicionalmente, obtiene una reducción del “30% [*0.7]” a habilidades relacionadas a los efectos fisiológicos del paso del tiempo, envejecimiento o símiles.
+[ACLIMATACIÓN]: Los cientos de años de hospedaje de las tribus inhumanas en la Tierra bajo los climas más extremos acabaron resultando en una adaptación natural de sus cuerpos al frío. Bajo este concepto, el usuario goza de una reducción del “25% [*0.75]” sobre ataques relacionados al frío o al hielo y una inmunidad absoluta a climas helados.
+[INMUNODEFICIENCIA]: El aislamiento de la civilización inhumana ha enajenado a la especie de las enfermedades corrientes de los humanos, por lo que sus sistemas inmunitarios se ven vulnerables ante cualquier tipo de antígeno no asimilado. El usuario se ve afectado en un “30% [*1.3]” más frente a habilidades relativas a enfermedades, virus o bacterias.
+
+ACLARACIONES:
+================================================================================
+
+
+================================================================================
+TERRIGENESIS
+================================================================================
+  Física – Pasiva (Interpretativa)
+  Efecto visual: La exposición a las Nieblas Terrigen, también conocida como Terrigenesis, es un proceso ritualístico de las tribus inhumanas de la Tierra que consiste en la infusión de Cristales de Terrigen y una posterior inhalación de los vapores químicos destilados por estos. Este procedimiento da lugar al despertar de las capacidades metahumanas latentes en cada inhumano, por lo que implica un sometimiento a ciegas de mutaciones inciertas. Debe entenderse que la terrigenación no es un tratamiento común y no todo inhumano ha de experimentarla, sino que es una distinción otorgada por el Consejo Genético de cada tribu.
+  Efecto: Accediendo a esta pasiva, el usuario puede aspirar directamente a un poder inhumano, o en su defecto, neohumano. 
+[NEOHUMANOS]: Se entiende como una especie descendiente de la cruza entre humanos primitivos e inhumanos de primera generación, engendrada mucho antes de que las reglas de la sociedad Inhumana prohibiesen la cría de híbridos. Un neohumano puede vivir toda una vida como un humano normal, sin embargo, el contacto de esta especie con las Nieblas Terrigen, sea de manera accidental o voluntaria, resultará en el desarrollo de una mutación inhumana. La genética percutida de un neohumano hará de este proceso propenso al fracaso, por lo que, de aspirar a esta subraza, el usuario deberá contactar con moderación y convenir la tirada de un dado de 5 caras; de ser 1 el resultado, se verá obligado a interpretar una tara física aleatoria.
+
+ACLARACIONES:
+  - Un neohumano no se beneficia de los atributos inhumanos por defecto.
+================================================================================
+

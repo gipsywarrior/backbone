@@ -1,0 +1,292 @@
+
+================================================================================
+MAGIA DE LA TIERRA
+TOMO MÁGICO
+================================================================================
+================================================================================
+
+
+================================================================================
+HABILIDADES PASIVAS
+================================================================================
+================================================================================
+
+
+================================================================================
+[HECHICERÍA ELEMENTAL] - VÍNCULO CON LOS ELEMENTOS
+================================================================================
+  Mística - Habilidad Pasiva
+  Efecto visual: El usuario extrae sus fuerzas desde el medio ambiente, fortaleciéndose a través de las energías más antiguas y poderosas que componen el mundo mágico y universo.
+  Efecto:   El usuario desarrolla las siguientes características:
+[DOMINIO DE LOS ELEMENTOS]: El usuario posee una conexión con los elementos, fuente natural de toda la magia existente, por lo que accede a un potencial místico superior. El usuario obtiene acceso al TIER 4 – MISTICISMOS DE PODER BAJO de PODER MÁGICO (PM) salvo que se posea uno superior por documento ajeno.
+[MAGIA ELEMENTAL]: Toda habilidad basada en fuego, agua, tierra o aire del usuario se ve potenciada en un “10% [*1.10]” mientras permanezca luchando en exteriores. Luchar en entornos cerrados significa perder esta bonificación y además sufrir una reducción del “10% [*0.90]” en todas las habilidades que cumplan las primeras premisas dictadas.
+[ABSORCIÓN ELEMENTAL]: El usuario absorbe y anula una habilidad basada en algún elemento base de los cuales dispone en este documento, bonificando la próxima habilidad basada en este elemento un “25% [*1.25]”. El usuario no puede absorber habilidades de oponentes que le superen en PODER MÁGICO (PM) o RANGO. Consume 2 PA, donde una vez utilizada deben pasar dos turnos propios para volver a usarse.
+
+ACLARACIONES:
+  Los bonificadores presentados anteriormente únicamente aplican para daños directos numéricos o defensas. No aplican para duración de turnos o semejantes.
+================================================================================
+
+
+================================================================================
+RANGO I
+================================================================================
+================================================================================
+
+
+================================================================================
+RAÍCES EMERGENTES
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  Alcance 4
+  TIER 3
+  Efecto visual: El usuario concentra sus energías sobre uno de sus oponentes, comandando a la naturaleza para que raíces broten y lo retengan.
+  Efecto: Genera una inmovilización durante 2 acciones. No afecta a usuarios que ocupen casillas adicionales por tamaño o posean una clasificación de fuerza TIER 1 o superior.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[PIROQUINESIS MÁGICA] - RAYO DE FUEGO
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  Alcance 4
+  TIER 3
+  Efecto visual: El usuario canaliza energías místicas en sus manos, produciendo combustión que se proyecta hasta su oponente con el objetivo de calcinarlo.
+  Efecto: Causa daño ígneo de “PM*1.4” y un indirecto por quemadura del “10% [*0.10]” del daño recibido durante 3 acciones.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[GEOQUINESIS MÁGICA] - MURO DE TIERRA
+================================================================================
+  100 EXP
+  Mística - Defensiva (Externa)
+  Alcance Propio
+  TIER 3
+  Efecto visual: El usuario concentra sus energías para modificar el terreno y hacer que un muro se alce ante el inminente impacto de una ofensiva enemiga.
+  Efecto: Genera una defensa de “PM*1.2”. Reduce en un “25% [*0.75]” previamente el daño proveniente desde disparos y lanzamiento de objetos.
+
+ACLARACIONES:
+  - A pesar de su origen místico, se considera de índole Físico ante efectos sobre defensas.
+================================================================================
+
+
+================================================================================
+[HIDROQUINESIS MÁGICA] - TORRENTE DE AGUA
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  Alcance 5
+  TIER 3
+  Efecto visual: El usuario proyecta un torrente de agua desde sus palmas hasta su oponente con el fin de causarle un considerable daño.
+  Efecto: Genera un daño físico de “PM*1.2” y reduce la VEL del oponente en -2 durante su próximo turno propio, salvo que se desplace por el aire.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[AEROQUINESIS MÁGICA] - EMBATE AÉREO
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  Alcance 4
+  TIER 3
+  Efecto visual: El usuario manipula las ventiscas para azotar a su oponente con estas, empujándole hacia atrás con bastante fuerza.
+  Efecto: Genera un daño físico de “PM*1.45” y empuja 5 casillas. En caso de colisión Derriba al rival y lo aturde durante una acción.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+RANGO II
+================================================================================
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MODERADA] - CONCENTRACIÓN
+================================================================================
+  100 EXP
+  Mental - Ofensiva/Suplementaria
+  Alcance “2*VOL”
+  “MENTES” PA
+  TIER 3
+  Efecto visual: El usuario realiza un considerable esfuerzo para percibir la mente de las personas a su alrededor y captar sus pensamientos.
+  Efecto: Permite hacer uso de habilidades pertenecientes al documento que tengan índole Mental sobre objetivos que se encuentren bajo Concentración. En caso de que el usuario esté concentrado en más mentes que “VOLUNTAD” verá reducidos los efectos de sus habilidades en un “25% [*0.75]” y en “-VOLUNTAD acciones” de forma general.
+Los siguientes escenarios anularán de manera automática esta habilidad.
+Recibir un daño superior a “15%*VOLUNTAD” de su VIT máxima.
+Recibir un control de masa que impida el turno del usuario. No aplican inmovilizaciones ni tampoco parálisis para este escenario.
+
+ACLARACIONES:
+  - Esta habilidad no puede ser reaccionada bajo métodos ordinarios salvo la reacción en cuestión especifique poder ser utilizada para esta habilidad.
+- Esta habilidad puede utilizarse también sobre aliados, considerándose Suplementaria.
+- En caso de que el usuario pierda la Concentración, deberá volver a ejecutarla en turno propio, gastando los puntos de acción correspondientes. 
+- Concentración se mantiene, aunque los objetivos se salgan posteriormente del alcance, pero las habilidades mentales requerirán del alcance de la habilidad para ejecutarse.
+================================================================================
+
+
+================================================================================
+[CONCENTRACIÓN] - LECTURA MENTAL
+================================================================================
+  Mística - Habilidad Pasiva
+  Efecto visual: El usuario es capaz de leer la mente de sus oponentes, obteniendo información automática mientras se encuentre concentrado.
+  Efecto:  El usuario detecta a todo aquel usuario sobre el que se esté concentrado y se oculte mediante métodos ordinarios. Esta detección no aplica si la ocultación del objetivo tiene aclaraciones contrarias a la de esta pasiva.
+
+ACLARACIONES:
+  - Requiere poseer Concentración activa.
+- Se considera una intrusión mental.
+================================================================================
+
+
+================================================================================
+[PIROQUINESIS MÁGICA] - CALCINACIÓN
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  Alcance 5
+  TIER 2
+  Efecto visual: El usuario produce una combustión espontánea sobre su oponente, generando llamas sobre su cuerpo para producirle un intenso dolor.
+  Efecto: Produce un indirecto ígneo por quemadura igual a “PM/2” durante 5 acciones.
+
+ACLARACIONES:
+  Únicamente resistible, anulable o anticipable.
+================================================================================
+
+
+================================================================================
+[GEOQUINESIS MÁGICA] - PRECIPITACIÓN ROCOSA
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  Alcance 5
+  TIER 2
+  Efecto visual: El usuario toma control del terreno para levantar fragmentos de suelo y lanzárselos uno tras otro a su oponente.
+  Efecto: Genera un daño físico de “PM*1.6” y aturde durante 2 acciones. Ignora un “25% [*0.75]” de defensas internas.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[HIDROQUINESIS MÁGICA] - EMPAPAR
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  Alcance 3, Área 1 sobre objetivo
+  TIER 2
+  Efecto visual: El usuario proyecta una gran cantidad de agua sobre su oponente.
+  Efecto: Causa daño físico de “PM*1.5” a un oponente y genera el estado Empapado durante 5 acciones. En caso de que el oponente posea un recubrimiento ígneo (como puede ser un portador del poder Piroquinesis) lo seca automáticamente, anulando sus habilidades e impidiendo que lo recupere al menos durante las próximas 5 acciones.
+[EMPAPADO]: El oponente ve reducida su VELOCIDAD en “RANGO” durante 5 acciones. Este estado no es acumulable, pero sí es renovable, de manera que cada vez que se reciba este estado nuevamente, se reiniciará la duración. Un personaje bajo este estado ve aumentado los daños y efectos de una habilidad eléctrica en un “100% [*2]”. Recibir una habilidad ígnea anula automáticamente este estado.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[AEROQUINESIS MÁGICA] - VENTARRÓN
+================================================================================
+  100 EXP
+  Mística - Defensiva (Anulación)
+  Alcance 3
+  TIER 2
+  Efecto visual: El usuario libera un torrente de viento hasta su oponente antes de que efectúe su acometida, obligándole a retroceder.
+  Efecto: Anula una habilidad ofensiva efectuada en el alcance de la habilidad. Hace retroceder 3 casillas al oponente afectado. En caso de que se efectúe colisión, finaliza con el turno del objetivo de manera automática.
+
+ACLARACIONES:
+  Para que la anulación se de por efectiva el afectado debe haber sido empujado debidamente, de lo contrario, no funciona esta habilidad.
+================================================================================
+
+
+================================================================================
+RANGO III
+================================================================================
+================================================================================
+
+
+================================================================================
+HOJAS DE YUCCA
+================================================================================
+  100 EXP
+  Mística - Suplementaria
+  Alcance 1
+  No clasificada
+  Efecto visual: El usuario toma desde su bolsillo un remedio natural para sanar heridas, fusionando hojas de Yucca con su energía mística.
+  Efecto: Permite recuperar tanta vitalidad como “PM*1.35” al usuario o a un aliado. No puede superar la VIT. Máxima mediante esta habilidad.
+
+ACLARACIONES:
+  Se considera curación mística.
+================================================================================
+
+
+================================================================================
+[PIROQUINESIS MÁGICA] - ONDA CALÓRICA
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  Cónico 4
+  TIER 2
+  Efecto visual: El usuario desde las palmas proyecta una onda de calor que puede llegar a generar quemaduras sobre su rival.
+  Efecto: Genera un daño ígneo de “PM*1.5” y un indirecto por quemadura del “10% [*0.10]” del daño durante 5 acciones. La quemadura aplica aún si se defiende la habilidad por completo.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[GEOQUINESIS MÁGICA] – DEPRESIÓN SÍSMICA
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  5x5 frente al usuario
+  TIER 2
+  Efecto visual: El usuario hunde el suelo sobre el que su oponente se encuentra situado.
+  Efecto: Genera un terreno en el cual se consume el doble de VEL por desplazamiento durante los próximos 5 turnos. No afecta a usuarios que vuelen.
+
+ACLARACIONES:
+  Desplazamientos defensivos también se ven afectados.
+================================================================================
+
+
+================================================================================
+[HIDROQUINESIS MÁGICA] - AGUJAS DE AGUA
+================================================================================
+  100 EXP
+  Mística - Ofensiva
+  5x5 frente al usuario
+  TIER 2
+  Efecto visual: El usuario manifiesta pequeñas agujas compuestas de agua que lanza hasta su oponente con la densidad suficiente para provocar heridas.
+  Efecto: Provoca daño físico de “PM*1.5” y un indirecto por hemorragia del “10% [*0.10]” del daño durante 5 acciones. Esta habilidad requiere de 4 REF para reaccionarse o se recibe el “50% [*0.50]” de daño y efectos obligatoriamente.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[AEROQUINESIS MÁGICA] - DESLIZ AÉREO
+================================================================================
+  100 EXP
+  Mística - Suplementaria
+  Alcance Propio
+  No clasificada
+  Efecto visual: El usuario concentra sus energías sobre sí mismo para impulsarse con más facilidad y alcanzar una posición ventajosa.
+  Efecto: Permite desplazarse tantas casillas adicionales como “RANGO” durante turno propio.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+

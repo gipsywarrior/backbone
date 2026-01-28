@@ -1,0 +1,221 @@
+
+================================================================================
+COMANDOS BÁSICOS
+================================================================================
+================================================================================
+
+
+================================================================================
+RANGO ÚNICO
+================================================================================
+================================================================================
+
+
+================================================================================
+[COMANDO BÁSICO] - ATACAR
+================================================================================
+  Variable — Ofensiva
+  Alcance Variable
+  TIER 3
+  Efecto visual: El usuario golpea a su oponente, o dispara con su arma, o libera energía para dañarlo.
+  Efecto: Daña “ATRIBUTO” donde atributo se considera FUE, valor base de un arma o un atributo especial como Potencial Energético, Psíquico, Místico, Elemental, etc. 
+Los ataques con FUE tienen alcance 1, mientras que las proyecciones con algún tipo de energía tienen alcance 3 y las armas se mantiene el alcance base de las mismas.
+
+ACLARACIONES:
+  - El segundo uso de esta habilidad y los consecutivos en la misma ronda cuestan 2 PA.
+================================================================================
+
+
+================================================================================
+[COMANDO BÁSICO] - DEFENDER
+================================================================================
+  Variable — Defensiva
+  Alcance Propio
+  TIER 3
+  Efecto visual: El usuario interpone su cuerpo, o un arma o escudo para cubrirse de un ataque.
+  Efecto: Defiende “ATRIBUTO” donde atributo se considera FUE, valor base de un arma o un atributo especial como Potencial Energético, Psíquico, Místico, Elemental, etc. 
+Sin importar el atributo utilizado, se considera una defensa interna. No es posible utilizar armas de fuego con este comando.
+
+ACLARACIONES:
+  - El segundo uso de esta habilidad y los consecutivos en la misma ronda cuestan 2 PA.
+================================================================================
+
+
+================================================================================
+[COMANDO BÁSICO] - EVADIR
+================================================================================
+  Física — Defensiva
+  Alcance Propio
+  TIER 3
+  Efecto visual: El usuario se desplaza para evadir una ofensiva rival.
+  Efecto: Evade una habilidad con proyección física. Consume 1 VEL por cada casilla recorrida y no es posible desplazarse más casillas de las necesarias para evadir una habilidad.
+Por cada dos casillas recorridas, el usuario consume 1 PA adicional.
+
+ACLARACIONES:
+  - La VEL consumida se mantiene durante todo el combate. Si el usuario no posee VEL, no podrá hacer uso de este comando básico.
+================================================================================
+
+
+================================================================================
+[COMANDO BÁSICO] - RESISTIR
+================================================================================
+  Mental — Defensiva
+  Alcance Propio
+  PA Variable
+  TIER 3
+  Efecto visual: El usuario impone su voluntad ante habilidades que pretendan afectar su mente, su alma o similares.
+  Efecto: Esta habilidad posee dos usos
+Resistir (Primer uso): CONSUME 1 PA. El usuario defiende un ataque sin proyección física y que posea daño según el rango. Si la habilidad resistida posee controles de masa, el usuario los anula, pero recibe el estado desorientado en su lugar. 
+
+Resistir (Segundo uso): El usuario anula los efectos de una habilidad que no posea proyección física y deba ser resistida, como habilidades mentales, místicas o similares. El coste de PA depende del TIER de la habilidad anulada, y aumenta en +1 por cada uso repetido de la misma en una misma ronda.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
+
+================================================================================
+[COMANDO BÁSICO] - LIBERAR
+================================================================================
+  Física/Mental — Defensiva
+  Alcance Propio
+  PA Variable
+  TIER 3
+  Efecto visual: El usuario se libera de una atadura o aturdimiento para seguir luchando.
+  Efecto: Permite liberarse de parálisis, inmovilización, desmayo, aturdimiento, dormido, congelamiento o petrificación que provengan de una habilidad con proyección física. Consume PA según la cantidad de acciones restantes del control de masas.
+
+Esta habilidad puede ser usada en respuesta a la hora de recibir el control de masa o en un turno propio, en cuyo caso se contabilizan las acciones restantes para el coste.
+
+ACLARACIONES:
+  - En caso de una habilidad de agarre, se debe superar en FUE al rival.
+- Debe anularse siempre la totalidad de las acciones restantes de control de masa.
+- Un uso por ronda.
+================================================================================
+
+
+================================================================================
+[COMANDO BÁSICO] - SOCORRER
+================================================================================
+  Física — Defensiva
+  Alcance “VEL”
+  TIER 3
+  Efecto visual: El usuario se moviliza hacia un aliado y se interpone ante un ataque, para recibirlo en su lugar.
+  Efecto: Permite desplazarse a la casilla frontal de un aliado, o la adyacente en caso de un ataque de contacto o alcance 1, en respuesta a un ataque rival. El usuario se vuelve el nuevo objetivo de la habilidad; permite usar una defensa interna o externa junto al comando, nunca una evasión o similares.
+En caso de ataques en área, o ataques de múltiples objetivos donde tanto el usuario como su aliado son objetivos, el usuario que socorre recibirá el doble de daño directo (*2). No aplica si se utiliza una defensa externa cuya área permita cubrir a ambos usuarios.
+Un usuario que se encuentre en una posición superior puede socorrer a alguien en una posición inferior (Por ejemplo, alzada puede socorrer a tierra y voladora puede socorrer a alzada y a tierra), se considera que desciende para realizar el comando y luego vuelve a su posición original.
+
+ACLARACIONES:
+  - La velocidad utilizada en el comando se considera consumida durante el resto de la ronda, y, bajo la misma condición, si el usuario ya ha tenido turno y ha consumido VEL, el alcance se reduce según su VEL restante.
+- Esta habilidad no puede realizarse si se posee 0 VEL, aunque se encuentre adyacente al aliado.
+- Ante un combo de ataques, el usuario debe interponerse al inicio del mismo y se vuelve el objetivo de todo el combo. 
+- Si el usuario cae al momento de utilizar este comando, el resto del daño o efectos de la habilidad son anulados.
+- Un uso por ronda.
+================================================================================
+
+
+================================================================================
+[COMANDO BÁSICO] - SALTO
+================================================================================
+  Física — Suplementaria
+  Alcance propio
+  TIER 3
+  Efecto visual: El usuario se impulsa en el aire para alcanzar a oponentes en distintas posiciones.
+  Efecto: El usuario se considera en posición alzada y la siguiente habilidad utilizada se realiza desde esa posición. El usuario vuelve a su posición una vez realizada la habilidad o si termina su turno.
+Si el usuario posee FUE de TIER 3 o superior, permite alcanzar posición voladora.
+En caso de utilizar un combo de ataques, se considera que el usuario desciende una vez que el combo finaliza.
+
+ACLARACIONES:
+  - El segundo uso de esta habilidad y los consecutivos en la misma ronda cuestan 2 PA.
+================================================================================
+
+
+================================================================================
+[COMANDO BÁSICO] - IMPULSO
+================================================================================
+  Física — Suplementaria
+  Alcance propio
+  TIER 3
+  Efecto visual: El usuario se impulsa hacia adelante para acortar la distancia con un oponente u objetivo
+  Efecto: El usuario se desplaza un casilla por cada TIER de FUERZA que posea sin consumir velocidad (1 casilla si se posee TIER 4; 2 si se posee TIER 3; etc). Esta habilidad no puede realizarse si se posee una o más piernas inhabilitadas o si la VEL es 0.
+
+ACLARACIONES:
+  - Una uso por ronda.
+================================================================================
+
+
+================================================================================
+[COMANDO BÁSICO] - DESPLAZAR
+================================================================================
+  Física — Suplementaria
+  Alcance 1
+  Efecto visual: El usuario se moviliza y lleva consigo a un aliado.
+  Efecto: Permite desplazar a un aliado que se encuentre en una casilla adyacente. El usuario consume el doble de VEL por cada casilla recorrida. Si el usuario posee una FUE de TIER 1 o superior, no consume VEL adicional a la hora de desplazar a un aliado.
+No se puede desplazar a aliados que superen en tamaño al usuario (que ocupen algún área) o que se encuentren inmovilizados por algún efecto del terreno. Si el usuario ingresa en una casilla afectada mediante una habilidad (Efectos de terreno como raíces, niebla, tierra struida, etc) el usuario sufre los efectos de la misma aunque se encuentre en posición alzada o voladora originalmente.
+
+ACLARACIONES:
+  - No se puede utilizar esta habilidad para colocar a aliados en posición alzada o voladora. Si el usuario se encuentra en una de estas posiciones, se considera que desciende, mueve a su aliado en el suelo, y asciende.
+- El aliado desplazado no consume su propia velocidad.
+- Esta habilidad únicamente puede ser realizada en turno propio.
+================================================================================
+
+
+================================================================================
+[COMANDO BÁSICO] - IRRUMPIR
+================================================================================
+  Física — Suplementaria
+  Alcance 5
+  Efecto visual: El usuario irrumpe en un combate para asistir a un aliado.
+  Efecto: El usuario ingresa al combate en el bando aliado. Adquiere turno en la próxima ronda. Deben cumplirse los siguientes requisitos
+- El usuario comparte Agrupación o Facción con el aliado al que se unirá.
+- El bando al que se pretenda unir se encuentra en inferioridad numérica o de rango
+- Ningún otro jugador se ha unido mediante esta habilidad al bando al que pretende unirse.
+
+ACLARACIONES:
+  - El usuario se equipa al momento de unirse al combate. No se pueden utilizar habilidades defensivas o suplementarias en conjunto con la unión.
+================================================================================
+
+
+================================================================================
+[COMANDO BÁSICO] - LLAMADO DE AYUDA
+================================================================================
+  Física — Suplementaria
+  Alcance propio
+  Efecto visual: El usuario solicita asistencia de sus aliados en un combate..
+  Efecto: Permite que un aliado se una al combate. El mismo debe colocarse en la casilla adyacente al usuario y obtiene turno en la siguiente ronda. Debe cumplirse uno de  los siguientes requisitos:
+- El usuario se encuentra por debajo del “50% (*0.50)” de su VIT máxima.
+- El usuario se encuentra en inferioridad numérica o de Rango
+
+ACLARACIONES:
+  - El aliado se equipa al momento de unirse al combate. No se pueden utilizar habilidades defensivas o suplementarias en conjunto con la unión.
+================================================================================
+
+
+================================================================================
+[COMANDO BÁSICO] - HUIR
+================================================================================
+  Física — Suplementaria
+  Alcance propio
+  Efecto visual: El usuario escapa de un combate.
+  Efecto: El usuario huye de un combate, requiere estar en la casilla adyacente a un teleport. Deben cumplirse los siguientes requisitos: 
+- El usuario se encuentra por debajo del “50% (*0.50)” de su VIT máxima.
+- Existen al menos 6 casillas de distancia entre el usuario y sus enemigos
+- No se encuentra en superioridad numérica o de Rango.
+
+ACLARACIONES:
+  - Al momento de escapar, el hueco ocupado en el combate se mantiene ocupado. 
+- Si no se posee VEL alguna, no se puede utilizar esta habilidad aunque se encuentre adyacente a un teleport.
+================================================================================
+
+
+================================================================================
+[COMANDO BÁSICO] - EQUIPAR/DESEQUIPAR
+================================================================================
+  Física — Suplementaria
+  Alcance propio
+  Efecto visual: El usuario se equipa con un arma o la desequipa.
+  Efecto: Permite equipar un arma en combate. En caso de desequipar no consume PA.
+
+ACLARACIONES:
+  N/A.
+================================================================================
+
