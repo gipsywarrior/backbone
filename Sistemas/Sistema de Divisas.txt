@@ -1,0 +1,21 @@
+Sistema de divisas
+Introducción‎  Las divisas son la moneda oficial del rol, a menudo adquiribles a través de eventos, escenas e interacciones de distintos tipos. A medida que un jugador logre ir recolectando una cierta cantidad de divisas, estas podrán ser empleadas para compras en la tienda de divisas o bien para acceder a mecánicas exclusivas de otros sistemas.
+
+1. REGLAS BÁSICAS‎ ‎‎ ‎‎
+------------------------
+
+
+» 1. Existen tres tipos de divisas, cuya suma de cinco equivaldrá a una de la siguiente.
+----------------------------------------------------------------------------------------
+
+  » 1.1.  Divisa de Bronce: Se entiende como la divisa de menor valor, por lo que su obtención será más propensa a la del resto y podrá recibirse como recompensa frecuentemente.
+  » 1.2.  Divisa de Plata: Se considera poco común. Es adquirible a través de hazañas destacables y sirve para costear mejoras de calidad mayor.
+  » 1.3.   Divisa de Oro: Se comprende como la más rara de las tres, dado su valor y dificultad de obtención. Valiosa de cara a la mejora y obtención de material.
+  » 2. Las divisas son inherentes al usuario, en tanto no al personaje. Esto quiere decir que frente a la muerte o reinicio, la cantidad de divisas en posesión se mantendrá inalterada.
+  » 3. A diferencia de las divisas como tal, las compras realizadas con las mismas se entienden como relativas al personaje y se perderán conforme concluya el proyecto en el que han sido invertidas.
+
+» 4. Una vez consumidas, las divisas no pueden recuperarse bajo ningún término.
+-------------------------------------------------------------------------------
+
+  » 5. Toda compra con divisas debe ser señalada en la ficha del usuario. Movimientos improcedentes con respecto al registro serán sancionados.
+  » 6. Las divisas son de carácter intransferible, por lo que el intercambio de las mismas entre jugadores se considera inviable.

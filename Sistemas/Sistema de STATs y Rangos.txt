@@ -1,0 +1,82 @@
+Sistema de STATs y rangos
+Introducción  En el Universo Marvel los personajes poseen un desarrollo profundo producto de sus experiencias vividas. Al tratarse de un RPG, esto se representa de forma sistemática en los rangos. Cuando hablamos de subir de rango hablamos de obtener nuevas habilidades y un desarrollo constante de nuestras capacidades básicas. Todo jugador debe cumplir los requisitos mínimos de cada rango para alcanzar el siguiente así como aquellos obligatorios.
+
+ACLARACIONEs‎ ‎ ‎
+-----------------
+
+  - Los requisitos de combate sólo pueden ser cumplidos en combates en los que se encuentren en igualdad de condiciones (mismo rango y misma cantidad de combatientes). Personajes de Rango V podrán cumplir sus requisitos con personajes de Rango IV.
+  - Aquellos requisitos marcados con un * son de carácter obligatorio y cuentan de cara al mínimo de requisitos que solicita el ascenso a cada rango.
+CÁLCULO DE ATRIBUTOS  Existen habilidades activas dentro o fuera de combate que influyen en los atributos base de un personaje. En caso de presentarse bonificadores porcentuales, debe entenderse que cuándo se trate de VIT, FUE, VEL o ATRIBUTO ESPECIAL (EN, PE, CE, PM, PSI, DEC, etc.) se redondeará a la alza a partir de decimales de .5 o superiores. VOL y REF son redondeados a la alza a partir de cualquier decimal que se presente. *
+RANGO I
+
+  VITALIDAD | FUERZA | VELOCIDAD | PA | VOLUNTAD | REFLEJOS
+  ----------+--------+-----------+----+----------+---------
+  1000      | 100    | 4         | 4  | 1        | 1       
+
+Al crear un personaje se obtienen 250 EXP.
+
+Requisitos:
+-----------
+
+  - Rango inicial al crear un personaje en MNARPG.
+RANGO Ii
+
+  VITALIDAD | FUERZA | VELOCIDAD | PA | VOLUNTAD | REFLEJOS
+  ----------+--------+-----------+----+----------+---------
+  1700      | 200    | 5         | 4  | 1        | 1       
+
+Al alcanzar este rango se obtienen 300 EXP.
+
+Requisitos: Deben cumplirse como mínimo dos requisitos.
+-------------------------------------------------------
+
+  - Pasar 7 días en Rango I. *
+  - Participar en 2 combates.
+  - Participar en 2 eventos o escenas.
+  - Realizar 2 misiones.
+RANGO IiI
+
+  VITALIDAD | FUERZA | VELOCIDAD | PA | VOLUNTAD | REFLEJOS
+  ----------+--------+-----------+----+----------+---------
+  2400      | 330    | 5         | 6  | 1        | 1       
+
+Al alcanzar este rango se obtienen 350 EXP.
+
+Requisitos: Deben cumplirse como mínimo cuatro requisitos.
+----------------------------------------------------------
+
+  - Pasar 21 días en Rango II. *
+  - Participar en 4 combates.
+  - Salir victorioso de 2 combates.
+  - Participar en 4 eventos o escenas.
+  - Realizar 4 misiones.
+  - Escribir 3 capítulos de trama.
+RANGO IV
+
+  VITALIDAD | FUERZA | VELOCIDAD | PA | VOLUNTAD | REFLEJOS
+  ----------+--------+-----------+----+----------+---------
+  3800      | 440    | 6         | 8  | 1        | 1       
+
+Al alcanzar este rango se obtienen 400 EXP.
+
+Requisitos: Deben cumplirse como mínimo cinco requisitos.
+---------------------------------------------------------
+
+  - Pasar 60 días en Rango III. *
+  - Participar en 12 combates.
+  - Salir victorioso de 8 combates.
+  - Participar en 6 eventos o escenas.
+  - Realizar 8 misiones.
+  - Poseer dos divisas de vibranium.
+RANGO V
+
+  VITALIDAD | FUERZA | VELOCIDAD | PA | VOLUNTAD | REFLEJOS
+  ----------+--------+-----------+----+----------+---------
+  5500      | 600    | 6         | 10 | 1        | 1       
+
+Al alcanzar este rango se obtienen 500 EXP.
+
+Requisitos:
+-----------
+
+  - Sólo accesible mediante recompensa y mérito del personaje.

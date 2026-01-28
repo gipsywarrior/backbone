@@ -1,0 +1,71 @@
+ESTADOS ALTERADOS
+Introducción  Cuando hablamos de estados alterados nos referimos a estados diferenciados de los daños numéricos que aplican efectos especiales sobre un oponente, los más comunes son los controles de masa y las alteraciones.
+  » 1. Un control de masa impide normalmente realizar cualquier acción siempre y cuando se mantenga activo. Un control de masa también es aquel que aunque no niega por completo el turno sí pone una gran cantidad de restricciones a él de forma inmediata.
+
+» 2. Una alteración tan sólo aplica efectos especiales sobre el oponente.
+-------------------------------------------------------------------------
+
+  » 3. Un usuario que haya sido afectado por un control de masa no podrá volver a ser afectado por uno nuevamente hasta pasar como mínimo una acción entre cada control de masa.
+  » 4. No es posible aplicar otro control de masa sobre una persona que ya se encuentre en uno, pero sí es posible aplicar una alteración.
+  » 5. Todo control de masa empieza a contar desde que es recibido. Sin embargo, la habilidad en cuestión que aplica el control de masa no cuenta de cara a su duración.
+  » 6. En caso de poseer turno propio y estar sujeto bajo un control de masa, el usuario es capaz de invertir tantos Puntos de Acción como acciones a reducir bajo control de masa. Esto cuenta como una sóla acción ante el conteo de otros posibles estados alterados.
+
+controles de masa  .
+--------------------
+
+  » Parálisis: Impide realizar acciones físicas mientras perdure la duración. Es posible mantenerse usando telepatía u otras formas de ataque que no requieran del movimiento físico.
+  » Aturdimiento/Inconsciencia: Impide realizar cualquier acción mientras perdure su duración. Toda habilidad activa en el terreno finaliza de forma automática.
+
+» Inmovilización: Impide el desplazamiento físico.
+--------------------------------------------------
+
+  » Desmayo/Dormido: Aplica las condiciones de Aturdimiento/Inconsciencia, sin embargo finaliza al momento de recibir daño.
+
+ALTERACIONES  .
+---------------
+
+  » Ceguera: Impide realizar evasiones mientras perdure la duración, salvo que se posea un método de detección de habilidades permanente no relacionado a la vista. Si el efecto anterior aplica, también reduce en un "50% [x0.50]" los efectos de habilidades directas y reducen en un "50% [x0.50]" su alcance.
+  » Derribado: Impide desplazarse. Finaliza al momento de utilizar Levantar sin consumo de puntos de acción durante el turno propio. Es posible usar el comando "Levantar" en la ronda enemiga una vez se pasa una acción bajo el estado, en este caso consumirá 1 PA. En caso de afectar a un oponente en posición elevada no le impide desplazarse, sino que anula su vuelo activo. Este último punto sólo aplica si la habilidad provoca el Derribo con un efecto interpretativo no relacionado al golpe de piernas, por ejemplo.
+  » Levitación: Impide ser afectado por habilidades de alcance menor a 2 si se encuentra en una posición más baja. Al momento de realizar acciones de contacto esta condición se anula ante las reacciones. No es posible dar apoyo a oponentes en posición distinta. Caer paralizado, aturdido, inmovilizado o desmayado finaliza el estado.
+  » Vuelo: Impide ser afectado por habilidades de alcance menor a 4 si se encuentra en una posición más baja, salvo Levitación, la cual sólo requerirá de habilidades de alcance 2 o mayor. Al momento de realizar acciones de contacto esta condición se anula ante las reacciones. No es posible dar apoyo a oponentes en posición distinta. Caer paralizado, aturdido, inmovilizado o desmayado finaliza el estado.
+  » Brazo inhabilitado/amputado: Reduce en un "40% [x0.60]" la fuerza del afectado. Inhabilitar más de un brazo provoca una reducción del "80% [x0.20]". Esta condición sólo aplica si la habilidad en cuestión se utiliza con los brazos. En caso de tener los dos brazos inhabilitados o amputados impide realizar habilidades con proyección física que involucren el uso de los brazos.
+  » Pierna inhabilitada/amputada: Reduce en un "40% [x0.60]" la velocidad del afectado y en un "40% [x0.60]" la fuerza en habilidades relacionadas a las piernas. Inhabilitar más de una pierna provoca una reducción del "80% [x0.20]". La amputación provoca una reducción del "80% [x0.20]" y "100% [x0]" respectivamente. La reducción de velocidad sólo aplica en caso de desplazamientos por tierra y con las piernas.
+
+» Fractura: Provoca los mismos efectos que una Amputación, pero se cura tras finalizar el combate.
+--------------------------------------------------------------------------------------------------
+
+  » Desorientado: El coste de evasiones aumenta en +1 PA mientras permanezca activo el efecto y el usuario consume el doble de casillas/velocidad al desplazarse, incluyendo evasiones.
+
+» Sordera: Impide ser beneficiado por órdenes no mentales. Inmuniza ante habilidades sonoras.
+---------------------------------------------------------------------------------------------
+
+  » Mudo: Impide el uso de órdenes/comandos/habilidades verbales, así como el comando básico de Llamada de Ayuda.
+  » Colisión: Provocado tras sufrir un desplazamiento involuntario y chocar contra un obstáculo (furni que iguala o supera en tamaño al keko) o el límite de la sala. Aumenta el daño recibido en un "25% [x1.25]".
+  » Enamorado: Impide atacar al objetivo del que se enamora. Anulable si se supera en VOL a quien enamora.
+
+ESTADOS BÁSICOS POST-COMBATE  .
+-------------------------------
+
+
+   | HERIDO LEVE
+Descripción: Se produce al perder "50% [x0.50]" de la VIT máxima durante un combate sin importar el desenlace del mismo.
+Efecto: Reduce en un "20% [x0.80]" los STATs TOTALES del usuario.
+Duración mínima: Puede ser sanado en cualquier momento.
+Duración máxima: 2 horas..
+  -+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   | HERIDO GRAVE
+Descripción: Se produce al perder "100% [x0]" de la VIT máxima durante un combate.
+Efecto: Reduce en un "50% [x0.50]" los STATs TOTALES del usuario.
+Duración mínima: 6 horas. 
+Duración máxima: 12 horas.                                                                  
+   | HERIDO CRÍTICO
+Descripción: Se produce al perder "100% [x0]" de la VIT máxima durante un combate en el que se estaba herido grave.
+Efecto: Reduce en un "75% [x0.25]" los STATs TOTALES del usuario.
+Duración mínima: 12 horas. 
+Duración máxima: 24 horas.                              
+   | MUERTO
+Descripción: Se produce al perder "100% [x0]" de la VIT máxima durante un combate en el que se estaba herido crítico.
+Efecto: Obliga a reiniciar el personaje.
+Duración mínima: No posee. 
+Duración máxima: No posee.                                                             
+

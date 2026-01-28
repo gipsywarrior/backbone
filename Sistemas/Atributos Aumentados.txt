@@ -1,0 +1,225 @@
+atributos aumentados Y ESPECIALES
+Introducción  Marvel Hobba RPG es un juego que ofrece muchas herramientas, entre ellas, fisonomías especiales que dotan al usuario de capacidades más consecuentes en combate. Dentro de este tema se encuentran todas las escalas de atributos establecidas en el rol y sus consecuentes valores, siendo públicas para una mayor transparencia en combate y práctica.
+FUERZA  La fuerza dentro de Marvel representa la capacidad física de un personaje para levantar peso o ejecutar impactos con efectos variados. Casi siempre es el atributo dominante en poderes físicos.
+
+         | ESCALA       | RANGO I | RANGO II | RANGO III | RANGO IV | RANGO V
+  -------+--------------+---------+----------+-----------+----------+--------
+  TIER 4 | HUM. NORMAL  | 140     | 210      | 280       | 350      | 420    
+  TIER 4 | HUM. ENTR.   | 160     | 240      | 320       | 400      | 480    
+  TIER 4 | LÍM. HUM.    | 180     | 270      | 360       | 450      | 540    
+  TIER 3 | 2 TON        | 200     | 300      | 400       | 500      | 600    
+  TIER 3 | 5 TON        | 220     | 330      | 440       | 550      | 660    
+  TIER 3 | 10 TON       | 240     | 360      | 480       | 600      | 720    
+  TIER 2 | 20 TON       | 260     | 390      | 520       | 650      | 780    
+  TIER 2 | 30 TON       | 280     | 420      | 560       | 700      | 840    
+  TIER 2 | 40 TON       | 300     | 450      | 600       | 750      | 900    
+  TIER 2 | 50 TON       | 320     | 480      | 640       | 800      | 960    
+  TIER 1 | 75 TON       | 340     | 510      | 680       | 850      | 1020   
+  TIER 1 | 100 TON      | 360     | 540      | 720       | 900      | 1080   
+  TIER 1 | 100 TON C.1  | 380     | 570      | 760       | 950      | 1140   
+  TIER 1 | 100 TON C.2  | 400     | 600      | 800       | 1000     | 1200   
+  TIER 1 | 100 TON C.3  | 420     | 630      | 840       | 1050     | 1260   
+  TIER 0 | 100 TON C.4  | 440     | 660      | 880       | 1100     | 1320   
+  TIER 0 | 100 TON C.5  | 460     | 690      | 920       | 1150     | 1380   
+  TIER 0 | 100 TON C.6  | 480     | 720      | 960       | 1200     | 1440   
+  TIER 0 | 100 TON C.7  | 500     | 750      | 1000      | 1250     | 1500   
+  TIER 0 | 100 TON  C.8 | 520     | 780      | 1040      | 1300     | 1560   
+  TIER 0 | 100 TON C.9  | 540     | 810      | 1080      | 1350     | 1620   
+  TIER 0 | 100 TON C.10 | 560     | 840      | 1120      | 1400     | 1680   
+
+VITALIDAD  La vitalidad es un atributo que representa la capacidad de un personaje para recibir daño y permanecer de pie en combate.
+
+  ESCALA | ESCALA      | RANGO I | RANGO II | RANGO III | RANGO IV | RANGO V
+  -------+-------------+---------+----------+-----------+----------+--------
+  TIER 4 | HUMANO      | 750     | 1125     | 1500      | 1875     | 2250   
+  TIER 4 | HUM. ENTR.  | 940     | 1400     | 1875      | 2350     | 2800   
+  TIER 4 | LÍM. HUM.   | 1125    | 1700     | 2250      | 2800     | 3350   
+  TIER 3 | SOBREHUM.   | 1315    | 1950     | 2625      | 3275     | 3950   
+  TIER 3 | SOBREHUM. + | 1500    | 2250     | 3000      | 3750     | 4500   
+  TIER 2 | BESTIA      | 1675    | 2800     | 3750      | 4700     | 5625   
+  TIER 2 | COLOSAL     | 2250    | 3375     | 4500      | 5625     | 6750   
+  TIER 1 | DIVINA      | 2625    | 3950     | 5250      | 6500     | 7850   
+  TIER 0 | CÓSMICA     | 3000    | 4500     | 6000      | 7500     | 9000   
+
+VELOCIDAD  La velocidad corresponde a la capacidad de un personaje para desplazarse a una potencia correspondiente a la naturaleza de su habilidad, poder o mutación.
+
+  ESCALA | ESCALA              | RANGO I | RANGO II | RANGO III | RANGO IV | RANGO V
+  -------+---------------------+---------+----------+-----------+----------+--------
+  TIER 4 | LENTITUD            | 3       | 4        | 5         | 6        | 7      
+  TIER 4 | HUM. PROM.          | 5       | 6        | 7         | 8        | 9      
+  TIER 3 | HUM. ENT.           | 6       | 7        | 8         | 9        | 10     
+  TIER 3 | LIM. HUM.           | 7       | 8        | 9         | 10       | 11     
+  TIER 3 | SOBRE HUM.          | 8       | 9        | 10        | 11       | 12     
+  TIER 2 | 100/500 KM/H        | 10      | 11       | 12        | 13       | 14     
+  TIER 2 | 501/1200 KM/H       | 11      | 12       | 13        | 14       | 15     
+  TIER 1 | MACH 1              | 13      | 14       | 15        | 16       | 17     
+  TIER 1 | MACH 2              | 14      | 15       | 16        | 17       | 18     
+  TIER 1 | MACH 3              | 15      | 16       | 17        | 18       | 19     
+  TIER 1 | MACH 4              | 16      | 17       | 18        | 19       | 20     
+  TIER 1 | MACH 5              | 17      | 18       | 19        | 20       | 21     
+  TIER 1 | MACH 6              | 18      | 19       | 20        | 21       | 22     
+  TIER 1 | MACH 7              | 19      | 20       | 21        | 22       | 24     
+  TIER 1 | MACH 8              | 20      | 21       | 22        | 23       | 24     
+  TIER 1 | MACH 9              | 21      | 22       | 23        | 24       | 25     
+  TIER 1 | MACH 10             | 22      | 23       | 24        | 25       | 26     
+  TIER 0 | VEL. ORBITAL        | 25      | 26       | 27        | 28       | 29     
+  TIER 0 | INTERPLANETARIA     | 30      | 31       | 32        | 33       | 34     
+  TIER 0 | SUBLUMÍNICA         | 33      | 34       | 35        | 36       | 37     
+  TIER 0 | SUBLUMÍNICA EXTREMA | 36      | 37       | 38        | 39       | 40     
+  TIER 0 | VEL. LUMÍNICA       | 46      | 47       | 48        | 49       | 50     
+
+DEFENSA PASIVA  La defensa pasiva es el atributo que expresa cuánto daño directo es capaz de mitigar un personaje sin realizar acción alguna, restándole la cantidad de defensa pasiva directamente al valor de daño total. Únicamente aplica para ataques que posean proyección física.
+
+  ESCALA | ESCALA                              | RANGO I | RANGO II | RANGO III | RANGO IV | RANGO V
+  -------+-------------------------------------+---------+----------+-----------+----------+--------
+  TIER 4 | BLINDAJE COMÚN                      | 35      | 55       | 70        | 90       | 110    
+  TIER 4 | RES. LÍM. HUM.                      | 75      | 110      | 145       | 185      | 220    
+  TIER 3 | RES. SOBREHUM. (METAL)              | 110     | 165      | 220       | 275      | 330    
+  TIER 3 | RES. SOBREHUM. + (DIAMANTE)         | 145     | 220      | 290       | 365      | 440    
+  TIER 3 | RES. BESTIA (ACERO ORG/CARBONADIUM) | 180     | 275      | 365       | 455      | 550    
+  TIER 2 | RES. COLOSAL (ADAMANTIUM)           | 220     | 330      | 435       | 545      | 660    
+  TIER 1 | RES. DIVINA (VIBRANIUM)             | 255     | 385      | 510       | 640      | 770    
+  TIER 0 | RES. CÓSMICA (URU)                  | 290     | 440      | 580       | 730      | 880    
+
+REGENERACIÓN  La regeneración es el atributo que expresa cuánta vitalidad perdida es capaz de recuperar un personaje de forma pasiva, sumándose la cantidad de regeneración a la vitalidad al final de cada turno general. Excluye a regeneración TIER 4 y 3, las cuales no poseen recuperación de puntos de VIT en combate.
+
+  ESCALA | RANGO I | RANGO II | RANGO III | RANGO IV | RANGO V
+  -------+---------+----------+-----------+----------+--------
+  TIER 2 | 50      | 90       | 140       | 200      | 270    
+  TIER 1 | 85      | 140      | 210       | 285      | 375    
+  TIER 0 | 120     | 190      | 280       | 370      | 480    
+  TIER X | 155     | 240      | 350       | 455      | 585    
+
+PODER PSÍQUICO   El poder psíquico (PSI) es el atributo que engloba la capacidad ofensiva de un personaje que tiene la habilidad de causar daño directamente a la mente de un oponente. Excluye a telepatía latente y moderada, quienes no poseen capacidades dañinas directas.
+
+  ESCALA           | RANGO I | RANGO II | RANGO III | RANGO IV | RANGO V
+  -----------------+---------+----------+-----------+----------+--------
+  BETA             | 150     | 225      | 300       | 375      | 450    
+  ALPHA            | 210     | 315      | 420       | 525      | 630    
+  HIGH ORDER       | 270     | 405      | 540       | 675      | 810    
+  OMEGA            | 330     | 495      | 660       | 825      | 990    
+  HIGH ORDER OMEGA | 390     | 585      | 780       | 975      | 1170   
+
+ENERGÍA  La Energía (EN) es el atributo que representa la capacidad de manipular energías de un personaje para utilizarla en una variedad de objetivos.
+
+  ESCALA          | RANGO I | RANGO II | RANGO III | RANGO IV | RANGO V
+  ----------------+---------+----------+-----------+----------+--------
+  CONTROL EN. V   | 185     | 280      | 375       | 470      | 565    
+  CONTROL EN. IV  | 245     | 370      | 495       | 620      | 745    
+  CONTROL EN. III | 305     | 460      | 615       | 770      | 925    
+  CONTROL EN. II  | 365     | 550      | 735       | 920      | 1105   
+  CONTROL EN. I   | 425     | 640      | 855       | 1070     | 1285   
+  CONTROL EN. 0   | 485     | 730      | 975       | 1220     | 1465   
+
+PODER TELEQUINÉTICO  El Poder Telequinético es una variante del atributo de ENERGÍA (EN) utilizado exclusivamente por personajes poseedores de Telequinesis.
+
+  ESCALA           | RANGO I | RANGO II | RANGO III | RANGO IV | RANGO V
+  -----------------+---------+----------+-----------+----------+--------
+  BETA             | 230     | 345      | 460       | 575      | 690    
+  ALPHA            | 300     | 450      | 600       | 750      | 900    
+  HIGH ORDER       | 370     | 555      | 740       | 925      | 1110   
+  OMEGA            | 440     | 660      | 880       | 1100     | 1320   
+  HIGH ORDER OMEGA | 510     | 765      | 1020      | 1275     | 1530   
+
+PODER ELEMENTAL  El atributo de Poder Elemental (PE) corresponde a personajes con capacidades únicas para la manipulación de elementos, ya sea aquellos cuatro fundamentales o derivados.
+
+  ESCALA          | RANGO I | RANGO II | RANGO III | RANGO IV | RANGO V
+  ----------------+---------+----------+-----------+----------+--------
+  CONTROL PE. V   | 195     | 290      | 385       | 480      | 575    
+  CONTROL PE. IV  | 255     | 380      | 505       | 630      | 755    
+  CONTROL PE. III | 315     | 470      | 625       | 780      | 935    
+  CONTROL PE. II  | 375     | 560      | 745       | 930      | 1115   
+  CONTROL PE. I   | 435     | 650      | 865       | 1080     | 1295   
+  CONTROL PE. 0   | 495     | 740      | 985       | 1230     | 1475   
+
+PODER MÁGICO  El atributo de Poder Mágico (PM) está designado a aquellos personajes con afinidad mágica, englobando la capacidad de estos para realizar hechizos y sus efectos en terceros.
+
+  ESCALA | RANGO I | RANGO II | RANGO III | RANGO IV | RANGO V
+  -------+---------+----------+-----------+----------+--------
+  TIER 5 | 165     | 250      | 335       | 420      | 505    
+  TIER 4 | 225     | 340      | 455       | 570      | 685    
+  TIER 3 | 285     | 430      | 575       | 720      | 865    
+  TIER 2 | 345     | 520      | 695       | 870      | 1045   
+  TIER 1 | 405     | 610      | 815       | 1020     | 1225   
+  TIER 0 | 465     | 700      | 935       | 1170     | 1405   
+
+DECIBELES  Los decibeles (DEC) son el atributo especial que caracteriza a aquellos personajes con la habilidad para manipular el sonido, proyectándose de forma ofensiva hacia terceros.
+
+  ESCALA           | RANGO I | RANGO II | RANGO III | RANGO IV | RANGO V
+  -----------------+---------+----------+-----------+----------+--------
+  CONTROL SÓN. IV  | 140     | 210      | 280       | 350      | 420    
+  CONTROL SÓN. III | 210     | 315      | 420       | 525      | 630    
+  CONTROL SÓN. II  | 280     | 420      | 560       | 700      | 840    
+  CONTROL SÓN. I   | 350     | 525      | 700       | 875      | 1050   
+  CONTROL SÓN. 0   | 420     | 630      | 840       | 1050     | 1260   
+
+ESCALAS ARMAMENTÍSTICAS
+armas de contacto  Toda aquella parafernalia que realiza contacto directo con el objetivo.
+
+  ESCALA                  | RANGO I | RANGO II | RANGO III | RANGO IV | RANGO V
+  ------------------------+---------+----------+-----------+----------+--------
+  ARMA CORTA CONVENCIONAL | 170     | 255      | 340       | 425      | 510    
+  ARMA CORTA TIER 3       | 220     | 330      | 440       | 550      | 660    
+  ARMA CORTA TIER 2       | 270     | 405      | 540       | 675      | 810    
+  ARMA CORTA TIER 1       | 320     | 480      | 640       | 800      | 960    
+  ARMA CORTA TIER 0       | 370     | 555      | 740       | 925      | 1110   
+  ARMA MED. CONVENCIONAL  | 190     | 285      | 380       | 475      | 570    
+  ARMA MED. TIER 3        | 240     | 360      | 480       | 600      | 720    
+  ARMA MED. TIER 2        | 290     | 435      | 580       | 725      | 870    
+  ARMA MED. TIER 1        | 340     | 510      | 680       | 850      | 1020   
+  ARMA MED. TIER 0        | 390     | 585      | 780       | 975      | 1170   
+  ARMA PESADA CONVENC.    | 210     | 315      | 420       | 525      | 630    
+  ARMA PESADA TIER 3      | 260     | 405      | 540       | 675      | 810    
+  ARMA PESADA TIER 2      | 310     | 495      | 660       | 825      | 990    
+  ARMA PESADA TIER 1      | 360     | 585      | 780       | 975      | 1170   
+  ARMA PESADA TIER 0      | 410     | 675      | 900       | 1125     | 1350   
+
+armas de FUEGO   Toda aquella parafernalia que realiza NO contacto directo con el objetivo.
+
+  ESCALA             | RANGO I | RANGO II | RANGO III | RANGO IV | RANGO V
+  -------------------+---------+----------+-----------+----------+--------
+  CALIBRE BÁSICO     | 170     | 255      | 340       | 425      | 510    
+  CALIBRE MEDIO      | 220     | 330      | 440       | 550      | 660    
+  CALIBRE MODERADO   | 270     | 405      | 540       | 675      | 810    
+  CALIBRE ALTO       | 320     | 480      | 640       | 800      | 960    
+  CALIBRE EXPLOSIVO  | 370     | 555      | 740       | 925      | 1110   
+  DESTRUCCIÓN MASIVA | 420     | 630      | 840       | 1050     | 1260   
+
+AMBIDIESTRO   Capacidad poseída por algunos personajes para equipar un arma en cada mano. En caso de que ambas armas pertenezcan a un mismo tipo, se obtendrá un reemplazo de escala total en base a la combinación de escala de las armas que se posea equipadas siguiendo lo explicado visualmente en las siguientes tablas. Se deberá tener en cuenta la escala destacada en el cruce de las dos escalas de arma poseídas. Ambas armas seguirán aplicando sus propiedades pasivas en caso de tenerlas.
+
+  AMBIDIESTRO             | ARMA CORTA CONVENCIONAL | ARMA CORTA TIER 3 | ARMA CORTA TIER 2 | ARMA CORTA TIER 1 | ARMA CORTA TIER 0
+  ------------------------+-------------------------+-------------------+-------------------+-------------------+------------------
+  ARMA CORTA CONVENCIONAL | ARMA CORTA TIER 3       | ARMA CORTA TIER 3 | ARMA CORTA TIER 2 | ARMA CORTA TIER 1 | ARMA CORTA TIER 0
+  ARMA CORTA TIER 3       | ARMA CORTA TIER 3       | ARMA CORTA TIER 2 | ARMA CORTA TIER 2 | ARMA CORTA TIER 1 | ARMA CORTA TIER 0
+  ARMA CORTA TIER 2       | ARMA CORTA TIER 2       | ARMA CORTA TIER 2 | ARMA CORTA TIER 1 | ARMA CORTA TIER 1 | ARMA CORTA TIER 0
+  ARMA CORTA TIER 1       | ARMA CORTA TIER 1       | ARMA CORTA TIER 1 | ARMA CORTA TIER 1 | ARMA CORTA TIER 0 | ARMA CORTA TIER 0
+  ARMA CORTA TIER 0       | ARMA CORTA TIER 0       | ARMA CORTA TIER 0 | ARMA CORTA TIER 0 | ARMA CORTA TIER 0 | ¿?               
+
+
+  AMBIDIESTRO            | ARMA MED. CONVENCIONAL | ARMA MED. TIER 3 | ARMA MED. TIER 2 | ARMA MED. TIER 1 | ARMA MED. TIER 0
+  -----------------------+------------------------+------------------+------------------+------------------+-----------------
+  ARMA MED. CONVENCIONAL | ARMA MED. TIER 3       | ARMA MED. TIER 3 | ARMA MED. TIER 2 | ARMA MED. TIER 1 | ARMA MED. TIER 0
+  ARMA MED. TIER 3       | ARMA MED. TIER 3       | ARMA MED. TIER 2 | ARMA MED. TIER 2 | ARMA MED. TIER 1 | ARMA MED. TIER 0
+  ARMA MED. TIER 2       | ARMA MED. TIER 2       | ARMA MED. TIER 2 | ARMA MED. TIER 1 | ARMA MED. TIER 1 | ARMA MED. TIER 0
+  ARMA MED. TIER 1       | ARMA MED. TIER 1       | ARMA MED. TIER 1 | ARMA MED. TIER 1 | ARMA MED. TIER 0 | ARMA MED. TIER 0
+  ARMA MED. TIER 0       | ARMA MED. TIER 0       | ARMA MED. TIER 0 | ARMA MED. TIER 0 | ARMA MED. TIER 0 | ¿?              
+
+
+  AMBIDIESTRO          | ARMA PESADA CONVENC. | ARMA PESADA TIER 3 | ARMA PESADA TIER 2 | ARMA PESADA TIER 1 | ARMA PESADA TIER 0
+  ---------------------+----------------------+--------------------+--------------------+--------------------+-------------------
+  ARMA PESADA CONVENC. | ARMA PESADA TIER 3   | ARMA PESADA TIER 3 | ARMA PESADA TIER 2 | ARMA PESADA TIER 1 | ARMA PESADA TIER 0
+  ARMA PESADA TIER 3   | ARMA PESADA TIER 3   | ARMA PESADA TIER 2 | ARMA PESADA TIER 2 | ARMA PESADA TIER 1 | ARMA PESADA TIER 0
+  ARMA PESADA TIER 2   | ARMA PESADA TIER 2   | ARMA PESADA TIER 2 | ARMA PESADA TIER 1 | ARMA PESADA TIER 1 | ARMA PESADA TIER 0
+  ARMA PESADA TIER 1   | ARMA PESADA TIER 1   | ARMA PESADA TIER 1 | ARMA PESADA TIER 1 | ARMA PESADA TIER 0 | ARMA PESADA TIER 0
+  ARMA PESADA TIER 0   | ARMA PESADA TIER 0   | ARMA PESADA TIER 0 | ARMA PESADA TIER 0 | ARMA PESADA TIER 0 | ¿?                
+
+
+  AMBIDIESTRO        | CALIBRE BÁSICO     | CALIBRE MEDIO      | CALIBRE MODERADO   | CALIBRE ALTO       | CALIBRE EXPLOSIVO  | DESTRUCCIÓN MASIVA
+  -------------------+--------------------+--------------------+--------------------+--------------------+--------------------+-------------------
+  CALIBRE BÁSICO     | CALIBRE MEDIO      | CALIBRE MEDIO      | CALIBRE MODERADO   | CALIBRE ALTO       | CALIBRE EXPLOSIVO  | DESTRUCCIÓN MASIVA
+  CALIBRE MEDIO      | CALIBRE MEDIO      | CALIBRE MODERADO   | CALIBRE MODERADO   | CALIBRE ALTO       | CALIBRE EXPLOSIVO  | DESTRUCCIÓN MASIVA
+  CALIBRE MODERADO   | CALIBRE MODERADO   | CALIBRE MODERADO   | CALIBRE  ALTO      | CALIBRE ALTO       | CALIBRE EXPLOSIVO  | DESTRUCCIÓN MASIVA
+  CALIBRE ALTO       | CALIBRE ALTO       | CALIBRE ALTO       | CALIBRE ALTO       | CALIBRE EXPLOSIVO  | CALIBRE EXPLOSIVO  | DESTRUCCIÓN MASIVA
+  CALIBRE EXPLOSIVO  | CALIBRE EXPLOSIVO  | CALIBRE EXPLOSIVO  | CALIBRE EXPLOSIVO  | CALIBRE EXPLOSIVO  | DESTRUCCIÓN MASIVA | DESTRUCCIÓN MASIVA
+  DESTRUCCIÓN MASIVA | DESTRUCCIÓN MASIVA | DESTRUCCIÓN MASIVA | DESTRUCCIÓN MASIVA | DESTRUCCIÓN MASIVA | DESTRUCCIÓN MASIVA | ¿?                
+

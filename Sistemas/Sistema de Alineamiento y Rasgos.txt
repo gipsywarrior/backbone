@@ -1,0 +1,214 @@
+Sistema de RASGOS Y ALINEAMIENTO
+Introducción  El sistema de rasgos y alineamiento procura dar orden a la construcción e interpretación de personajes jugables en MUHRPG.
+En primer lugar, el alineamiento describe el compás moral ético de un individuo a través de dos ejes: apego a las normas y la búsqueda del bien común. Por otra parte, los rasgos estructuran los aspectos generales de la personalidad y orientan al jugador a dilucidar el perfil psicológico que quiera darle a su personaje.
+Si bien resulta secundario a mecánicas de combate, este sistema establece el margen de las oportunidades interpretativas que puedan ofrecerse o negarse al jugador en escenas y eventos, así como puede condicionar su integración a agrupaciones.
+
+1. ALINEAMIENTO ‎ ‎
+-------------------
+
+El alineamiento o alineación es una descripción simplificada de la conducta ética y moral de un personaje o de una agrupación, dicho modelo está guiado por dos ejes independientes. La interacción entre estos dos ejes origina una matriz de nueve alineamientos.
+
+  EJES    | LEGAL         | NEUTRAL         | CAÓTICO        
+  --------+---------------+-----------------+----------------
+  BUENO   | LEGAL BUENO   | NEUTRAL BUENO   | CAÓTICO BUENO  
+  NEUTRAL | LEGAL NEUTRAL | NEUTRAL TOTAL   | CAÓTICO NEUTRAL
+  MALVADO | LEGAL MALVADO | NEUTRAL MALVADO | CAÓTICO MALVADO
+
+
+   | EJE NORMATIVO
+
+El eje horizontal o normativo (legal, neutral, caótico) representa la actitud del individuo frente al orden y las normas de un contexto social, que bien pueden ser leyes, códigos morales, principios valóricos, tradiciones o jerarquías de poder. Evalúa cómo la consciencia del personaje sopesa las reglas y valores externos, y cuánto se expresan en su conducta final.
+  -+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   | EJE ÉTICO
+
+El eje vertical o ético (bueno, neutral, malvado) representa la disposición del personaje a buscar el bien común de manera autónoma, es decir, por acción y esfuerzo propios, aunque eso comprometa su conveniencia y exija sacrificio personal. Puede servir como distintivo evidente en la separación entre héroes y villanos clásicos.                                         
+
+  » 1. Al momento de la creación de un personaje, el jugador debe escoger uno de los nueve alineamientos. El alineamiento elegido tiene que ser registrado por el usuario en foro, dentro del hilo correspondiente. Ningún personaje carecerá de alineamiento, a no ser que carezca de uso de razón y, en virtud de ello, su documento constate omitir alineamiento de forma explícita.
+  » 2. Una vez escogido y registrado, el alineamiento de un personaje no puede ser modificado, salvo en los casos estipulados a continuación.
+  » 2.1. Narración puede conceder la oportunidad de modificar el alineamiento de un personaje a su jugador si lo ve necesario.
+  » 2.2. Al final de cada temporada (divisiones narrativas de larga escala que agrupan episodios consecutivos de la historia de MUHRPG), Narración permitirá a los jugadores alterar el alineamiento de sus personajes bajo un plazo de tiempo establecido.
+  » 3. En el momento fundacional de una agrupación, el líder debe escoger un alineamiento apropiado para el colectivo y tiene la responsabilidad de constatar dicha decisión en foro. Ninguna agrupación carecerá de alineamiento.
+  » 4. Las restricciones que tenga la agrupación en cuanto al alineamiento escogido y qué personajes se pueden unir a ella están estipuladas en el Sistema de Agrupaciones y Solitarios.
+  » 5. Una vez escogido y registrado, el alineamiento de una agrupación no puede ser editado, excepto en las siguientes situaciones.
+
+» 5.1. Narración puede convenir un ajuste en el alineamiento de una agrupación si lo ve necesario.
+--------------------------------------------------------------------------------------------------
+
+  » 5.2. El cambio del líder habilita inmediatamente una modificación en el alineamiento de la agrupación, bajo el juicio del nuevo jugador al mando y la inspección de Narración. El nuevo líder es responsable de informar a Narración de esta situación.
+  » 5.3. Ante el cierre de temporada, Narración puede habilitar la modificación del alineamiento de ciertas agrupaciones bajo un plazo de tiempo establecido.
+  » 6. Todos los cambios de alineamiento, sean de personaje o de agrupación, deben ser registrados en sus respectivos temas.
+  » 7. Cualquier intento de engañar al Equipo Administrativo en materia de alineamientos será sancionado en función de la gravedad de la falta.
+Aclaración: La descripción general de alineamientos presenta ideas intuitivas para orientar al jugador y mostrarle cuál alineación se aproxima más a su concepto de personaje. Las descripciones a continuación no tienen por qué ser consideradas como directrices absolutas a seguir.
+DESCRIPCIÓN GENERAL DE ALINEAMIENTOS
+
+   | LEGAL BUENO
+
+Personifican el altruismo moral y responden al deber. Las leyes o las autoridades existen en función del bien común y es por ello que deben ser acatadas y respetadas. Confían en que las instituciones asisten, deliberan y castigan para el bien de toda la ciudadanía.
+Ejemplos: Steve Rogers, Jean Grey, Vision y Black Panther.                                                                    
+  -+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   | NEUTRAL BUENO
+
+Actúan por el bien común de acuerdo a las circunstancias, más allá de estar limitados por la obediencia o por el rechazo de las normas sociales. Tienen una ética basada en la empatía y la respuesta directa, no en la jerarquía, protocolos o instituciones.
+Ejemplos: Doctor Strange, Peter Parker, Bruce Banner.                                                                                  
+   | CAÓTICO BUENO
+
+Manifiestan un rechazo consistente a la autoridad, con un código de acción propio desentendido de la ortodoxia social. Buscan el bien común fuera de los márgenes convencionales, burocráticos o institucionales. 
+Ejemplos: Wolverine, Remy LeBeau, Elektra Natchios, Shatterstar.                                                                                                                   
+   | LEGAL NEUTRAL
+
+Encarnan el respeto irrestricto por la ley, el apego a los protocolos y la defensa de las instituciones, muchas veces sin miramientos por el bienestar o dignidad ajenos. Suelen formar parte de organizaciones burocráticas o de cuerpos militares altamente entrenados.
+Ejemplos: Nick Fury, Uatu the Watcher, Ronan the Accuser.                                                                   
+   | NEUTRAL TOTAL
+
+No son consistentes en su alineación por el bien o por el mal, así como tampoco muestran adhesión ni rechazo por el orden. Existen bajo un aura de indiferencia ante la estructura, como si la noción del orden fuera insignificante para la fuerza superior que los guía. Suelen ser científicos, entes cibernéticos o seres cósmicos.
+Ejemplos: Galactus, Danger, Doctor Nemesis, Phoenix Force.    
+   | CAÓTICO NEUTRAL
+
+Impulsivos, la libertad personal de acción resulta ser su máxima (o, a veces, única) convicción. La mayoría de ellos hasta demuestra cierto desprecio por la adorada santidad de los héroes. Romper la ley es una costumbre y no se dejan aleccionar por ninguna doctrina o bando.
+Ejemplos: Deadpool, Loki, Namor, Venom.                                                                          
+   | LEGAL MALVADO
+
+Leales, estrictos, organizados y, quizá, hasta honrados. Acarrean como bagaje doctrinas que justifican sus acciones o estructuras jerárquicas que les confieren poder sobre los demás. Se valen de la autoridad y del orden para obtener rédito a costa del bienestar de otros. 
+Ejemplos: Victor von Doom, Red Skull, Wilson Fisk, Helmut Zemo.                                                      
+   | NEUTRAL MALVADO
+
+Carentes de moral, son personajes que demuestran flexibilidad en su malicia. Acatar o repudiar a la autoridad resulta secundario, sus diabólicas motivaciones son lo principal. El neutral malvado no convendrá objeciones en su camino si los pasos a tomar lo acaban llevando a su destino. 
+Ejemplos: Taskmaster, Mystique, Enchantress, Killgrave, Electro.                                     
+   | CAÓTICO MALVADO
+
+Erráticos y agresivos. Ya sea por placer o convicción personal, buscan la destrucción del orden y la convivencia, a menudo con brutalidad y violencia sin precedentes. Es peligroso intentar trabajar o pactar con ellos, ya que se caracterizan por rehusarse activamente a la obediencia y repudiar cualquier forma de sumisión impuesta.
+Ejemplos: Green Goblin, Carnage, Bullseye, Shuma-Gorath.
+
+
+2. RASGOS ‎ ‎
+-------------
+
+Los rasgos son una mecánica basada en diez pares de atributos contrapuestos, destinada a perfilar de manera simple y coherente la psicología del personaje jugador. De estos pares de atributos, cada jugador debe escoger tres rasgos para su personaje. Comúnmente, estos rasgos no tendrán incidencia directa sobre combates, salvo mecánicas excepcionales dictadas con anterioridad en algún documento o por el Equipo Administrativo.
+El efecto de estos atributos concierne al ámbito interpretativo: sirve como una guía consistente para el usuario y las decisiones que toma su personaje, asimismo, cuando participe en eventos o escenas, servirá a los narradores para caracterizar la coyuntura que envuelve a dicho personaje. Ningún rasgo es puramente beneficioso o totalmente perjudicial, más bien, todos ellos pueden desembocar en oportunidades o desventajas dependiendo de las circunstancias dadas en la interacción narrativa.
+  » 1. Al momento de la creación de un personaje, el jugador debe escoger tres rasgos específicos del total de veinte (diez pares). La elección de rasgos tiene que ser registrada por el usuario en el tema correspondiente dentro del foro.
+  » 2. Una vez elegidos y registrados, los rasgos de un personaje no pueden ser modificados, con excepción de los casos señalados a continuación:
+  » 2.1. El Equipo Administrativo puede conceder la oportunidad de modificar los rasgos de un personaje a su jugador si lo ve necesario.
+  » 2.2. Con la conclusión de una temporada, Narración habilitará la edición de rasgos de los personajes bajo un plazo de tiempo establecido.
+  » 2.3. Si un jugador recibiera un documento con efecto sobre sus rasgos, de tal modo que se incurriera en los casos descritos en los puntos » 4.1., » 5.1. o » 6., entonces se le habilitará modificar la selección previa de rasgos de su personaje según lo indicado en dichos puntos.
+
+» 3. Toda modificación de rasgos debe ser constatada en el respectivo tema.
+---------------------------------------------------------------------------
+
+  » 4. Es posible que ciertos documentos concedan rasgos adicionales, superando el límite estándar de tres. El documento debe indicarlo explícitamente, así como referirse a cuál es el rasgo adicional en específico concedido. Estos rasgos adicionales tienen que quedar registrados también.
+  » 4.1. Si un documento otorga al jugador un rasgo adicional específico que ya había sido seleccionado previamente dentro del límite estándar de tres rasgos, dicho rasgo deja de ocupar hueco y pasa a considerarse un rasgo adicional. En consecuencia, el jugador puede elegir un nuevo rasgo para ocupar el hueco liberado, el cual sí contará dentro del límite estándar.
+  » 5. Es posible que ciertos documentos obliguen al usuario a asignarse un rasgo específico. Estos rasgos impuestos (por restricción explícita de documento) no se consideran adicionales y sí se contabilizan para el límite de tres rasgos estándar. Los rasgos impuestos también deben ser registrados.
+  » 5.1. Si el jugador ya hubiera hecho la elección de rasgos antes de recibir ese documento, tendrá que intercambiar uno de sus rasgos vigentes por el rasgo impuesto.
+  » 6. En el caso de que un rasgo adicional o un rasgo impuesto (por documento) fuera incompatible con un rasgo previamente seleccionado por el jugador, aquel rasgo previamente elegido debe ser sustituido por uno compatible con los atributos establecidos por documento.
+  » 7. Es posible que ciertos documentos permitan superar la incompatibilidad entre un par de rasgos, en cuyo caso deben indicarlo explícitamente y hacer alusión expresa a cuál es el par de rasgos cuya incompatibilidad es omitida.
+  » 8. Cualquier intento de engañar al Equipo Administrativo en materia de rasgos será sancionado en función de la gravedad de la falta.
+LISTA DE RASGOS
+
+   | CÉLEBRE
+Incompatible con Forajido
+Fama, carisma y alta sociedad. Existes bajo el ojo público y hasta eres adorado por la gente común. Demuestras dominio sobre las etiquetas, convenciones y expectativas sociales. Tienes un afán por mantener las apariencias y cuidar tu imagen, aunque eso implique tener que llevar una vida oculta.
+Ejemplos: Tony Stark, Emma Frost y Hellfire Club, Janet van Dyne.                                                                  
+  -+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   | FORAJIDO
+Incompatible con Célebre
+Vives al margen de lo convencional y de la ley, rehuyendo de lo que la sociedad considera aceptable. Has tomado refugio en zonas apartadas, como alcantarillas o edificios abandonados. Mantienes vínculos con el bajo mundo, dado que la discriminación, la precariedad o los vicios te han obligado a trabajar o colaborar con círculos criminales repudiados por la sociedad.
+Ejemplos: Callisto y Morlocks, Cloak, Man-Thing, The Hood.
+
+
+   | OSADO
+Incompatible con Prudente
+Arrogante y temerario. Para ti, muchas veces prima la soberbia u osadía por encima de la razón y el instinto de supervivencia. A veces, te crees capaz de vencer a cualquiera que te propongas. A pesar de tus defectos, la valentía hace de ti un guerrero invaluable.
+Ejemplos: Namor, Sunfire, Thor Odinson, Hercules, Peter Quill, Gladiator, Daken, Ares.                                                           
+  -+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   | PRUDENTE
+Incompatible con Osado
+La cautela prevalece ante cualquier pasión o impulso visceral que tengas. Tus acciones y ataques son premeditados, y generalmente no tomas la iniciativa de dar el primer golpe: prefieres esperar a que tus oponentes estén desprevenidos o en desventaja, anticipando que sea el enemigo quien dé el primer paso en falso.
+Ejemplos: Charles Xavier, Taskmaster, Valeria Richards, Nathaniel Essex, Helmut Zemo, Forge.
+
+
+   | ABNEGADO
+Incompatible con Hedonista
+Asceta y austero, has renegado de la mayoría de los placeres que ofrece el mundo, así como también te has despegado de los lujos y del poder personal. Tu pasado te condujo a adoptar alguna disciplina o doctrina trascendente a cambio de abandonar los vicios.
+Ejemplos: The Ancient One, Shen Xorn, Danny Rand, Kwannon, Karnak Mander-Azur, Gateway.                                      
+  -+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   | HEDONISTA
+Incompatible con Abnegado
+Persigues el placer por encima de las demás cosas, incluso por escapismo, adicción u obsesión. Sueles pecar de vanidad y egoísmo. No tienes miedo a disfrutar la vida, y quizás la disfrutas demasiado. Tus hábitos te han vuelto propenso a caer víctima de vicios peligrosos.
+Ejemplos: Stacy X, Emma Frost, Daken, Sebastian Shaw, Enchantress, Satana Hellstrom, Starfox, Sersi, Killgrave.
+
+
+   | COMPASIVO
+Incompatible con Cruel
+Rechazas la violencia innecesaria y solo confrontas con agresión si resulta inevitable. Te inclinas por la simpatía, el pacifismo y hasta la lástima. Posees un grado superior de empatía y lectura emocional sobre las personas. La misericordia te hace capaz de perdonar actos que otros jamás se atreverían.
+Ejemplos: Mantis, Ruth Aldine, Karma, Nezhno Abidemi, Brother Voodoo, The Ancient One.       
+  -+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   | CRUEL
+Incompatible con Compasivo
+No palideces ante el sufrimiento que infliges, a veces, hasta pareces disfrutar de él. Quizá la violencia ha sido palpable y perpetua a lo largo de tu existencia, así que has adoptado la brutalidad como estilo de vida o mecanismo de defensa. Eres vengativo, despiadado, implacable e incluso sadista. 
+Ejemplos: Tomi Shishido, Bullseye, Carnage, Typhoid Mary, Quentin Quire, Daken, Lady Deathstrike.
+
+
+   | IDEALISTA
+Incompatible con Maquiavélico
+Ejemplar de rectitud, manifiestas tus valores y principios en palabra y acción. Te ciernes a la honestidad y no rehuyes de tus ideales. La pasión que demuestras por tus valores te hace persuasivo ante otros con cercanía ideológica. Por otra parte, eres purista y dogmático, con poca disposición a transar o ceder en lo que crees correcto. Sospechas de personajes pragmáticos y flexibles, pues interpretas dichas cualidades como cinismo y deshonestidad.
+Ejemplos: Steve Rogers, Vance Astrovik, Havok, Blue Marvel, White Tiger, Karolina Dean, Moondragon, Silverclaw.                                                       
+  -+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   | MAQUIAVÉLICO
+Incompatible con Idealista
+Estás dispuesto a conformarte con el menor de los males. Comprendes muy bien los matices del poder y la necesidad de obtenerlo por los medios que sea, pues carecer de él pone en peligro la realización de tus objetivos. Te distancias con facilidad de las implicancias éticas de tus acciones. La verdad es secundaria: eres un hábil manipulador, capaz de elucubrar engaños convincentes. Apenas titubearás al momento de tergiversar, infiltrar, conspirar y traicionar, si es con tal de cumplir tus planes.
+Ejemplos: Sebastian Shaw, Doctor Doom, Dark Beast, Nick Fury, Norman Osborn, Loki Laufeyson, Medusa, Maximus Boltagon.
+
+
+   | ERUDITO
+Incompatible con Curtido
+Eres una figura académica y especialista en un área técnica a la que pocos pueden aspirar, o bien, un mentor enigmático que imparte con criterio saberes esotéricos. Has dedicado años de vida al estudio sistemático y permaneces rodeado de archivos, compendios, libros o pergaminos. Es poco probable encontrarte fuera de tu espacio de estudio, aula o laboratorio.
+Ejemplos: Moira MacTaggert, Kavita Rao, Reed Richards, Arnim Zola, Agatha Harkness, Shuri, Brother Voodoo, Henry McCoy.
+  -+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   | CURTIDO
+Incompatible con Erudito
+Has sido forjado por la experiencia a primera mano y los esfuerzos por sobrevivir. Mientras otros pasan el tiempo consultando libros, tú has estudiado la vida. Tu inteligencia se ha construido con práctica directa y exposición a las crudezas del mundo, concediéndote una astucia certera.
+Ejemplos: Silver Sable, Fantomex, Elektra Natchios, Bishop, Domino, Natalia Romanova, Shatterstar, Taskmaster, Raven Darkholme.                                                                  
+
+
+   | PERCEPTIVO
+Incompatible con Hermético
+Prestas atención a detalles que otros tienden a ignorar. Eres observador por naturaleza y hábil detectando rastros o pistas. Las sutilezas e indicios te son legibles, permitiéndote arribar a conclusiones a menudo acertadas sobre los demás o acerca de un caso en particular. Sin embargo, esta sensibilidad te hace vulnerable a estímulos contundentes o perturbadores. Quizá tienes habilidades hipersensoriales o te desempeñas como investigador.
+Ejemplos: Jessica Jones, Daredevil, White Tiger, Fantomex, Wolverine, Karnak Mander-Azur, Ulysses Cain.
+  -+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   | HERMÉTICO
+Incompatible con Perceptivo
+Eres obtuso y casi inmutable. Tus sentidos parecieran estar blindados a estímulos que, para otros, resultarían desconcertantes o debilitantes, como lo es el dolor agudo, sin ir más lejos. Tu rigidez perceptiva frecuentemente excluye esos detalles que yacen en la periferia de tu rango de atención, exponiéndote a distracciones o despistes.
+Ejemplos: Nuke, Crossbones, Omega Red, Gorgon Petragon, Joseph Hauer, Hulk.                                                                                                                                   
+
+
+   | COOPERATIVO
+Incompatible con Elusivo
+Eres diestro en organización y táctica. Cuentas con una habilidad excepcional para la planificación y coordinación de estrategias, incluso bajo presión. Brillas en esfuerzos colaborativos y con frecuencia te responsabilizas por el desempeño e integridad de tu equipo, algunos hasta dirían que tienes corazón de líder. No estás dispuesto a dejar a nadie atrás. Eres visto por los demás miembros de tu escuadrón como una figura que inspira y promueve la moral de equipo.
+Ejemplos: Steve Rogers, Scott Summers, Alex Summers, Brian Braddock, Nighthawk, Hyperion, Cable, Black Bolt.                                                     
+  -+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   | ELUSIVO
+Incompatible con Cooperativo
+Algunos te consideran un lobo solitario y es cierto que te resulta difícil seguir órdenes, aun cuando tu desacato comprometa el éxito del plan. Prefieres trabajar solo, porque comprendes que la carga de otros integrantes merma la eficacia y rapidez de una operación, en especial, cuando se trata de infiltración y extracción. Tu especialidad no es seguir directivas, sino el trabajo espontáneo, discreto y evasivo. Eres un operativo sigiloso y escurridizo, y sabes muy bien cuándo es momento de abandonar la lucha y escapar.
+Ejemplos: Blade, Elektra Natchios, Black Cat, Fantomex, Ghost, Kwannon, Shroud, Paladin, Raven Darkholme.
+
+
+   | RESILIENTE
+Incompatible con Trastornado
+Tu fortaleza proviene del interior. A pesar de las adversidades que has enfrentado y que están por venir, te mantienes en control absoluto de ti mismo, con una armonía mental inquebrantable. Puede ser que tu estabilidad provenga de la fe, de una disciplina propia o algún entrenamiento monástico, pero aun con tu sustento remecido eres capaz de recomponerte. Tu voluntad parece imbatible.
+Ejemplos: Shang-Chi, Karnak Mander-Azur, Danny Rand, Thena, Moondragon, Charles Xavier, Brother Voodoo.                                                
+  -+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   | TRASTORNADO
+Incompatible con Resiliente
+Aún cargas con experiencias traumáticas o demonios internos. Has exhibido patologías psicológicas concretas o manifestado formas indefinidas de disociación, colapso, obsesión, fragmentación o psicosis. Tu conflicto interior ha engendrado una identidad voluble, presa del deterioro, rabia, culpa, compulsiones y resentimiento, dejándote vulnerable a futuras experiencias adversas y a fuerzas psíquicas o espirituales hostiles.
+Ejemplos: David Haller, Moon Knight, Proteus, Typhoid Mary, Quentin Quire, Robert Reynolds, Daken, Madelyne Pryor.
+
+
+   | ESPIRITUAL
+Incompatible con Racional
+Si bien el mundo moderno parece cada vez más alejado de las viejas cosmovisiones, tú aún defieres a ciertas tradiciones, costumbres o creencias. La sabiduría de nuestros ancestros podrá haber sido limitada o sesgada, pero en lo profundo de cada mito o leyenda se esconde un patrón consistente entre las culturas de antaño. A los demás les resulta incómoda esta orientación, pero tu intuición te obliga a buscar esa verdad que otros no ven.
+Ejemplos: Agatha Harkness, Daimon Hellstrom, Talisman, Jennifer Kale, Baron Mordo, Nico Minoru, Billy Kaplan, Shaman.                                                                                                                         
+  -+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   | RACIONAL
+Incompatible con Espiritual
+Aun en un mundo donde personas aparentemente corrientes manifiestan poderes legendarios, la razón debe primar. No te dejas seducir por delirios fantasiosos ni cuentos de hadas, para ti lo más importante es comprender el mundo en frío, de manera analítica, empírica y sistemática. Depositas tu confianza en datos duros y los modelos científicos derivados, manteniendo distancia y escepticismo de cualquier circunstancia que se desvíe del ámbito racional. Demuestras una inteligencia abstracta, matemática y lógica, que a otros puede llegar a inquietar.
+Ejemplos: Amadeus Cho, Reed Richards, Moira MacTaggert, Lunella Lafayette, Forge, Henry McCoy, Bruce Banner, Maximus Boltagon.
+

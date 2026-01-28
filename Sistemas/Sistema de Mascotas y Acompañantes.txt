@@ -1,0 +1,56 @@
+Sistema de MASCOTAS Y ACOMPAÑANTES
+Introducción  Dentro del Universo Marvel existen una infinidad de seres capaces de ser atraídos a nuestros personajes por distintas razones, convirtiéndose en fieles (u obligados) compañeros en nuestros enfrentamientos. Se conoce como Mascota o Acompañante a toda aquella función brindada por el juego capaz de realizar acciones ajenas al turno del usuario pero manejadas por este.
+
+1. INFORMACIÓN BÁSICA ‎ ‎
+-------------------------
+
+  » 1.1. Este sistema regula todo ser independiente a nuestro personaje capaz de realizar acciones por cuenta propia en nuestro turno, ya sean de índole suplementaria, defensiva u ofensiva.
+  » 1.2. Como norma general, toda mascota, acompañante u invocación debe ser llamada en combate mediante los medios que especifiquen en su respectivo documento.
+  » 1.2.1. Existen seres capaces de ignorar este punto. Estos mismos podrán ser equipados desde la ronda de preparación bajo las premisas que especifiquen en su respectivo documento.
+  » 1.3. Todo usuario cuenta con un único hueco para mascotas, acompañantes o invocaciones. Existen poderes que ignoran este punto, pero deberá ser especificado en su documento.
+  » 1.4. Toda mascota, acompañante o invocación puede ser objetivo en combate con normalidad, por lo que son capaces de recibir daño o efectos de cualquier índole.
+  » 1.5. Siempre se considera que estos se ubican en la misma casilla del usuario propietario como norma general.
+  » 1.5.1. Ninguna mascota, acompañante o invocación comparte posición con el propietario, de manera que si uno se encuentra en posición voladora, el otro permanecerá en el suelo salvo existan aclaraciones contrarias en su respectivo documento.
+  » 1.5.2. Ante efectos de control de masa recibidos por una mascota, acompañante o invocación, ignoran el punto 1.5 y permanecen en la casilla en donde fueron afectadas hasta que la duración del control finalice.
+  » 1.6. Ninguna mascota, acompañante o invocación puede verse beneficiada por pasivas ajenas a las de su documento. En caso de que el ser en cuestión pertenezca al documento de poder, se encontrarán aclaraciones referentes a este punto en específico.
+  » 1.7. Ninguna mascota, acompañante o invocación puede acceder a compras de tiendas especiales como experiencia o semejantes que no indiquen poderse aplicar sobre mascotas, acompañantes o invocaciones.
+  » 1.8. Toda mascota, acompañante o invocación posee sus propios atributos, habilidades, comandos, pasivas, etc. que irán indicadas en su propio documento, incluyendo los comandos básicos que estas mismas pueden realizar.
+  » 1.9. Ninguna mascota, acompañante o invocación puede verse beneficiada por habilidades o aumentativos ajenos a los de su respectivo documento.
+  » 1.10. Toda mascota, acompañante o invocación únicamente es capaz de realizar acciones en el turno propio del usuario. En turnos de interferencia o semejantes, estas no podrán accionar de ninguna manera salvo se encuentren aclaraciones contrarias en su documento.
+
+2. ACCIONES ‎ ‎
+---------------
+
+  » 2.1. A modo de norma general, cada mascota, acompañante o invocación tendrán un total de 4 PA para accionar en la ronda completa, sin embargo, el dueño gasta PA en función al coste de las habilidades de la mascota, acompañante o invocación:
+  » 2.1.1. Cada 2 habilidades de 1 PA empleados por la mascota, acompañante o invocación consumirá 1 PA del dueño.
+  » 2.1.2. Cada habilidad de 2 PA empleada por la mascota, acompañante o invocación consumirá 1 PA del dueño.
+  » 2.1.3. Cada habilidad de 3 PA empleada por la mascota, acompañante o invocación consumirá 2 PA del dueño.
+  » 2.1.4. Cada habilidad de 4 PA empleada por la mascota, acompañante o invocación consumirá 3 PA del dueño.
+  » 2.1.5. En caso de que el dueño no posea los PA necesarios para cubrir el gasto de la habilidad de la mascota, acompañante o invocación esta no tendrá efecto sobre los afectados.
+  » 2.2. A modo de norma general, el alcance de toda mascota, acompañante o invocación es el de su VELOCIDAD. Esta velocidad no puede ser aumentada salvo por el propio documento.
+
+» 2.2.1. La velocidad máxima que una mascota puede tener es 5 VEL.
+------------------------------------------------------------------
+
+  » 2.2.2. En caso de utilizar habilidades de contacto o alcance 1 se considera que la mascota, acompañante o invocación se acerca a una casilla adyacente del objetivo, por lo que pueden ser afectadas por efectos sobre el terreno con normalidad.
+  » 2.2.3. Siguiendo con el punto 2.2.2, para afectar a oponentes en posiciones superiores con este tipo de habilidades es requerido que la mascota, acompañante o invocación se encuentre en la misma o superior posición que el objetivo.
+  » 2.3. Ninguna mascota, acompañante o invocación es capaz de realizar acciones que no consuman Puntos de Acción. El coste mínimo siempre será 1 PA.
+  » 2.4. Ninguna mascota, acompañante o invocación adquiere acceso automático a todos los Comandos Básicos. En su respectivo documento deben estar indicados cuales pueden usar.
+  » 2.5. Ninguna mascota, acompañante o invocación puede realizar durante su turno propio acciones si el usuario dueño de la misma se encuentra bajo un control de masa que le impida accionar. Esto no impide que la mascota, acompañante o invocación reaccione ante un ataque dirigido hacia su dueño.
+  » 2.5.1. Mascotas, acompañantes o invocaciones cuyo documento les permita accionar de manera autónoma ignoran este punto.
+
+3. REACCIONES ‎ ‎
+-----------------
+
+  » 3.1. En caso de que el usuario reaccione con defensas (no evasiones) de alcance propio frente a una habilidad de área, únicamente defenderán a la mascota, acompañante o invocación en caso de que esta se considere externa.
+  » 3.2. Cuando el usuario evade, evade junto la mascota, acompañante o invocación. En caso de que la mascota, acompañante o invocación hagan uso de una habilidad de evasión, lo hará sola.
+  » 3.2.1. La única excepción de que no evadan juntos es en caso de que uno de los dos no cumpla los requisitos de reacción. En este caso únicamente lo eludirá quien los cumpla.
+  » 3.3. No es necesario que la mascota, acompañante o invocación utilice el comando básico Socorrer sobre el dueño para defenderlo, sin embargo, el dueño si debe utilizar el comando básico Socorrer para defender a la mascota.
+  » 3.3.1. Defensas externas realizadas por el dueño que tengan la capacidad de cubrir a 2 o más combatientes ignoran este punto.
+
+4. FINALIZACIÓN DE COMBATE ‎ ‎
+------------------------------
+
+  » 4.1. Una vez el usuario de la mascota, acompañante o invocación cae en combate y no se puede levantar por sus propios medios, se considera que esta última sale del combate también.
+  » 4.1.1. En caso de ser levantado posteriormente esta vuelve al combate con los STATs y efectos previos a irse.
+  » 4.3. Una vez caída la mascota, acompañante o invocación, esta queda completamente descartada del combate y no puede volver a ser llamada dentro del mismo salvo que posea aclaraciones contrarias en su respectivo documento.

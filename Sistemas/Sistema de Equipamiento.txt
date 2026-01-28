@@ -1,0 +1,68 @@
+Sistema de EQUIPAMIENTO
+Introducción  En el Universo Marvel existe una amplia gama de parafernalias equipables en combate. Este sistema regula su interacción con el aspecto RPG, limitando la capacidad de equipación de los jugadores.
+
+1. reglas básicas ‎ ‎
+---------------------
+
+  » 1.1. Al inicio de un combate existen dos formas de equipar parafernalias: en caso de que sea un reto, permite equiparlas en ronda de preparación, y en caso de que sea un ataque fuera de combate, permite equiparlas tras el ataque o previo a defender según sea el caso. En cualquier otro caso de unión, se equipa en la ronda de preparación junto a la unión. Cualquier equipación fuera de estos momentos consume 1 Punto de Acción a excepción de si se indica lo contrario.
+  » 1.2. Desequipar un objeto (arma, escudo, etcétera) no consume puntos de acción. Desequipar una armadura consume 1 Punto de Acción, a excepción de si esta lo ignora. En ninguno de estos casos cuenta para la duración de estados alterados.
+  » 1.3. Equiparse con dos armas o con un arma de dos manos impide el uso de cualquier habilidad con los brazos que no esté relacionada a estas.
+
+» 1.4. El límite de parafernalias según el tipo es:
+---------------------------------------------------
+
+
+Armas: Máximo un arma.
+----------------------
+
+
+Armadura: Máximo una armadura.
+------------------------------
+
+
+Traje: Máximo un traje.
+-----------------------
+
+
+Accesorio: Máximo dos accesorios.
+---------------------------------
+
+
+Artefacto mágico: Máximo un artefacto mágico.
+---------------------------------------------
+
+
+Vehículo: Máximo un vehículo.
+-----------------------------
+
+
+» 1.5. Los tipos de parafernalia son los siguientes:
+----------------------------------------------------
+
+
+   | ARMADURAS
+Tipo: Parafernalia suplementaria.
+Descripción: Parafernalia basada en el recubrimiento total de su usuario, dotándolo de capacidades físicas superiores y nuevas habilidades.
+Limitaciones: Ciertas armaduras pueden tener tamaños mínimos de fisionomía para ser utilizados. No solapable con Traje.                                  
+  -+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   | TRAJES
+Tipo: Parafernalia suplementaria.
+Descripción: Parafernalia basada en el recubrimiento parcial del usuario, dotándolo de habilidades o capacidades según el tejido del mismo. Normalmente están relacionados a un símbolo o título.
+Limitaciones: No solapable con Armadura.                                                              
+   | ARMAS
+Tipo: Parafernalia ofensiva/defensiva de diversos tipos (fuego, filo, contundente, etcétera).
+Descripción: Parafernalia comúnmente ofensiva junto a habilidades relacionadas a su tipo. Algunas pueden ser completamente defensivas, como un Escudo.
+Limitaciones: Sólo un arma. En caso de poseer ambidiestro, incrementa el límite a dos.
+   | ARTEFACTOS MÁGICOS
+Tipo: Parafernalia suplementaria de gran capacidad.
+Descripción: Parafernalia considerada un punto superior a los Accesorios. Poseen propiedades mágicas de gran nivel, lo que las vuelve altamente peligrosas.
+Limitaciones: Sólo un artefacto mágico.                                                                       
+   | ACCESORIOS
+Tipo: Parafernalia suplementaria.
+Descripción: Parafernalia de múltiples efectos basada en la temática de la misma.
+Limitaciones: Máximo dos accesorios. No es posible acumular accesorios si estos ocupan la misma parte del cuerpo.                                                                                                 
+   | VEHÍCULOS
+Tipo: Parafernalia suplementaria.
+Descripción: Parafernalia basada en la mejora de los desplazamientos. Puede incluir habilidades extra.
+Limitaciones: Máximo un vehículo.                                                                                                                                                             
+

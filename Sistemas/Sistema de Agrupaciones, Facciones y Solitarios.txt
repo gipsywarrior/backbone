@@ -1,0 +1,2108 @@
+Sistema de agrupaciones,
+facciones y solitarios
+
+Introducción
+------------
+
+Desde organizaciones encubiertas hasta célebres escuadrones de superhéroes, las facciones desempeñan un papel fundamental a la hora de moldear el universo de Marvel. Además de cumplir con su función organizativa, las entidades grupales acaban siendo uno de los medios primordiales de movilización entre jugadores. Este sistema abarca todo lo que hay que saber sobre las dinámicas de agrupación y a su vez describe las herramientas a disposición de aquellos usuarios que decidan optar por el camino solitario.
+
+1. agrupaciones ‎ ‎
+-------------------
+
+Las agrupaciones se entienden como la forma más primaria de congregación entre distintos jugadores con intereses en común. Sobre un principio de autonomía, pueden ser imaginadas y ambientadas bajo premisas distintas, por ejemplo, organizaciones formales, escuadras de superhéroes, pandillas, sociedades secretas, cultos, etcétera. Este anexo se rige bajo los siguientes parámetros:
+  » 1. Se considera al fundador de una agrupación como responsable de su dirección y gestión conceptual. Dentro de sus libertades, la fundación de una agrupación debe cumplir con los siguientes requisitos:
+  » 1.1. Reunir un mínimo de cinco (5) integrantes iniciales, dentro de los que habrá de designarse un líder y (opcionalmente) un segundo al mando. Así mismo, el máximo de miembros posibles por agrupación es de diez (10) personas. El incumplimiento de esta cláusula resultará en un plazo de gracia equivalente a treinta (30) días para recuperar a los integrantes necesarios. Dado el caso contrario, la agrupación se verá disuelta.
+  » 1.2. Cada agrupación cuenta con un total de tres (3) huecos de mejoras de forma base. Al momento de alcanzar el rango tres (3), se desbloqueará un cuarto hueco adicional de manera gratuita.
+  » 1.3. Contar con un tema en el apartado correspondiente que respete los parámetros estipulados y cuente con datos actualizados. La falta de atención a los registros de una agrupación podrá acarrear sanciones acordes.
+
+» 1.4.  Escoger entre afiliarse a una facción o ser una agrupación independiente.
+---------------------------------------------------------------------------------
+
+  » 2. Un jugador ve restringida su pertenencia a una única agrupación a la vez. Para abandonar una agrupación deberá de haber permanecido un total de catorce (14) días en la misma.
+  » 3. Los miembros de una agrupación, ya sea en solitario o en grupo, pueden llevar a cabo una misión semanal a cambio de 75 Puntos de Experiencia, añadiendo a dicho valor 10 Puntos de Experiencia por cada participante involucrado en la misma (siendo el máximo obtenible 125 Puntos de Experiencia) . Cada misión debe ser registrada de forma obligatoria en el apartado correspondiente y requiere de, mínimo, tres (3) nubes de diálogo por participante para considerarse válida. Esta misión puede repetirse las veces que sea necesario, sin embargo aquellos jugadores que ya se hayan beneficiado de la experiencia otorgada por este medio no podrán volverlo a hacer sino hasta la semana siguiente. De cara a los requisitos de ascenso de agrupación, es posible contabilizar únicamente dos (2) misiones por semana.
+  » 4. Las agrupaciones verán la naturaleza de sus acciones como grupo definida por la alineación asignada al momento de su creación. Por esta misma razón, los miembros de una agrupación deberán corresponder la alineación convenida o en su defecto definirse como neutrales. Este artículo se rige por las normas establecidas por el sistema pertinente.
+  » 5. Una agrupación independiente puede decidir aliarse a otra agrupación distinta con la que comparta alineación o en su defecto se define como neutral.
+  » 5.1. El suceso de alianza debe verse justificado por sus respectivos motivos interpretativos y contar con un tema en el apartado de Interacciones Globales que relacione a las dos partes. Bajo el mismo tópico ha de hacerse un seguimiento de hechos que puedan concernir el estado de la asociación.
+  » 5.2. Una vez concretada la alianza, todos los miembros de las agrupaciones involucradas podrán beneficiarse del uso del comando básico Irrumpir entre sí.
+  » 5.3. Los aliados de una agrupación pueden asistir a una actividad semanal de la misma y beneficiarse de la experiencia obtenida siempre y cuando no hubiese participado de actividades de su propia agrupación durante la misma semana.
+  » 5.4. Se confiere al Equipo Administrativo la facultad de disolver aquellas alianzas que, considere, se han producido bajo un contexto no acorde a la normativa aquí planteada.
+  » 6. Una agrupación afiliada a una facción goza por defecto de los beneficios de alianza para con el resto que formen parte de dicha coalición. Bajo ningún punto de vista podrán realizarse alianzas con agrupaciones externas.
+
+» 7. A medida que una agrupación se desarrolle, subirá de rango en función a la siguiente tabla.
+------------------------------------------------------------------------------------------------
+
+
+  REQ                     | I   | II  | III
+  ------------------------+-----+-----+----
+  ANTIGÜEDAD EN DÍAS      | 30  | 60  | 90 
+  RECONOCIMIENTO
+OBTENIDO | 150 | 300 | 450
+  MISIONES COMPLETADAS    | 8   | 15  | 20 
+  EVENTOS ASISTIDOS       | 3   | 5   | 8  
+
+Aclaración: Los requisitos de ascenso se interpretan como acumulables. Adicionalmente, cada ascenso deberá ser aprobado por el equipo de moderación para corroborar su validez.
+MEJORAS DE AGRUPACIÓN
+rango i
+
+   | BASE DE OPERACIONES
+
+Efecto: Permite a la agrupación instalarse en una parte concreta del mapeado, anexando una sala que funja como su lugar de reuniones.
+
+Coste: 1.000 EXP. Puede ser aportado por la totalidad de los miembros.
+
+Requisitos: Poseer el mínimo de miembros establecidos por el sistema.
+  -+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+   | SALA DE ENTRENAMIENTOS
+
+Efecto: Permite a los miembros de la agrupación realizar una interacción de al menos cinco diálogos, en la cual interpretan una rutina de entrenamiento. Un único uso por semana por cada jugador. Se debe colgar su uso en el post de sede.
+
+Otorga un (1) requisito de combate a los participantes.
+
+Coste: 2 
+
+Requisitos: Rango I
+  -+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+   | DISPENSARIO CLÍNICO
+
+Efecto: Reduce el tiempo de duración de una HERIDA o pérdida de VIGOR en un 25% [*0.75]. Adicionalmente a ello, aumenta el número máximo de curas a realizar por jugadores que posean el perfil paramédico (o poderes basados en la habilidad de curar) en dos.
+
+Coste: 3 
+
+Requisitos: Rango I
+  -+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+   | TABLERO INFORMATIVO 
+
+Efecto: Permite a la agrupación realizar una misión adicional por semana, la cual contabilizará tanto para el máximo permitido de cara a los ascensos como también para la recolección de puntos de reconocimiento.
+
+Coste: 1 
+
+Requisitos: Rango I.
+  -+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+rango ii
+
+   | GIMNASIO
+
+Efecto: Otorga un aumento porcentual de daños y defensas equivalente al 15% [*1.15] durante un lapso de 72 horas. Se debe indicar su uso en el apartado de Heridas, Muertes y Secuestros. Solamente puede ser utilizado por uno solo de los miembros de la agrupación a la semana.
+
+Coste: 1 
+
+Requisitos: Rango II.
+  -+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+   | BALNEARIO
+
+Efecto: Otorga 1 Punto de Acción adicional durante un lapso de 72 horas. Se debe indicar su uso en el apartado de Heridas, Muertes y Secuestros. Solamente puede ser utilizado por uno de los miembros de la agrupación a la semana.
+
+Coste: 1 
+
+Requisitos: Rango II.
+  -+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+   | PRISIÓN
+
+Efecto: Permite secuestrar a un jugador, siempre y cuando se haya provocado al mismo, al menos, el estado herido o una pérdida de vigor de tres puntos. El tiempo máximo en que puede durar dicho estado es 48 horas. Se debe esperar al menos siete días para ser aplicado nuevamente sobre el mismo objetivo.
+
+Coste: 1 
+
+Requisitos: Rango II.
+  -+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+   | SALA PERSONALIZADA I
+
+Efecto: Efecto a confeccionar según la temática de la agrupación. Debe ser aprobado por el equipo de moderación.
+
+Coste: 1 
+
+Requisitos: Rango II
+  -+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+   | ZONA DE HUÉSPEDES
+
+Efecto: Incrementa el máximo de miembros posibles en tres (3). Se puede adquirir un máximo de dos (2) veces en total.
+
+Coste: 1 
+
+Requisitos: Rango II
+  -+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+rango iii
+
+   | CENTRO DE MANDO
+
+Efecto: Permite realizar una actividad especial en el mapeado, de al menos quince (15) nubes de diálogo, consistente en un hecho o suceso especial para la agrupación. Otorga 150 Puntos de Experiencia. Una vez cada quince (15) días.
+
+Coste: 2 
+
+Requisitos: Rango III
+  -+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+   | AMPLIACIÓN
+
+Efecto: Desbloquea un hueco adicional de mejora. Puede ser adquirida un máximo de dos veces, duplicando su precio en la segunda compra.
+
+Coste: 1 
+
+Requisitos: Rango III
+  -+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+   | HUECO ADICIONAL
+
+Efecto: Permite incorporar una cuarta agrupación a una facción ya creada o que vaya a crearse tras la realización de la presente compra. Solamente puede ser adquirida una vez por facción.
+
+Coste: 1 
+
+Requisitos: Rango III
+  -+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+   | SALA DE CONTROL
+
+Efecto: En eventos, concede un bonificador de +2 (dos) al final del dado de cada jugador en la primera acción conjunta realizada. El uso de este beneficio debe ser registrado en Heridas, Muertes y Sucesos previo a la asistencia y reserva su utilización a una por mes. Puede ser empleada en distintas salas del mismo evento a la vez.
+
+Coste: 3 
+
+Requisitos: Rango III
+  -+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+   | SALA PERSONALIZADA III
+
+Efecto: Efecto a confeccionar según la temática de la agrupación. Debe ser aprobado por el equipo de moderación.
+
+Coste: 2 
+
+Requisitos: Rango III
+  -+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2. facciones ‎ ‎
+----------------
+
+Las facciones son entendidas como el segundo eslabón de asociación y comprenden una magnitud mayor a la de las agrupaciones. Dentro de este tipo de grupos se encuentran coaliciones de orden superior y altos cargos de liderazgo, por ejemplo, organizaciones gubernamentales, entidades académicas, comunidades, naciones y estados, corporaciones mundiales, reinados, etcétera.
+  » 1. La función primaria de las facciones es la de contener distintas agrupaciones que comparten un eje intrínseco, por lo que a menudo son masivas. Para la creación de una facción se deben cumplir los siguientes parámetros:
+
+» 1.1. Cubrir el coste de 1  y ostentar el rango III de agrupación.
+-------------------------------------------------------------------
+
+  » 1.2. Reunir un total de tres (3) agrupaciones que compartan alineación o, en su defecto, que se definan a sí mismas como neutrales, siendo el máximo posible de grupos que la pueden integrar. El incumplimiento de esta cláusula resultará en un plazo de gracia de dos meses tras los cuales se efectuará la restauración de las agrupaciones involucradas a su estado previo a la coalición.
+  » 1.3. Definir un líder capaz de lidiar con el peso interpretativo que simboliza la dirección de una facción. Opcionalmente, escoger un segundo al mando.
+  » 1.4. Establecer una jerarquía organizada que se distinga de aquellas que comprendan sus facciones a liderar.
+  » 1.5. Definir una sede principal. Dado el caso de que más de una agrupación dentro de la coalición goce de esta mejora, deberá escogerse sólo una.
+  » 1.6. Contactar con el equipo de moderación a fin de concretar la validez de la facción y, de ser necesario, convenir una edición de documentos grupales existentes.
+  » 2. El rango de una facción será definido por el de aquella agrupación que ostenta el rango más alto. Así mismo, se prevé la posibilidad de que las mejoras adquiridas por cada agrupación sean compartidas con las restantes, respetando los límites de uso establecidos en el presente sistema.
+  »2.1. En caso de que, por algún factor externo, no exista una agrupación de rango mayor, por defecto la facción estará encasillada en el rango I.
+  » 3. Una agrupación puede abandonar el conjunto que se ha creado, sin embargo una vez lo haga, dejará de gozar de los beneficios propios de este método de agrupamiento, ocupando un rango en función a los requisitos alcanzados de manera individual por aquella. En igual sentido, el grupo que ha abandonado la coalición no podrá hacer uso, como resulta lógico, de las mejoras de su antigua facción.
+  » 4. Una vez cada veinte (20) días, es posible organizar un evento de facción dirigido por el líder al que podrán asistir todas las agrupaciones anexadas, recibiendo a cambio una suma de 250 puntos de experiencia acumulables con los adquiridos a través de misiones de agrupación. A diferencia de éstas últimas, no podrá ser repetido sino hasta acabar su enfriamiento.
+Las siguientes facciones revisten el carácter de oficial, lo cual no implica que no puedan ser creadas otras en base a las preferencias de los jugadores.
+
+  FACCIONES OFICIALES | FACCIONES OFICIALES | FACCIONES OFICIALES | FACCIONES OFICIALES | FACCIONES OFICIALES       | FACCIONES OFICIALES       | FACCIONES OFICIALES       | FACCIONES OFICIALES       | FACCIONES OFICIALES | FACCIONES OFICIALES | FACCIONES OFICIALES | FACCIONES OFICIALES
+  --------------------+---------------------+---------------------+---------------------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------+---------------------+---------------------+--------------------
+                      |                     |                     |                     |                           |                           |                           |                           |                     |                     |                     |                    
+                      |                     |                     |                     |                           |                           |                           |                           |                     |                     |                     |                    
+                      |                     |                     |                     |                           |                           |                           |                           |                     |                     |                     |                    
+                      |                     |                     |                     |                           |                           |                           |                           |                     |                     |                     |                    
+  S.H.I.E.LD.
+
+HEROIC | S.H.I.E.LD.
+
+HEROIC | S.H.I.E.LD.
+
+HEROIC | S.H.I.E.LD.
+
+HEROIC | INSTITUTO XAVIER
+
+HEROICA | INSTITUTO XAVIER
+
+HEROICA | INSTITUTO XAVIER
+
+HEROICA | INSTITUTO XAVIER
+
+HEROICA | H.Y.D.R.A.
+
+VILLANA | H.Y.D.R.A.
+
+VILLANA | H.Y.D.R.A.
+
+VILLANA | H.Y.D.R.A.
+
+VILLANA
+  S.H.I.E.LD.
+
+HEROIC | S.H.I.E.LD.
+
+HEROIC | S.H.I.E.LD.
+
+HEROIC | S.H.I.E.LD.
+
+HEROIC | INSTITUTO XAVIER
+
+HEROICA | INSTITUTO XAVIER
+
+HEROICA | INSTITUTO XAVIER
+
+HEROICA | INSTITUTO XAVIER
+
+HEROICA | H.Y.D.R.A.
+
+VILLANA | H.Y.D.R.A.
+
+VILLANA | H.Y.D.R.A.
+
+VILLANA | H.Y.D.R.A.
+
+VILLANA
+
+Aclaración: A medida que la cronología avance, se abrirá la posibilidad de que los usuarios pasen a ocupar cargos de relevancia en facciones oficiales desempeñados por personajes no jugables al comienzo. El método de selección será a convenir según cuanto hayan destacado los integrantes de cada facción y las circunstancias particulares de las mismas.
+
+3. solitarios ‎ ‎
+-----------------
+
+Es entendido por jugador solitario a aquel que decida llevar a su personaje por un camino individual. Sea por preferencias personales o una repelencia natural a las dinámicas sociales, el usuario pasa a ignorar las mecánicas de grupo para seguir las siguientes premisas.
+  » 1. Un jugador solitario renuncia a las funciones prestadas por agrupaciones y facciones, bajo este concepto, deja de poder participar de cualquier beneficio otorgado por el sistema respectivo y documentos relativos al mismo. Una vez renuncie a la senda solitaria, verá anulados los beneficios otorgados por la misma.
+  » 2. El abandono de la senda solitaria requerirá de haber permanecido durante 15 días en la misma. Del mismo modo, no será posible reintegrarse a este sistema sino pasados 15 días dentro de una agrupación.
+
+» 3. El comando Irrumpir del jugador pasa a regirse por las siguientes condiciones:
+-----------------------------------------------------------------------------------
+
+  » 3.1. El bando al que se pretende favorecer debe estar compuesto únicamente por otros jugadores considerados como solitarios.
+  » 3.2. Los jugadores pertenecientes al bando respecto del cual el solitario pretende unirse deben compartir su misma alineación o, en su defecto, considerarse como neutrales.
+  » 3.3. El usuario no puede irrumpir a favor aquellos jugadores con los que hubiese tenido algún combate previo dentro de un lapso no menor a diez días.
+  » 4. Un jugador solitario puede llevar a cabo una misión semanal, obteniendo un total de 150 puntos de experiencia. Cada una de esas misiones debe ser debidamente registrada dentro del apartado correspondiente. Se requiere, al menos, tres (3) nubes de diálogos para que la misión sea considerada como válida.
+  » 5. Siempre y cuando un jugador solitario se encuentra combatiendo en inferioridad numérica, goza de los siguientes beneficios:
+  » 5.1. [ESCAPISTA]: Reduce el número de casillas de distancia necesarias para utilizar el comando básico huir en uno (1) por cada jugador que integre el bando oponente.
+  » 5.2. [DETERMINADO]: Aumenta el valor de habilidades ofensivas y defensivas, sin tener en cuenta su índole, en un 5% [1.05] por cada jugador que integre el bando oponente. Máximo 15% [*1.15]
+  » 5.3. [IMBATIBLE]: El usuario obtiene una reducción del 15% [*0.75] respecto a ofensivas de sus rivales que sean consideradas físicas, elementales o energéticas.
+  » 5.4. [INCONTROLABLE]: El usuario obtiene una reducción de una (1) acción respecto de controles de masa producidos por habilidades de índole física, elemental o energética.
+  » 6. Un usuario solitario puede formar parte de una facción oficial a fines interpretativos. Bajo esta premisa, se considera que el jugador no puede acceder a ningún beneficio que esta pueda otorgar más que la participación remunerada de sus eventos mensuales.
+MEJORAS DE solitarios
+
+   |  | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia.
+  -+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |  | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia.
+   |  | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia.
+   |  | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia.
+   |  | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia.
+   |  | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia.
+   |  | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia. | ESCONDRIJO
+
+Efecto: Permite al jugador crear una ubicación en el mapa con la premisa de una base segura, gozando de los siguientes beneficios según la zona que ha escogido:
+
+Área patrimonial: El usuario se asienta en un lugar de prominente impronta mística. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea mística.
+Área periférica: El usuario se asienta en las zonas más alejadas del casco céntrico. Otorga un aumento del 10% [*1.10] tanto en daños como en defensas de habilidades cuya índole sea física.
+Área céntrica: El usuario se asienta en los espacios más próximos a todo lo que sucede en la ciudad. Los combates en los que participe el jugador dentro de una de las salas principales otorga 25 Puntos de Experiencia. Máximo un uso al día.
+Residencia privada: Por cada diez (10) divisas de bronce que el jugador reciba, obtiene una adicional.
+Refugio mutante: Aumenta en un 10% [*1.10] tanto los daños como las defensas del usuario, siempre y cuando aquél pertenezca a la raza mutante.
+
+Coste: 1.000 Puntos de Experiencia.
+
+
+   |  | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1
+  -+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |  | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1
+   |  | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1
+   |  | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1
+   |  | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1
+   |  | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1
+   |  | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1 | CONTACTOS
+
+Efecto: Habilita al jugador a las siguientes compras. Cada una de ellas se debe de publicar en el apartado de Heridas, Muertes y Sucesos.
+
+[Practicante no autorizado]: El usuario sana sus heridas, pasando a estar ileso.
+[Contrabando]: Otorga un arma de contrabando básica. Se debe de contactar con moderación. El coste de la compra aumenta por cada uso.
+[Mercenario]: Otorga un acompañante durante siete (7) días. Posee el 50% [*0.5] de los STAT’s básicos del usuario según su rango, el perfil armas de fuego y el perfil combatiente bruto, además de los comandos básicos.
+
+Coste: 1
+
+
+   |  | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3
+  -+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |  | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3
+   |  | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3
+   |  | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3
+   |  | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3
+   |  | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3
+   |  | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3 | KIT DE SECUESTRO
+
+Efecto: Permite secuestrar a un jugador, luego de haberle derrotado en combate o tras ejecutar una acción con esa finalidad en un evento D&D, estado el cual no puede extenderse más allá de 48 horas. Se debe esperar al menos quince días para volver a utilizar dicha habilidad sobre el mismo usuario.
+
+Coste: 3
+
+
+   |  | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2
+  -+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |  | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2
+   |  | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2
+   |  | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2
+   |  | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2
+   |  | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2
+   |  | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2 | ALIANZA
+
+Efecto: Permite formalizar una alianza con una agrupación o facción, de modo que el usuario tenga habilitada la participación en combates y el uso de las mejoras que aquellas posean, siempre que estas sean de rango II o inferior. 
+
+Basta con una única compra para acceder a la mecánica. 
+
+Es posible deshacer en cualquier momento dicho vínculo, debiendo de aguardar un plazo mínimo de diez (10) días para formalizar uno nuevo.
+
+Incompatible con la mejora “Sin cadenas”.
+
+Se debe registrar en el apartado de Heridas, Muertes y Suceso.
+
+Coste: 2
+
+
+   |  | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida.
+  -+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |  | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida.
+   |  | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida.
+   |  | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida.
+   |  | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida.
+   |  | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida.
+   |  | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida. | SIN CADENAS
+
+Efecto: Elimina para el usuario la restricción impuesta por el anexo 3.1 del presente sistema de forma permanente. 
+
+Incompatible con la mejora “Alianza”.
+
+Coste: 2 
+
+Requiere rango III como mínimo para ser adquirida.
+
+
+Aclaraciones: La compra y uso de estas mejoras debe registrarse en el historial de acciones.
+--------------------------------------------------------------------------------------------
+
