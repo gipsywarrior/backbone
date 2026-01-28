@@ -1,0 +1,411 @@
+
+████████████████████████████████████████████████████████████████████████████████
+                             Omnilinguismo   Cypher                             
+████████████████████████████████████████████████████████████████████████████████
+
+
+
+--------------------------------------------------------------------------------
+                              HABILIDADES BÁSICAS                               
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[ACONDICIONAMIENTO FÍSICO] – ENTRENAMIENTO INTENSIVO
+================================================================================
+  Física — Habilidad Pasiva
+
+EFECTO VISUAL:
+  A pesar de no ser su punto fuerte, el usuario siempre ha mantenido un entrenamiento constante, lo que le ha permitido llevar su cuerpo a un punto límite para asegurar un buen rendimiento en el combate cuerpo a cuerpo. Efecto: El usuario obtiene acceso a los siguientes STATS. [VITALIDAD HUMANO ENTRENADO]: Es capaz de soportar moderados daños antes de doblegar en mitad de un combate. [FUERZA HUMANO ENTRENADO]: El entrenamiento físico del usuario le ha permitido levantar elevados kilógramos, sin llegar a suponerle demasiado esfuerzo. [VELOCIDAD HUMANO ENTRENADO]: Gozar de una buena condición física ha hecho que el usuario pueda correr por varios minutos sin perder el aire. [4 REFLEJOS]: El usuario es capaz de ver y comprender toda clase de patrones; desde lenguajes corporales hasta las líneas ley que abundan en el aire, lo que le permite anticiparse casi a la perfección a cualquier ataque que se le interponga. [2 VOLUNTAD]: Las capacidades de comprender todo tipo de patrones han hecho que el usuario se vuelva un contrincante con una mentalidad firme y resistente. Adicional a aquello, el usuario desbloquea los perfiles Combatiente Ágil y Combatiente Bruto de manera gratuita.
+
+ACLARACIONES:
+  Los atributos aumentados se REEMPLAZAN, no se suman en ningún caso.
+
+================================================================================
+
+
+================================================================================
+[OMNILINGÜISMO] – “¿EN QUÉ LENGUAJE ESTÁS ESCRITO?”
+================================================================================
+  Mental — Habilidad Pasiva
+
+EFECTO VISUAL:
+  Las capacidades mutantes del usuario se remontan a una excesiva facilidad para reconocer, asimilar y replicar cualquier tipo de lenguaje existente, indiferentemente a si se tratan de lenguas muertas, jeroglíficos de cualquier tipo, o incluso idiomas procedentes de otros planetas o dimensiones. Efecto: El usuario obtiene acceso a las siguientes habilidades: [TRADUCCIÓN PERFECTA]: El usuario es capaz de reconocer los patrones de cada uno de los lenguajes que llegue a escuchar o leer, lo que le convierte en un mediador ideal entre todos aquellos que no logren comprender las lenguas a su mismo nivel. De cara a efectos D&D, el usuario obtiene una bonificación de +10 puntos al resultado final de su dado, siempre y cuando se traten de acciones que involucren el entendimiento, asimilación, o replicación a todo tipo de lenguaje, indiferentemente de su origen. [LECTURA DE INTENCIONES]: Desde que sus capacidades mutantes entraron en vigencia, el usuario se ha vuelto un experto en el análisis y el estudio del lenguaje corporal de las personas, lo que le ha permitido desde siempre anticiparse a cualquier clase de movimiento, o en su defecto saber cómo tratarlo. Una vez por ronda, el usuario puede ignorar en su totalidad cualquier tipo de requisito ante una habilidad ofensiva con proyección física ejecutada contra él salvo aquellas relacionadas con velocidad sónica, lumínica, orbital o similares. Esta propiedad aumenta en +1 PA la reacción que vaya a utilizar de por medio. [SOBRECARGA DE INFORMACIÓN]: La mente del usuario se encuentra plagada de datos abundantes en toda clase de idiomas, lo que lo vuelve un problema para telépatas carentes de experiencia. En caso de que algún jugador portador de telepatía inferior al grado “MAESTRO” aplique concentración sobre el usuario, recibirá un daño mental irreaccionable equivalente a “RANGO*150” por cada ronda en la que concentración permanezca activa. [PATRONES ERRÓNEOS]: El usuario es capaz de discernir cualquier tipo de alteración en su realidad a través de los patrones invisibles que puede ver en el aire. Bajo esta premisa, se considera que el usuario se vuelve inmune a cualquier tipo de ilusión, indiferentemente si viene a partir de habilidades místicas o mentales. [LECTURA DE LA REALIDAD]: El usuario puede interpretar la realidad como un lenguaje escrito por lo que puede reconocer de manera inmediata cuando la realidad sea reescrita o modificada. En combate rpg, el usuario es inmune a engaños o ilusiones del nivel de “Alteración de la realidad”. [LECTURA MÁGICA]: El usuario puede aprender habilidades de los TOMOS MÍSTICOS en donde no intervenga el PM de ninguna forma, puesto que este carece de dicho atributo. Para aprender estas habilidades debe realizar una interpretación de un mínimo de 10 diálogos en la que interprete leer el TOMO y aprender la habilidad. Así mismo, para poder realizar esta interpretación debe ponerse en contacto con algún poseedor del TOMO en cuestión que le permita leerlo. Un uso cada 7 días. Máximo “RANGO+1” habilidades. A partir de Rango 3 el usuario pasa a poder aprender “RANGO*2” habilidades, en las que máximo 2 serán de naturaleza defensiva. LENGUAJE BINARIO: El usuario es capaz de hablar el lenguaje de las máquinas pudiendo comunicarse incluso con virus tecno-orgánicos siendo totalmente inmune a los mismos.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[INTELECCIÓN MARCIAL] – COMBATIENTE HÁBIL
+================================================================================
+  Física/Mental — Habilidad Pasiva
+
+EFECTO VISUAL:
+  Las capacidades de combate del usuario se centran primordialmente en la comprensión del lenguaje corporal, tanto de aliados como de oponentes, para asegurar un rendimiento eficaz durante la contienda. Es aquello mismo lo que le vuelve un contrincante peligroso, a pesar de que las peleas no sean su punto más fuerte. Efecto: El usuario obtiene acceso a las siguientes habilidades: [INTELECCIÓN MARCIAL]: El usuario es capaz de encontrar los puntos débiles de cada uno de sus contrincantes a través de la lectura del lenguaje corporal, así mismo, también es capaz de discernir las fortalezas de cada uno de sus aliados, lo que lo vuelve, a la larga, en un estratega por excelencia. Durante la ronda de preparación, el usuario puede hacer uso del comando *Intelección Marcial* sobre un total de “RANGO” oponentes y/o aliados, sin consumo alguno de puntos de acción. En caso de utilizarse sobre un oponente, los daños y las defensas del usuario se verán potenciadas en un 25% [*1.25] siempre y cuando se utilicen en el contrincante marcado por esta habilidad. Asimismo, todos los daños hechos pasarán a ignorar en un 25% [*0.25] cualquier tipo de defensa pasiva, así como reducciones de daño en su totalidad. El usuario puede hacer uso de esta habilidad fuera de la ronda de preparación, pero su uso pasará a consumir 1 PA. Por otro lado, el usuario es capaz de hacer uso de esta habilidad a favor de sus aliados en combate, provocando que todas las órdenes del usuario efectuadas por el perfil líder se vean aumentadas en un 15% [*1.15], así como los comandos del perfil previamente dicho pasarán a consumir 1 PA menos. No es capaz de reducirse a 0 PA. [COMBATIENTE MANO A MANO - MÍMICO DE COMBATE]: El usuario obtiene los perfiles Combatiente Bruto y Combatiente Ágil. Adicionalmente, goza de una mente prodigiosa que le permite aprender de distintas formas de combate en tiempo récord. Una vez cada siete días, el usuario podrá copiar una habilidad cuerpo a cuerpo de un jugador siempre que esta no implique poseer alguna característica fisionómica o poder en específico. Para poder copiar la habilidad el usuario requiere salir victorioso del combate en cuestión e indicarlo en el post de Heridas y Muertes. El usuario posee un máximo de “RANGO*2” huecos de habilidad a copiar. En donde un máximo de dos (2) habilidades podrán ser defensivas. El usuario es capaz de aprender nuevos estilos de combate con tan sólo tener mínimas sesiones de práctica, llegando a superar con creces a sus maestros. El usuario puede aprender un perfil a elección al derrotar a “3” oponentes que posean susodicho. Luego de aprender un perfil, deben esperarse 14 días para aprender otro. No puede copiar el perfil científico en ninguno de sus caminos.
+
+ACLARACIONES:
+  - En caso de que un oponente marcado con intelección marcial caiga en combate, o en su defecto huya del mismo, el hueco que ocupaba previamente dentro de los límites de la habilidad vuelve a estar disponible. - El usuario no podrá ostentar por el perfil básico místico hasta alcanzado el rango III. Asimismo, se considera que tampoco podrá acceder a los tomos mágicos a pesar de desbloquear las pasivas del perfil en cuestión.
+
+================================================================================
+
+
+================================================================================
+[LIDERAZGO NATO] – MENTE ESTRATÉGICA
+================================================================================
+  Mental — Habilidad Pasiva
+
+EFECTO VISUAL:
+  A raíz de sus dificultades en el combate cuerpo a cuerpo, el usuario ha optado por desarrollar su gran capacidad cerebral en la planificación cuidadosa de movimientos, lo que lo vuelve en un estratega nato a la hora de guiar a sus compañeros. Efecto: El usuario obtiene acceso al perfil Líder de manera gratuita. De igual forma, obtiene acceso al siguiente beneficio. [ESTRATEGA POR EXCELENCIA]: El usuario analiza a la perfección el lenguaje corporal de sus aliados, y les da instrucciones exactas para desarrollar un rendimiento óptimo incluso en las situaciones más peligrosas. De cara a efectos D&D el usuario puede hacer uso del comando *Mente Estratégica* para aumentar en +2 puntos la tirada de todos sus compañeros de grupo durante el turno vigente. Un uso por evento.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+CIBERNAUTA EMPEDERNIDO
+================================================================================
+  Especial — Habilidad Pasiva
+
+EFECTO VISUAL:
+  El usuario ha desarrollado una obsesión insana por el internet y todo lo que puede ofrecer tras haber descifrado el lenguaje oculto que ofrece la red cibernauta. Efecto: El usuario obtiene acceso a los siguientes beneficios. [RED DE NOTICIAS]: El internet está plagado de datos interesantes sobre hechos que bien podrían pasar desapercibidos. Una vez por semana, el usuario podrá postear en el apartado de Heridas, Muertes y Sucesos el uso de esta habilidad para obtener un total de +50 puntos de experiencia. [CRIPTOMINADO]: "¿Quién dijo que me iba a morir de hambre con la carrera de lingüística?" Una vez por mes, el usuario puede hacer uso de esta habilidad adjunta en respuesta al tópico de Heridas, Muertes y Sucesos a fin de obtener una divisa de bronce bajo la premisa de que logra vender ofrecer sus servicios de traducción en internet.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO I                                     
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[LENGUAJE BINARIO] – RUPTURA DE PROGRAMACIÓN
+================================================================================
+
+300 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: 6
+
+
+Coste: Variable
+
+
+Tier I
+
+EFECTO VISUAL:
+  El usuario entra en contacto directo con un autómata, y a través de una larga charla, consigue alterar e incluso borrar varios de sus sistemas con el fin de reprogramarlo a su beneficio propio. Efecto: Bajo el coste de 2 PA el usuario podrá hacer uso del comando *Intervención de Sistemas*, con el fin de apoderarse en su totalidad de la voluntad de un robot, o en su defecto, híbridos robóticos, durante los próximos “RANGO turnos propios del usuario”. Se considera únicamente resistible en donde el oponente ve aumentado el coste de dicho comando en +1 PA, y es capaz de utilizarse un total de “RANGO” veces en un mismo turno y sobre un mismo oponente. En caso de que el contrincante reciba, se obtiene acceso a los siguientes sub-comandos: [PASIVA — CONTROL TOTAL]: Mientras intervención de sistemas se encuentre activa, el oponente afectado por la habilidad no podrá reaccionar a ninguno de los sub-comandos expuestos a continuación. De igual forma, se considera que pasa a estar bajo el control absoluto del usuario, únicamente pudiendo actuar en base a sus deseos. Durante el turno propio del robot, el usuario deberá indicarle hacia dónde desplazarse si es que así lo desea, pudiendo directamente no decirle y obligarlo a mantener su posición. [PASIVA — INMERSIÓN SISTEMÁTICA]: Mientras el usuario permanezca controlando al afectado por la habilidad, se considera que no podrá realizar ninguna acción ofensiva, y así mismo, todas las defensas del usuario pasarán a reducirse en un 50% [*0.5] [RUPTURA DE PROGRAMACIÓN — ¡A POR ELLOS!]: El usuario obliga al autómata a dañarse a sí mismo o a sus aliados en combate con las habilidades de mayor daño que posea, debiendo consumir obligatoriamente todos sus puntos de acción en atacarlos. Consume 2 PA del usuario, únicamente realizable en el turno propio del jugador controlado. [RUPTURA DE PROGRAMACIÓN — ¡AYÚDAME!]: El usuario obliga al autómata a socorrerlo ante una ofensiva inminente dirigida hacia él. Se considera que el autómata no podrá utilizar habilidades defensivas de por medio más allá del comando básico “socorrer”. Consume 1 PA del usuario, puede ser utilizado a modo de respuesta. [RUPTURA DE PROGRAMACIÓN — DEFENSAS AL 0%]: El usuario reprograma al autómata en su totalidad, de forma que todas sus defensas pasivas, así como reducciones de daño pasan a quedar inutilizadas durante el resto del combate. Consume 3 PA del usuario, y debe realizarse en su turno propio. No inutiliza inmunidades y/o reducciones a habilidades místicas, daño al alma, o daño mental. [RUPTURA DE PROGRAMACIÓN — AUTODESTRUCCIÓN]: Genera un daño equivalente al 65% de la “VITALIDAD MÁXIMA” del jugador controlado, así como un indirecto no catalogado del 20% [*0.20] del daño recibido hasta la finalización del combate. Este daño ignora en su totalidad las defensas pasivas del jugador controlado, así como sus reducciones de daño. Consume 5 PA del usuario, puede ser utilizado tanto en su turno propio como del jugador controlado. En caso de que el oponente que sea víctima de este subcomando se encuentre por debajo del 25% de su “VITALIDAD MÁXIMA” cae automáticamente del combate con una herida crítica que no podrá ser sanada o reducida bajo ningún medio, debiendo seguir las indicaciones del sistema de heridas. Un uso cada 14 días en caso de producirse este caso.
+
+ACLARACIONES:
+  - Estas habilidades ignoran inmunidades a controles, pudiendo controlar sin problema a maquinaría clasificada como “Omega Class”. - Puede utilizarse contra mascotas o acompañantes del tipo robótico, de forma que los contraefectos de inmersión sistemática pasarán a no estar vigentes. - En base al ítem anterior, las mascotas o acompañantes no podrán resistirse al control del usuario si su portador no le iguala o supera en VOLUNTAD.
+
+================================================================================
+
+
+================================================================================
+[COMBATIENTE HÁBIL] – MOVIMIENTO RÁPIDO
+================================================================================
+
+100 EXP
+
+
+Física — Defensiva (Evasión)
+
+
+Alcance: Propio
+
+
+Coste: 1 PA
+
+
+Tier III
+
+EFECTO VISUAL:
+  El usuario logra comprender el lenguaje corporal de un oponente, y realiza múltiples acrobacias para eludir un ataque inminente. Efecto: Permite al usuario evadir una habilidad ofensiva con proyección física y carente de área. Esta habilidad puede utilizarse dos veces en una misma ronda.
+
+ACLARACIONES:
+  - No consume puntos de velocidad.
+
+================================================================================
+
+
+================================================================================
+[COMBATIENTE HÁBIL] – IMPACTO VELOZ
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 1
+
+
+Coste: 1 PA
+
+
+Tier III
+
+EFECTO VISUAL:
+  El usuario propina un golpe a mano abierta a la garganta de un oponente, ocasionándole un daño significante. Efecto: Genera un daño de “FUE*1.5”. En caso de que el oponente afectado se encuentre bajo los efectos de intelección marcial la habilidad pasará a pedir un mínimo de 3 REF para reaccionar al ataque.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+[COMBATIENTE HÁBIL] – GOLPE ANTICIPADOR
+================================================================================
+
+100 EXP
+
+
+Física — Defensiva (Anticipación)
+
+
+Alcance: 1
+
+
+Coste: 2 PA
+
+
+Tier III
+
+EFECTO VISUAL:
+  El usuario se anticipa a los movimientos de un oponente y le propina un golpe rápido para impedir su actuar. Efecto: Utilizado en contra de una habilidad de contacto, genera un daño equivalente a “FUE*1.3”.
+
+ACLARACIONES:
+  - En caso de tener al oponente cuya habilidad vaya a ser anticipada bajo los efectos de intelección marcial se considera que la anticipación pasa a consumir 1 PA menos.
+
+================================================================================
+
+
+================================================================================
+[PATRONES ERRÓNEOS] – DE VUELTA A LA NORMALIDAD
+================================================================================
+
+100 EXP
+
+
+Mental — Defensiva (Anulación)
+
+
+Alcance: 5
+
+
+Coste: 2 PA
+
+
+Tier III
+
+EFECTO VISUAL:
+  El usuario logra darse cuenta de los cambios en uno de sus aliados, y hace uso de su conocimiento sobre el lenguaje emocional para librarlo de aquello que le está atormentando. Efecto: Utilizado a favor de un aliado, anula en su totalidad la duración de una habilidad causada por empatía o ilusiones indiferentemente de su carácter místico o mental. De igual forma, en caso de que el aliado con el que vaya a utilizarse esta habilidad se encuentre bajo los efectos de intelección marcial, el coste de la habilidad pasará a ser reducido a 1 PA. El usuario puede utilizar esta habilidad consigo mismo, tomando en cuenta que a efectos interpretativos se percata de que le están tratando de influenciar por métodos no convencionales. Este uso consume 1 PA. Un uso cada dos turnos propios.
+
+ACLARACIONES:
+  - En caso de que el oponente se encuentre impedimentado del habla no podrá hacer uso de esta habilidad sobre aliados. - No es posible anularse en caso de que el oponente que efectuó el control se trate de un portador de “TIER 2 MÁGICO” o superior; o en su defecto, portadores de telepatías de clase “MAESTRA” o superiores.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO II                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[COMBATIENTE HÁBIL] – ACROBACIA EVASIVA
+================================================================================
+
+100 EXP
+
+
+Física — Defensiva (Evasión)
+
+
+Alcance: Propio
+
+
+Coste: 2 PA
+
+
+Tier III
+
+EFECTO VISUAL:
+  El usuario realiza múltiples acrobacias con el intento de eludir una próxima ofensiva. Efecto: Permite al usuario evadir un ataque con proyección física que no supere el “RANGO + 1” de área.
+
+ACLARACIONES:
+  - Esta habilidad ve reducido su coste a 1 PA siempre que se use ante habilidades individuales.
+
+================================================================================
+
+
+================================================================================
+[COMBATIENTE HÁBIL] – GOLPE AL PLEXO SOLAR
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 1
+
+
+Coste: 2 PA
+
+
+Tier II
+
+EFECTO VISUAL:
+  El usuario arremete directamente contra el plexo solar de un oponente, lugar donde se encuentran un cúmulo de nervios que envían señales a distintas partes del cuerpo. Efecto: Genera un daño de “FUE*2.5” y otorga un indirecto por dolor equivalente al 10% [*0.1] del daño original durante las próximas cinco acciones.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[COMBATIENTE HÁBIL] – DESARME CONTUNDENTE
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 1
+
+
+Coste: 2 PA
+
+
+Tier III
+
+EFECTO VISUAL:
+  El usuario lleva a cabo una veloz técnica en la que desarma a un oponente, y posteriormente utiliza el arma que le arrebató de las manos para hacerle daño. Efecto: Desarma a un oponente y genera un daño equivalente a “ARMA*1.75”. Posterior a aquello, se considera que el usuario arroja el arma en un área 2 a su alrededor (debiendo indicar en qué casilla arroja el arma), dándole la posibilidad al oponente de recuperarla consumiendo un total de 1 PA. En caso de que el oponente se encuentre bajo los efectos de intelección marcial la habilidad pasará a requerir un total de 3 REF para reaccionarse.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[MANIPULACIÓN EMOCIONAL] – PERSUASIÓN
+================================================================================
+
+250 EXP
+
+
+Mental — Suplementaria/Defensiva
+
+
+Alcance: 6
+
+
+Coste: Variable
+
+
+Tier III
+
+EFECTO VISUAL:
+  Poniendo en práctica sus conocimientos sobre el lenguaje emocional, el usuario decide llevar a cabo una manipulación en la que busca inducir a la gente a diferentes sensaciones y emociones. Efecto: El usuario manipula emocionalmente al objetivo de esta habilidad pudiendo elegir cualquiera de los efectos marcados a continuación. [INDUCCIÓN A LA EUFORIA]: Las próximas 2 habilidades realizadas por el objetivo requerirá superarle en REFLEJOS para ser reaccionada. 1 PA. Este uso se considera suplementario y es solo aplicable sobre aliados. [INDUCCIÓN A LA IRA]: Los ataques y controles de masa del objetivo marcado por esta habilidad verán sus daños y efectos potenciados en un 25% [*1.25], al costo de reducir la eficacia de todas sus habilidades defensivas en un 50% [*0.5] durante las próximas “RANGO+4” acciones. 2 PA. Este uso se considera suplementario y es solo aplicable sobre aliados. [INDUCCIÓN A LA TRISTEZA]: Los ataques y controles de masa del usuario marcado por esta habilidad verán su reducida en un 25% [*0.25], al costo de aumentar la eficacia de todas sus habilidades defensivas en un 50% [*1.5] durante las próximas “RANGO+4” acciones. 2 PA. Este uso se considera suplementario y es solo aplicable sobre aliados. [¡BAJEN SUS ARMAS!]: Área 2 alrededor del usuario, los afectados por esta habilidad deberán desequipar todas sus parafernalias, y/o desistir de sus armaduras en caso de tenerlas. Se considera que, en caso de hacerse efectiva la habilidad, no podrán volver a equipar su armamento hasta pasadas dos rondas generales. 1 PA, no afecta a aliados. [¡DETENTE, POR FAVOR!]: Anula una habilidad ofensiva con proyección física. De igual forma, puede utilizarse a modo de respuesta ante desplazamientos del oponente, obligándolo a devolverse a su casilla inicial sin la posibilidad de moverse durante su turno vigente. 2 PA en caso de querer anular una habilidad ofensiva, 1 PA en caso de querer anular un desplazamiento. [ESPECIAL — INTELECCIÓN MARCIAL]: En caso de querer utilizarse sobre un jugador marcado por los efectos de intelección marcial reduce los costes de esta habilidad en -1 PA. Mínimo 1 PA
+
+ACLARACIONES:
+  - El usuario es incapaz de utilizar las habilidades de este comando en caso de estar impedimentado del habla. - Puede utilizarse contra jugadores sordos, considerando que el usuario le manipula a través de lenguaje de señas, lo que contrasta y anula los límites expuestos en el primer ítem de aclaraciones. - Los usos ofensivos son únicamente resistibles. - No afecta a jugadores carentes de emociones o que sean considerados robots. De igual forma, tampoco afecta a aquellos que igualen o superen al usuario en “VOLUNTAD”. - No es posible volver a inducir a un mismo jugador afectado por la habilidad hasta pasada una ronda general.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                   RANGO III                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[INTELECCIÓN MARCIAL] – PUNTOS DÉBILES
+================================================================================
+
+100 EXP
+
+
+Física/Mental — Suplementaria
+
+
+Alcance: 1, o arma
+
+
+Coste: 1 PA + Hab. Ofensiva
+
+
+Tier III
+
+EFECTO VISUAL:
+  El usuario pone en práctica su vasto conocimiento sobre el lenguaje corporal para explotarlo en mitad de una contienda. Efecto: En conjunto a una habilidad ofensiva, o en su defecto, una anticipación, el usuario es capaz de agregar los siguientes efectos adicionales: [SIEN]: Suma un agregado al daño original de la habilidad ofensiva equivalente a “FUE*0.25”, o en su defecto, “ARMA*0.25”. En caso de que el oponente reciba, aunque sea un punto de daño, otorga el estado desmayado durante las próximas cinco acciones o hasta que reciba algún otro tipo de daño. Únicamente utilizable con habilidades de contacto. [EXTREMIDADES]: Suma un agregado al daño original de la habilidad ofensiva equivalente a “FUE*0.5”, o en su defecto, “ARMA*0.5”. En caso de que el oponente reciba, aunque sea un punto de daño, inhabilita una extremidad a elección del usuario durante el resto del combate. En caso de que el jugador afectado se encuentre bajo los efectos de intelección marcial, o en su defecto se realice el ataque con un arma de fuego, pasará a requerir un mínimo de 4 REF para reaccionarse. [MANZANA DE ADÁN]: Genera un daño indirecto por asfixia equivalente al 5% [*1.05] de la “VITALIDAD MÁXIMA” de un oponente durante las próximas cinco acciones. Únicamente utilizable con habilidades de contacto.
+
+ACLARACIONES:
+  - El daño adicional se suma al final de los cálculos.
+
+================================================================================
+
+
+================================================================================
+DETECCIÓN DE FLUCTUACIONES ENERGÉTICAS
+================================================================================
+
+100 EXP
+
+
+Física — Suplementaria
+
+
+Alcance: Propio
+
+
+Coste: 1 PA
+
+
+Tier III
+
+EFECTO VISUAL:
+  El usuario es capaz de ver las fluctuaciones de energía en campos de fuerza o proyecciones de energía defensivas pudiendo disrumpirlas. Efecto: Usado junto a una habilidad ofensiva con daño directo permite ignorar el 75% [*0.25] de la resistencia de defensas pasivas y defensas realizadas en respuesta siempre y cuando las mencionadas estén categorizadas dentro de la índole energética. El usuario puede usar el comando *¡Dispárale Ahí! Junto a habilidad ofensiva de algún aliado para otorgarle la misma propiedad.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO IV                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+UN HALLAZGO DE OTRO MUNDO
+================================================================================
+  Especial — Habilidad Pasiva
+
+EFECTO VISUAL:
+  11000010 10111111 01010010 01101111 01100011 01101011 00100000 01101110 00100111 00100000 01110010 01101111 01101100 01101100 00111111 00100000 01010100 11000011 10111010 00100000 01111001 00100000 01111001 01101111 00100000 01110011 01100101 01110010 01100101 01101101 01101111 01110011 00100000 01100111 01110010 01100001 01101110 01100100 01100101 01110011 00100000 01100001 01101101 01101001 01100111 01101111 01110011 00101110 Efecto: “¿Rock n’ roll? ¿Mejores amigos? ¿De qué estás hablando?” Una vez ostentado este rango, el usuario deberá contactar con Moderación para obtener acceso a [Expansión de Documento — Warlock] si es que todavía no ha desbloqueado al acompañante.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+

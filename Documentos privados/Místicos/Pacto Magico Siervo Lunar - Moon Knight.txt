@@ -1,0 +1,446 @@
+
+████████████████████████████████████████████████████████████████████████████████
+                    Pacto Magico Siervo Lunar   Moon Knight                     
+████████████████████████████████████████████████████████████████████████████████
+
+
+
+--------------------------------------------------------------------------------
+                              HABILIDADES BÁSICAS                               
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – AVATAR DE KHONSHU
+================================================================================
+  Física – Pasiva
+
+EFECTO VISUAL:
+  La vida del usuario fue injusta, incluso llegando a morir de una forma trágica, pero Khonshu vio algo en él de valor. Su nobleza mientras vivió permitió que el Dios Egipcio de la Justicia le brindase una oportunidad más de vivir, pero a cambio debería ser la representación física de su justicia en el plano terrenal. El resto es historia, y ahora es conocido como el Caballero Luna. Efecto: El usuario obtiene los siguientes STATS: [VITALIDAD – VIT. LÍM. HUM.]: El usuario posee un cuerpo que es increíblemente resistente, pareciendo imposible que llegue a sentir dolor. [FUERZA – LÍM. HUM.]: El usuario posee un físico que está en su punto clímax, poseyendo una fuerza más que considerable para impartir la justicia que se solicita. [VELOCIDAD – HUM. ENTR.]: El usuario es capaz de desplazarse grandes distancias en cortos instantes de tiempo gracias a su entrenamiento. [4 REFLEJOS]: Acostumbrado al combate sucio, nocturno y arriesgado, sus sentidos se han preparado para ser capaces de reaccionar incluso a un arma disparada a quemarropa sin ningún tipo de problema. [DEF. PASIVA – RES. LÍM. HUM.]: Su estilo de combate es sumamente agresivo y brutal, lo que le invita a no defenderse de todos los golpes. Esto ha provocado que su cuerpo se acostumbre al dolor, reduciéndolo enormemente. [COMBATIENTE NOCTURNO]: Está versado en múltiples artes marciales. El usuario adquiere gratuitamente los perfiles Combatiente Ágil y Combatiente Bruto. [MAESTRO EN ARMAS]: Su arsenal está compuesto por un sinfín de utensilios y parafernalias con las que hacer frente a sus oponentes. Además, su puntería es la de un francotirador en su mejor momento. El usuario desarrolla gratuitamente los perfiles Armas de Filo, Armas Contundentes, Armas Arrojadizas y Armas de Fuego.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – DESORDEN DE PERSONALIDAD MÚLTIPLE
+================================================================================
+  Mental/Mística – Pasiva
+
+EFECTO VISUAL:
+  Un defecto convertido en virtud. Se vió forzado a desarrollar un Desorden de Personalidad Múltiple desde corta edad para combatir sus mayores traumas y dolores de la época. Visto como un escape a su sufrimiento, el usuario ha desarrollado múltiples personalidades que conviven entre sí para reprimir la influencia y exigencia de Khonshu en su mente, así como los pecados que ha cometido y visto en vida. Cada una de estas personalidades posee sus propios talentos, virtudes y defectos, pero todas comparten un único fin: impartir justicia en el mundo, independientemente de la visión con la que lo hagan. Efecto: El usuario deberá diferenciar tres personalidades en su ficha, asignándole sus respectivos puntos de rasgos a cada una de ellas, así como una breve reseña de su historia y trasfondo. Cada una de estas personalidades deberá poseer un nombre propio, así como detalles físicos característicos de la misma, como vestimentas y comportamientos. Deberá indicar en su misión siempre el nombre de la personalidad que se encuentra interpretando en dicho momento para poder interpretarlo. Una vez estas personalidades son asignadas y decididas, el usuario deberá indicar qué representación como Avatar de Khonshu poseerá cada una de estas. Según la elección, se gozarán de distintos beneficios en combate con los que hacer frente a sus oponentes. No es posible elegir más de una personalidad en combate y no se podrá cambiar hasta finalizarlo. [HERALDO DE KHONSHU] Considerada la principal representación de Khonshu en el plano físico. Letal, certera, con un combate directo y sus intenciones claras. No da tregua a sus oponentes en ningún momento, y matar no es tarea difícil para su código moral. El mal surge de noche, y será él quien lo aplaque. Esta representación de Khonshu brinda los siguientes beneficios: Sus habilidades físicas causan un “10% [*1.1]” más de daño. Sus habilidades con Armas Arrojadizas obtienen +2 de alcance. Reduce en “-1 acción” los aturdimientos recibidos. Es posible reducirlos a “0”. En caso de decidir recibir un ataque de carácter no mental o místico sin el uso de defensas el daño recibido se reducirá en un “20% [*0.8]”. Sólo es posible utilizar los perfiles Combatiente Bruto, Ágil y Armas Arrojadizas mientras se mantenga activa. [EL CABALLERO] La representación más caballerosa y elegante de Khonshu. Aunque fino y con modales es tan letal como sus otras personalidades, pero con la particularidad de que se pensará dos veces si su próximo movimiento es el correcto o puede ahorrarse efectos negativos. Esta representación de Khonshu brinda los siguientes beneficios: Puede repetir una misma habilidad en la ronda que la ha utilizado. En caso de ser una habilidad defensiva (incluyendo evasiones) su coste aumentará en +1 PA. Sólo aplica a habilidades de TIER III. El comando Evadir consumirá tan sólo 1 PA hasta las 3 casillas. Aumenta en “+1 acción” los aturdimientos provocados. Sólo es posible utilizar los perfiles Combatiente Bruto, Ágil y Armas Contundentes mientras se mantenga activa. [EL MERODEADOR] La representación más cruel de Khonshu. Violento, inmoral, no teme cometer actos increíblemente atroces con tal de impartir su justicia. De llegar a ser necesario se alimentaría de un animal con vida para poder continuar manteniéndose de pie. Esta representación de Khonshu brinda los siguientes beneficios: Si el usuario es quien inicia el combate poseerá el primer turno de la ronda independientemente de las velocidades. Obtiene +(RANGO*25) FUE que se suma al final de cualquier multiplicador o beneficio pasivo que afecte a la misma. Aumenta en “+1 acción” las hemorragias provocadas. De llegar a defender por completo una habilidad ofensiva con un bloqueo físico el usuario podrá realizar una acción ofensiva en respuesta. [EL DIOS KHONSHU] La representación real de Khonshu. Es la deidad que se resguarda en la mente de su Heraldo, brindándole beneficios ajenos a sus capacidades humanas. Aunque imparte justicia es una personificación terrorífica que logra aplacar a sus oponentes terrenales sin ninguna complicación. Considera al fin por sobre los medios, lo que rompe la mayoría de códigos morales y demás valores humanos que no están para ser comprendidos. Esta representación brinda los siguientes beneficios, los cuales se mantienen activos independientemente de la personalidad elegida: Brinda +2 VOL. La primer concentración mental, o cualquier habilidad de lectura mental provocará el estado Inconsciente durante las próximas “2/3/3/4/5” acciones sobre el oponente que la haya realizado. No es posible inmunizarse a esta capacidad, pero personajes con categorías de telepatía suprema o superior pueden decidir si anular su acción para evitar los efectos negativos de hacerlo. No puede ser afectado por habilidades de interrogación. Brinda los beneficios de Empoderamiento Lunar. En caso de Khonshu decidirlo, el usuario podrá revivir aunque haya muerto independientemente de la forma en la que lo haya hecho. Quien deberá representar la voluntad de Khonshu es la Moderación, basándose en las acciones de justicia realizadas por su Heraldo. Esta resurrección es ilimitada, pero siempre dependerá de la decisión. La primera resurrección es la única que no dependerá de dicha decisión.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – EMPODERAMIENTO LUNAR
+================================================================================
+  Física/Mística – Pasiva
+
+EFECTO VISUAL:
+  El usuario, al poseer una conexión directa con el Dios Lunar, obtendrá una serie de beneficios y ventajas que lo potenciarán a la hora de cumplir con su labor como heraldo en las horas donde la luna se encuentre en su máximo esplendor, acarreando horarios nocturnos y de madrugada. Efecto: El usuario obtendrá los beneficios aquí descritos desde las 20:00 HPE hasta las 05:00 HPE basándose en el Calendario Lunar aquí indicado. – Los beneficios se reemplazan, no es posible acumularlos. [LUNA NUEVA] Fase que comprende desde el 1 de cada mes hasta el 7. El astro lunar no se ve reflejado en la Tierra. Su presencia en el firmamento nocturno no es visible. Mientras esta fase se mantiene activa el usuario no obtiene ningún beneficio especial de esta pasiva. [LUNA MENGUANTE] Fase que comprende desde el 8 de cada mes hasta el 14. El astro lunar empieza a iluminar los cielos de la ciudad. La influencia de Khonshu empieza a ser influyente. Mientras esta fase se mantiene activa el usuario obtiene “RANGO*75” VIT y “20*RANGO” FUE extra. [MEDIA LUNA] Fase que comprende desde el 15 de cada mes hasta el 21. El astro lunar brilla con una gran intensidad en el firmamento. Su Dios exige justicia, y el Caballero Luna debe aplacar la putrefacción de la ciudad. Mientras esta fase se mantiene activa el usuario obtiene “RANGO*100” VIT, “40*RANGO” FUE y “RANGO*25” DEF. PASIVA. Su fuerza de cara a interacciones se considerará de hasta 2 TON. [LUNA LLENA] Fase que comprende desde el 22 de cada mes hasta su final. El astro lunar alcanza su máxima intensidad en el cielo. Su Dios está más presente que nunca, brindándole un vigor incomprendido para cualquier humano. Mientras esta fase se mantiene activa el usuario obtiene “RANGO*150” VIT, “60*RANGO” FUE y “RANGO*40” DEF. PASIVA. Su fuerza de cara a interacciones se considerará de hasta 5 TON.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – TORTURADOR
+================================================================================
+  Física – Pasiva
+
+EFECTO VISUAL:
+  El usuario, gracias a su formación como militar y mercenario aprendió diversas estrategias de interrogación, basadas principalmente en la tortura, capaces de quebrar la voluntad de sus víctimas para obtener toda la información que desee. Efecto: El usuario accede a la capacidad de realizar un Secuestro sin necesidad de cumplir con ninguna condición extra además de causar por lo mínimo el estado de Herido Grave en el oponente. Sólo puede realizar un Secuestro bajo esta habilidad una vez cada 72 horas. Al poseer un personaje secuestrado obtiene la capacidad de aplicar las desventajas a continuación descritas en él. [INTERROGATORIO]: El usuario hace uso de métodos violentos para obtener información de importancia del oponente. Siempre y cuando el oponente posea 3 VOLUNTAD o menos se le podrá hacer una pregunta a la que deberá responder siempre con la verdad. De negarse a ella se podrá hacer uso de una de las TORTURAS a continuación mencionadas. [TORTURAS] Es posible aplicar una TORTURA por Secuestro. En caso de que el oponente se niegue a responder será posible aplicar una TORTURA extra. [HUNDIMIENTO DE CAVIDAD OCULAR]: El usuario clava con fuerza sus dedos en las cuencas de los ojos de la víctima, dejándole ciego de forma casi permanente. El oponente afectado deberá luchar bajo las condiciones de Ceguera durante las próximas 72 HORAS. [FRACTURA DE MIEMBROS INFERIORES]: El usuario golpea sin parar las piernas de su oponente, fracturando cada uno de sus huesos. El oponente afectado deberá luchar bajo las condiciones de Pierna inhabilitada durante las próximas 72 HORAS. [FRACTURA DE MIEMBROS SUPERIORES]: El usuario golpea sin parar los brazos de su oponente, fracturando cada uno de sus huesos. El oponente afectado deberá luchar bajo las condiciones de Brazo inhabilitado durante las próximas 72 HORAS. [FRACTURA DE CRÁNEO]: El usuario golpea la cabeza de su oponente sin parar, provocándole un severo daño en el cráneo. El oponente afectado deberá luchar bajo las condiciones de Desorientado durante las próximas 72 HORAS.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – MAESTRÍA EN COMBATE
+================================================================================
+  Física – Pasiva
+
+EFECTO VISUAL:
+  El usuario, gracias a su formación como militar y mercenario es considerado uno de los mejores combatientes humanos conocidos. Sabe manejar cualquier tipo de arma de fuego, ligera o pesada, así como múltiples artes marciales, incluyendo el boxeo, como también está versado en la disciplina de las armas arrojadizas y el manejo de armas de contacto de cualquier tamaño. En definitiva, su arsenal es prácticamente infinito, siendo limitado únicamente por su propia mente. Efecto: El usuario obtiene los siguientes beneficios pasivos. Estos son independientes entre sí y poseen condicionantes a respetar. [COMBATIENTE BRUTAL]: El usuario posee un estilo de combate impredecible, directo y letal. Combinando todas las artes marciales que posee en conocimiento es capaz de volverse una amenaza para cualquier oponente. Puede aplicar además los beneficios aquí descritos en habilidades de sus perfiles de contacto. [BRUTALIDAD]: Si uno de sus golpes impactara en un oponente medianamente desequilibrado caería sobre él un sinfín de impactos propios del estilo de combate del Caballero Luna. Aplicado sobre una habilidad a impactar en un oponente que se encuentre aturdido esta pasará a dañar un “25% [*1.25]” más y alargará el aturdimiento durante 1 acción extra. – +1 PA. Una única vez por ronda. [CONTUSIÓN]: Es común que los golpes del usuario vayan directo a la cabeza del oponente, después de todo dejarlo aturdido es su principal fin. Aplicado sobre una habilidad esta podrá aturdir durante 1 acción. – Una única vez por ronda. [INDOLORO]: Definirse como un loco sería la opción más lógica. Brinda inmunidad ante cualquier efecto negativo causado por dolor. [ROMPEHUESOS]: Cada impacto posee impregnado en él la fuerza suficiente para quebrar los huesos del oponente. Aplicado sobre una habilidad esta podrá inhabilitar una extremidad durante 3 acciones. – +1 PA. Una única vez por ronda. [INTERCAMBIO EQUIVALENTE]: Para cualquier otra persona este movimiento sería imposible, pero no para el Caballero Luna. Decidido a derrotar a su oponente es capaz de recibir de forma frontal un ataque con tal de responder con uno de la misma fuerza. En caso de recibir un ataque sin realizar una defensa podrá realizar a la par un ataque contra el oponente, debiendo recibir ambos los daños y efectos de las habilidades. El oponente podrá cancelar su acción, pero sólo si posee 4 REFLEJOS o más. – +1 PA. Una única vez cada dos rondas. [VIOLENCIA SIN MORAL]: No es Spider-Man, tampoco Punisher. Es algo peor. Al momento de derrotar un oponente es posible aplicar este comando sobre él para aumentar en uno su estado. – Una única vez cada 48 horas.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – HÁBITO DEL CABALLERO LUNA
+================================================================================
+
+Parafernalia – Vestimenta
+
+EFECTO VISUAL:
+  Traje temático que posee varias representaciones según la personalidad bajo la que se encuentre. Está reforzado con kevlar y está preparado para el combate directo. Efecto: Mientras el usuario mantenga equipada esta vestimenta gozará de los siguientes beneficios en combate. [REFORZADO CON KEVLAR]: Es un traje preparado para recibir fuertes impactos sin ninguna complicación, comparándole a metahumanos. Brinda una RES. SOBREHUMANA. [BLINDADO]: La mayoría de armas son inútiles contra la dureza del traje. Reduce en un “50% [*0.5]” los daños causados por armas con dureza básica. [IGNÍFUGO]: Las fibras del traje están preparadas para resistir grandes temperaturas. Reduce en un “15% [*0.85]” los daños de carácter ígneo, así como en “-1 acción” las quemaduras recibidas. [VISTA PROTEGIDA]: La temática egipcia viene acompañada con una recubierta completa de rostro, la cual le protege ante fuertes fogonazos. Inmuniza ante Cegueras.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – DARDOS DE LUNA CRECIENTE
+================================================================================
+
+Parafernalia – Armas Arrojadizas
+
+EFECTO VISUAL:
+  Armas arrojadizas en forma de luna creciente con una gran capacidad de perforación. Posee una infinidad de estas, siendo su principal arma contra la mayoría de enemigos. Algunos de los usos de estas armas pueden venir con efectos sorpresa. Efecto: Este arma posee las siguientes capacidades. [CASTIGO LUNAR]: Los dardos de luna creciente poseen filos preparados afilados. Posee un daño de CALIBRE MODERADO. [SUCESIÓN DE IMPACTOS]: En caso de que un oponente evite una acción en la que se haya utilizado los Dardos de Luna Creciente es posible repetir un lanzamiento que daña tan sólo “DAÑO DE DARDO DE LUNA CRECIENTE”. – Una vez por ronda.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – PORRA LUNAR
+================================================================================
+
+Parafernalia – Arma Contundente
+
+EFECTO VISUAL:
+  Porra con la que comúnmente aplaca a sus enemigos. Posee una gran dureza y es capaz de romper los huesos de su oponente con extrema facilidad. Efecto: Este arma posee las siguientes propiedades: [CASTIGO LUNAR]: Esta pequeña arma es capaz de romper los huesos de sus oponentes con tan sólo un par de golpes. Posee un daño de ARMA MED. CONVENCIONAL. [CONTUSIÓN]: Es posible añadir 2 acciones de aturdimiento a una habilidad que ocupe esta arma a cambio de consumir +1 PA.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – ALA DE ÁNGEL
+================================================================================
+
+Parafernalia — Vehículo
+
+  Efecto Visual: Ligero y resistente aerodeslizador diseñado con fines militares. Tiene la forma de ala de un ángel y está preparado para el combate a grandes velocidades. Efecto: Al estar montado sobre él, el usuario adquiere los siguientes beneficios: [VELOCIDAD – 100/500 KM/H]: El aerodeslizador posee una gran velocidad, siendo capaz de alcanzar unos cuántos cientos de kilómetros por hora. Reemplaza a la estadística base del usuario. [RESISTENCIA]: El aerodeslizador puede ser objetivo de ataques directos y también es afectado por las habilidades en área, por lo que cuenta con un STAT de RESISTENCIA. Una habilidad que destruya objetos con dureza inferior al Adamantium resta un “50% [*0.5]” de su RESISTENCIA MÁXIMA. Una habilidad que destruya objetos con dureza equivalente o superior al Adamantium destruye automáticamente el Aerodeslizador. En caso de ser reducida a “0” se destruye durante las próximas 24 horas. [ARSENAL DE AERODESLIZADOR]: Otorga el atributo ARMA que escala en función del rango del usuario, se utiliza para el cálculo de ciertas habilidades (señaladas más adelante en el documento). [BLINDADO]: Posee inmunidad parcial (reducción de 50% [*0.5]) al daño directo que provenga de armas de filo, contundentes y proyectiles de armas de fuego o arrojadizas de dureza convencional. [ATRACCIÓN MAGNÉTICA]: El usuario puede realizar este comando atrayendo armas o parafernalias al Ala de Ángel que se encuentren siendo portadas o desarmadas en Área 3 sobre el usuario. Las armas quedan inhabilitadas durante el resto del combate y solo podrán ser recuperadas en caso de destruir el ala. – Coste: 1 PA. El aerodeslizador otorga acceso a levitación de forma pasiva a cambio de consumir COMBUSTIBLE al final de cada turno propio. Es posible mejorar esta posición hasta vuelo mediante el comando *ASCENSO*, así como también volver a la posición de levitación mediante el comando *DESCENSO*. No tiene costo de PA asociado. El cambio de posición puede realizarse únicamente en turno propio. - No es posible cambiar más de una vez la posición dentro de un mismo turno propio. [DEPÓSITO DE COMBUSTIBLE – PROTOTIPO MEJORADO]: El vehículo cuenta con un sistema de combustible. Este sistema tiene 3 UNIDADES. Una vez el deslizador llega a 0 UNIDADES deja de funcionar durante el combate actual. El deslizador pierde 1 UNIDAD al finalizar 1 turno propio montado sobre el aerodeslizador. [RECARGA DE COMBUSTIBLE]: Permite ejecutar este comando para recuperar todas las unidades de combustible al máximo. – Consume 1 PA, sólo puede ejecutar este comando si el aerodeslizador ha quedado sin combustible y deben haber transcurrido un mínimo de 2 turnos propios del usuario en los que el aerodeslizador estuvo deshabilitado. [ORDEN: DESMONTAR]: El usuario puede usar este comando en su turno propio. Permite al usuario bajarse del aerodeslizador. El aerodeslizador no consume COMBUSTIBLE por concepto de fin de turno en el turno en el que se desmonta. [ORDEN: MONTAR]: El usuario puede usar este comando en su turno propio. Permite al usuario subir sobre el aerodeslizador. El aerodeslizador vuelve a consumir COMBUSTIBLE por concepto de fin turno en el turno en el que se monta.
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO I                                     
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – GOLPE DIRECTO
+================================================================================
+
+100 EXP
+
+
+Física - Ofensiva
+
+
+Alcance: 1
+
+
+1 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario golpea con sencilleza, pero con extrema fuerza. Efecto: Causa un daño físico de “FUE*1.45” a un único oponente. En caso de dañarlo no podrá reaccionar a la próxima acción realizada siempre y cuando consuma 2 PA o menos.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – PATADA A LA CABEZA
+================================================================================
+
+100 EXP
+
+
+Física - Ofensiva
+
+
+Alcance: 1
+
+
+2 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario da un giro sobre su propio cuerpo y golpea con su pie en la cabeza al oponente, desorientándolo considerablemente. Efecto: Causa un daño físico de “FUE*1.45” a un único oponente. En caso de generar daño, provoca el efecto desorientado durante 2 turnos generales.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – ROMPEDIENTES
+================================================================================
+
+100 EXP
+
+
+Física - Ofensiva
+
+
+Alcance: 1
+
+
+2 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario da un golpe al mentón de su oponente, destruyendo su dentadura. Efecto: Causa un daño de “FUE*1.45” y un indirecto por hemorragia del “10% [*0.1]” del daño recibido durante 3 acciones. En caso de que el oponente hable con el indirecto activo, recibirá una extensión de la hemorragia de +1 acción. – Se considera un factor oculto.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – PASO ATRÁS
+================================================================================
+
+100 EXP
+
+
+Física – Evasion (Defensiva)
+
+
+Alcance: 1
+
+
+1 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario da un simple paso atrás con confianza, evitando a su oponente. Efecto: El usuario evade una habilidad con proyección física. Es posible evadir habilidades de hasta Área 3 aumentando el coste de la habilidad en “+1 PA”.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – LUNA CORTANTE
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: 5
+
+
+1 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario arroja uno de sus dardos directo al cuerpo de su oponente. Efecto: Causa un daño físico de “ARMA*1.55”. Esta habilidad no puede ser defendida por defensas internas de personajes con fuerzas inferiores a los 20 TON.
+
+ACLARACIONES:
+  - Habilidad únicamente realizable mediante Armas Arrojadizas.
+
+================================================================================
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – MUTILACIÓN SELECTIVA
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: 5
+
+
+2 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario arroja uno de sus dardos al muslo de su oponente, incapacitándolo. Efecto: Genera un daño físico de “ARMA*1.55” e inhabilita una pierna del oponente por 3 acciones.
+
+ACLARACIONES:
+  - Habilidad únicamente realizable mediante Armas Arrojadizas.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO II                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – DARDOS GASEOSOS
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: Habilidad
+
+
+1 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario acompaña uno de sus dardos con una cápsula que cubre el espacio recorrido por un gas somnífero. Efecto: Acompañado de una habilidad que haga uso de los Dardos de Luna Creciente permite dormir durante 2 acciones a cualquier oponente en Área 1 de la casilla de impacto. Afecta incluso si se evade siempre y cuando se quede dentro del área. – Se considera un factor oculto.
+
+ACLARACIONES:
+  - Habilidad únicamente realizable mediante Armas Arrojadizas.
+
+================================================================================
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – DARDOS EXPLOSIVOS
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: 5, Área 1 sobre obj.
+
+
+2 PA
+
+
+TIER II
+
+EFECTO VISUAL:
+  El usuario prepara uno de sus dardos para hacerlo explotar al momento de impactar en el objetivo. Efecto: Genera un daño físico de “ARMA*2.20” en Área 1 sobre el objetivo.
+
+ACLARACIONES:
+  - Habilidad únicamente realizable mediante Armas Arrojadizas.
+
+================================================================================
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – A LA MITAD
+================================================================================
+
+100 EXP
+
+
+Física – Defensiva (Anulación)
+
+
+Alcance: Propia
+
+
+2 PA
+
+
+TIER II
+
+EFECTO VISUAL:
+  El usuario arroja con extrema precisión uno de sus dardos hacia un proyectil, separándolo en dos partes. Efecto: Anula una habilidad basada en proyectiles o proyecciones energéticas.
+
+ACLARACIONES:
+  - Habilidad únicamente realizable mediante Armas Arrojadizas.
+
+================================================================================
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – TOQUE SOMNÍFERO
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: 1
+
+
+2 PA
+
+
+TIER II
+
+EFECTO VISUAL:
+  El usuario toca con precisión uno de los puntos de presión de su oponente, durmiéndolo con facilidad. Efecto: Genera un daño físico de “FUE*2.20” y duerme al oponente por 3 acciones.
+
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+[PACTO MÁGICO – SIERVO LUNAR] – LANZAMIENTO CURVILÍNEO
+================================================================================
+
+100 EXP
+
+
+Física - Ofensiva
+
+
+Alcance: 5
+
+
+2 PA
+
+
+TIER II
+
+EFECTO VISUAL:
+  El usuario arroja uno de sus dardos con un efecto sumamente complicado de leer. Efecto: Genera un daño físico de “ARMA*2.35”. Requiere de 4 REF para ser evadido.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+

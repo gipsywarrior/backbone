@@ -1,0 +1,347 @@
+
+████████████████████████████████████████████████████████████████████████████████
+                  Destreza Humana   Señor del Crimen (Kingpin)                  
+████████████████████████████████████████████████████████████████████████████████
+
+
+
+--------------------------------------------------------------------------------
+                              HABILIDADES BÁSICAS                               
+--------------------------------------------------------------------------------
+
+
+================================================================================
+PESO PESADO
+================================================================================
+  Física – Pasiva
+
+EFECTO VISUAL:
+  El usuario posee un cuerpo bastante atípico pese a ser un mero humano, pues su tamaño es exageradamente superior al de uno normal y su apariencia bastante más intimidante. No sólo es la fuerza que posee su cuerpo en general, sino la capacidad de opacar a sus rivales con tan sólo su presencia física, convirtiéndole en un matón. Efecto: El usuario obtiene los siguientes atributos: [VITALIDAD – LÍMITE HUMANO] Su cuerpo está preparado para recibir daños sin ningún tipo de gesto de dolor. Su piel es tan dura que algunas tan sólo crearían raspones en ellas. [FUERZA – LÍMITE HUMANO]: Pese a ser un humano común sus brazos poseen una fuerza comparable al límite humano, destacando fácilmente sobre el resto. [VELOCIDAD – HUM. ENTRENADO]: Pese a su tamaño su velocidad es considerable. [REFLEJOS – 3 REFLEJOS]: Que su tamaño no te engañe, es capaz de reaccionar a múltiples artistas marciales en simultáneo y aún así vencerles sin complicaciones. [DEFENSA PASIVA – RESISTENCIA LÍMITE HUMANO]: Las fibras del cuerpo están acostumbradas a las heridas a tal punto que es muy difícil de perforar o dañar. [PESO PESADO]: Su gran tamaño se ve recompensado también en peso, volviéndose excesivamente difícil de derribar. Reduce en “-2 casillas” cualquier empuje realizado por oponentes con fuerzas inferiores a las 20 TON. Tampoco podrá ser derribado por oponentes que posean menos de esta fuerza. Ocupa “área 1” en combate. [TENACIDAD]: Reduce en “-1 acción” los controles de masa físicos aplicados por oponentes con menos de 20 TON de fuerza. No aplica si el control de masa no requiere de fuerza. [MATÓN]: El usuario desarrolla gratuitamente los perfiles Armas Contundentes, Combatiente Ágil y Combatiente Bruto.
+
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+SEÑOR DEL CRIMEN
+================================================================================
+  Mental – Pasiva
+
+EFECTO VISUAL:
+  Desde que era tan sólo un niño conoce los bajos fondos, las calles, la gente, lo putrefacto y sucio del mundo, por ello sabe cómo lidiar con lo malo de él para usarlo a su favor. Es probablemente la persona más influyente que existe en las calles, y aún así nadie sería capaz de decir nada en su contra. El miedo es su arma, y aquellos que no temen sufren. Efecto: El usuario está condicionado a llevar un Alineamiento Maligno. Así mismo, desbloquea un tipo de agrupación única conocida como Organización del Mal. Las condiciones de esta nueva agrupación única son detalladas a continuación para su desarrollo: [ORGANIZACIÓN DEL MAL] La Organización del Mal surge como la verdadera cara del personaje. Es donde puede mostrar todo su poder e influencias, pues en el día a día se dedica a ser un civil correcto e influyente de formas distintas. Esta agrupación no consume el hueco principal de quienes forman parte de ella, y sólo posee como único Líder al propio usuario. Sólo es posible unir a tantos aliados a esta agrupación como “RANGO*3”, pasando a ser llamados Secuaces. Se adquiere de forma gratuita el Perfil Líder para ser utilizado sobre toda la Organización del Mal. La agrupación posee de forma automática las siguientes mejoras: SEDE PRINCIPAL, PRISIÓN (podrán secuestrar desde RANGO I) y SPA. A partir de allí, se desarrollan de la siguiente forma: RANGO II: Obtienen la mejora ENFERMERÍA, SALÓN DE ENTREN. y GIMNASIO. RANGO III: Obtienen la mejora SALA PERSONALIZADA I. RANGO IV: Obtienen la mejora SALA PERSONALIZADA II y SALÓN DE ESTRATEGIAS. RANGO V: Obtienen la mejora SALA PERSONALIZADA III. Los Secuaces y el propio usuario comparten los beneficios básicos de una agrupación entre ellos aunque no compartan su hueco principal. Sólo el usuario puede unir personajes nuevos a esta agrupación, y su alineamiento no deberá ser necesariamente maligno. Esta clase de aliado, a diferencia de otros, deberá siempre responder a las peticiones del Señor del Crimen. La única forma de salir de esta alianza una vez se ha ingresado a ella es: ser despedido por el propio usuario o vencerle en un combate en donde este se encuentre en solitario. Los Secuaces son quienes realizan el trabajo sucio que no puede el usuario por su alta influencia, por lo que estos gozan de ciertas características en las que siempre domina el Señor del Crimen: Si el usuario es atacado o retado fuera de combate podrá redirigir el combate a cualquiera de sus secuaces siempre y cuando esté en la sala. No es posible negarse a combatir por el Señor del Crimen. El usuario puede obligar a un Secuaz a que retire un combate. Los Secuaces ignoran requisitos de unión si es para unirse al Señor del Crimen. Siempre y cuando un combate esté ocupado en totalidad por Secuaces será posible unir un cuarto, el cual no consumirá hueco. La Organización del Mal posee un atributo único conocido como Puntos de Influencia. Los Puntos de Influencia se obtienen sobre agrupaciones, no sobre personajes. Para obtener esta clase de puntos se deberá cumplir las siguientes pautas: Derrotar a un miembro de la agrupación brinda +1 PI. Secuestrar a un miembro de la agrupación brinda +3 PI. Es posible marcar hasta a 3 objetivos por semana. Derrotar a estos objetivos brinda el doble de PI base. Acumular 10 PI sobre una misma agrupación brinda la capacidad de iniciar un reto por EXTORSIÓN. Este reto puede usarse para obtener dos posibles cosas: BOTÍN o RECLUTAMIENTO y se realiza bajo las siguientes condiciones: La agrupación bajo la extorsión deberá elegir a tres representantes para un combate grupal. Mientras tanto, el usuario deberá elegir a cuatro de los suyos para el trabajo. En caso de ganar el bando del usuario se podrá reclamar el premio. En caso de perder se pierden todos los PI obtenidos sobre dicha agrupación y no podrá ser posible volver a obtenerlos durante un mes entero. BOTÍN: El usuario roba 1 o 3 de la agrupación que son “lavados” de forma automática, formando ahora parte de la agrupación original del usuario. Además, deberán entregar 250 EXP por cada miembro de la agrupación extorsionada que será repartida en 250 EXP para cada miembro de la Organización del Mal. RECLUTAMIENTO: El usuario une de forma forzada a la Organización del Mal a un miembro de la agrupación extorsionada. Este pierde toda relación con la agrupación antigua y deberá permanecer durante 2 semanas bajo las órdenes del Señor del Crimen siguiendo las condiciones de ser un Secuaz. En ambos casos, de salir victorioso, ningún miembro de la agrupación extorsionada podrá iniciar un combate en contra del Señor del Crimen o un Secuaz. Sólo puede declararse una EXTORSIÓN una vez cada 15 días. Las agrupaciones también pueden decidir bajar la cabeza ante el Señor del Crimen y solicitar su PROTECCIÓN. Para hacer válida una PROTECCIÓN la agrupación deberá pagar 1000 EXP (la cual será recibida por el Señor del Crimen, y podrá ser repartida entre sus Secuaces) y durante los próximos 15 días la Organización del Mal y la Agrupación Protegida se considerarán aliadas entre sí. Aceptar una PROTECCIÓN brinda de forma automática 10 PI sobre la agrupación que la ha solicitado. Es posible mantener activas hasta 3 protecciones en simultáneo. La protección puede ser finalizada en cualquier momento si hay razones de peso para ello.
+
+ACLARACIONES:
+  - Aunque puede poseer SPA y GIMNASIO sólo se podrá gozar de uno de sus beneficios.
+
+================================================================================
+
+
+================================================================================
+VOLUNTAD INDOMABLE
+================================================================================
+  Mental – Pasiva
+
+EFECTO VISUAL:
+  El Señor del Crimen es prácticamente indetenible. Una maldad que acecha constantemente el mundo y está destinada a recurrentemente influenciar en él. Ni siquiera una voluntad fuerte podría frenarle. Efecto: El usuario posee +2 VOLUNTAD, inmunizándose a cualquier control mental o alteración de la voluntad aplicada por oponentes que posean la misma o menor cantidad de la indicada.
+
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+BASTÓN DESINTEGRADOR
+================================================================================
+
+Parafernalia – Arma Contundente
+
+EFECTO VISUAL:
+  Bastón decorado en detalles de alto costo con diversos artilugios secretos en su interior. Efecto: Este arma posee las siguientes propiedades: [ELEGANCIA BRUTAL]: Aunque atractivo, el bastón es utilizado comúnmente para apalizar a sus oponentes sin compasión. Posee un daño de ARMA CONVENCIONAL PESADA. [COMBATE CON BASTÓN]: Las cabezas de sus oponentes bañarán de sangre su suelo elegante. Es posible utilizar comandos de Armas Contundentes junto al bastón, aumentando en uno su alcance básico, aunque no aplica a posibles áreas u otros alcances. [RAYO CONTENIDO]: El bastón es capaz de emitir fuertes descargas energéticas. Estas descargas poseen un potencial energético de CONTROL EN. III.
+
+ACLARACIONES:
+  - Ocupa una mano.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO I                                     
+--------------------------------------------------------------------------------
+
+
+================================================================================
+AZOTE COLOSAL
+================================================================================
+
+100 EXP
+
+
+Física - Ofensiva
+
+
+Alcance: Área 2
+
+
+1 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario golpea el suelo con fuerza, azotando a todos sus oponentes. Efecto: Causa un daño de “FUE*1.75” en el área indicada, derribando a todos los afectados.
+
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+APLAQUE
+================================================================================
+
+100 EXP
+
+
+Física - Ofensiva
+
+
+Alcance: 1
+
+
+1 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario da un durísimo puñetazo en la cabeza de su oponente. Efecto: Causa un daño de “FUE*1.75” y aturde durante 2 acciones.
+
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+BLOQUEO IMPECABLE
+================================================================================
+
+100 EXP
+
+
+Física – Defensiva (Def. interna)
+
+
+Alcance: Propia
+
+
+1 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario bloquea con sus fuertes y grandes brazos. Efecto: Defiende por “FUE*1.75” ante habilidades con proyección física.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+EMBESTIDA PESADA
+================================================================================
+
+100 EXP
+
+
+Física - Ofensiva
+
+
+Alcance: Lineal 3
+
+
+1 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario corre en línea recta hacia sus oponentes, embistiéndolos. Efecto: Causa un daño de “FUE*1.75” a todos los oponentes en línea recta, empujándolos 4 casillas atrás al ser impactados. Si chocan contra un obstáculo son aturdidos por 3 acciones.
+
+ACLARACIONES:
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO II                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+RAYO DESINTEGRADOR
+================================================================================
+
+100 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: 4
+
+
+2 PA
+
+
+TIER II
+
+EFECTO VISUAL:
+  El usuario apunta con su bastón en dirección al oponente, disparando un potente rayo energético capaz de desintegrar objetos. Efecto: Causa un daño de “EN*2.25” al oponente e ignora defensas pasivas inferiores a SOBREHUM. En caso de ser defendido mediante una parafernalia sin dureza esta quedará desintegrada, pero a cambio el oponente no recibirá daño. Es considerado factor oculto.
+
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+GAS INESPERADO
+================================================================================
+
+100 EXP
+
+
+Física – Defensiva (Anticipación)
+
+
+Alcance: 2
+
+
+2 PA
+
+
+TIER II
+
+EFECTO VISUAL:
+  El usuario libera un gas somnífero desde su bastón ante el ataque oponente. Efecto: Anticipa al oponente, durmiéndolo durante 4 acciones. Requiere de REF 4 para poder ser reaccionado.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+AGUJA SOMNÍFERA
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: 4
+
+
+1 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario dispara una aguja somnífera desde su bastón al oponente. Efecto: Duerme durante 4 acciones.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+CRUJIDO BRUTAL
+================================================================================
+
+100 EXP
+
+
+Física - Ofensiva
+
+
+Alcance: 1, área 1
+
+
+2 PA
+
+
+TIER II
+
+EFECTO VISUAL:
+  El usuario toma a su oponente entre sus grandes manos, crujiéndolo. Efecto: Causa un daño de “FUE*2.55” a un oponente que sólo puede ser evadido, anulado o anticipado. Tras recibir el daño, el oponente quedará con un brazo y piernas inhabilitadas durante 4 acciones.
+
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                   RANGO III                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+ARROJAR OPONENTE
+================================================================================
+
+100 EXP
+
+
+Física - Ofensiva
+
+
+Alcance: 1, área 1
+
+
+2 PA
+
+
+TIER II
+
+EFECTO VISUAL:
+  El usuario toma a su oponente entre sus grandes manos, arrojándolo contra un elemento del terreno para causarle graves daños. Efecto: Causa un daño de “FUE*2.5’” a un oponente que sólo puede ser evadido, anulado o anticipado. Tras recibir la habilidad, el usuario podrá desplazar al oponente 5 casillas en línea recta, debiendo impactarlo contra un obstáculo dentro del terreno. Al chocar quedará aturdido durante 2 acciones.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+MATÓN DESATADO
+================================================================================
+
+100 EXP
+
+
+Física - Ofensiva
+
+
+Alcance: 1
+
+
+3 PA
+
+
+TIER I
+
+EFECTO VISUAL:
+  El usuario da un golpe directo pero mortal a su oponente. Efecto: Causa un daño de “FUE*3.5’” a un oponente. Este daño ignora cualquier tipo de defensa pasiva y desorienta al oponente durante 3 acciones. Requiere de 4 REFLEJOS para poder ser evadido.
+
+ACLARACIONES:
+
+================================================================================
+

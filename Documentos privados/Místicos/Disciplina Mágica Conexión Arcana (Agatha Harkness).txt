@@ -1,0 +1,815 @@
+
+████████████████████████████████████████████████████████████████████████████████
+              Disciplina Mágica Conexión Arcana (Agatha Harkness)               
+████████████████████████████████████████████████████████████████████████████████
+
+
+
+--------------------------------------------------------------------------------
+                              HABILIDADES BÁSICAS                               
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[CONEXIÓN ARCANA] – HECHICERA SUPREMA DE NUEVO SALEM
+================================================================================
+  Mística — Pasiva
+
+EFECTO VISUAL:
+  Gracias a tu talento y habilidad insuperables, logras posicionarte como la bruja más poderosa de toda Salem haciendo gala de tu vasto conocimiento en infinidad de conjuros, rituales y hechizos. Efecto: La usuaria adquiere los siguientes beneficios. [DETERMINACIÓN DE HECHICERA]: Posees una determinación superior para la realización satisfactoria de encantamientos de gran poder sin que estos lleguen a consumirte. [+2 VOL]. [CONOCIMIENTO MÁGICO SUPERIOR]: Tu habilidad se la debes a los años de conocimiento adquirido a través del estudio riguroso de las artes místicas. La usuaria obtiene acceso al Perfil Místico y al Tomo: Magia Arcana además de los siguientes beneficios: Adquieres la escala de PODER – MÁGICO TIER 2. Los multiplicadores de los cálculos de las habilidades tanto del Perfil Místico como del Tomo Arcano aumentan en +0.15. (Ejemplo: PMx1.5 pasa a ser PMx1.65) Gracias a su habilidad, la usuaria obtiene un bonificador de +3 en cualquier acción que implique el análisis de artefactos mágicos. Así mismo, su primera acción basada en misticismos recibe el mismo bonificador. No acumulable con otros bonificadores. Recibes un bonificador del 20% [*1.20] a la experiencia obtenida. (No se acumula de ningún modo con otros aumentos, debiendo ser reemplazado por otro bonificador que sea mayor que este por si solo). Ignoras todo tipo de requisitos provenientes de habilidades místicas siempre que superes en EXPERIENCIA TOTAL al oponente. Así mismo, se considera de un (1) TIER MÁGICO superior de cara a habilidades que comparen este STAT siempre que cumpla la condición anteriormente expuesta. [MÁXIMA BRUJA DE NUEVO SALEM]: Las habilidades de este documento y del Tomo Arcano no pueden ser anuladas por medio de anulaciones místicas realizadas por oponentes que no le superen en PODER MÁGICO. [HECHICERA ELEMENTAL]: Dentro de tu vasto conocimiento de las artes místicas se incluye la manipulación de los elementos naturales. La usuaria adquiere el Tomo: Magia de la Tierra viendo aumentados los multiplicadores de sus cálculos en +0.15. (Ejemplo: PMx1.5 pasa a ser PMx1.65) [TALENTO MÁGICO]: Mediante este comando es posible reducir el coste de una habilidad ofensiva del Perfil Místico o Tomo: Magia Arcana en "-1 PA" (sin reducir a cero), o bien reducir a "0 PA" el coste de una habilidad de Magia Arcana "TIER 3" con coste original de "1 PA" de este documento. Un uso por ronda. [DESTREZA MÍSTICA]: Puedes utilizar una segunda vez una habilidad defensiva u ofensiva durante un combate siempre que esté relacionada con la magia arcana o pertenezca a este documento, hasta un máximo de 1 habilidad ofensiva y 1 defensiva. Las habilidades repetidas de este modo no pueden exceder el TIER 2, adicionalmente, esta propiedad NO ignora tiempos de reutilización distintos al sistemático de “un uso por ronda”. [RESISTENCIA MÍSTICA]: La usuaria adquiere una RESISTENCIA – SOBREHUMANA la cual solo aplica ante habilidades de la índole mística e incluso ante aquellas que produzcan daño al alma. Así mismo, ignora heridas adicionales provocadas por misticismos realizados por oponentes con un PODER MÁGICO igual o inferior al propio. [LONGEVIDAD INUSUAL]: Tus prácticas mágicas te han permitido mantenerte con vida durante una absurda cantidad de tiempo en el que has aumentado tus conocimientos a límites inalcanzables. La usuaria adquiere una reducción del 50% [*0.50] ante todos los efectos relacionados al envejecimiento.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CONEXIÓN ARCANA] – PEMANENCIA ASTRAL
+================================================================================
+  Mística — Pasiva
+
+EFECTO VISUAL:
+  Tras años de estudio, logras dominar la habilidad de proyectar tu ser astral a tal punto de experticia que logras burlar a la muerte misma. Efecto: En caso de que la usuaria adquiera el estado “Muerta” por medio de habilidades que NO afecten al alma esta verá reemplazado dicho estado por el estado “Alma Errante” en el cual permanecerá durante 72 HRS tras las cuales podrá resucitar y recuperar su cuerpo físico. Esta propiedad aplica para cualquier tipo de muerte incluida la decapitación o desintegración. [ALMA ERRANTE]: La usuaria se mantiene bajo las directrices de su “Proyección Astral” hasta que el estado sea finalizado.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CONEXIÓN ARCANA] – PERCEPCIÓN DE MISTICISMOS
+================================================================================
+  Mística — Pasiva
+
+EFECTO VISUAL:
+  Posees una sensibilidad innata ante toda fuente mágica gracias a tu continuo contacto con los misticismos. Efecto: Obtienes los siguientes beneficios. [CLARIVIDENCIA MÁGICA]: Logras percibir la manifestación de sucesos inminentes con algunos pocos segundos de anticipación. La usuaria adquiere una base de 2 REFLEJOS sin embargo es capaz de ignorar requisitos de hasta “4 REF” una vez por ronda. [PERCEPCIÓN DE MISTICISMOS Y OSCURIDAD]: La usuaria detecta la posición de todo individuo que cumpla al menos una de las siguientes características: Criatura Mágica, Maldición Mágica, Pacto Mágico, RAGO CRUEL > 5, Practicante de Magia Oscura, Portador de algún artefacto mágico. Así mismo, en caso de que no cumpla ninguna de las anteriores, la percepción se produce temporalmente durante 6 acciones sobre cualquier oponente que use una habilidad mística, la duración se renueva por cada habilidad realizada. [RECONOCIMIENTO DE PROPIEDADES]: Se ignora todo requisito de reacción relacionado con ocultaciones, ataques engañosos o por la espalda proveniente de algún oponente que sea percibido. Todo factor oculto proveniente de dichos oponentes le deberá ser revelado al instante antes de realizar cualquier reacción.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[ARTEFACTO MÁGICO] – ORBE DE CRISTAL
+================================================================================
+
+Parafernalia – Artefacto Mágico
+
+EFECTO VISUAL:
+  Canalizador mágico cuya función radica en la localización de individuos sin importar su ubicación trascendiendo su utilidad incluso a través de las distintas dimensiones. Efecto: Es posible usar el comando *Observación Mágica mientras se posea equipado este artefacto obteniendo una detección de posición de todos los combatientes dentro de la sala durante la ronda vigente. Consume 1 PA. [LOCALICIÓN INTERDIMENSIONAL]: Esta detección no puede ser burlada trascendiendo incluso las ocultaciones dentro de dimensiones alternas. Permite identificar la ubicación a la que un oponente se teletransporte pudiendo usar las habilidades de teletransportación de este documento para perseguir al susodicho, esto permite anular habilidades de huida basadas en teletransportación considerando que el combate se traslada al lugar donde se teletransporta el oponente. [LA AYUDA VA EN CAMINO]: Permite usar el comando “IRRUMPIR” ignorando el requisito de bando retado. Así mismo, será posible usar habilidades de unión sobre combates que ocurran en otras dimensiones)”. Un uso cada 72 HRS. [OBSERVACIÓN DE SUCESOS]: Es posible aplicar este comando sobre un evento al que no se haya asistido adquiriendo únicamente la EXPERIENCIA otorgada por el mismo. – Un uso cada 7 días.
+
+ACLARACIONES:
+  Cualquier uso sobre otras dimensiones requiere “Ebano (Agatha Harkness)”.
+
+================================================================================
+
+
+================================================================================
+[VÍNCULO FAMILIAR DIRECTO] – “MI QUERIDO ÉBANO”
+================================================================================
+  Mística — Pasiva
+
+EFECTO VISUAL:
+  Posees una relación directa con la criatura extra-dimensional conocida como “Ébano” lo cual les proporciona una convergencia superior a la de cualquier otro poseedor previo. Efecto: La usuaria adquiere los siguientes beneficios en caso de adquirir la mascota “Ébano (Agatha Harkness)” [FIDELIDAD MUTUA]: Las habilidades defensivas pasan a beneficiar tanto a la usuaria como a la mascota sin importar quien las realice y sin necesidad de usar el comando “SOCORRER”. (Incluye anulaciones) [CONVERGENCIA SUPERIOR]: El beneficio “ANCHOR MÍSTICO” pasa a aplicar pasivamente a todas las habilidades de la usuaria.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[ERUDITA DE LA MAGIA] – “LA BRUJA MÁS PODEROSA”
+================================================================================
+  Mística — Pasiva
+
+EFECTO VISUAL:
+  Si bien llegaste a un punto en el que se te reconoce como uno de los máximos practicantes de las artes místicas. Tu éxito se lo debes a la experiencia de miles de años de estudio. Efecto: La usuaria adquiere 15 puntos en su rasgo ERUDITO y 0 en su contraparte, así como los siguientes beneficios. [ENTERAMENTE MÁGICA]: La usuaria no puede acceder a ningún contenido que no sea expresamente místico (incluyendo perfiles básicos, parafernalias y cualquier otro contenido adicional). Sin embargo, podrá acceder a la mejora de experiencia “Versátil” viendo su nombre modificado por “Erudita de la Magia” y su efecto permitirá obtener “Tomo: Magia Vishanti” en lugar del perfil adicional. [ESTUDIOS ANCESTRALES]: La usuaria adquiere acceso a una colección invaluable manuscritos ancestrales con conocimientos mágicos variados. “Manuscritos Arcanos” – Pergaminos Variados: Se trata de una serie de manuscritos con anotaciones de practicantes expertos para la correcta realización de los hechizos arcanos. Requiere la realización de 4 misiones (de agrupación o temporada) en donde se interprete el uso de las habilidades a mejorar además de poseer un mínimo de 2.500 EXP acumulados. Otorga acceso a las siguientes mejoras sobre el Tomo: Magia Arcana: “Levitación Mágica” extiende su duración a 4 turnos propios. “Invisibilidad Arcana” extiende su duración en +1 acción. “Proyección Astral” extiende su duración a “2 HRS”. Las habilidades de alcance individual podrán ser proyectadas hasta sobre dos objetivos. “El lenguaje de los Dioses y los Eternos – Imágenes de Ikkon” Página 999: Se trata de una versión mejorada de la habilidad “Ilusiones de Ikkon”. Esta genera hasta un máximo “4” copias ilusorias de la propia usuaria o un aliado dentro del alcance 5. Se consume 1 PA por copia generada. Las habilidades de alcance directo eliminarán una copia en lugar de impactar en el objetivo viendo anulados sus efectos. Por cada área que posea un ataque se elimina una copia adicional (Área 1: 2 copia, Área 2: 3 copias, Área 3: 4 copias). Debe usarse en turno propio a modo de habilidad suplementaria, cualquier detección de índole mística ignorará esta habilidad. Requiere la realización de 6 misiones (de agrupación o temporada) en donde se interprete su uso además de poseer un mínimo de 4.000 EXP acumulados. [SUPERIORIDAD MÁGICA]: La usuaria ignora todo aprisionamiento de la índole mística pudiendo desplazarse fuera de este por su propio pie ignorando la contención. No aplica ante individuos que le superen en PODER MÁGICO.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[MAGIA ARCANA] – RITUALES MÍSTICOS
+================================================================================
+
+Interacción
+
+EFECTO VISUAL:
+  Posees un vasto conocimiento en el arte de la realización de diversos rituales mágicos, yendo desde la purificación de la magia misma hasta el destierro de entidades demoniacas. Efecto: Este tipo de actos mágicos requieren de una extensa preparación, por lo que todo ritual debe ser antecedido por los preparativos en donde obligatoriamente deberá trazarse un “Pentagrama Arcano” en el suelo. [RITUAL DE LIMPIEZA]: Debe realizarse desde fuera de combate sobre un mínimo de cuatro (4) practicantes de las artes místicas (contando a la usuaria). Requiere de una interpretación de un mínimo de 20 diálogos en donde los participantes pongan a disposición su poder mágico a la usuaria en función de purificarlo. Tras finalizar la interpretación, se recibe como recompensa una reducción del 25% [*0.75] ante el daño producido las habilidades relacionadas con la Magia Oscura (incluso si posee las propiedades del daño al alma) durante 72 HRS. Así mismo, elimina todo estado post-combate activo sobre los participantes que haya sido producido por medio de prácticas oscuras (incluido heridas adicionales). Un uso cada 7 días. [RITUAL DE LA VERDAD]: Debe realizarse desde fuera de combate sobre objetivo secuestrado. Permite la realización de un máximo de cuatro (4) preguntas las cuales se está obligado a contestar con la verdad salvo que se supere en PODER MÁGICO a la usuaria. Un uso cada 15 días. [RITUAL DE CONVERGENCIA]: Debe realizarse desde fuera de combate junto a dos participantes adicionales a la usuaria que posean alguno de sus atributos de combate dentro de una escala TIER 2 o superior. Permite contactar con la entidad conocida como “The Watcher” en momentos de incertidumbre para consultarle sobre los sucesos venideros. La usuaria podrá ponerse en contacto con el Equipo de Narración para realizar tres preguntas de respuesta cerrada (Sí o No) que estén relacionadas con un evento o interacción activos en el RPG y del que se forme parte. Es posible renunciar a las tres preguntas a cambio de consultar la identidad de hasta dos (2) NPC relevantes que vayan a aparecer (a elección del equipo narrativo). Todos los participantes en el ritual verán sus STATS reducidos en un 50% [*0.5]” durante 48 HRS de manera irreducible. Un uso cada 30 días.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CATEDRÁTICA ANCESTRAL] – ENSEÑANZA MÁGICA
+================================================================================
+
+Interacción
+
+EFECTO VISUAL:
+  Posees un talento innato para la enseñanza de las artes místicas, pudiendo cumplir la labor de transmitir tu vasto conocimiento a las generaciones futuras. Efecto: La usuaria adquiere los siguientes beneficios. [CLASE MAGISTRAL]: Permite mejorar el Perfil Místico de otros jugadores por medio de una interpretación de enseñanza de un mínimo de 20 diálogos. Solo es posible otorgar una única mejora por clase. Un uso cada 7 días. Tomo Mágico: “Los Lenguajes de los Dioses y los Eternos”: Libro de enseñanza básica por excelencia a los iniciados en las artes místicas. A continuación, se expone el banco de mejoras aprendibles por los pupilos de la usuaria. Capítulo 23: “Encantamientos Básicos”: Otorga un aumento de +0.05 al multiplicador de las habilidades “Rayo Místico”, “Escudo Místico” y “Onda Mística” (Ejemplo: de PMx1.35 pasa a PMx1.4). No acumulable con otros bonificadores de este tipo. Capítulo 24: “Llamas de los Faltine”: Permite reemplazar el nombre de la habilidad “Llamas Faltine” por “Por las Llamas de los Faltine” permitiendo usarla a modo de contraataque viendo aumentada su efectividad en un “20% [*1.2]” ante habilidades de la índole mística. Este uso se considera una habilidad distinta de cara a la limitación de reutilización por ronda. Capítulo 25: “Bandas Zafiro de Storaan”: Aumenta en +1 acción la duración de la parálisis provocada por esta habilidad. Capítulo 26: “Creación de Portales”: La habilidad “Portal Místico” pasa a ser una habilidad de huida directa ignorando requisitos. Adquiere un tiempo de reutilización de 72 HRS. Solo aprendible por individuos con una escala de PODER MÁGICO – TIER 3 o superior. Capítulo 27: “Ilusiones de Ikkon”: Otorga un dominio perfecto de la habilidad permitiendo usarla una segunda vez en la misma ronda aumentando su coste en +1 PA. Solo aprendible por individuos con una escala de PODER MÁGICO – TIER 3 o superior. Capítulo 28: “Cadenas de Krakkan”: El requisito de liberación se extiende a 50 TON y el TIER de la habilidad asciende al TIER 2. Solo aprendible por individuos con una escala de PODER MÁGICO – TIER 3 o superior. Capítulo 29: “Rayos de Balthakk”: Aumenta el área de la habilidad del perfil místico “Rayos de Balthakk” en +1. Solo aprendible por individuos con una escala de PODER MÁGICO – TIER 3 o superior. Capítulo 30: “Nieblas de Morfeo”: El estado producido por esta habilidad pasa a considerarse sueño profundo lo cual imposibilita el uso del comando básico “DESPERTAR” para anular dicho estado. Solo aprendible por individuos con una escala de PODER MÁGICO – TIER 2 o superior. Capítulo 31: “Colmillos de Farallah”: Permite usar el “Efecto 3” de la habilidad “Colmillos de Farallah” en respuesta a un desplazamiento enemigo realizado dentro del alcance de dicha habilidad. Solo aprendible por individuos con una escala de PODER MÁGICO – TIER 2 o superior. Toda “CLASE MAGISTRAL” otorga una recompensa de 100 EXP a todos los participantes (incluida la usuaria). Es posible interpretar cualquier otra lección de preferencia del usuario en caso de que ninguno de los participantes requiere aprender una mejora específica obteniendo únicamente el beneficio de experiencia. Ninguno de los beneficios se acumula con bonificadores del mismo tipo. [VÍNCULO MAESTRA Y ALUMNA/O]: La usuaria debe indicar a un (1) jugador como su alumna/o predilecto en algún apartado de su ficha adquiriendo los siguientes beneficios mutuos. [CLASE ESPECIALIZADA]: El alumno predilecto podrá hasta tres (3) beneficios de los expuesto en la anterior interacción en una sola clase. [ENSEÑANZAS AVANZADAS]: Permite enseñar hasta cuatro (4) habilidades de este documento mediante una interpretación de 20 diálogos. Un uso cada 7 días, máximo una habilidad por escena. Estas no pueden poseer un TIER superior a 2 y solo una de ellas podrá ser de carácter defensivo. [DUO ACADÉMICO]: Pueden hacer uso del comando “Irrumpir” ignorando todos los requisitos expuestos en el mismo. [ENTRENAMIENTO CONJUNTO]: La usuaria y su alumna/o podrán usar las habilidades que compartan de manera colaborativa aumentando su efectividad en un 30% [*1.30]. Ambos consumen los PA de la habilidad en cuestión. Un uso cada dos rondas. Así mismo, su primera acción conjunta en eventos Rolz D&D obtiene una bonificación de +3 al resultado final siempre que usen misticismos (No acumulable con otros bonificadores). [NOTA]: Una vez se selecciona a un alumno predilecto, este no podrá ser modificado de ninguna forma salvo que el personaje del alumno muera o se revele contra la usuaria. [SELLO MÁGICO – OLVIDO DE CONOCIMIENTOS]: Aquellos aprendices que traicionen de algún modo al usuario pierden todos los beneficios obtenidos por sus clases o mecánicas de esta pasiva. El usuario debe indicar la perdida de conocimientos del aprendiz en cuestión en el post de heridas, muertes y sucesos.
+
+ACLARACIONES:
+  La usuaria posee todas las mejoras de Tomo Mágico: “Los Lenguajes de los Dioses y los Eternos” de manera directa.
+
+================================================================================
+
+
+================================================================================
+[TRIBUNAL ANCESTRAL] – JUICIO CONTRA LOS CRÍMENES MÁGICOS
+================================================================================
+
+Interacción
+
+EFECTO VISUAL:
+  Ser una de los máximos exponentes destacables entre los practicantes de las artes místicas trae consigo grandes responsabilidades. Dentro de estas se incluye la protección de la magia misma convirtiéndote en la líder y árbitro del tribunal ancestral contra los crímenes mágicos. Efecto: La usuaria adquiere los siguientes beneficios. [JUICIO MÁGICO]: Se trata de una interacción realizable sobre un jugador encarcelado. Esta deberá representar un juicio en donde el acusado es quien se encarga de su propia defensa confrontando los crímenes de los que se le acusa. Si la mayoría de la corte dictamina al acusado como culpable, se le extraerán los recuerdos perdiendo todas sus afiliaciones (agrupaciones, facción) y reconocimientos (emblemas) durante un tiempo dictaminado en el juicio para cada caso en particular. [MIEMBROS DE LA CORTE]: Deben existir un mínimo de cinco (5) miembros de la corte los cuales deben cumplir con las siguientes directrices: Variedad de Destrezas: Cada miembro debe representar una rama mágica distinta (Tomos). La rama a representar será la de su tomo principal. Argumento de Autoridad: Cada miembro debe poseer un mínimo de PODER MÁGICO – TIER 2. Imparcialidad: Al menos tres miembros de la corte no pueden estar relacionados con el usuario de ninguna forma. Es decir que no pueden ser parte de su agrupación ni de agrupaciones aliadas ni tener relación alguna a nivel interpretativo.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO II                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[CONCENTRACIÓN] – LECTURA MENTAL
+================================================================================
+  Habilidad Pasiva — Mental
+
+EFECTO VISUAL:
+  El usuario es capaz de leer la mente de sus oponentes, obteniendo información automática mientras se encuentre concentrado. Efecto: El usuario detecta a todo aquel usuario sobre el que se esté concentrado y se oculte mediante métodos ordinarios. Esta detección no aplica si la ocultación del objetivo tiene aclaraciones contrarias a la de esta pasiva. El usuario ignora los requisitos de reacción que posean 1 de cada 4 ataques (el primero) siempre y cuando sean referentes a REFLEJOS (REF).
+
+ACLARACIONES:
+  - Requiere poseer Concentración activa. - Únicamente ignora requisitos de REF, si la habilidad en cuestión posee otros tipos de requisitos adicionales, deberá cumplirlos para reaccionar. - Se considera una intrusión mental.
+
+================================================================================
+
+
+================================================================================
+PROYECCIÓN ARCANA
+================================================================================
+
+100 EXP
+
+
+Mística — Ofensiva
+
+
+Alcance: 5
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Se trata de una intensa proyección de energía mística sobre uno o varios objetivos. Efecto: Produce un daño de “PM*2.5” sobre un máximo de 2 objetivos junto al efecto de desplazamiento forzoso de 4 casillas. Se producirá la alteración “derribo” en caso de haber colisión. [INTERCEPCTO ARCANO]: Es posible usar esta habilidad a modo de anticipación una vez cada 2 rondas. Este uso se independiente a su uso principal pudiendo ejecutarlos en una misma ronda.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+ESCUDO ARCANO
+================================================================================
+
+100 exp
+
+
+Mística — Ofensiva
+
+
+Alcance: Propio
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Se trata de una formación amurallada de energía mística cuya función es la mitigación de una ofensiva inminente. Efecto: Produce una defensa externa de “PM*2.5” la cual beneficia a todos los individuos dentro del Área 1 de la usuaria.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+CONTENCIÓN ARCANA
+================================================================================
+
+100 EXP
+
+
+Mística — Ofensiva
+
+
+Alcance: 2
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Se trata de un constructo en forma de pirámide a escala del tamaño del objetivo cuya función es contenerlo en su interior. La formación de este constructo se produce directamente sobre el objetivo sin describir una trayectoria, volviendo una hazaña difícil el evadirla por pie propio. Efecto: Aprisiona al objetivo en una contención mística con una resistencia de “PMx2.5” imposibilitando que este se desplace de su casilla o afecte a oponentes fuera de la contención hasta que logre destruirla. Se requiere la escala VELOCIDAD - 501/1200 KM/H para poder evadir esta habilidad. Evasiones basadas en teletransportaciones ignoran este requisito.
+
+ACLARACIONES:
+  Ignora inmunidades relacionadas al tamaño del oponente.
+
+================================================================================
+
+
+================================================================================
+DISPERSIÓN MÁGICA
+================================================================================
+
+100 EXP
+
+
+Mística — Defensiva (Anulación)
+
+
+Alcance: Propio|5
+
+
+VARIABLE
+
+
+TIER VARIABLE
+
+EFECTO VISUAL:
+  La usuaria dispersa toda formación o proyección de energía mística o manipulación de los elementos naturales anulando todos sus posibles efectos. Efecto: Permite anular una habilidad de índole mística, índole energética o que esté basada en la manipulación de elementos, incluyendo cambios climáticos, sin importar sus propiedades pudiendo incluso realizarla ante habilidades solo resistibles. [MEDIACIÓN DE ESFUERZO]: La usuaria debe aplicar el mismo esfuerzo requerido para la realización del hechizo a disipar, por lo que consume el mismo PA de la habilidad a anular. En caso de usarla ante oponentes con un PODER MÁGICO superior al propio se consume +1 PA adicional. [MEDIACIÓN DE POTENCIA]: El nivel de la habilidad varía según el ataque a dispersar por lo que poseerá un TIER equivalente.
+
+ACLARACIONES:
+  - Puede usarse hasta dos veces por ronda. - Puede usarse incluso si el usuario no es el objetivo siempre que el aliado se encuentre dentro del alcance.
+
+================================================================================
+
+
+================================================================================
+REDIRECCIÓN DE MISTICISMOS
+================================================================================
+
+100 EXP
+
+
+Mística — Ofensiva/Defensiva
+
+
+Alcance: Propio
+
+
+VARIABLE
+
+
+TIER VARIABLE
+
+EFECTO VISUAL:
+  La usuaria redirecciona toda proyección mágica hacia su atacante combatiendo fuego contra fuego. Efecto: Permite redireccionar cualquier habilidad de la índole mística sobre su ejecutor anulando los efectos de la misma sobre sí. [ÁREAS]: Las habilidades con alcance de área o múltiple objetivo redireccionarán los efectos producidos sobre la usuaria únicamente, por lo que otros afectados deberán reaccionar a su parte con normalidad. Toda habilidad redireccionada poseerá alcance individual a excepción de las que posean “Área sobre el objetivo”. [MEDIACIÓN DE ESFUERZO]: La usuaria debe aplicar el mismo esfuerzo requerido para la realización del hechizo a redireccionar, por lo que consume el mismo PA de la habilidad reaccionada. En caso de usarla ante oponentes con un PODER MÁGICO superior al propio se consume +1 PA adicional. [MEDIACIÓN DE POTENCIA]: El nivel de la habilidad varía según el ataque a redireccionar, por lo que poseerá un TIER equivalente.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[ILUSIÓN MÁGICA] – BELLEZA JUVENIL
+================================================================================
+
+100 EXP
+
+
+Mística — Suplementaria
+
+
+Alcance: FDC
+
+
+FDC
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Se trata de una ilusión mística que modifica la apariencia de la usuaria haciéndola lucir como una joven con una exuberante belleza. Efecto: Ante oponentes del SEXO OPUESTO al del usuario: El usuario reduce una de cada tres acciones ofensivas (la primera) que tengan daño numérico directo en un “25% [*0.75]” que se aplica antes de defensas activas y pasivas. Estados alterados (no controles de masa) se ven reducidos en “-1 turno” y recibirá siempre como mínimo 1 turno de alteración. El usuario no puede ser atacado fuera de combate por oponentes que no posean 3 VOL.
+
+ACLARACIONES:
+  - Se considera una “ATRACCIÓN – TIER 3”. - Debe usarse fuera de combate con duración indefinida para modificar el look de hobba indicando [Belleza] en la misión. - Esta habilidad puede ser ignorada por personajes con 3 VOL o más o personajes con un nivel de atracción superior al del usuario.
+
+================================================================================
+
+
+================================================================================
+[ILUSIÓN MÁGICA] – MODIFICACIÓN TERRENAL
+================================================================================
+
+100 EXP
+
+
+Mística — Suplementaria
+
+
+Alcance: FDC
+
+
+FDC
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Se trata de una ilusión de área amplia que permite ocultar la ubicación de un lugar en particular. Efecto: Debe usarse fuera de combate sobre una sala (a excepción de la principal y sus salas adyacentes) impidiendo que otros jugadores puedan ingresar a la misma durante 24 HRS. Es posible aplicarla sobre la sede de la agrupación de la usuaria ocultando la ocultación de la misma, por lo que toda interpretación del conocimiento de la ubicación queda invalidada salvo que se ignoren ilusiones místicas. Así mismo, imposibilita la aplicación de habilidades que afecten edificaciones de agrupaciones o de robo de información.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+[ILUSIÓN MÁGICA] – APARIENCIA TERRORÍFICA
+================================================================================
+
+100 EXP
+
+
+Mística — Suplementaria/Defensiva (Anulación)
+
+
+Alcance: Propio|4
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Modificación de apariencia ilusoria que manifiesta una imagen terrorífica que atormentaría hasta a los más valientes. Efecto: Posee dos efectos independientes de cara a la reutilización sistemática de usos por ronda. [TORMENTO PARALIZANTE]: Puede ser usada sobre la propia usuaria o sobre un aliado dentro del alcance produciendo una parálisis por miedo de 3 acciones en Área 2. No afecta a oponentes con 3 VOL o inmunes al miedo. Solo Resistible. [TOMENTO PREVENTIVO]: Puede ser usada sobre la propia usuaria o un aliado dentro del alcance anulando una habilidad ofensiva que sea realizada dentro del Área 4 del objetivo beneficiado. Un uso cada 3 rondas.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+[ILUSIÓN MÁGICA] – IMÁGENES MENTALES
+================================================================================
+
+100 EXP
+
+
+Mística — Ofensiva
+
+
+Alcance: 4
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Proyecta una imagen de la consciencia del objetivo distrayéndolo en función de reducir su desempeño en la batalla Efecto: Genera la alteración “desorientado” durante 5 acciones.
+
+ACLARACIONES:
+  Solo Resistible.
+
+================================================================================
+
+
+================================================================================
+TRANSMUTACIÓN ELEMENTAL
+================================================================================
+
+100 EXP
+
+
+Mística — Ofensiva
+
+
+Alcance: 4
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Permite cambiar los estados de los elementos naturales al igual que alterar su composición transformando un elemento en otro. Efecto: Permite solidificar oponentes que posean una composición corpórea elemental (tierra, fuego, aire, agua y todas sus variaciones de estado) produciendo el estado paralizado durante 4 acciones.
+
+ACLARACIONES:
+  Solo Resistible.
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS MÁGICA] – DISPERSIÓN DE ATADURAS
+================================================================================
+
+100 EXP
+
+
+Mística — Defensiva (Anulación)
+
+
+Alcance: Propio | 5
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Destruye ataduras o elementos restrictivos que neutralicen a algún objetivo. Efecto: Anula una habilidad que produzca un control es de masa por medio de algún elemento externo (ataduras, cadenas, constructos restrictivos, etc). Se considera que la habilidad se realiza tras recibir el estado por lo que no es necesario cumplir con ningún requisito de reacción.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS MÁGICA] – PILOTO AUTOMÁTICO
+================================================================================
+
+100 EXP
+
+
+Mística — Ofensiva
+
+
+Alcance: 5
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Permite tomar control sobre un vehículo secuestrando la conducción a su antojo. Efecto: Permite expulsar un vehículo que se encuentre dentro del combate. Los pasajeros podrán invertir 1 PA para salir del vehículo y evitar ser expulsados del combate junto al mismo.
+
+ACLARACIONES:
+  Solo anticipable.
+
+================================================================================
+
+
+================================================================================
+[HECHIZO ARCANO] – TELETRANSPORTACIÓN ARCANA
+================================================================================
+
+100 EXP
+
+
+Mística — Ofensiva/Defensiva/Suplementaria
+
+
+Alcance: VARIABLE
+
+
+VARIABLE
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La magia de teletransportación es una de las más difíciles de dominar pues requiere de un elevado poder mágico y dominio perfecto de las auras místicas. Efecto: Debe seleccionarse uno (1) de los siguientes efectos al momento de usar esta habilidad. [EXTRACCIÓN DE SALVAMENTO]: Permite extraer a cualquier número de jugadores que se encuentren combatiendo, expulsándolos del combate ignorando cualquier requisito de huida o incluso habilidades de cierre de combate que no sean de la índole mística. Consume 1 + “Oponentes extraídos del combate” PA. Puede usarse incluso si no se está dentro del combate ni dentro del mapa del RPG. Solo anticipable o anulable. No puede usarse sobre la usuaria. Un uso efectivo cada 72 HRS, en caso de fallar se deberá esperar un mínimo de 4 rondas para volver a usarlo. Alcance Sala. [TELETRANSPORTACIÓN INSTANTÁNEA]: Permite huir de un combate ignorando requisitos junto a otro aliado que se encuentre dentro del “Alcance 1” de la usuaria. Al realizarse a la velocidad del pensamiento, no puede anticiparse ni anularse salvo por oponentes con 6 REFLEJOS o superior. Consume 2 PA. Alcance Propio. Un uso efectivo cada 72 HRS, en caso de fallar se deberá esperar un mínimo de 2 rondas para volver a usarlo. [REPOSICIONAMIENTO EVASIVO]: Permite evadir una habilidad reposicionándose en cualquier casilla dentro del “Alcance 10” de la usuaria. Consume 2 PA. [REPOSICIONAMIENTO ESTRATÉGICO]: Permite posicionarse en cualquier casilla de la sala. Consume 1 PA por cada 5 casillas desplazadas. [CAMBIO DE CAMPO]: Permite teletransportar a todos los participantes de un combate hacia otra sala con el fin de reposicionar el combate. No es posible reaccionar a esta habilidad. Un uso cada 7 días.
+
+ACLARACIONES:
+  Cada uso se considera una habilidad distinta de cara a utilización en una misma ronda.
+
+================================================================================
+
+
+================================================================================
+[MAGIA MENTAL] – TRANCE MÍSTICO
+================================================================================
+
+100 EXP
+
+
+Mística — Ofensiva
+
+
+Alcance: 4
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Induce un trance mágico sobre el objetivo dejándole en un estado similar a un coma. Efecto: Produce el estado inconsciente durante 4 acciones.
+
+ACLARACIONES:
+  Solo Resistible.
+
+================================================================================
+
+
+================================================================================
+[MAGIA MENTAL] – IMPOSICIÓN DE VOLUNTAD
+================================================================================
+
+100 EXP
+
+
+Mística — Defensiva (Anulación)
+
+
+Alcance: Propio
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Permite potenciar la entereza de la usuaria canalizando una gran cantidad de energía mística en su cuerpo para repelar ataques psíquicos. Efecto: Anula una habilidad de índole mental que no posea proyección física. Adicionalmente, en caso de usarlo ante un control mental el atacante perderá su concentración sobre la usuaria debiendo esperar 4 acciones para volver a reactivarla.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                   RANGO III                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[SELLO MÍSTICO] – COSTURA VOCAL
+================================================================================
+
+100 EXP
+
+
+Mística — Ofensiva
+
+
+Alcance: 4
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Genera un hilo de energía arcana que sella la boca de su objetivo privándolo del habla. Efecto: Genera la alteración “Mudo” durante 6 acciones.
+
+ACLARACIONES:
+  Solo resistible, anticipable o anulable.
+
+================================================================================
+
+
+================================================================================
+[SELLO MÍSTICO] – PRISIÓN ARCANA
+================================================================================
+
+100 EXP
+
+
+Mística — Suplementaria
+
+
+Alcance: FDC
+
+
+FDC
+
+
+TIER 1
+
+EFECTO VISUAL:
+  La usuaria sella el interior de un espacio cerrado con el fin de impedir el ingreso o escapatoria del mismo. Efecto: Puede aplicarse a los teleport de una sala que represente el interior de una edificación, generando que estos queden inutilizables salvo por aquellos designados por el usuario. La barrera se mantiene durante 5 HRS. Un uso cada 48 HRS. El tiempo de reutilización comienza a contar tras la finalización de los efectos.
+
+ACLARACIONES:
+  Debe adjuntarse una prueba gráfica de la realización de la habilidad indicándolo en el post de Heridas, Muertes y Sucesos.
+
+================================================================================
+
+
+================================================================================
+[MAGIA ELEMENTAL] – TORNADO MÍSTICO
+================================================================================
+
+100 EXP
+
+
+Mística — Ofensiva
+
+
+Alcance: 5, Área 2 sobre el objetivo
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Invoca un tornado en el campo de batalla con la capacidad de disipar plagas. Efecto: Produce un daño físico de “PMx2.5” sobre los objetivos. El daño aumenta en un 50% [*1.50] sobre objetivos cuya composición corporal se base en insectos. Impide el uso de habilidades que hagan uso de insectos durante 6 acciones.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[MAGIA ELEMENTAL] – HECHIZO DE MAGNETIZACIÓN
+================================================================================
+
+100 EXP
+
+
+Mística — Ofensiva
+
+
+Alcance: 4
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Permite magnetizar una superficie para neutralizar oponentes de composiciones férricas. Efecto: Produce la alteración paralizado sobre oponentes con composiciones corporales férricas durante 4 acciones. Sobre vehículos y parafernalias con la misma composición producirá el efecto de inutilización durante 5 acciones.
+
+ACLARACIONES:
+  Solo Resistible. En el caso de las parafernalias, se interpreta que el objetivo retiene su equipamiento a la fuerza para que no sea inutilizado.
+
+================================================================================
+
+
+================================================================================
+ANIMACIÓN MÁGICA
+================================================================================
+
+100 EXP
+
+
+Mística — Suplementaria
+
+
+Alcance: 4
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Encantamiento arcano que otorga vida artificial a objetos inanimados. Efecto: Esta habilidad debe usarse en turno propio sobre un furni de 2 casillas o menos que no supere en altura al keko. El objeto inanimado se interpondrá a la próxima habilidad ofensiva con proyección física del TIER 3 dirigida hacia el usuario anulando todos sus efectos. Se considera que el furni “persigue” al usuario hasta producir su efecto, este queda descartado desde el momento en que es encantado por esta habilidad.
+
+ACLARACIONES:
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO IV                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[MAGIA DE TIEMPO] – VIAJE TEMPORAL INSTANTÁNEO
+================================================================================
+
+100 EXP
+
+
+Mística — Suplementaria
+
+
+Alcance: FDC
+
+
+FDC
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Permite viajar junto a un acompañante hacia el pasado adquiriendo la experiencia de cientos años en cuestión de segundos Efecto: Permite otorgar un total de 250 EXP a un jugador realizando una breve interpretación de 10 diálogos en la que la usuaria explique el propósito del viaje.
+
+ACLARACIONES:
+  Un uso cada 15 días.
+
+================================================================================
+
+
+================================================================================
+DESTIERRO ARCANO
+================================================================================
+
+100 EXP
+
+
+Mística — Ofensiva
+
+
+Alcance: 5
+
+
+VARIABLE
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Permite desterrar entidades malignas concentrando una gran cantidad de poder mágico Efecto: Posee diversos usos individuales de cara a la utilización dentro de una misma ronda. [DESTIERRO INSTANTÁNEO]: Anula una habilidad basada en posesiones demoniacas u oscuras. Puede usarse incluso ante habilidades solo resistibles. Consume 2 PA. [EXORCISMO TOTAL]: Anula todos los beneficios otorgados por posesiones oscuras o demoniacas. Solo Resistible. Consume 3 PA. [ROLZ D&D]: Permite realizar una acción de exorcismo obteniendo una bonificación de +4 en el resultado final no acumulable con ningún otro bonificador. Un uso por evento.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[MAGIA ELEMENTAL] – AMURALLAMIENTO ÍGNEO
+================================================================================
+
+100 EXP
+
+
+Mística — Suplementaria
+
+
+Alcance: Sala
+
+
+3 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Crea un amurallamiento de un área amplia impidiendo el escape de los combatientes. Efecto: Impide el uso del comando básico “HUIR” o de cualquier habilidad huida por pie propio salvo aquellas basadas en teletransportación, vuelo o escape subterráneo/subacuático. Su duración se extiende hasta el final del combate.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[SELLO MÍSTICO] – ANULACIÓN DE APTITUD MÁGICA
+================================================================================
+
+100 EXP
+
+
+Mística — Ofensiva
+
+
+Alcance: FDC
+
+
+FDC
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Sella la capacidad de canalizar energía mística del objetivo privándolo del uso de toda práctica mística. Efecto: Esta habilidad debe realizarse sobre un oponente secuestrado/encarcelado privándolo de la capacidad de realizar habilidades de la índole mística de manera permanente. No afecta a oponentes con un poder mágico superior a la usuaria. [RITUAL DE CANCELACIÓN]: Otros jugadores pueden intentar deshacer este sello místico siempre que posean un PODER MÁGICO equivalente o superior a la usuaria. Al momento de hacer este intento, se debe poner en contacto con un miembro del Equipo Administrativo para realizar tres tiradas de un dado de 100 caras. El oponente logrará deshacer el sello siempre que supere a la usuaria en dos de tres tiradas. En caso de empate deberán repetirse los tres duelos de tiradas. Si la usuaria resulta vencedora, no será posible deshacer el sello hasta pasados 30 días. Se debe comunicar la mecánica de “RITUAL DE CANCELACIÓN” al oponente afectado de manera obligatoria.
+
+ACLARACIONES:
+  Un uso cada 30 días.
+
+================================================================================
+

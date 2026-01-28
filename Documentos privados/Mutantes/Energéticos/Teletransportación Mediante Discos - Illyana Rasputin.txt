@@ -1,0 +1,535 @@
+
+████████████████████████████████████████████████████████████████████████████████
+             Teletransportación Mediante Discos   Illyana Rasputin              
+████████████████████████████████████████████████████████████████████████████████
+
+
+
+--------------------------------------------------------------------------------
+                              HABILIDADES BÁSICAS                               
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[ENTRENAMIENTO FÍSICO] – COMPLEXIÓN MUTANTE FORTALECIDA
+================================================================================
+  Física — Habilidad Pasiva
+
+EFECTO VISUAL:
+  Fruto de un gran esfuerzo físico, la usuaria ha conseguido llevar su cuerpo a un escalón más alto que el de un mutante promedio. Efecto: El usuario obtiene un aumento de STATs. [VITALIDAD HUMANO ENTRENADO]: La usuaria posee una mayor capacidad de tolerancia al daño, permitiéndole combatir incluso con heridas severas. [FUERZA DE HUMANO ENTRENADO]: La musculatura de la usuaria se ha visto aumentada como consecuencia de su entrenamiento y maestría en el arte de la esgrima. [VELOCIDAD HUMANO ENTRENADO]: La agilidad con la que la usuaria puede desplazarse puede llegar incluso a aquellos super humanos con especialidad en la velocidad. [DEFENSA PASIVA – BLINDAJE COMÚN]: La usuaria es capaz de mitigar los daños recibidos gracias a unos tejidos reforzados por el arduo entrenamiento. Esta defensa pasiva aplica también para habilidades de naturaleza mística, pero no para daño al alma. [3 REFLEJOS]: La capacidad de reacción de la usuaria le permite evitar proyectiles que viajan a velocidades cercanas, sino idénticas a la del sonido. Adicionalmente, la usuaria adquiere acceso a los perfiles Combatiente Bruto, Combatiente Ágil y Armas de Filo a cambio de consumir todos sus huecos de perfil.
+
+ACLARACIONES:
+  Los atributos aumentados se REEMPLAZAN, no se suman en ningún caso.
+
+================================================================================
+
+
+================================================================================
+[ENTRENAMIENTO FÍSICO] – COMBATIENTE VERSADO
+================================================================================
+  Física — Habilidad Pasiva
+
+EFECTO VISUAL:
+  El estilo de combate de la usuaria se encuentra bastante equilibrado, pues posee un dominio en el duelo cuerpo a cuerpo y una maestría absoluta en el arte de la esgrima, siendo considerada una de las espadachinas más versadas que podrían encontrarse. Efecto: La usuaria obtiene acceso a las siguientes habilidades: [INSTINTO DE BATALLA]: La usuaria es capaz de combatir incluso con sus ojos vendados, reaccionando y repartiendo ataques con completa libertad. La usuaria ignora los efectos de Ceguera. Puede hacer uso del comando *Instinto de Batalla* ante una habilidad que posea requisitos los cuales no cumpla, ignorándolos y reaccionando como si los poseyera. Un uso cada 3 turnos propios. Únicamente puede hacerse ante habilidades que posean proyección física y requisitos de VELOCIDAD y/o REFLEJOS. [AMBIDIESTRA]: La usuaria obtiene los beneficios de AMBIDIESTRO. Más información en el sistema de combate y atributos aumentados. [ESPADACHÍN EXPERTA]: Las espadas son consideradas sólo una extensión más de su cuerpo ante los ojos de la usuaria. Equipar y desequipar ARMAS DE FILO no consume puntos de acción en ningún caso para la usuaria y tampoco cuentan para el límite de acciones que no consuman puntos de acción. Haciendo uso del comando *Espadachín Experta* la usuaria puede reducir el coste de una habilidad en “-1 PA” siempre y cuando se haga uso de un arma de filo. Como mínimo SIEMPRE consumirá 1 PA. Un uso cada dos turnos propios.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[VÍNCULO DIMENSIONAL] – CONTROL ENERGÉTICO
+================================================================================
+  Energética/Mística — Habilidad Pasiva
+
+EFECTO VISUAL:
+  Desde su nacimiento, la usuaria ha poseído un vínculo especial con la dimensión infernal conocida como Limbo. Al despertar su mutación, adquirió la capacidad de abrir portales energéticos en las que esta dimensión actúa como intermediaria, y en cierta medida, confirió a la usuaria la capacidad de manipular energías extraídas de este lugar. Efecto: La usuaria posee un CONTROL ENERGÉTICO IV, lo que le otorga acceso directo al atributo de ENERGÍA (EN). Este valor es utilizado en todas las habilidades de índole energético que lo presenten en sus cálculos y escala conforme ascienda de rango. [ESENCIA MÁGICA]: La energía que utiliza la usuaria para llevar a cabo diferentes hazañas proviene del Limbo, adquiriendo una naturaleza híbrida entremezclada con los misticismos que abundan en dicha dimensión. Se considera que todas las habilidades energéticas de este documento son “50% [*0.50]” ENERGÉTICAS y “50% [*0.50]” MÍSTICAS. [DESATE ENERGÉTICO]: Conforme más utiliza energía extraída del Limbo, la usuaria adquiere mejoras en sus habilidades energéticas. Cada cinco (5) habilidades energéticas que realice provoca que su ENERGÍA (EN) aumente en un +20 EN. Llegado al punto en que alcance el bonus de +100 EN, no podrá aumentar este atributo.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[VÍNCULO DIMENSIONAL] – AFINIDAD MÁGICA INFERNAL
+================================================================================
+  Mística — Habilidad Pasiva
+
+EFECTO VISUAL:
+  Gracias a su conexión con la dimensión del Limbo, la usuaria ha nacido con una capacidad prácticamente innata para manipular los misticismos. Efecto: La usuaria obtiene el perfil Místico de manera gratuita. Además, ve sustituido el PODER MÁGICO (PM) otorgado por el siguiente, considerándose una mística de TIER 4. [APRENDIZAJE INFERNAL]: Alcanzado 6 Puntos de Exploración, la usuaria es capaz de acceder al documento Tomo Mágico – Magia Infernal.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[VÍNCULO DIMENSIONAL] – MENTE ENIGMÁTICA
+================================================================================
+  Mental — Habilidad Pasiva
+
+EFECTO VISUAL:
+  La usuaria posee una peculiar mente que, posiblemente en consecuencia de su naturaleza, es bastante difícil de leer y comprender por telépatas. Efecto: Concentrarse en la mente de la usuaria no otorga beneficio alguno (como aquellos relacionados con la lectura mental) salvo se posea una telepatía de clase HIGH ORDER o superior, o en su defecto, se le supere en +2 VOLUNTAD. [VOCES DEL ABISMO]: Desde muy pequeña la usuaria ha sido atormentada por pesadillas, imágenes horripilantes de criaturas y voces que le que le dicen cosas desagradables. La usuaria está forzada a llevar una interpretación que remarque este aspecto de su vida, pues está estrictamente ligado al desarrollo del poder. [MENTE RESGUARDADA]: Alcanzados 10 Puntos de Exploración, la usuaria obtiene +1 VOL y adquiere una reducción ante daños mentales del “15% [*0.85]”. Telépatas que no le igualen o superen en VOLUNTAD dejan de poder concentrarse en su mente, a excepción de aquellos de clase HIGH ORDER o superior, que siguen pudiéndose concentrar sin problemas.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO I                                     
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[DISCOS DE PASO] – TELETRANSPORTACIÓN ESPACIAL
+================================================================================
+
+100 EXP
+
+
+Energética — Suplementaria
+
+
+Alcance: “5*RANGO”
+
+
+Coste: 1 PA
+
+
+No clasificada
+
+EFECTO VISUAL:
+  La usuaria crea un disco de paso energético delante y otro de escape a algunos metros de distancia, desplazándose entre ubicaciones con gran velocidad. Efecto: Permite desplazarse hasta cualquier casilla dentro del alcance sin consumir VELOCIDAD. Esta habilidad puede usarse tantas veces como “RANGO” por ronda. El usuario puede consumir “1 PA” adicional por cada persona a desplazar mediante esta habilidad, pudiendo reubicarlos en cualquier casilla dentro del alcance, sin necesidad de que terminen en la misma dirección que el usuario. O en su defecto, puede utilizarse únicamente para desplazar a un aliado y no al usuario. Puede también utilizarse sobre oponentes, cambiando su naturaleza a Ofensiva y siendo únicamente evadible, anulable o anticipable. Todos estos métodos de reacción requieren de al menos “3 REF” o superior para ser efectivos. Consume “1 PA” adicional.
+
+ACLARACIONES:
+  Jugadores que considerados GIGANTES que ocupen área 1 ven aumentado el coste de teletransportación en “+1 PA” en ambos usos de esta habilidad.
+
+================================================================================
+
+
+================================================================================
+[DISCOS DE PASO] – TELETRANSPORTACIÓN EVASIVA
+================================================================================
+
+100 EXP
+
+
+Energética — Defensiva (Evasión)
+
+
+Alcance: “3*RANGO”
+
+
+Coste: 1 PA
+
+
+Tier 3
+
+EFECTO VISUAL:
+  Ante el ataque de un enemigo, la usuaria se deja caer por un disco de paso y reaparece a metros de distancia de este, eludiendo la ofensiva. Efecto: Permite evadir una habilidad con proyección física y reubicarse en cualquier casilla dentro del alcance de la habilidad sin consumir velocidad. Esta habilidad puede usarse tantas veces como “RANGO” por ronda, ignorando la restricción sistemática. Se considera con 5 REF al hacer uso de esta habilidad ante requisitos. Puede utilizarse también sobre aliados que permanezcan dentro del alcance para hacerles evadir, reaccionando por ellos. Se toman en cuenta los atributos, pasivas y habilidades del usuario en caso de que el ataque a evadir posea requisitos de reacción.
+
+ACLARACIONES:
+  Aumenta su coste en “+1 PA” por cada uso adicional a partir del primer uso de esta habilidad en la ronda.
+
+================================================================================
+
+
+================================================================================
+[DISCOS DE PASO] – LANZAMIENTO DE DISCO CORTANTE
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 5
+
+
+Coste: 1 PA
+
+
+Tier 3
+
+EFECTO VISUAL:
+  Solidificando un disco de energía, la usuaria lo lanza hacia su oponente con las intenciones de realizarle cortes y provocarle secuelas molestas. Efecto: Produce daño energético de “EN*1.5” y en caso de dañar, provoca un indirecto por hemorragia del “10% [*0.10]” del daño recibido durante 3 acciones. [SUCESIÓN DE DISCOS]: A partir de Rango III, esta habilidad puede ser usada dos veces por ronda, ignorando la restricción sistemática.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[DISCOS DE PASO] – PASO EN FALSO
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 5
+
+
+Coste: 1 PA
+
+
+Tier 3
+
+EFECTO VISUAL:
+  La usuaria genera un disco de paso debajo de su oponente y lo hace aparecer a varios metros del cielo, haciéndolo caer sin control. Efecto: Produce daño físico por caída equivalente al “15% [*0.15]” de la VIT. Máxima del afectado y el estado derribado en caso de recibir. Requiere de 3 REF para reaccionar. Una vez cada cuatro rondas puede ser utilizada en respuesta al desplazamiento del oponente, aplicando los efectos descritos y regresándolo a su casilla inicial en caso de recibir. - Consume 1 PA adicional. [ALTURA PELIGROSA]: A partir de Rango III, puede utilizar el comando *Altura Aumentada* para aumentar el daño causado a “25% [*0.25]” de la VIT. Máxima del afectado, consumiendo 2 PA adicionales en este comando.
+
+ACLARACIONES:
+  - Únicamente evadible, anulable o anticipable. - El oponente debe encontrarse en el suelo para poder ser utilizada esta habilidad.
+
+================================================================================
+
+
+================================================================================
+[DISCOS DE PASO] – TELETRANSPORTACIÓN DE HUIDA
+================================================================================
+
+100 EXP
+
+
+Energética — Suplementaria
+
+
+Alcance: “2*RANGO”
+
+
+Coste: “1 + ALIADOS” PA
+
+
+No clasificada
+
+EFECTO VISUAL:
+  La usuaria genera uno o varios discos de paso que tienen su escape en una zona alejada a la del combate, permitiéndole abandonar el enfrentamiento. Efecto: Permite huir de un combate en solitario o junto a aliados, en caso de requerirlo, ignorando requisitos y obstrucciones de huida que no sean de naturaleza mística.
+
+ACLARACIONES:
+  Un uso cada 12 HORAS.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO II                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[DISCOS DE PASO] – DISCO VOLADOR
+================================================================================
+
+100 EXP
+
+
+Energética — Suplementaria
+
+
+Alcance: Propio
+
+
+Coste: 1 PA
+
+
+No clasificada
+
+EFECTO VISUAL:
+  La usuaria solidifica un disco de paso energético, subiéndose encima de este para simular un vuelo controlado sobre la plataforma. Efecto: Proporciona la posición voladora durante 2 turnos propios. Mientras se encuentre en dicha posición la su velocidad se ve reemplazada por SOBREHUMANA: En caso de que la usuaria haya consumido previamente VELOCIDAD, debe restar las mismas casillas a la nueva velocidad adquirida y esa es la restante en esta posición. Debe repetir el mismo cálculo luego de que esta habilidad finalice en caso de consumir VELOCIDAD mientras permanezca activo el vuelo. Tras finalizar, debe esperar 1 ronda para volver a activarla.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[DISCOS DE PASO] – VÓRTICE
+================================================================================
+
+200 EXP
+
+
+Energética — Defensiva (Anulación)
+
+
+Alcance: “3*RANGO”
+
+
+Coste: 2 PA
+
+
+Tier 2
+
+EFECTO VISUAL:
+  La usuaria interpone un disco de paso ante la ofensiva de un enemigo, consumiéndola en susodicha y liberándola en una zona inofensiva. Efecto: Permite anular una habilidad enemiga con proyección física que no sea de contacto directo cuerpo a cuerpo que haga objetivo al usuario o a un aliado dentro del alcance. Esta habilidad puede usarse dos veces en una misma ronda. [REFRACCIÓN]: Consumiendo “1 PA” adicionales, a usuaria puede hacer uso del comando *Refracción* luego de consumir la habilidad enemiga, devolviéndosela a alguien dentro del alcance de esta habilidad con un requisito adicional de 4 REF para reaccionar.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[DISCOS DE PASO] – ATAQUE SORPRESA
+================================================================================
+
+100 EXP
+
+
+Energética — Suplementaria
+
+
+Alcance: “4*RANGO”
+
+
+Coste: 1 PA
+
+
+No clasificada
+
+EFECTO VISUAL:
+  La usuaria desaparece a través de un disco de paso y reaparece cerca del oponente, abusando del factor sorpresa para volver su ofensiva mucho más certera. Efecto: Utilizado junto a una habilidad a contacto, permite desplazarse hacia un oponente dentro del área sin consumo de velocidad. La habilidad escogida en cuestión continuará consumiendo sus respectivos Puntos de Acción, pero adquirirá el requisito de poseer 4 REF o más para poder reaccionar a la misma, de lo contrario, se recibirán obligatoriamente el “50% [*0.50]” de los efectos y daño. Tras realizar la misma, la usuaria regresa a la casilla inicial en la que ejecutó esta habilidad de manera automática. Esta habilidad utilizarse dos (2) veces por ronda, ignorando la restricción sistemática. En caso de que la usuaria sea objetivo de una anticipación, anulación o contraataque al realizar esta habilidad, tendrá que reaccionar a la misma de serle permitido. Si la habilidad en cuestión posee control de masa, la usuaria permanece en la casilla en la que atacó al oponente sin poder regresar como está indicado en la habilidad.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[DISCOS DE PASO] – APARICIÓN REPENTINA
+================================================================================
+
+100 EXP
+
+
+Energética — Suplementaria
+
+
+Alcance: FDC
+
+
+Coste: FDC
+
+
+No clasificada
+
+EFECTO VISUAL:
+  La usuaria posee un talento especial para aparecer en las situaciones donde es requerida, o en su defecto, llevar la ayuda necesaria a un enfrentamiento. Efecto: Permite irrumpir en un combate a favor de uno de los bandos, ignorando requisitos de este, incluyendo combates que se encuentren cerrados por medios que no sean místicos. O en su defecto, la usuaria puede introducir a un personaje que se encuentre fuera del combate al mismo para formar parte de este, siempre y cuando esté de acuerdo en ello el afectado
+
+ACLARACIONES:
+  - La usuaria o el jugador escogido a introducir en un combate ajeno permanecen consumiendo hueco en cualquier momento y no ignoran esta restricción sistemática. - Un uso cada 48 HORAS.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                   RANGO III                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[VÍNCULO DIMENSIONAL] – X-INFERNUS
+================================================================================
+
+Mística — Interacción Especial
+
+EFECTO VISUAL:
+  Un día como cualquier otro, la usuaria hace uso de sus habilidades mutantes para crear un disco de paso, pero al atravesarlo, es llevada a una ubicación no intencionada. Invadir propiedad privada siempre trae sus consecuencias, y él mejor que nadie, sabe que la usuaria ha estado visitando la dimensión del Limbo con bastante frecuencia. Efecto: La usuaria es sometida a esta interacción al alcanzar 14 Puntos de Exploración. Llegado a dicho puntaje, deberá ponerse en contacto con Administración. Esta interacción no puede ser ignorada y posee una peligrosidad variable que dependerá del desarrollo de la usuaria en cuestión dentro de la misma, sin embargo, puede llegar a ser MORTAL si se llevan a cabo las elecciones incorrectas.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[MAESTRÍA MUTANTE] – DOMINIO ESPACIAL
+================================================================================
+  Mental/Energética — Habilidad Pasiva
+
+EFECTO VISUAL:
+  La práctica en el uso de sus habilidades mutantes le ha dotado de un dominio casi perfecto sobre estas, permitiéndole ubicar lugares en los cuales desea aparecer sin problemas algunos, incluso en aquellos que jamás antes ha visitado en persona. Efecto: Para desbloquear esta habilidad pasiva, la usuaria tendrá que haber participado en 10 combates donde haya salido victoriosa del al menos 5 de estos. En todos tendrá que haber hecho uso como mínimo de 4 habilidades de teletransportación. [TALENTO ESCURRIDIZA]: Los poderes de la usuaria se han vuelto reactivos, haciéndola desaparecer en situaciones donde se presenta. Ante enfrentamientos en los que sea derrotada, la usuaria ignora la fase en la que los oponentes pueden aplicar estados post-combate, desapareciendo de la sala sin verse afectada por susodichos – 48 HORAS TR/CD. [MUTANTE INCONTENIBLE]: La usuaria puede desaparecer de cualquier lugar donde no sea propiamente contenida al dominar perfectamente el espacio de desaparición y aparición. La usuaria es capaz de liberarse de cualquier Secuestro o Encarcelamiento que no la mantenga sometida por medios místicos o anulaciones de Gen-X – 24 HORAS TR/CD. [RUPTURA ESPACIAL]: Las habilidades de la usuaria ahora han evolucionado, permitiéndole aparecer en lugares que antes no tenía acceso, incluso consiguiendo teletransportarse en planos mágicos o carentes de vida alguna. La usuaria puede hacer uso de sus habilidades para alcanzar lugares no accesibles por métodos convencionales (Dimensión Oscura, Asgard, Hel, el espacio, la órbita estelar, etc.). En caso de ser llevado a estos planos en combate, la usuaria puede regresar a donde estaba llevándose el combate sin problemas, salvo se encuentren aclaraciones contrarias en la habilidad que la llevó a dicha dimensión.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[DISCOS DE PASO] – BLOQUEO CON DISCO
+================================================================================
+
+200 EXP
+
+
+Energética — Defensiva (Anulación)
+
+
+Alcance: Propio
+
+
+Coste: 2 PA
+
+
+Tier 2
+
+EFECTO VISUAL:
+  La usuaria interpone un disco de paso ante la ofensiva cercana de un oponente, absorbiendo al mismo y dejándolo caer a metros de distancia. Efecto: Permite anular una habilidad ofensiva de contacto directo por parte de un oponente. El oponente en cuestión será reubicado dentro de un área “3*RANGO” a elección del usuario.
+
+ACLARACIONES:
+  Habilidades ejecutadas por oponentes considerados GIGANTES que ocupen área 1 aumentarán el coste de esta habilidad en +1 PA. No funciona ante oponentes de área mayor.
+
+================================================================================
+
+
+================================================================================
+[DISCOS DE PASO] – SUCESIÓN DE DISCOS CORTANTES
+================================================================================
+
+200 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 6
+
+
+Coste: 2 PA
+
+
+Tier 2
+
+EFECTO VISUAL:
+  La usuaria solidifica varios discos de energía que lanza hacia su oponente de manera simultánea, realizando cortes en varias zonas. Efecto: Produce daño energético de “EN*1.5” tres veces a un mismo oponente, y provoca un indirecto por hemorragia del “15% [*0.15]” del daño total recibido durante 4 acciones. Esta habilidad puede ser usada para hacer objetivos a todos los oponentes dentro del alcance de la habilidad, aumentando el coste de esta en “+2 PA” por cada oponente.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO IV                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[DISCOS DE PASO] – TELETRANSPORTACIÓN TEMPORAL
+================================================================================
+
+300 EXP
+
+
+Energética/Temporal — Variable
+
+
+Alcance: Variable
+
+
+Coste: Variable
+
+
+Tier 1
+
+EFECTO VISUAL:
+  Las habilidades de la usuaria han alcanzado un nuevo y peligroso terreno que muy pocos son capaces de dominar; la capacidad de viajar en el tiempo. Ya sea hacia un futuro cercano o el pasado, la usuaria, aunque sin controlarlo del todo, puede manejar esta capacidad para sacarle frutos dentro de combates o fuera de ellos. Efecto: La usuaria ahora es capaz de desplazarse a través del tiempo, generando pequeñas rupturas a través de sus discos de paso de acuerdo con lo que pretende realizar: TELETRANSPORTACIÓN AL FUTURO: [AVANCE TEMPORAL]: El usuario obtiene la capacidad de anular el turno de un oponente en Alcance 8 esta habilidad únicamente se puede emplear en el inicio del turno del oponente. Un uso cada 3 turnos propios, Área 1 sobre el rival, solo afecta a un objetivo. Consume 3 PA. Esta habilidad es posible evadirse, anticiparse y anularse, no obstante, requiere de REF 5 para reaccionar. En caso de que la habilidad no haga efecto sobre el oponente, el tiempo de reutilización pasa a ser de 2 turnos propios. [SANACIÓN TEMPORAL]: La usuaria puede hacer uso de esta habilidad fuera de combate para sanar un estado poseído (Herida Leve, Herida Grave, Herida Crítica, inhabilitaciones temporales, etcétera) de manera automática. Puede sanar estados especiales siempre y cuando no sean permanentes – 96 HRS TR/CD. [ADELANTE EN EL TIEMPO]: La usuaria puede hacer uso de esta habilidad para deducir cosas que pasarán en el futuro. Puede acudir al equipo de Administración o Narración para realizar una pregunta cuya respuesta debe ser Sí o No. La pregunta tendrá que estar relacionada con un evento activo en el RPG indiferente a si el usuario forma parte o no del mismo – Un uso semanal. Cada semana se reinicia en lunes. TELETRANSPORTACIÓN AL PASADO: [RETROCESO TEMPORAL]: El usuario obtiene la capacidad de volver en el tiempo, pudiendo seleccionar a un total de “RANGO” aliados para realizar una pequeña interacción dirigida por el usuario. Los participantes de esta interacción obtienen 150 de Experiencia. Un uso cada 21 días. [YO ESTUVE AHÍ]: La usuaria es capaz de utilizar esta habilidad fuera de combate junto a “RANGO” personas sobre escenas o eventos que se hayan realizado y no haya estado presente, considerándose que participó en susodicho a pesar de no aparecer en la lista de participantes. De esta manera, podrá obtener las recompensas básicas de la misma. En caso de que la escena otorgase estados especiales por presenciarla que no sean permanentes, se considera que el usuario también los adquiere – Un uso cada 14 días. [ALTERACIÓN DE HECHOS PASADOS]: La usuaria es capaz de utilizar esta habilidad para viajar en el pasado y evitar sucesos. De esta manera, conseguirá anular combates donde se hayan dado estados permanentes, secuestros, o derivados, considerándose que el afectado o afectados nunca formaron parte de este. Puede utilizarse también sobre eventos o escenas que hayan provocado la muerte de un personaje ajeno al suyo o adquisición de un estado negativo permanente, anulando el mismo a costa de desistir de las recompensas que este haya dado – Un uso cada 30 días.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[DISCOS DE PASO] – TELETRANSPORTACIÓN AL LIMBO
+================================================================================
+
+250 EXP
+
+
+Energética/Mística — Ofensiva
+
+
+Alcance: Sala
+
+
+Coste: 4 PA
+
+
+Tier 1
+
+EFECTO VISUAL:
+  La usuaria genera múltiples discos en todos los combatientes, llevándolos a la dimensión del Limbo, donde el ambiente resulta hostil y mortal. Efecto: Esta habilidad puede ser utilizada durante la ronda de preparación, iniciando el combate con el déficit de Puntos de Acción o en su defecto, durante combate, donde se requerirá de 5 REF o más para reaccionar, siendo únicamente anulable o anticipable. El combate pasa a ser en el Limbo en caso de que sea recibido por uno o más oponentes, adquiriéndose las siguientes propiedades de manera general: [MI ZONA, MIS REGLAS]: El combate pasa a considerarse cerrado para ambos bandos, de manera que ninguno podrá recibir nuevas adiciones bajo ningún método que no sea mediante portales inter-dimensionales. En caso de que resten oponentes o aliados que no hayan sido teletransportados, pasa a considerarse un combate por separado donde solo participaran aquellos que hayan recibido esta habilidad. Dentro del combate, todos los participantes a excepción de la usuaria pasan a adquirir un indirecto por quemadura de “450” por turno general durante todo el combate, con propiedades de fuego infernal y por ende daño al alma. Dentro de la dimensión del Limbo, las habilidades de naturaleza mística y energética de la usuaria consumen “1 PA” menos una vez por turno propio. Siempre consumirán como mínimo 1 PA. Un uso cada 96 HORAS en caso de ser efectivo. Un uso cada 5 turnos propios de no serlo. No es posible beneficiarse de otra mejora/aumento/beneficio que influya positivamente en los PA del usuario. De lo contrario, este último punto se ve anulado. [PRISIONERO INTER-DIMENSIONAL]: La usuaria puede aplicar esta habilidad sobre un oponente que haya sido derrotado en su combate. El afectado en cuestión pasara a considerarse Secuestrado en la dimensión de Limbo durante 48 HORAS. Posteriormente a que sea liberado, adquirirá una reducción del “50% [*0.50]” por envejecimiento en todos sus atributos durante 24 HORAS. [AMBIENTE DESCONOCIDO]: En caso de que un oponente retire o anule un combate mientras se encuentre en el Limbo, sufrirá los efectos de “PRISIONERO INTER-DIMENSIONAL” reduciendo el tiempo de Secuestrado a “24 HORAS” pero aumentando la reducción de atributos a “48 HORAS”.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[DISCOS DE PASO] – TELETRANSPORTACIÓN LEJANA
+================================================================================
+
+300 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 6
+
+
+Coste: 3 PA
+
+
+Tier 1
+
+EFECTO VISUAL:
+  La usuaria genera un disco de paso sobre los pies de un aliado, haciéndolo caer sobre el mismo y generando el disco de escape en una zona demasiado lejana como para considerar que sigue participando en el enfrentamiento. Efecto: El oponente afectado por esta habilidad queda expulsado del combate, sin posibilidad de regresar salvo se considere que puede desplazarse a la velocidad de la luz, en dicho caso, requerirá que transcurran 4 turnos generales. Requiere de 6 REF para reaccionar. La usuaria puede invertir 1 PA adicional en esta habilidad, de esta manera, expulsará al oponente hacia el Limbo, volviendo la misma permanente indiferente si es capaz de desplazarse a cualquier velocidad, considerándose que no puede regresar hasta que acabe el combate.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[DISCOS DE PASO] – AMPUTACIÓN INSTANTÁNEA
+================================================================================
+
+300 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 6
+
+
+Coste: 3 PA
+
+
+Tier 1
+
+EFECTO VISUAL:
+  La usuaria crea un disco de paso alrededor de la extremidad de un oponente y en el mismo instante lo cierra, dejando caer dicha extremidad en otro lugar, cercenada. Efecto: Genera un daño físico equivalente al “25% [*0.25]” de la VIT. Máxima del oponente y amputa una extremidad a elección de manera permanente. Requiere de 5 REF para reaccionar.
+
+ACLARACIONES:
+  - Un uso cada 4 turnos propios. - Únicamente evadible, anulable o anticipable.
+
+================================================================================
+

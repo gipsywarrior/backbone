@@ -1,0 +1,403 @@
+
+████████████████████████████████████████████████████████████████████████████████
+                 Destreza Humana Guerrero Wakandiano   T'Challa                 
+████████████████████████████████████████████████████████████████████████████████
+
+
+
+--------------------------------------------------------------------------------
+                              HABILIDADES BÁSICAS                               
+--------------------------------------------------------------------------------
+
+
+================================================================================
+ENTRENAMIENTO FÍSICO EXTREMO
+================================================================================
+  Física — Pasiva
+
+EFECTO VISUAL:
+  Has sido formado y adiestrado para ser un guerrero desde el momento de tu nacimiento. Si bien caminar por la senda de la pantera demanda un buen corazón y un espíritu incorruptible, es ley que quienes estén destinados a portar su manto sean considerados maestros en prácticamente todas las formas de combate armado y desarmado, habiendo dominado varios estilos marciales de todo el mundo. A fines de poder llevar al máximo tus habilidades marciales, desde temprana edad has sido sido sometido a hábitos rústicos y severos, y rutinas de entrenamiento rigurosas e inflexibles, altamente demandantes, lo que te ha permitido adquirir atributos y habilidades físicas que están por encima de las de los atletas más prestigiosos del mundo. Efecto: El usuario adquiere las siguientes características y STAT: [VITALIDAD/DEFENSA PASIVA/VELOCIDAD/FUERZA – LÍMITE HUMANO]: Posees una resistencia física, velocidad y fuerza que se encuentran en el punto máximo del entrenamiento humano, considerándose “límite humano”. [3 REFLEJOS]: Posees una capacidad de reacción dentro del límite humano, siendo capaz de reaccionar más rápido que cualquier humano. [MOVILIDAD EN TERRENOS SALVAJES]: Gracias a su entrenamiento en los agrestes terrenos wakandianos, el usuario ha ganado la facilidad de desplazarse en cualquier entorno. El usuario ignora efectos relacionados a la reducción de STATS por modificaciones del terreno o generación de climas. (En ningún caso ignora condiciones pasivas de otras dimensiones o el espacio exterior) (En ningún caso ignora otros efectos no relacionados con la pérdida de STATS, teniendo en cuenta que daños directos o indirectos NO ENTRAN EN ESA CATEGORIA). [AGILIDAD MEJORADA]: La habilidad “REFLEJO INSTANTÁNEO” del Perfil Combatiente Ágil disminuye su coste a 1 PA. [VOLUNTAD DEL GUERRERO]: El usuario posee un espíritu formidable, lo que lo convierte en un líder político ejemplar que da esperanza a sus seguidores [2 VOL] [ANÁLISIS DEL ENTORNO]: El usuario puede usar este comando sin consumo de PA en respuesta a habilidades camaleónicas o basadas en camuflaje de TIER III o inferior obteniendo +2 INFORMACIÓN sobre dicha habilidad, así mismo, será posible volver a realizar este comando en el próximo turno propio si la ocultación sigue activa. Una vez se poseen 6 INFORMACIÓN sobre una ocultación, el usuario pasará ignorarla debiendo anotarla en su ficha junto a esta habilidad. (Máximo 3 habilidades de ocultación deducidas, pueden ser reemplazadas) – No afecta a habilidades basadas en invisibilidad. [DETECCIÓN DE VIBRANIUM]: El usuario posee la capacidad innata de detectar esta particular aleación. Siempre que el rival posea una parafernalia de cualquier tipo hecha de Vibranium, deberá decirle al usuario cualquier factor o efecto oculto que posea la parafernalia o cualquier habilidad que realice con ella.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+ESTILO MARCIAL DE LA REALEZA WAKANDIANA
+================================================================================
+  Física — Pasiva
+
+EFECTO VISUAL:
+  El sendero cuyo recorrido es imprescindible para quien está destinado a ser la Damisa-Sarki es tan extenso como el tiempo de práctica y estudio que el usuario le ha dedicado al aprendizaje de las artes marciales desde su nacimiento. Habiendo hecho suyas las técnicas y maniobras de combate diseñadas por los más hábiles guerreros wakandianos, has desarrollado no solo una agilidad que supera a la de los más talentosos atletas olímpicos, sino también una capacidad de combate que te vuelve un formidable guerrero, pudiendo destrozar a sus enemigos a partir de rápidas y certeras estrategias y el correcto uso de los movimientos apropiados. Efecto: El usuario adquiere los Perfiles Armas Arrojadizas, Armas de Filo, Armas de Fuego, Combatiente Ágil y Combatiente Bruto con los siguientes beneficios: [ARTISTA MARCIAL WAKANDIANO]: Permite usar el comando sin consumo de PA *ESTILO MARCIAL DE LA PANTERA* junto a una habilidad ofensiva, permitiéndole desplazarse “RANGO+1” (hasta un máximo de 4 casillas) sin consumo de VEL. – Un uso cada dos rondas, sin costo de PA. [SALTO DE PANTERA]: Reemplaza el comando básico “SALTO”, con los mismos efectos, sin embargo, puede utilizarse un máximo de dos (2) veces por ronda. – El primer uso de cada ronda no consume PA. [BRUTALIDAD SALVAJE]: Permite usar este comando con una habilidad del Perfil Combatiente Ágil o Bruto, aumentando la duración de controles de masa en “+1” (máximo 3 acciones). – Un uso por ronda, sin costo de PA. [ATAQUE A PUNTO]: Permite hacer uso de este comando junto a una habilidad física TIER 3 que posea daño directo y que no posea área, además debe ser de naturaleza cuerpo a cuerpo. – Dos usos por ronda, no consume PA, el segundo uso consume 1 PA. El usuario no puede repetir un comando en una misma ronda. Los efectos se consideran ocultos y se producen, aunque la habilidad no genere daño, siempre que el oponente defienda la habilidad mediante una defensa interna o reduzca a cero mediante sus defensas pasivas sin reaccionar. Estos comandos no afectan a oponentes con defensa pasiva clasificación “colosal” o superior. [PUNTO: QUIEBRE]: Produce inhabilitación de extremidad durante 2 acciones. [PUNTO: DOLOR]: Produce un indirecto de dolor equivalente al “5% [*0.05]” de la VIT MÁX del objetivo por 2 acciones. [PUNTO: DÉBIL]: El daño recibido tras aplicar defensas y reducciones aumenta en un “50% [*1.5]”. [PUNTO: EQUILIBRIO]: Produce la alteración Derribado. [PUNTO: NERVIOSO]: Produce parálisis durante 1 acción. [PUNTO: ORIENTACIÓN]: Produce desorientación durante 3 acciones. [PUNTO: VASCULAR]: Ignora defensas pasivas de clasificación “bestia” e inferior, además el daño generado no puede ser regenerado o curado salvo por regeneración TIER 1 o habilidades curativas TIER 2. [EVASIÓN OFENSIVA]: Permite hacer uso de este comando después de realizar una evasión, ejecutando el comando básico “Atacar” sobre un oponente. El usuario debe evadir la habilidad de forma que después de evadir permanezca en el alcance correspondiente al comando básico (por lo que no tiene efecto sobre habilidades que posean área). – Un uso cada dos rondas, el comando básico no consume PA si se utiliza mediante este método. [ASALTO PRECAVIDO]: Cuando el usuario fuese a recibir un contraataque o anticipación que fuese a causarle algún tipo de efecto negativo (daño por contacto, daño restante, etcétera) puede anular su acción inicial para anular los efectos sobre ella. Tanto la habilidad inicial como el contraataque o anticipación del oponente no consumen PA, además la acción del oponente se considera que no fue utilizada, embargo, la acción inicial del usuario no puede volver a utilizarse durante la ronda vigente. – Un uso cada tres rondas, 1 PA. [AMBIDIESTRO]: Otorga acceso al comando “AMBIDIESTRO” especificado en el Sistema de Combate del RPG.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+LIDERAZGO INNATO
+================================================================================
+  Mental – Pasiva
+
+EFECTO VISUAL:
+  Poco a poco has ido adquiriendo habilidades para comandar y liderar a tus tropas, a tus aliados, a tus guerreros. Esto te otorga múltiples beneficios en batalla. Efecto: El usuario obtiene el Perfil Líder, además de los siguientes beneficios: [CARISMA]: Siempre que el usuario figure como el Miembro Fundador de una Agrupación, las alianzas formadas por esta otorgarán el beneficio de reducir en un “5% [*0.95]” los requisitos de tiempo para el ascenso de la agrupación (hasta un máximo de 15% [*0.85]”). Deshacer una alianza causará la pérdida de este beneficio. [MENTALIDAD ESTRATÉGICA]: Obtiene los siguientes beneficios: [COORDINACIÓN]: El usuario puede intercambiar como desee los turnos de su bando al inicio de cada ronda. – Un uso cada dos rondas. No es posible cambiar el orden de un aliado en contra de su propia voluntad. [ESTRATEGIA TÁCTICA]: Se considera una orden. Los aliados reducen el costo de la próxima habilidad ofensiva de “2 PA o superior” en “-1 PA” (nunca a 0). – Un uso por combate, consume 1 PA. [ESTRATEGIA DEFENSIVA]: Se considera una orden. Los aliados obtienen un “+1 REF” para reaccionar a la próxima habilidad que posea requisitos de reacción que sean incapaces de reaccionar mediante sus REFLEJOS base. — Un uso por combate, no consume PA.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+MAESTRO INVENTOR
+================================================================================
+  Mental — Pasiva
+
+EFECTO VISUAL:
+  Posees un intelecto por encima de la media de incluso los científicos e inventores más brillantes del pueblo de Wakanda, te posicionas como un genio en diversas áreas de la ciencia. Efecto: El usuario adquiere los siguientes beneficios: [CIENTÍFICO PROMINENTE]: El usuario adquiere el Perfil Científico obteniendo acceso a los caminos “[TECNOLOGÍA] ARMAMENTÍSTICA”, “[BOTÁNICA]” TOXINAS”, “[TECNOLOGÍA] GADGETS” y “[GENÉTICA] POTENCIACIÓN”. [TECNOLOGÍA] FÍSICAS DE SOMBRA: El usuario se enfoca en la creación de PARAFERNALIAS que combinan la física cuántica y la alquimia, se relaciona al mapeo de Vibranium a nivel cuántico y de esta forma crear armas o dispositivos diseñados para contrarrestar este potente material, además de experimenta en otros campos de la física cuántica, como la teletransportación. – Requiere RANGO IV. [GENIO]: Posee una capacidad cerebral enorme, considerándose un genio. Posee un límite total de “8 legalizaciones”. [GENIO – TIER II]: Posee un límite total de “5 legalizaciones” de 10 Puntos cada una. Las legalizaciones son creadas por los propios usuarios siguiendo los parámetros de este documento. Cada poder poseerá una cantidad de puntos a invertir y una cantidad de Legalizaciones de acuerdo al TIER que corresponda. Por cada legalización a mandar, el usuario deberá postear una Trama personal de mínimo 250 palabras en el apartado Historias cuyo link adjuntará en el propio ticket a la hora de legalizarla. Cuando una legalización sea validada, se establecerá un tiempo de espera para que el usuario mande su próxima legalización. Será posible enviar dos (2) Legalizaciones al mismo tiempo. El precio de cada legalización lo definirá moderación al momento de acordar los efectos, el precio no es negociable. El usuario puede utilizar Vibranium de Wakanda para un máximo de “RANGO-1” (mínimo 1) Parafernalias que estén contemplada dentro del total de sus legalizaciones. – Requiere ser el Rey de Wakanda o poseer el título de Black Panther (no es necesario ser el líder de una agrupación oficial). NOTA: Adicionalmente al tiempo, se requiere poseer 2500 EXP acumulados por cada legalización a enviar, tal como se estipula en el documento de perfil. (Usuarios clasificados en “GENIO INVENTOR INNATO” ignoran este requisito) [ANÁLISIS DE TECNOLOGÍA]: Adquiere un aumentativo de “+2” en eventos, escenas de naturaleza D&D en acciones relacionadas al análisis o comprensión de tecnología (nunca para fines defensivos u ofensivos).
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+PATRIMONIO DE LA REALEZA
+================================================================================
+  Especial — Pasiva
+
+EFECTO VISUAL:
+  La fortuna que acumulas tiene prácticamente un valor incalculable debido a que tiene una innumerable cantidad de bienes y de liquidez acumulada. Efecto: Debido a la influencia social, económica y política del usuario se obtienen las siguientes características: [FORTUNA]: El usuario obtiene una divisa de bronce una vez al mes debido a la increíble riqueza que acumula como miembro de una de las familias más ricas de Wakanda. [REALEZA WAKANDIANA]: Debido al linaje real, el usuario adquiere fama más rápidamente. Obtiene “25” puntos de REPUTACIÓN adicionales cada vez que derrote a un oponente.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+ARSENAL WAKANDIANO
+================================================================================
+
+Conjunto de Parafernalias
+
+EFECTO VISUAL:
+  Armamento de origen Wakandiano, utilizado por el heredero al trono de Wakanda. Efecto: El usuario obtiene acceso a las siguientes parafernalias: Escalados de las armas de contacto de este documento. [ARMA CORTA TIER 3 – “CUCHILLOS WAKANDIANOS”]: Puede ser usada para las habilidades del Perfil Armas Arrojadizas. Escalado: ARMA CORTA ADAMANTIUM. Alcance 3. No ocupa hueco de equipamiento. RANGO I. [ARMA MED. TIER 3 – “MACHETE WAKANDIANO”]: Puede ser usada para las habilidades del Perfil Armas de Filo. Escalado: ARMA MEDIANA ADAMANTIUM. Alcance 1. Ocupa una mano. RANGO I. Las habilidades que involucren el uso de esta arma producen indirecto de hemorragia equivalente al “10% [*0.1]” del daño causado durante 3 acciones. [APUÑALAMIENTO EXACTO]: Permite hacer uso de este comando junto a una habilidad ofensiva, añadiendo el efecto de ignorar defensas pasivas de clasificación “sobrehumana” además de inmunidades relacionadas a la dureza de las armas. – Un uso por ronda, no consume PA. [CORTAR ATADURAS]: Permite hacer uso de este comando para anular una habilidad que consista en una parálisis o inmovilización mediante redes, sogas, ataduras, etcétera que sean de índole física y no posean dureza superior (véase Adamantium, Vibranium, etc). – Un uso cada dos rondas, consume 1 PA. [ARMA PESADA TIER 3 – “LANZA DE GUERRERO WAKANDIANO”]: Puede ser usada para las habilidades del Perfil Armas de Filo. Escalado: ARMA PESADA CONVENCIONAL. Alcance 2. Ocupa una mano. RANGO II. [ENSARTAR]: En caso de que el oponente reciba daño de una habilidad que involucre el uso de esta arma, permite hacer uso de este comando el cual no puede ser reaccionado, generando un daño interno equivalente a “ARMA”, este daño ignora defensas pasivas de cualquier clasificación o inmunidades relacionadas a la dureza de las armas. – Un uso por ronda, consume 1 PA. [ARMA CORTA TIER 2 – “PUÑAL DE VIBRANIUM”]: Puede ser usada para las habilidades del Perfil Armas de Filo y Armas Arrojadizas. Escalado: ARMA CORTA VIBRANIUM. Alcance 1/3 para el Perfil Armas de Filo y Armas Arrojadizas respectivamente. Ocupa una mano. RANGO III. [ABSORCIÓN CINÉTICA]: Las defensas internas realizadas mediante esta parafernalia reducen en un “25% [*0.75]” el daño de ataques de índole física antes de aplicar el valor de la defensa del arma. En el caso de defender ataques en área, la reducción pasa a ser de “15% [*0.85]”. Además, el “50% [*0.5]” del daño reducido mediante los bloqueos queda almacenado en el interior del puñal para su liberación (si por ejemplo se reduce en “250” un ataque de 1000, se almacenan 125 de daño para poder liberarse). Se puede acumular un máximo de “RANGO*200” cargas. En caso de igualar o sobrepasar la cantidad, la reducción de daño deja de producirse hasta que se realice “LIBERACIÓN CINÉTICA”. [LIBERACIÓN CINÉTICA]: Permite hacer uso de este comando junto a una habilidad ofensiva realizada mediante el arma, añadiendo el daño almacenado por “ABSORCIÓN CINÉTICA” a la habilidad. Este uso libera todas las cargas. – No consume PA. [CORTAR ATADURAS]: Permite hacer uso de este comando para anular una habilidad que consista en una parálisis o inmovilización mediante redes, sogas, ataduras, etcétera que sean de índole física y no posean dureza superior al Vibranium (véase Uru). – Un uso cada dos rondas, consume 1 PA. [MUNICIÓN DE VIBRANIUM]: Los ataques realizados a través de armas de fuego se consideran que poseen una munición equivalente al Vibranium de cara a resistencias e inmunidades de los oponentes. Además, ignoran un “25% [*0.75]” de defensas pasivas de clasificación “colosal” e inferior. RANGO II.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO I                                     
+--------------------------------------------------------------------------------
+
+
+================================================================================
+IMPACTO PRECISO
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 1
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Ejecutas un impacto en un punto exacto del cuerpo del oponente causándole un daño a pesar de las resistencias que este pueda tener. Efecto: Genera un daño físico de “FUE*1.6”, aturde 1 acción e ignora defensas pasivas de clasificación “sobrehumana”.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+PALMADA DE LA PANTERA
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 1
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Realizas una palmada al cuello de tu oponente, generándole asfixia temporal. Efecto: Genera un daño físico de “FUE*1.55”. Produce un indirecto de asfixia equivalente al “5% [*0.05]” de la VIT MÁXIMA del oponente durante 3 acciones. En caso de que el oponente reciba un “25% [*0.25]” del daño, la duración del indirecto aumenta en +1 acción. – Este último inciso se considera efecto oculto.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+CONTRA EL PISO
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 1
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Sujetas el hombro de un oponente y después lo derribas. Efecto: Produce la alteración Derribado.
+
+ACLARACIONES:
+  - No afecta a oponentes que ocupen Área 1 o superior.
+
+================================================================================
+
+
+================================================================================
+PUÑETAZO INTERCEPTOR
+================================================================================
+
+100 EXP
+
+
+Física — Defensiva (Anticipación)
+
+
+Alcance: 1
+
+
+2 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Golpeas a tu adversario con un potente puñetazo, aturdiéndolo antes de que logr eatacarte. Efecto: Genera una anticipación de “FUE*1.65” y aturdimiento por 1 acción frente una habilidad ofensiva con proyección física, en caso de dañar anula la habilidad. El usuario es capaz de movilizarse un máximo de “RANGO-1” casillas (mínimo 1) para ejecutar esta habilidad.
+
+ACLARACIONES:
+  - Un uso cada dos rondas.
+
+================================================================================
+
+
+================================================================================
+SALTO EVASIVO
+================================================================================
+
+100 EXP
+
+
+Física — Defensiva (Evasión)
+
+
+Alcance: Propio
+
+
+2 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Realizas una acrobacia y evitas un ataque del adversario. Efecto: El usuario evade una habilidad con proyección física de hasta “RANGO+1” Área (máximo área 4).
+
+ACLARACIONES:
+  - Solamente consume 1 PA para evadir habilidades directas o sin área.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO II                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+GOLPE CON DOS MANOS
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 1
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Juntas ambas manos entrelazando los dedos para formar una especie de martillo con sus manos y dar un golpe. Efecto: Genera un daño físico de “FUE*2.35”, produce aturdimiento por 3 acciones.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+DESARME ESTRATÉGICO
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 1
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Mediante un rápido movimiento desarmas al oponente. Efecto: Desarma a un oponente de su arma principal. En caso de que el oponente porte dos armas, permite consumir +1 PA adicional para desarmarlo de ambas. Las armas del oponente quedan en la casilla en la cual se le desarmó, no podrá equipárselas si no se encuentra en esa casilla.
+
+ACLARACIONES:
+  - El oponente puede volver a equipar sus armas durante su turno, sin existir ninguna restricción.
+
+================================================================================
+
+
+================================================================================
+LANZAMIENTO
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 1
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Sujetas el brazo de un oponente y después lo lanzas en una dirección determinada. Efecto: Produce desplazamiento forzoso a un oponente equivalente a “4 casillas” en cualquier dirección. En caso de colisionar el oponente sufre un daño físico de “FUE*2” que sólo puede ser defendido con defensas externas, habilidades que anulen colisiones u otro tipo de habilidades especiales como teletransportaciones, cambio de fase, etcétera, además de aturdimiento por 1 acción.
+
+ACLARACIONES:
+  - No afecta a oponentes que ocupen Área 1 o superior. - La colisión puede producirse con otro jugador, en caso de colisionar este otro oponente sufrirá el mismo daño que el objetivo principal. En caso de que el otro jugador evada, el oponente desplazado seguirá moviéndose las casillas correspondientes restantes.
+
+================================================================================
+
+
+================================================================================
+DEFENSA DE LA PANTERA
+================================================================================
+
+100 EXP
+
+
+Física — Defensiva (Interna)
+
+
+Alcance: Propio
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Realizas una potente defensa con tus antebrazos, deteniendo un ataque inminente. Efecto: Genera una defensa interna de “FUE*2.25”.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+SIGILO
+================================================================================
+
+100 EXP
+
+
+Física — Suplementaria
+
+
+Alcance: Propio
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Te escondes detrás de un objeto, pasando a posición sigilosa. Efecto: Para hacer uso de esta habilidad es necesario estar adyacente a un furni que supere en tamaño al usuario. Oculta al usuario un máximo de “RANGO+2 acciones”, considerándose una ocultación visual. Al salir de la posición del furni o realizar una habilidad ofensiva, la ocultación finaliza. Tras finalizar esta habilidad deberán transcurrir dos turnos propios del usuario para volver a utilizarla.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+PRECIPITACIÓN
+================================================================================
+
+100 EXP
+
+
+Física — Suplementaria
+
+
+Alcance: Propio
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Te aproximas rápidamente a un adversario, sorprendiéndolo con tu velocidad que se acerca al límite humano. Efecto: Añadido junto a una habilidad ofensiva de Alcance 1, un “50% [*0.5]” del daño de la habilidad pasa a requerir 3 REF para reaccionar. – No puede ser usada en habilidades que no posean daño directo.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+

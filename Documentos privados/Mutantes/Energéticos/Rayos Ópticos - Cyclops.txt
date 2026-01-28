@@ -1,0 +1,611 @@
+
+████████████████████████████████████████████████████████████████████████████████
+                            Rayos Ópticos   Cyclops                             
+████████████████████████████████████████████████████████████████████████████████
+
+
+
+--------------------------------------------------------------------------------
+                              HABILIDADES BÁSICAS                               
+--------------------------------------------------------------------------------
+
+
+================================================================================
+PREPARACIÓN FÍSICA DE ALTO NIVEL
+================================================================================
+  Física — Pasiva
+
+EFECTO VISUAL:
+  El usuario fue criado como un líder, debiendo cumplir con un sinfín de ejercicios físicos que le brindasen el rendimiento suficiente para estar capacitado ante cualquier adversidad pese a no poseer ventajas en el cuerpo a cuerpo por su gen mutante. Efecto: El usuario adquiere las siguientes características y STAT: [VITALIDAD – HUM. ENTREN.]: El entrenamiento físico recibido le ha permitido recibir más daños sin problema. [FUERZA – HUM. ENTREN.]: La fuerza del usuario es la de un humano en pleno esplendor. [VELOCIDAD – HUM. ENTREN.]: El usuario es ligeramente más rápido que el humano común. [VOLUNTAD]: El usuario posee una voluntad prácticamente inquebrantable. [3 VOL] [REFLEJOS]: Los reflejos del usuario están afinados al punto máximo de su capacidad, permitiéndole luchar mano a mano con artistas marciales. [3 REFLEJOS] Así mismo, el usuario desarrolla el Perfíl: Combatiente Ágil y Combatiente Bruto gratuitamente. .
+
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+LÍDER MUTANTE
+================================================================================
+  Mental – Pasiva
+
+EFECTO VISUAL:
+  El usuario se preparó desde su infancia como un líder mutante, obteniendo el liderazgo de múltiples equipos mutantes con los que creció, fortaleciendo su carácter y toma de decisiones para convertirse en un ícono popular entre los suyos. Aunque joven, su proyección es vasta, pudiendo entablar alianzas o consensos sin necesidad de llegar a la fuerza en ningún momento. Su principal preocupación es la seguridad de los mutantes y su futuro. Efecto: El usuario desarrolla de forma gratuita el Perfil: Líder y sus órdenes pasan a aplicar a un máximo de “2 afectados” siempre y cuando se trate de Mutantes. Además, siempre y cuando sean aplicadas sobre Mutantes, los efectos de estas aumentan en un “10% [x1.10]” (sumado al porcentaje bonificado en caso de ser porcentual) o en “+1” (en caso de ser numérica). Este beneficio no aplica a órdenes que no se rigen por los patrones numéricos anteriormente mencionados, como puede ser reducciones de consumo o eliminaciones de estados. Sumado a las propiedades recibidas, se desarrollan las siguientes órdenes únicas: [NINGÚN MUTANTE ESTÁ INDEFENSO] – Ajusticiará a todo aquel que comenta un crimen contra un mutante. Se le permite ignorar requisitos de unión a un bando ocupado por un mutante, y podrá unirse a él aún si no se consideran aliados. Sin embargo, usar esta pasiva significa que no podrán unirse aliados distintos a la raza humana a dicho bando. El usuario también aumenta en “+1” los huecos de aliados al introducirse en dicho combate, siendo el cuarto combatiente él mismo. [¡A MI SEÑAL!] – Se le da una señal de alerta a uno de sus aliados. Utilizado en cualquier momento de la ronda brinda un turno de interferencia deteniendo el turno que estuviese en curso (podrá continuar tras la intervención, pero deberá adaptarse a la posible reducción de PA en caso de haber reacciones). En este turno de interferencia sólo se posee el “50% [x0.50]” de los PA base. Posee un único uso cada 5 rondas. – 0 PA. [HORA DE ORGANIZARNOS] – Se le da una rápida instrucción de acciones a sus aliados. Utilizado al inicio de una ronda general permite reorganizar todos los turnos aliados siempre y cuando sea voluntariamente, pudiendo intercambiarlos independientemente del orden en el que estuviesen previamente. Esta reorganización sólo quedará aplicada durante la ronda vigente. Posee un único uso cada 3 rondas. – 0 PA. [¡SOMOS LOS X-MEN!] – Se lleva a cabo la estrategia planeada en una acción combinada. Sólo puede ser utilizado en turno propio. Permite unificar el “50% [x0.50]” de los PA de cada aliado para crear un único turno propio en el que todos podrán realizar acciones y poseen su turno de movimiento. Sólo es posible utilizar esta habilidad al inicio del turno propio, y cancela el resto de turnos propios que se posean en la ronda. Posee un único uso por combate. – 0 PA.
+
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+OJOS ENERGÉTICOS
+================================================================================
+  Energética – Pasiva
+
+EFECTO VISUAL:
+  El gen mutante del usuario consiste en la capacidad de canalizar energía ambiental (cósmica, fotónica) a través de su cuerpo y mente con el único fin de poder expulsarla a través de sus ojos, los cuales sirven como la única forma de salida de la misma. La fuerza y potencia de esta energía puede escalar de forma abrupta y solamente es detenida al estar protegida por un visor de cuarzo de rubí que impide que la energía fluya a través de él, evitando daños innecesarios a quienes le rodean. Efecto: El usuario desarrolla una capacidad única conocida como CONTROL ENERGÉTICO, considerándose de NIVEL III y la cual será la base de sus escalados como “EN”. Se requiere de poseer el Visor de Rubí equipado para poder realizar las habilidades de este documento. De no cumplirse esta condición, se aplicará LIBERACIÓN ENERGÉTICA DESCONTROLADA. Como propiedad especial, los ataques energéticos del usuario siempre ignorarán un “25% [x0.75]” de las defensas internas y pasivas con dureza inferior al Adamantium. [SOBRECARGA] – Es capaz de acumular una cantidad moderada de energía del entorno con el fin de ser utilizada a su favor. El usuario se inmuniza a sus propios daños y a los del poder “Control de Energía Cósmica (Havok)” de forma natural. Así mismo, los daños energéticos de naturaleza cósmica, fotónica o por radiación se reducen en un “50% [x0.50]” antes de afectarle. El resto de daños energéticos tan sólo se reducirán en un “20% [x0.80]”. Recibir daños de naturaleza energética le brindan “20 PUNTOS DE SOBRECARGA”, los cuales al acumularse brindan los siguientes beneficios: [20 SOBRECARGA (ACUM.)] – Aumenta sus alcances en +1. Sólo directos. [30 SOBRECARGA (ACUM.)] – Aumenta el valor de su CONTROL EN. en +30. [50 SOBRECARGA (ACUM.)] – Daña un “15% [x1.15]” ante defensas con una dureza inferior al Adamantium. [100 SOBRECARGA (ACUM.)] – Sus daños se replican en “ÁREA 1” del área de impacto. [101 SOBRECARGA O MÁS] – Causa una pérdida por turno general de “EN/10” VIT. Para reducir los puntos de SOBRECARGA el usuario podrá: El uso de HABS. TIER III resta 5 PUNTOS DE SOBRECARGA. El uso de HABS. TIER II resta 10 PUNTOS DE SOBRECARGA. El uso de HABS. TIER I resta 20 PUNTOS DE SOBRECARGA. El uso de HABS. TIER 0 resta 50 PUNTOS DE SOBRECARGA. [LIBERACIÓN ENERGÉTICA DESCONTROLADA] – Se ha retirado el Visor de Rubí, provocando una proyección energética destructiva y descontrolada. El usuario activa la habilidad RAYO ÓPTICO de forma permanente y constante, afectando cada turno en un alcance igual a “CÓNICO 2 + RANGO” con un “100% [x2]” de su daño aumentado y con la propiedad de ignorar el “25% + 5%/RANGO” de las defensas internas con dureza inferior al Adamantium. A cambio, se aplican las siguientes desventajas de forma constante hasta que vuelva a equiparlo: El usuario consume todos sus PA en cada turno de forma automática, no pudiendo hacer una acción distinta a la reposición de su personaje a la plataforma tras finalizar cada turno realizado por sus aliados u oponentes. El usuario no acumula PU mientras se mantenga esta habilidad activa. El usuario pierde todas sus cargas de SOBRECARGA y no podrá volver a utilizar dicho sistema durante los próximos “TURNOS ACTIVOS * 5” turnos. La habilidad afecta cualquier objetivo por igual, no diferenciando aliados de oponentes. Derrotar a un oponente con esta habilidad aumenta el estado en “+1”. Mantenerse más de 5 TURNOS ACTIVO con esta habilidad provocará que no pueda re-equipar el VISOR DE RUBÍ. Mantenerse más de 10 TURNOS ACTIVO con esta habilidad provocará que el usuario caiga Inconsciente durante 4 HORAS. Ser aturdido o dormido anula los efectos de esta habilidad. [POTENCIAL ENERGÉTICO] – Los rayos del usuario poseen más de la energía de lo que parecen. El usuario en caso de afectar a un oponente canalizador de energía que posea un sistema de SOBRECARGA, le suma el doble de cargas por cada ataque que reciba, acelerando la cantidad de cargas que requerirá para poder sobrecargarse.
+
+ACLARACIONES:
+  - No es posible reposicionar el personaje en diagonales, únicamente en visión. - El usuario puede utilizar sus habilidades aunque se encuentre paralizado.
+
+================================================================================
+
+
+================================================================================
+CONSCIENCIA ESPACIAL TRIGONOMÉTRICA
+================================================================================
+  Mental – Pasiva
+
+EFECTO VISUAL:
+  Una de las capacidades más valoradas y peligrosas del usuario es la de obtener una visión superior del campo en el que se encuentra luchando, siendo capaz de encontrar bordes sobre los que rebotar sus rayos ópticos, o incluso sobre sus propios oponentes, con el fin de redirigirlos y convertirlos en ataques sorpresas o múltiples en cuestión de apenas segundos. Efecto: El usuario obtiene un nuevo comando único llamado REBOTE. Se requiere de una superficie metálica, o en su defecto un oponente sobre el cual aplicar este comando, dándose por entendido que para usar a un oponente primero deberá impactarle. Cumpliendo estas dos bases, podrá utilizar este comando en las siguientes condiciones: El oponente evadió/desvió el ataque. – El comando se usa después de la reacción. Un oponente socorrió el ataque del usuario. – El comando se usa después del socorrer. Un oponente recibió el ataque del usuario. – El comando se usa después de recibir. El usuario decidió por sí mismo aplicar el rebote. – El comando se usa junto al ataque. Según qué caso, se aplicarán los siguientes efectos siguiendo el orden de situaciones marcadas previamente: Permite devolver el ataque al mismo oponente u otro, sin embargo, reduce su daño en un “25% [x0.75]”, requiriendo ahora 2 REF para evadirse. Puede aplicarse de vuelta, pero cada repetición reduce en la misma cantidad el daño. – [1 PA POR USO] Permite ignorar el comando Socorrer, debiendo ahora reaccionar el oponente. Se considera que el oponente que socorrió consumió sus PA y habilidades. – [1 PA] Permite reflejar el ataque a otro oponente, aplicando las reducciones y propiedades del CASO 1. Puede aplicarse de vuelta de volver a impactar. – [1 PA POR USO] El ataque requiere de 3 REF para poder evadir + 1 REF por cada REBOTE extra aplicado. (MÁX. 5 REF) Ej: *REBOTE [2] – [1 PA + 1 PA por REBOTE extra.]
+
+ACLARACIONES:
+  - Sólo puede aplicarse en rayos directos.
+
+================================================================================
+
+
+================================================================================
+RESISTENCIA TELEPÁTICA DESARROLLADA
+================================================================================
+  Mental – Pasiva
+
+EFECTO VISUAL:
+  El usuario ha tenido una vida exigente en términos de desempeño, pero no ha impedido el desarrollo de relaciones sentimentales que curiosamente encajaron con el perfil de telépatas de gran capacidad. Mantenerse cercano a ellas/os le ha permitido entender mucho más de cerca los juegos de este tipo de mutantes, permitiéndole reforzar su mente ante ellos. Efecto: El usuario reduce naturalmente los daños de naturaleza mental en “10% [x0.90]”. A partir de allí deberá cumplir una serie de pautas para mejorar esta capacidad. Es posible relacionarse con Telépatas Omega o Superior con el fin de desarrollar dicha capacidad. Será Moderación la que definirá cuándo el usuario avanza de categoría, pero a continuación podrá observar cuáles son los beneficios de cada una de ellas. [TIER IV] – Aumenta en un “10% [x1.10]” la resistencia de daños y pasa a reducir en “1 acciones” cualquier estado aplicado mediante habilidades de este tipo. [TIER III] – Aumenta en un “15% [x1.15]” la resistencia de daños y pasa a reducir en “2 acciones” cualquier estado aplicado mediante habilidades de este tipo. [TIER II] – Aumenta en un “20% [x1.20]” la resistencia de daños, reduce en “2 acciones” cualquier estado aplicado mediante habilidades de este tipo y los telépatas consumen 1 PA por cada ronda en la mente del usuario. Así mismo, se inmuniza ante lecturas mentales o habilidades basadas en la intrusión. [TIER III] – Aumenta en un “25% [x1.25]” la resistencia de daños, reduce en “2 acciones” cualquier estado aplicado mediante habilidades de este tipo y los telépatas consumen 2 PA por cada ronda en la mente del usuario. Así mismo, se inmuniza ante lecturas mentales o habilidades basadas en la intrusión.
+
+ACLARACIONES:
+  - Las reducciones sólo aplican si el telépata es de su mismo RANGO o inferior. - Los beneficios no son acumulables.
+
+================================================================================
+
+
+================================================================================
+VISOR DE RUBÍ
+================================================================================
+
+Parafernalia — Accesorio
+
+  Efecto Visual: Visor rebestido de rubí y cuarzo en polvo que puede contener la potente energía desprendida desde los hijos de su portador. Funcionan como limitante de sus poderes a cambio de protección. Efecto: Permite negar los efectos de LIBERACIÓN ENERGÉTICA DESCONTROLADA.
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO I                                     
+--------------------------------------------------------------------------------
+
+
+================================================================================
+RAYO ÓPTICO
+================================================================================
+
+100 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: 4
+
+
+1 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario proyecta un rayo energético desde sus visores. Efecto: Causa un daño energético de “EN*1.65” y un indirecto por quemadura del “10% [x0.10]” del daño recibido durante 5 acciones. Es posible utilizar esta habilidad tras una evasión.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+RAYO ÓPTICO SÓLIDO
+================================================================================
+
+100 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: 4
+
+
+1 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario proyecta un rayo energético solidificado hacia la sien de su oponente, aturdiéndolo con facilidad. Efecto: Aturde durante 2 acciones al oponente.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+RAYO ÓPTICO CONCENTRADO
+================================================================================
+
+100 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: 4
+
+
+1 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario proyecta un rayo energético de gran potencia a un oponente con el fin de desestabilizarlo. Efecto: Causa un daño energético de “EN*1.7” y hace retroceder al oponente 3 casillas en caso de haberlo defendido con defensas internas. Si choca contra un obstáculo se recibirá un daño extra del “10% [x0.10]” de su VIT. MÁX.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+RAYO ÓPTICO DOBLE
+================================================================================
+
+100 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: 4
+
+
+2 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario proyecta rápidamente dos rayos ópticos en simultáneo. Efecto: Causa un daño energético de “EN*1.55” y un indirecto por quemadura del “10% [x0.10]” del daño recibido durante 5 acciones a dos oponentes que se encuentren en el alcance.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+RAYO ÓPTICO FUGAZ
+================================================================================
+
+100 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: 4
+
+
+2 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario proyecta un rayo óptico con extrema velocidad. Efecto: Causa un daño energético de “EN*1.65” que requerirá de 3 REFLEJOS para evadirse.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+RAYO ÓPTICO PROLONGADO
+================================================================================
+
+100 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: 4
+
+
+1 PA + 1 PA por acción
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario proyecta un rayo óptico de forma prolongada sobre un oponente, inmovilizándolo con precisión. Efecto: Causa un daño energético de “EN*1.55” y, en caso de impactar y dañar, inmoviliza al oponente en su casilla durante 2 acciones, repitiendo el “50% [x0.50]” del daño en cada una.
+
+ACLARACIONES:
+  - El usuario no puede realizar una acción distinta a esta mientras permanezca inmovilizado.
+
+================================================================================
+
+
+================================================================================
+RAYO DESTRUCTOR
+================================================================================
+
+100 EXP
+
+
+Energética – Suplementaria
+
+
+Alcance: 4
+
+
+1 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario proyecta un rayo óptico hacia los obstáculos del terreno, destruyéndolos. Efecto: Permite eliminar obstáculos o elementos situados en combate independientemente de su resistencia.
+
+ACLARACIONES:
+  - El primer uso en combate no consume PA.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO II                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+RAYO ÓPTICO ANTICIPADOR
+================================================================================
+
+100 EXP
+
+
+Energética – Defensiva (Anticipación)
+
+
+Alcance: 4
+
+
+2 PA
+
+
+TIER II
+
+EFECTO VISUAL:
+  El usuario proyecta un rayo energético desde sus visores en dirección a un oponente que esté cercano a su alcance o se encuentre viniendo hacia él, mandándolo a volar al mismo tiempo que causa un severo daño. Efecto: Anticipa una habilidad oponente con un daño energético de “EN*2.25”. En caso de ser utilizado en respuesta a una habilidad física con previo desplazamiento se requiere de 3 REFLEJOS para poder evadir esta habilidad. Si daña, además hace retroceder al oponente 3 casillas en la dirección contraria.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+RAYO ÓPTICO REPOTENCIADO
+================================================================================
+
+100 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: 6
+
+
+2 PA + 1 PA (OPCIONAL)
+
+
+TIER II
+
+EFECTO VISUAL:
+  El usuario proyecta un rayo energético desde sus visores en dirección a un oponente, quien en caso de ejercer resistencia recibirá una segunda secuencia de daño. Efecto: Causa un daño energético de “EN*2.4” a un oponente. En caso de ser defendido, permite por 1 PA causar el “50% [x0.50]” como daño extra a la defensa, que en caso de ser superada permitirá que el oponente reciba el daño base de esta habilidad en su totalidad.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+RAYO ÓPTICO DERRIBANTE
+================================================================================
+
+100 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: 6
+
+
+2 PA
+
+
+TIER II
+
+EFECTO VISUAL:
+  El usuario proyecta un rayo energético desde sus visores en dirección a un oponente, derribándolo de su posición por su gran potencia. Efecto: Causa un daño energético de “EN*2.25” a un oponente, finaliza su posición voladora/alzada en caso de haberla tenido e impide que alce el vuelo durante 5 acciones.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+RAYO ÓPTICO CIRCULAR
+================================================================================
+
+100 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: Área 3 sobre sí mismo
+
+
+2 PA
+
+
+TIER II
+
+EFECTO VISUAL:
+  El usuario proyecta un rayo energético a la par que gira sobre su propio eje, causando daño a todos aquellos que se encuentren a su alcance. Efecto: Causa un daño energético de “EN*2” en el área a la par que expulsa a todos los objetivos de la misma.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+DESTRUCCIÓN ESTRUCTURAL
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: 6, área 3 sobre el rival
+
+
+3 PA
+
+
+TIER II
+
+EFECTO VISUAL:
+  El usuario proyecta un rayo energético a las estructuras de un edificio, derrumbándolo fácilmente. Efecto: Utilizado en dirección a un elemento estructural de la sala con el suficiente tamaño para ser considerado peligroso (casa, tienda, etcétera) permite causar un daño de “EN*3” (físico) en el área y paralizar a los afectados durante 3 acciones.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+DESTRUCCIÓN DE VEHÍCULOS
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: 6
+
+
+2 PA
+
+
+TIER II
+
+EFECTO VISUAL:
+  El usuario proyecta un rayo energético con precisión que explota directamente un vehículo transitando por el lugar. Efecto: Permite inhabilitar un vehículo o montura tecnológica utilizado. Requiere que su dureza sea inferior al Adamantium.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+RAYO ÓPTICO CERCENANTE
+================================================================================
+
+100 EXP
+
+
+Energética – Defensiva (Anulación)
+
+
+Alcance: 4
+
+
+1 PA
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario proyecta un rayo energético con velocidad que cercena a la mitad un elemento disparado hacia su posición. Efecto: Anula una habilidad basada en arrojar un elemento.
+
+ACLARACIONES:
+  Puede utilizarse hasta dos veces en la misma ronda.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                   RANGO III                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+RESPUESTA ENERGÉTICA
+================================================================================
+
+100 EXP
+
+
+Energética – Defensiva (Contraataque)
+
+
+Alcance: 6
+
+
+2 PA
+
+
+TIER II
+
+EFECTO VISUAL:
+  El usuario proyecta un rayo energético desde sus visores en respuesta al ataque de un oponente, haciendo un choque de fuerzas de gran nivel. Efecto: Contraataca con un daño energético de “EN*2.25”, que en caso de superar el ataque de su rival permite que el daño se mantenga en su totalidad contra él.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+RAYO ÓPTICO LIBERADOR
+================================================================================
+
+100 EXP
+
+
+Energética – Suplementaria
+
+
+Alcance: 6
+
+
+1 PA + 1 PA POR OBJETIVO
+
+
+TIER III
+
+EFECTO VISUAL:
+  El usuario proyecta un rayo energético desde sus visores con extrema precisión sobre ataduras activas, eliminándolas. Efecto: Permite finalizar una atadura o paralización basada en elementos físicos con dureza inferior al Adamantium. Permite aplicarlo sobre más objetivos a cambio de más consumo.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+RAYO ÓPTICO DESARMADOR
+================================================================================
+
+100 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: 6
+
+
+2 PA + 1 PA POR OBJETIVO
+
+
+TIER II
+
+EFECTO VISUAL:
+  El usuario proyecta un rayo energético desde sus visores con extrema precisión hacia las armas de sus oponentes, inhabilitándolas. Efecto: Destruye armas equipadas con dureza inferior al Adamantium por el resto del combate. Permite aplicarse sobre más armas a cambio de consumir más PA.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+SECUENCIA ÓPTICA DESTRUCTIVA
+================================================================================
+
+100 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: Variable
+
+
+3 PA
+
+
+TIER I
+
+EFECTO VISUAL:
+  El usuario sobrecarga sus visores y empieza a disparar múltiples rayos de distintas formas y tamaños en dirección a sus oponentes. Efecto: El usuario realiza un total de tres ataques con una misma acción, debiendo reaccionarse por separado. Los alcances y daños de estos ataques varían, pero es posible reposicionarse siempre y cuando sea posible para adaptarlos. [PRIMER ATAQUE] – Su alcance es de CÓNICO 5. Causa un daño energético de “EN*2”. [SEGUNDO ATAQUE] – Su alcance es de 3x5. Causa un daño energético de “EN*1.5”. [TERCER ATAQUE] – Su alcance es de 1x8. Causa un daño energético de “EN*1.25”.
+
+ACLARACIONES:
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO IV                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+RAYO ÓPTICO DESINTEGRADOR
+================================================================================
+
+300 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: Cónico 6
+
+
+5 PA / 7 PU
+
+
+TIER 1
+
+EFECTO VISUAL:
+  El usuario sobrecarga sus visores y aún con ellos logra emitir un rayo energético con una potencia sin igual, siendo capaz de derribar múltiples estructuras en simultáneo e incluso de desintegrar un cuerpo sin resistencias inhumanas. Efecto: Causa un daño energético en el área de “EN*5”, el cual es capaz de ignorar cualquier defensa interna, externa y pasiva de propiedades distintas a la del Vibranium y para la que se deberá poseer más de 4 REFLEJOS para poder evadirse. Ser impactado por esta habilidad provoca una AMPUTACIÓN DE EXTREMIDAD siempre y cuando su cuerpo posea durezas inferiores al Adamantium y causa el estado directo previo a la Muerte.
+
+ACLARACIONES:
+
+================================================================================
+

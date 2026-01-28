@@ -1,0 +1,584 @@
+
+████████████████████████████████████████████████████████████████████████████████
+                      Control de Energía Cinética   Gambit                      
+████████████████████████████████████████████████████████████████████████████████
+
+
+
+--------------------------------------------------------------------------------
+                              HABILIDADES BÁSICAS                               
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[MALEABILIDAD] — ACONDICIONAMIENTO MEJORADO
+================================================================================
+  Física — Pasiva
+
+EFECTO VISUAL:
+  El usuario posee la capacidad mutante de manipular de distintas formas la energía cinética, incluyendo la potenciación física. Gracias a esto, su cuerpo se encuentra permanentemente cargado de energía con el fin de potenciar todas sus capacidades físicas hasta un punto prácticamente sobrehumano, dotándole de un estado físico perfecto para alguien de sus características. Efecto: El usuario adquiere los siguientes beneficios. [VITALIDAD – SOBREHUM.]: El usuario es capaz de resistir daños imposibles para un humano común sin ningún inconveniente. [FUERZA – LIM. HUM.]: El usuario posee la fuerza suficiente para ser capaz de perforar paredes con uno de sus puños. [VELOCIDAD – LIM. HUM.]: El usuario posee una velocidad prácticamente atlética. [4 REFLEJOS]: El usuario al encontrarse potenciado físicamente es capaz de reaccionar a velocidades prácticamente inhumanas.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] — RECUBRIMIENTO CINÉTICO Y ACELERACIÓN MOLECULAR
+================================================================================
+  Física — Pasiva
+
+EFECTO VISUAL:
+  El usuario posee una capa de energía cinética sobre su piel que le brinda una gran invulnerabilidad. Esta capa impide que cualquier elemento tenga contacto directo con su cuerpo, por lo que lo convierte en alguien virtualmente intocable de forma directa. Esta capa inclusive cubre su propio cráneo, lo que genera un efecto de interferencia para todos aquellos que intenten perforarla a través de telepatía, brindándole una resistencia innata ante telépatas. Adicionalmente, las moléculas que componen su cuerpo sufren una aceleración considerable, dotándole de una regeneración no común en mutantes y humanos. Efecto: El usuario obtiene los siguientes beneficios. [INTOCABLE]: El usuario se vuelve inmune de manera permanente a cualquier habilidad que dependa del toque directo con su piel o del tacto. Esta capacidad también aplica a indirectos provocados por el contacto o consecuencias extra, como puede ser quemaduras por fisionomías ígneas. También brinda inmunidad a condiciones atmosféricas adversas. [INTERFERENCIA ESTÁTICA]: El usuario reduce en un “40% [*0.4]” los efectos negativos recibidos mediante habilidades de telepatía siempre y cuando provengan de Telépatas Omega o inferior. Siempre que apliquen Concentración en el usuario esta costará “+1 PA” y si el oponente desea mantenerla deberá consumir “1 PA” al inicio de cada ronda. [RESISTENCIA MEJORADA]: El usuario adquiere una RESISTENCIA SOBREHUMANA. [ACELERACIÓN MOLECULAR]: El usuario adquiere una REGENERACIÓN TIER 2.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] — LADRÓN VETERANO
+================================================================================
+  Física – Pasiva
+
+EFECTO VISUAL:
+  El usuario está entrenado en múltiples artes de combate, pues creció como un ladrón que necesitaba sobrevivir sin importar el qué. Gracias a esto sus habilidades técnicas de combate están en un punto superior, siendo capaz de luchar contra los mejores artistas conocidos en el ámbito humano. Efecto: El usuario adquiere los siguientes beneficios. [ARTISTA MARCIAL]: El usuario obtiene gratuitamente los perfiles Combatiente Bruto/Ágil, Armas de Fuego y Armas Contundentes. [LADRÓN]: El usuario posee la capacidad de robar objetos de manera no permanente. Para esto deberá haber cumplido una serie de reglas, las cuales son: observar el objeto a robar en 3 oportunidades dentro de combate, provocar como mínimo el estado de Herido Crítico al oponente y no mantener otro objeto robado. Una vez cumplidos los requisitos podrá proceder a robar el objeto tras finalizar el combate, pudiendo permanecer con él durante los próximos 21 días. La cuenta finaliza si es derrotado en combate por el oponente al que robó, siendo devuelto el objeto y no pudiendo volver a robarlo durante los próximos 31 días. El usuario deberá adquirir toda la información del objeto por parte de Moderación y no por parte del afectado. Así mismo, en escenas D&D obtiene un beneficio de +3 en sus dados siempre que las tiradas estén relacionadas a la infiltración/hurto.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] — MAZO DE NAIPES
+================================================================================
+
+Parafernalia – Arma a Distancia
+
+EFECTO VISUAL:
+  El usuario posee un gusto muy marcado por los naipes, siendo su principal arma al momento de combatir. Con ellas, siendo estas curiosamente del tamaño perfecto, es capaz de hacer uso de sus cargas cinéticas sin ningún tipo de contratiempo. Efecto: Poseen un daño de CALIBRE MODERADO. Una vez por combate permite incluir el comando “Reina de Corazones” a una habilidad realizada, aumentando su TIER automáticamente en “1”. El Mazo de Naipes puede ser utilizado en habilidades de Armas de Fuego y son consideradas objetos diminutos. Una vez por turno es posible afectar hasta a dos oponentes en simultáneo con una misma habilidad sin necesidad de realizar un consumo extra. Sólo aplica a Armas de Fuego.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] — BO DE ACERO
+================================================================================
+
+Parafernalia – Arma Contundente
+
+EFECTO VISUAL:
+  El usuario posee un largo bo de acero con el que hace uso de su Bojutsu. Cada golpe realizado con esta arma es capaz de provocar fuertes daños en sus oponentes, además de brindarle una versatilidad en combate que no tendría con otras armas. Efecto: Posee un daño de ARMA MED. TIER 2. Los ataques realizados con esta arma aumentan en “1” su alcance, o en cambio podrán afectar en “área 1” sobre el usuario. Sólo se puede aplicar un beneficio.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO I                                     
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] – CARGA DE ENERGÍA CINÉTICA EXPLOSIVA
+================================================================================
+
+100 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: 0
+
+
+Coste: 0 PA
+
+
+TIER: III
+
+EFECTO VISUAL:
+  El usuario acelera las partículas de un objeto, sobrecargándolo de energía que próximamente se liberará en forma de una gran expulsión. Efecto: El usuario añade un daño energético extra a un objeto diminuto (0 casillas) que se liberará al momento de impactar en un objeto. El daño agregado siempre será igual al daño perteneciente a la categoría de “(CONTROL ENERGÉTICO III) *1”. Este daño siempre se sumará al final del daño de la habilidad y elimina cualquier efecto secundario de la misma (siempre y cuando esté relacionado al daño, como hemorragias) y a cambio agregará los siguientes: La habilidad replicará el “50% [*0.5]” de su daño en “área 2” del objetivo. La habilidad aturdirá durante 1 acción al oponente. Defensas internas sólo cubren un “50% [*0.5]” del daño como máximo. El oponente retrocede “2 casillas” en caso de tener contacto con la habilidad.
+
+ACLARACIONES:
+  - No puede ser aplicado en objetos de Vibranium. - No puede ser aplicado a ataques básicos. - Reutilizar esta habilidad en un mismo turno propio aumenta su coste hasta 1 PA. - El daño sumado aumenta en 15 su decimal por cada rango extra alcanzado (Rango II = 1.65, Rango III = 1.8, etc.).
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] – LANZAMIENTO CERTERO
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 4
+
+
+Coste: 1 PA
+
+
+TIER: III
+
+EFECTO VISUAL:
+  El usuario toma varios naipes entre su mano, lanzándolos a toda velocidad hacia su oponente para causar un daño severo. La velocidad de lanzamiento es prácticamente imperceptible, siendo capaz de sorprender a sus oponentes. Efecto: Genera un daño físico de “ARMA*1.40”. Requiere de 3 REFLEJOS para poder evadirse.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] – EXPLOSIÓN CONTUNDENTE
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 4
+
+
+Coste: 1 PA
+
+
+TIER: III
+
+EFECTO VISUAL:
+  El usuario carga uno de los naipes de su mano, arrojándolo con fuerza a la cabeza de su oponente para aturdirlo. Efecto: Genera un daño físico de “ARMA*1.45”. Aturde durante 2 turnos al oponente. Este aturdimiento no puede ser reducido.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] – PARED CINÉTICA
+================================================================================
+
+100 EXP
+
+
+Energética – Defensiva (Defensa externa)
+
+
+Alcance: 1x3
+
+
+Coste: Variable
+
+
+TIER: Variable
+
+EFECTO VISUAL:
+  El usuario carga sus naipes y los arroja contra el suelo, liberando una pared explosiva que funciona como defensa ante un ataque rival. Efecto: Defiende por una cantidad variable, según el uso decidido por el usuario. Cubre a todo aliado que se encuentre hasta dos casillas por detrás de la línea de defensa. .
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] – BARRIDO CONTUNDENTE
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: Área 2
+
+
+Coste: 1 PA
+
+
+TIER: III
+
+EFECTO VISUAL:
+  El usuario rueda por el suelo y barre a todos sus oponentes con su bo. Efecto: Genera un daño físico de “ARMA*1.55” en el área y derriba a los afectados. No es posible defenderse con bloqueos internos. En caso de afectar, permite realizar un ataque básico sobre cada derribado.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] – PUNZADA A LA GARGANTA
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: 2
+
+
+Coste: 1 PA
+
+
+TIER: III
+
+EFECTO VISUAL:
+  El usuario golpea con su bo en el cuello del oponente, asfixiándolo. Efecto: Genera un daño físico de “ARMA*1.55” a un oponente y causa un indirecto del “5% [*0.05]” de su VIT. MÁX. por 2 acciones.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] – IMPULSO CON BO
+================================================================================
+
+100 EXP
+
+
+Física – Suplementaria
+
+
+Alcance: 0
+
+
+Coste: 1 PA
+
+
+TIER: III
+
+EFECTO VISUAL:
+  El usuario clava su bo en el suelo para impulsarse hacia delante. Efecto: Permite desplazarse 4 casillas en cualquier dirección.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO II                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] – CARGA DE ENERGÍA CINÉTICA EXPLOSIVA
+================================================================================
+
+0 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: 1
+
+
+Coste: 2 PA
+
+
+TIER: II
+
+EFECTO VISUAL:
+  El usuario acelera las partículas de un objeto, sobrecargándolo de energía que próximamente se liberará en forma de una gran expulsión. Efecto: El usuario añade un daño energético extra a un objeto pequeño (1 casilla) que se liberará cuando el usuario lo desee. El daño agregado siempre será igual al daño perteneciente a la categoría de “(CONTROL ENERGÉTICO III) *2”. Este daño provoca los siguientes efectos: Afecta en “área 2” del objeto. La habilidad aturdirá durante 2 acciones al oponente. Defensas internas sólo cubren un “50% [*0.5]” del daño como máximo. El oponente retrocede “3 casillas” en caso de tener contacto con la habilidad.
+
+ACLARACIONES:
+  - No puede ser aplicado en objetos de Vibranium.
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] – CARGA DE ENERGÍA CINÉTICA ENDURECEDORA
+================================================================================
+
+100 EXP
+
+
+Energética – Suplementaria
+
+
+Alcance: 0
+
+
+Coste: 1 PA
+
+
+TIER: III
+
+EFECTO VISUAL:
+  El usuario acelera las partículas de un objeto, sobrecargándolo de energía que próximamente se liberará en forma de una gran expulsión. Efecto: El usuario añade un daño físico extra a un objeto diminuto (0 casillas) que aplica al momento de impactar. El daño agregado siempre será igual al daño perteneciente a la categoría de “(CONTROL ENERGÉTICO III) *0.5” y se suma junto al de ARMA, beneficiando cualquier conteo. Este daño provoca los siguientes efectos: Las habilidades replican el “50% [*0.5]” de su daño en “área 1” si son evadidas. La habilidad aturdirá durante 1 acción al oponente. Defensas internas sólo cubren un “50% [*0.5]” del daño como máximo. El oponente retrocede “2 casillas” en caso de tener contacto con la habilidad.
+
+ACLARACIONES:
+  - No puede ser aplicado en objetos de Vibranium. - Sólo puede ser aplicado en armas cuerpo a cuerpo. - El beneficio permanece durante “RANGO” turnos propios. - Es posible activar este beneficio desde preparación.
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] – GIRO DE BO
+================================================================================
+
+100 EXP
+
+
+Física – Anulación
+
+
+Alcance: 1
+
+
+Coste: 2 PA
+
+
+TIER: III
+
+EFECTO VISUAL:
+  El usuario gira rápidamente su bo, reflejando cualquier proyectil. Efecto: Anula una habilidad basada en proyectiles distintos a misiles, devolviendo su daño original a quien lo ha realizado.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] – GOLPE AL CRÁNEO
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: 1
+
+
+Coste: 2 PA
+
+
+TIER: II
+
+EFECTO VISUAL:
+  El usuario golpea con fuerza el cráneo de su oponente mediante el bo. Efecto: Genera un daño físico de “ARMA*2.20” a un oponente y le aturde por 2 acciones.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] – MACHACAR EXTREMIDAD
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: 1
+
+
+Coste: 2 PA
+
+
+TIER: II
+
+EFECTO VISUAL:
+  El usuario golpea con fuerza una extremidad de su oponente mediante el bo. Efecto: Genera un daño físico de “ARMA*2.3” a un oponente y le inhabilita una extremidad a elección por 3 acciones.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] – GOLPE TRAMPOSO
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: 1
+
+
+Coste: 1 PA
+
+
+TIER: III
+
+EFECTO VISUAL:
+  El usuario a la par que gira alarga su bo para sorprender a su oponente con un ataque desde otro ángulo. Efecto: Genera un daño físico de “ARMA*1.7” a un oponente. Es posible utilizar esta habilidad justo después de una evasión.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                   RANGO III                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] – CARGA DE ENERGÍA CINÉTICA AFILADORA
+================================================================================
+
+100 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: 0
+
+
+Coste: 0 PA
+
+
+TIER: III
+
+EFECTO VISUAL:
+  El usuario acelera las partículas de un objeto, sobrecargándolo de energía cinética que afina por completo su capacidad de corte. Efecto: El usuario añade un daño energético extra a un objeto diminuto (0 casillas) que aplicará siempre que afecte a un oponente. El daño agregado siempre será igual al daño perteneciente a la categoría de “(CONTROL ENERGÉTICO III) *1”. Este daño siempre se sumará al final del daño de la habilidad y agrega las siguientes capacidades: La habilidad ignora defensas pasivas de hasta escala SOBREHUMANA. La habilidad provocará un indirecto por hemorragia del “15% [*0.15]” del daño causado por 3 acciones. Defensas internas sólo cubren un “25% [*0.75]” del daño como máximo.
+
+ACLARACIONES:
+  - No puede ser aplicado en objetos de Vibranium. - No puede ser aplicado a ataques básicos. - Reutilizar esta habilidad en un mismo turno propio aumenta su coste hasta 1 PA. - El daño sumado aumenta en 15 su decimal por cada rango extra alcanzado.
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] – DESTRUCCIÓN DE TERRENO
+================================================================================
+
+0 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: Área 4 sobre el usuario
+
+
+Coste: 2 PA
+
+
+TIER: II
+
+EFECTO VISUAL:
+  El usuario acelera las partículas del suelo, haciéndolo explotar de forma abrupta. Efecto: Causa un daño energético en el área afectada de “(CONTROL ENERGÉTICO III) *2.25”. Los oponentes afectados serán desplazados fuera del área y quedarán derribados. Así mismo, por las próximas dos rondas siempre que un oponente se desplace por una de dichas casillas consumirá +1 VEL.
+
+ACLARACIONES:
+  - No puede ser defendido por defensas internas.
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] – SOBRECARGA CINÉTICA
+================================================================================
+
+0 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: 1, área 3
+
+
+Coste: 2 PA
+
+
+TIER: II
+
+EFECTO VISUAL:
+  El usuario acelera las partículas de un objeto equipado por el oponente, haciéndolo estallar de forma abrupta en su cara. Efecto: Causa un daño energético de “(CONTROL ENERGÉTICO III) *2.25”. Se requiere de 4 REF (REFLEJOS) para poder evadir esta habilidad. El arma quedará destruida por el resto del combate.
+
+ACLARACIONES:
+  - No destruye armas de TIER 1, ni afecta armas de Vibranium.
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] – COMODINES
+================================================================================
+
+0 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: Cónico 5
+
+
+Coste: 2 PA
+
+
+TIER: II
+
+EFECTO VISUAL:
+  El usuario sobrecarga de energía las cartas en su mano, proyectándolas de forma frontal hacia el oponente. Efecto: Causa un daño energético de “(CONTROL ENERGÉTICO III) *2” en toda el área. Los afectados quedarán aturdidos por 2 acciones.
+
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+[CTRL. DE ENERGÍA CINÉTICA] – ENCANTO HIPNÓTICO
+================================================================================
+
+0 EXP
+
+
+Energética – Ofensiva
+
+
+Alcance: 4
+
+
+Coste: 2 PA
+
+
+TIER: II
+
+EFECTO VISUAL:
+  El usuario encanta a su oponente gracias a la energía cinética, obligándolo a cancelar lo que tenía planeado. Efecto: Anula una acción ofensiva realizada por el oponente.
+
+ACLARACIONES:
+  -
+
+================================================================================
+

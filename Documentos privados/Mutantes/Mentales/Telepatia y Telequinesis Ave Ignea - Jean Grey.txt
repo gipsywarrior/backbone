@@ -1,0 +1,1248 @@
+
+████████████████████████████████████████████████████████████████████████████████
+                Telepatia y Telequinesis   Ave Ignea (Jean Grey)                
+████████████████████████████████████████████████████████████████████████████████
+
+
+
+--------------------------------------------------------------------------------
+                              HABILIDADES BÁSICAS                               
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[TELEPATÍA Y TELEQUINESIS: AVE ÍGNEA] – FÍSICO ENTRENADO
+================================================================================
+  Física — Pasiva
+
+EFECTO VISUAL:
+  Aunque su mutación no es de carácter físico ha logrado con el paso de los años desarrollar un físico más que óptimo para el combate cuerpo a cuerpo. Sus músculos están plenamente entrenados y la capacidad física es la de aun atleta humano en condiciones perfectas. Efecto: Brinda un beneficio de atributos aclarado a continuación: [VITALIDAD – HUMANO ENTRENADO]: Posee una capacidad de aguante por encima de la del humano común, siendo capaz de resistir varios golpes sin caer en el intento. [VELOCIDAD – HUMANO ENTRENADO]: Es capaz de desplazarse a un buen ritmo sin ningún tipo de complicación gracias a su entrenamiento físico. [2 REFLEJOS]: Sus reflejos son más que óptimos para el combate contra humanos comunes. [CONOCIMIENTO DE ARTES MARCIALES]: Se ha adoctrinado de forma no tan profunda en diversas artes marciales para poder combatir. Brinda acceso al perfil Combatiente Bruto y Combatiente Ágil.
+
+ACLARACIONES:
+  Los atributos aumentados se REEMPLAZAN, en ningún caso se suman entre sí.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA Y TELEQUINESIS: AVE ÍGNEA] – TELEPATÍA OMEGA DE ORDEN SUPERIOR
+================================================================================
+  Mental — Pasiva
+
+EFECTO VISUAL:
+  El gen mutante de la usuaria fue capaz de brindarle acceso a dos principales habilidades. La primera, e igual de destacable que la segunda, su telepatía. Su potencial y capacidad es prácticamente de categoría cósmica, siendo clasificada como una (o la mejor) telépata en existencia. Su mente posee un privilegio único, siendo capaz de realizar hazañas extraordinarias para cualquier otro telépata sin ninguna clase de esfuerzo. Su poder es tanto que es considerada el recipiente perfecto de la Fuerza Fénix, un ente primordial del universo. Efecto: La usuaria posee una TELEPATÍA OMEGA HIGH ORDER lo que le otorga acceso directo al atributo de PODER PSÍQUICO (PSI). Este valor es utilizado en todas las habilidades de índole mental que lo presenten en sus cálculos y escala conforme ascienda de rango. [TELEPATÍA OMEGA HIGH ORDER]: La usuaria posee una voluntad sin igual. Aún sin un cuerpo físico, su mente sería capaz de buscar la forma de revivir entre los muertos. [+4 VOL] [MENTE AVASALLANTE]: En caso de ser objetivo de una habilidad de índole mental (incluyendo Concentración), la usuaria puede utilizar este comando para anular la habilidad y obtiene la capacidad de utilizar una habilidad ofensiva en respuesta contra el oponente. – Un uso cada dos rondas, no consume PA. Puede ser aplicada sobre cualquier oponente con Telepatía Suprema o inferior. [RECUPERACIÓN FORZADA]: En caso de ser obligada a perder la Concentración, la usuaria puede utilizar este comando para recuperarla automáticamente sin necesidad de consumir PA de vuelta. – Un uso cada tres rondas, no consume PA. [MENTE EXPANDIDA]: La Concentración de la usuaria se activa de forma automática sobre cualquier combatiente oponente que se introduzca en combate, siempre y cuando haya seleccionado a todos los oponentes a su alcance en el primer uso de la habilidad. [LECTURA DE LA REALIDAD]: En caso de ser objetivo de una habilidad basada en ilusiones, la usuaria puede usar este comando para anular su efecto sobre ella. Puede ser aplicada sobre ilusiones que no afecten directamente a la usuaria, pero que posean un efecto continúo en combate. No anula los efectos para sus aliados, tan sólo para sí. – Un uso cada tres rondas, no consume PA en caso de ser de TIER 3. En caso de que la ilusión sea de TIER 2, consumirá 1 PA. En caso de ser de TIER 1, consumirá 2 PA. [ESCUDO PSÍQUICO]: La usuaria adquiere una reducción del “40% [*0.6]” ante daños de índole mental, además reduce en “1 acción” la duración de controles de masa mentales, pudiendo reducirlos a “0”. Además, reduce en “-1 PA” (mínimo 1) el coste del comando básico Resistir para habilidades empáticas, ilusiones, alteraciones, controles mentales, posesiones, influencias. La reducción del comando Resistir por VOLUNTAD aplicará incluso a habilidades de TIER 2. – Sólo puede ser ignorada por oponentes que le superen en VOLUNTAD o posean un PSI mayor. [LECTURA MENTAL MUNDIAL]: Permite realizar una interpretación de 5 minutos en la que debe verse reflejado cómo lee la mente de grandes grupos de personas, incluso ciudades, obteniendo 75 EXP. – Un uso cada 7 días. También es posible utilizar esta capacidad adjuntado a un suceso del apartado “Heridas, Muertes y Sucesos”, aprendiendo sobre el hecho a través de un testigo o civil, el contexto del suceso a aprender debe ser el adecuado, como por ejemplo acontecimientos ocurridos en la vía pública. – Un uso cada 7 días. [MENTE EVOLUTIVA]: La usuaria aumenta su PODER PSÍQUICO (PSI) en “+15” por cada 3.000 EXPERIENCIA conseguidos. – MÁXIMO 5 VECES. [EMBATE PSÍQUICO]: Puede utilizar este comando junto a una habilidad ofensiva telepática para aumentar en “+1” el consumo de PA del comando básico Resistir para reaccionar a dicha habilidad. – Un uso cada 2 rondas, no consume PA. No afecta a oponentes que SUPEREN EN VOLUNTAD a la usuaria o bien posean una TELEPATÍA SUPREMA o superior. [MENTE PENETRANTE]: Permite utilizar este comando junto a una habilidad mental sin proyección física, ignorando inmunidades mentales (por objetos, o por naturaleza del personaje, a excepción de aquellos que carecen de mente), así como defensas y reducciones que se posean de forma pasiva. – El primer uso de cada ronda no consume PA, posteriores usos consumen 1 PA. No afecta a oponentes que SUPEREN EN VOLUNTAD a la usuaria o bien posean una TELEPATÍA SUPREMA o superior. Acumulable con Embate Psíquico. [IMPOSICIÓN MENTAL]: Permite utilizar este comando sobre un aliado que se encuentre bajo un Control mental activo, anulándolo. Puede ser utilizado en cualquier punto del combate, incluyendo en respuesta. – Un uso cada dos rondas. Por cada TIER del Control Mental el usuario consumirá 1 PA. En caso de ser provocado por un telépata, de ser inferior a su categoría, reducirá en “-1” el costo de este uso. Es posible incluir hasta a un aliado extra, aumentando el consumo en 1 PA. [REFORZAMIENTO DE VOLUNTAD]: Permite utilizar este comando en ronda propia, bonificando la VOLUNTAD de todos sus aliados en +1 por las próximas “VOL*1.5” acciones. – Un uso cada dos rondas. Consume 1 PA. Afecta en área 6 de la usuaria. [CAPA TELEPÁTICA]: Permite utilizar este comando junto a una habilidad de ocultación, permitiendo que oculte también ante detecciones mentales o telepáticas. Puede ser aplicado en habilidades realizadas por aliados. – Un uso cada dos rondas, no consume PA. Afecta en área 6 de la usuaria. [PREDICCIÓN MENTAL]: Permite utilizar este comando sobre un aliado en respuesta a una habilidad que requiera de REFLEJOS superiores a los suyos, permitiéndole reaccionar sin condiciones negativas. – Un uso por ronda, no consume PA. [MENTE ACONDICIONADA]: En caso de recibir un efecto negativo proveniente de haber aplicado una habilidad mental en un oponente (como bien puede ser por inmunidades ante lecturas mentales), la usuaria podrá hacer uso de esta capacidad, anulando cualquier condición negativa que se reciba por ello. – Un uso cada dos rondas, no consume PA. [LAZO TELEPÁTICO]: La usuaria es capaz de crear con un lazo telepático con un aliado de forma permanente, compartiendo entre sí la información recibida. Adicionalmente, son capaces de Irrumpir entre sí ignorando cualquier requisito de unión (excepto los huecos) y nunca perderán ronda cuando lo hagan entre sí. En Escenas D&D, en caso de realizar tiradas conjuntas poseen un beneficio de +1. – Una vez se crea un lazo telepático no es posible cambiarlo dentro de los próximos 31 días, a excepción de si el personaje ha muerto o ha reiniciado. [BUCLE INFINITO (REQUIERE RANGO III)]: Puede utilizar este comando justo después de haber derrotado a un oponente, aplicando una ilusión de Bucle Infinito al oponente durante “24” horas. Durante este tiempo no podrá hacer uso del personaje de forma activa en combates, pero sí podrá ocupar la realización de misiones y otras tareas diarias. – “72” HRS/CD tras finalizar el estado en el oponente que se ha aplicado. [AVE FÉNIX]: En caso de morir, la usuaria podrá hacer uso de esta capacidad para recuperar su personaje. Es posible de ser utilizado incluso ante la completa desintegración. – La resurrección tardará 72 horas en ser efectiva. No podrá volver a ser utilizada en los próximos 31 días, pero es posible mantener el personaje aún en enfriamiento de la hab. Por cada resurrección se deberán consumir 1.000 EXP. De no poseer la experiencia disponible al momento de realizar la resurrección no se podrá hacer uso de la hab.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA Y TELEQUINESIS: AVE ÍGNEA] – TELEQUINESIS OMEGA
+================================================================================
+  Energética – Pasiva
+
+EFECTO VISUAL:
+  La segunda mutación de la usuaria es la telequinesis. Aunque no tan desarrollada como su telepatía, su capacidad sigue aplacando a la mayoría de los poseedores de telequinesis de la raza mutante, realizando grandes hazañas a lo largo de su vida. En combinación con su superior telepatía es capaz de lograr demostraciones que ningún otro telépata podría. Efecto: La usuaria posee una TELEQUINESIS OMEGA, lo que le otorga acceso directo al atributo de ENERGÍA (EN) de CONTROL ENÉRGETICO I. Este valor es utilizado en todas las habilidades de índole energético que lo presenten en sus cálculos y escala conforme ascienda de rango. [POTENCIAL TELEQUINÉTICO]: La usuaria posee la capacidad de afectar con naturalidad a oponentes inamovibles o de grandes tamaños (con desplazamientos, parálisis, etcétera). Sus habilidades relacionadas a la Telequinesis afectarán con una FUERZA de hasta 100 TON. de cara a comandos o inmunidades que lo requieran. [EMBATE TELEQUINÉTICO]: Permite utilizar este comando junto a una habilidad telequinética, aumentando su daño en un “15% [*1.15]” o su efectividad en “+1 acción”. – Dos usos por ronda, consume 1 PA. [DOMINANCIA TELEQUINÉTICA – FRENADO TELEQUINÉTICO]: En caso de ser objetivo de una habilidad de índole telequinético realizada por un oponente de ESCALA INFERIOR a la TELEQUINESIS OMEGA podrá anularla. – Un uso cada tres rondas, no consume PA. [FORJECEO TELEQUINÉTICO]: Permite utilizar este comando junto a una habilidad telequinética, siendo capaz de inhabilitar una extremidad durante “2 acciones”. – Un uso por ronda, no consume PA. Sólo habilidades que apliquen directamente al cuerpo. [FRENADO TELEQUINÉTICO]: En caso de ser objetivo de una habilidad de índole físico basada en el lanzamiento de proyectiles (incluidos lanzamientos de elementos, como carros u obstáculos), la usuaria puede utilizar este comando para anular la habilidad. – Un uso cada tres (3) rondas, no consume PA. [REFLEJO TELEQUINÉTICO]: En caso de haber frenado una habilidad mediante Frenado Telequinético previamente, la usuaria puede utilizar este comando para reflejar su daño original en dirección al que ha realizado la misma habilidad, manteniendo todos sus efectos originales. – Un uso cada dos rondas, consume PA/2 (mínimo 1) del coste original de la habilidad. [RECHAZO TELEQUINÉTICO]: En caso de que un oponente se desplace de forma directa hacia la usuaria podrá hacer uso de este comando para hacerle retroceder un total de “RANGO+2” casillas en dirección contraria. – Un uso cada tres rondas, consume 1 PA. No es posible hacer uso de esta habilidad si el oponente ya ha realizado una acción extra. [GOLPE TELEQUINÉTICO]: Permite utilizar este comando sobre una habilidad física que requiera el uso de la FUERZA, reemplazando este VALOR por el “CONTROL ENERGÉTICO” de la propia usuaria. La habilidad dejará de ser considerada a contacto, y en caso de ser una defensa pasará a ser considerada externa. – Un uso por ronda, no consume PA. [FUEGO PSIÓNICO]: Permite utilizar este comando sobre una habilidad telequinética, añadiendo la propiedad de ser fuego psiónico. El fuego psiónico afecta de forma física, pero no puede ser defendido por defensas internas. Además, ignora cualquier tipo de defensa pasiva o reducción que no aplique a daño mental. – Un uso por ronda, consume 1 PA.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA Y TELEQUINESIS: AVE ÍGNEA] – SIFÓN PSIÓNICO
+================================================================================
+  Energética – Pasiva
+
+EFECTO VISUAL:
+  La usuaria posee una tercera cualidad única entre ciertos telépatas. Es capaz de alimentarse de la energía psiónica de quienes le rodean, otorgándose a sí misma capacidades superiores a las que posee de forma innata. Reuniendo la energía suficiente incluso podría dar paso a una forma única conocida como su Forma Rosa, una fase de poder extremo capaz de permitirle combatir cara a cara con los más grandes guerreros y seres de naturaleza cósmica. Efecto: La usuaria inicia sus combates con un conteo de “ENERGÍA PSIÓNICA” (EP) en “0”. Conforme realice ciertas hazañas en combate podrá adquirir más de este atributo, pudiendo invertirlo en beneficios únicos. [DRENAJE PSIÓNICO]: Permite utilizar este comando junto a una habilidad mental sin proyección física, provocando que, en caso de afectar al oponente, se absorba 1 EP del oponente. En caso de ser un “Telépata”, se absorberá 1 EP extra. En caso de ser un “Telépata Omega o Superior”, se absorberá 2 EP extra. – Sin límite de usos, no consume PA, pero a partir del tercer uso consumirá 1 PA. [ESPECIAL – DRENAJE PSIÓNICO (RANGO III)]: La usuaria podrá utilizar el comando para absorber tantos EP como “jugadores en sala (on rol)” se encuentren presentes. – 1 PA, un uso cada 7 días. [DRENAJE GRUPAL]: Permite utilizar este comando, absorbiendo 1 EP por cada personaje que esté activamente en el combate. – Un uso por ronda, consume 1 PA. [MENTE DRENADA]: En caso de que un “rival” caiga en combate se absorberán 3 EP de forma directa. En caso de ser “Telépata” se absorberán 2 EP extra. [BENEFICIOS DEL SIFÓN PSIÓNICO] [AURA TELEQUINÉTICA]: En caso de haber reunido como mínimo 15 EP en combate su cuerpo se cubrirá del Aura Telequinética. Brinda lo siguiente: La VITALIDAD de la usuaria aumenta en +2 Escalas. La usuaria adquirirá una DEF. PASIVA de escala SOBREHUMANA. Reduce en un 50% [*0.50] los impactos realizados por armas/balizas de dureza inferior al Adamantium. La usuaria adquirirá una DEF. PASIVA que aplica a habilidades mentales igual a su “DEF. PASIVA/2”. Reduce en “-1 acción” cualquier control de masa mental. La usuaria adquirirá +1 VOL. Cualquier control mental activo al momento de activar su Aura Telequinética (por lo que habilita ser utilizada bajo uno) se rompe. Las habilidades telequinéticas y mentales de la usuaria sumarán siempre al final de sus daños o defensas una cantidad igual a “+(PE ACUMULADO*5)” (máximo 500). [FORMA ROSA]: En caso de haber reunido 30 EP en combate, se podrá hacer uso de este comando para consumirlos en su totalidad, obteniendo su Forma Rosa. Brinda lo siguiente (sustituye los beneficios de Aura Telequinética): La VITALIDAD de la usuaria aumenta en +3 Escalas. La usuaria adquirirá una DEF. PASIVA de escala SOBREHUMANA +. Reduce en un 100% [*0] los impactos realizados por armas/balizas de dureza inferior al Adamantium. Reduce en un 15% [*0.85] los impactos físicos, energéticos y elementales. La usuaria adquirirá una DEF. PASIVA que aplica a habilidades mentales igual a su “DEF. PASIVA/2”. Reduce en “-2 acción” cualquier control de masa mental (pudiendo reducir a 0). La usuaria adquirirá +2 VOL. Cualquier control mental activo al momento de activar su Aura Telequinética (por lo que habilita ser utilizada bajo uno) se rompe. La usuaria se considera en Vuelo de forma pasiva. Alcanza una velocidad de hasta 100/500 KM/H mientras se mantenga bajo este estado. Las habilidades telequinéticas y mentales de la usuaria sumarán siempre al final de sus daños o defensas una cantidad igual a “+(PE ACUMULADO*10)” (máximo 800). La Forma Rosa posee un uso cada 24 horas.
+
+ACLARACIONES:
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO I                                     
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – CONCENTRACIÓN
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: “VOLUNTAD*8”
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  La usuaria activa sus poderes, cubriendo su cabeza de ondas de energía psiónica que revelan la concentración en la mente de todos sus oponentes. Efecto: Permite hacer uso de habilidades pertenecientes al documento que tengan índole Mental sobre objetivos que se encuentren bajo Concentración. En caso de que la usuaria esté concentrada en más mentes que “VOLUNTAD” verá reducidos los efectos de sus habilidades en un “25% [*0.75]” y en “-VOLUNTAD acciones” de forma general. Puede ser utilizada en preparación sin ningún consumo. Los siguientes escenarios anularán de manera automática esta habilidad: Recibir un daño superior a “15%*VOLUNTAD” de su VIT máxima. Recibir un control de masa que impida el turno de la usuaria. No aplican inmovilizaciones ni tampoco parálisis para este escenario.
+
+ACLARACIONES:
+  - Esta habilidad no puede ser reaccionada bajo métodos ordinarios salvo la reacción en cuestión especifique poder ser utilizada para esta habilidad. - Esta habilidad puede utilizarse también sobre aliados, considerándose Suplementaria. - En caso de que la usuaria pierda la Concentración, deberá volver a ejecutarla gastando los puntos de acción correspondientes. La usuaria consume tantas PUNTOS DE ACCIÓN como OBJETIVOS (mentes) sobre los cuales desee concentrarse. El redondeo es siempre a la BAJA. - Las habilidades mentales de la usuaria afectan únicamente a un objetivo en individual salvo la misma especifique una aclaración contraria. - Concentración se mantiene, aunque los objetivos se salgan posteriormente del alcance, pero las habilidades mentales requerirán del alcance de la habilidad para ejecutarse.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – LECTURA MENTAL
+================================================================================
+  Mental – Pasiva
+
+EFECTO VISUAL:
+  La usuaria lee de forma atenta la mente de sus rivales, previniendo su futuro más próximo para obtener ventaja de la situación. Efecto: La usuaria detecta a todo aquel usuario sobre el que se esté concentrado y se oculte mediante métodos ordinarios. Esta detección no aplica si la ocultación del objetivo tiene aclaraciones contrarias a la de esta pasiva. [TELEPATÍA OMEGA DE ORDEN SUPERIOR]: La usuaria ignora requisitos de reacción de oponentes que estén bajo “CONCENTRACIÓN” de hasta 5 REFLEJOS (REF).
+
+ACLARACIONES:
+  - Requiere poseer Concentración activa. - Únicamente ignora requisitos de REF, si la habilidad en cuestión posee otros tipos de requisitos adicionales, deberá cumplirlos para reaccionar. - Se considera una intrusión mental.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – RAYO MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  La usuaria proyecta un haz psiónico directo a la mente de sus rivales, provocándole un fuerte dolor de cabeza y daño a su mente. Efecto: Genera un daño mental de “PSI*1.35” y produce desorientación durante 3 acciones. [ATAQUE MÚLTIPLE]: Puede utilizar esta habilidad sobre un máximo de dos oponentes al mismo tiempo. [QUEMADURA PSIÓNICA]: Si un oponente recibe daño de esta habilidad, recibirá un indirecto por quemadura del “10% [*0.1]” por fuego psiónico.
+
+ACLARACIONES:
+  Posee dos usos por ronda.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – PROYECCIÓN DE DOLOR
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  La usuaria controla las emociones de su oponente, haciéndole sufrir un gran dolor. Efecto: Genera un daño mental de “PSI*1.35” y produce un indirecto mental relacionado a dolor equivalente al “10% [*0.1]” del daño recibido durante 3 acciones.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – CHOQUE MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  La usuaria colapsa la mente de su oponente, aturdiéndolo de forma directa. Efecto: Aturde hasta a dos oponentes durante 3 acciones.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – ESCUDO MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental — Defensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  La usuaria es capaz de crear un escudo mental capaz de proteger ante la entrada de oponentes de gran categoría. Efecto: Genera un escudo mental degradable con una resistencia de “PSI*1.35”. Mientras el objetivo de esta habilidad permanezca con el escudo activo, no podrá verse afectado por habilidades mentales carentes de daño salvo se le supere en VOLUNTAD al creador del escudo. [DOMINIO]: Por cada 2 VOL poseídos, el valor del escudo mental degradable aumenta en un “25% [*1.25]” acumulable.
+
+ACLARACIONES:
+  - No pueden acumularse escudos mentales. Debe haber sido degradado hasta 0 el vigente para poder reemplazarlo con uno nuevo. - En caso de querer ser aplicado sobre un aliado, requiere Concentración sobre este. - Puede ser utilizado en respuesta incluso ante aliados.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – ADVERTENCIA PSÍQUICA
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  La usuaria es capaz de transferir la información que su mente se encuentra procesando, para que así también lo hagan sus aliados. Efecto: La usuaria advierte de la ubicación de oponentes ocultos que sus aliados no perciban, pero él sí hasta la finalización del próximo turno propio del aliado. La detección se mantiene compartida durante 3 acciones.
+
+ACLARACIONES:
+  - Afecta a todos los aliados bajo Concentración.
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – VUELO CINÉTICO
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: Propio
+
+
+1 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  La usuaria controla las fuerzas que le rodean, elevando su posición en el aire. Efecto: Brinda posición voladora hasta por 3 turnos propios. Mientras se mantiene activa su velocidad pasa a ser la de 100/500 KM/H. La velocidad otorgada por esta habilidad reemplaza a la de la usuaria. En caso de que la usuaria haya evadido y consumido VELOCIDAD, se le RESTAN las casillas a la velocidad otorgada, siendo esa la cantidad real que se posee mientras esta habilidad se encuentre activa.
+
+ACLARACIONES:
+  Una vez finaliza deberá mantenerse un turno propio en tierra.
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – RAYO PSIÓNICO
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 5
+
+
+Coste: 1 PA
+
+
+Tier 3
+
+EFECTO VISUAL:
+  La usuaria manifiesta su energía psiónica en tonalidades rosáceas, impactando contra su oponente y provocando un fuerte daño físico. Efecto: Causa daño energético de “EN*1.65” y empuja 4 casillas. En caso de existir colisión el oponente no podrá reaccionar a la próxima habilidad de la usuaria.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – ESCUDO TELEQUINÉTICO
+================================================================================
+
+100 EXP
+
+
+Energética — Defensiva (Defensa Externa)
+
+
+Alcance: Propio
+
+
+Coste: 1 PA
+
+
+Tier 3
+
+EFECTO VISUAL:
+  La usuaria es capaz de crear un escudo energético frente a sí, defendiéndose de los ataques oponentes con facilidad. Efecto: Genera una defensa de “EN*1.65” ante habilidades con proyección física. Es posible crear hasta a dos Escudos Telequinéticos en simultáneo, protegiendo a otro aliado en cuestión.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – LANZAMIENTO TELEQUINÉTICO
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 5, área 1
+
+
+Coste: 1 PA
+
+
+Tier 3
+
+EFECTO VISUAL:
+  La usuaria rodea de energía psiónica un objeto de considerable tamaño y lo lanza hacia su oponente, dirigiéndolo a grandes velocidades. Efecto: Causa daño físico de “EN*1.45” y provoca un aturdimiento de 1 acción. Requiere de 4 REF para poder evadirse.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO II                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – ASALTO TELEPÁTICO
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria ilumina sus ojos como demostración de un gran poder, colapsando la mente de su rival de forma súbita como si de un asalto directo se tratase. Efecto: Produce daño mental de “PSI*1.85” y aturde durante 3 acciones. Esta habilidad ignora cualquier tipo de reducción, defensa o inmunidad mental (no por forma de vida).
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – SANACIÓN TRAUMÁTICA
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  La usuaria rebusca en la mente de sus aliados, sanando sus traumas. Efecto: Sana “PSI*1.45” de VITALIDAD perdida por daños mentales, además de eliminar todo control de masa o alteración producido por habilidades mentales.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – HORA DE DORMIR
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria proyecta un fuerte orden emocional sobre las mentes de sus oponentes, obligándolos a dormirse de forma abrupta. Efecto: Duerme a todos los oponentes bajo Concentración por 3 acciones. En caso de que decidan usar el comando “Despertar” el primer uso del mismo no hará efecto, pero podrán reutilizarlo. – Es considerado factor oculto. Deberán mantener el consumo del primer uso.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – INVISIBILIDAD TELEPÁTICA
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+No clasificada
+
+EFECTO VISUAL:
+  La usuaria se vuelve invisible ante una o varias personas, alterando su capacidad perceptiva para pasar desapercibido incluso estando enfrente del objetivo. Efecto: Vuelve invisible a la usuaria o a un aliado durante “2 + VOL” acciones. No puede ser objetivo de habilidades con alcance directo mientras permanezca con esta habilidad activa y tampoco podrá ser detectado por métodos que no sean mentales, místicos o especifiquen poder burlar invisibilidades de naturaleza mental. En caso de que la usuaria ejecute un ataque directo de naturaleza no mental con esta habilidad activa, el ataque en cuestión pasara a requerir “REF 4” para reaccionar, pero culminará automáticamente con esta habilidad, desactivándose.
+
+ACLARACIONES:
+  Una vez finaliza su duración no podrá reutilizarla durante dos turnos propios.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – EXTRACCIÓN DE INFORMACIÓN
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+No clasificada
+
+EFECTO VISUAL:
+  La usuaria es capaz de realizar una lectura mental profunda en la mente de su oponente, obteniendo toda la información que desee. Efecto: El objetivo de esta habilidad deberá responder una pregunta de la usuaria con la verdad absoluta, siendo lo que puede preguntarse aspectos como VITALIDAD restante, debilidades específicas, duración de una transformación, etc. Además, durante 2 turnos propios el afectado estará obligado a indicar cualquier posible efecto oculto en sus habilidades, así como interacciones especiales ante reacciones. Únicamente podrá preguntar cosas sistemáticas. En caso de que la usuaria salga victoriosa de un combate, puede hacer uso de esta habilidad para adquirir conocimientos interpretativos del oponente derrotado en caso de no tener protecciones – Un uso cada 24 horas.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – SECUELAS MENTALES
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria embiste la mente de su oponente, provocándole serios daños. Efecto: Provoca aturdimiento durante 4 acciones.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – CONTROL MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria se introduce en la mente de su oponente, dominándola. Efecto: La usuaria toma control del oponente, obteniendo control de su próximas “6” seis acciones. Mientras esta habilidad permanezca, la usuaria puede realizar los siguientes comandos. [CONTROL DE ACCIÓN]: La usuaria puede obligar al oponente a consumir sus PUNTOS DE ACCIÓN en habilidades ofensivas o suplementarias dirigidas hacia el usuario o los aliados del afectado. La usuaria puede obligar al oponente a atacarse a sí mismo, pudiendo este reaccionar mediante el comando “RESISTIR” a cada sugestión. [CONTROL DE MOVIMIENTO]: La usuaria puede obligar al oponente a consumir sus puntos de MOVIMIENTO/VELOCIDAD durante la ronda, desplazándose a donde este le indique. Este uso no consume Puntos de Acción de la usuaria. [MENTE DOMINADA]: Mientras el oponente se mantenga bajo control mental (es decir, hasta que la usuaria dé por finalizado el turno propio de control) el oponente perderá “-2 VOL” de cara a cualquier habilidad que reciba y recibirá un “10% [*1.10]” más de daño.
+
+ACLARACIONES:
+  - No afecta a oponentes que superen en VOLUNTAD a la usuaria. - Un uso cada tres (3) rondas por rival afectado. - Debe resistirse. Por cada 2 puntos de VOL que la usuaria tenga de diferencia con el objetivo, aumenta el coste del comando básico “Resistir” en +1 PA.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – OLVIDO
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria manipula la memoria de su oponente, forzándolo a borrar recuerdos importantes sobre sus propias capacidades. Efecto: El oponente afectado no podrá utilizar “VOL” habilidades seleccionadas por la usuaria durante “VOL” turnos. Una vez finaliza, no es posible aplicarla sobre el mismo objetivo durante las próximas dos rondas.
+
+ACLARACIONES:
+  No pueden olvidarse comandos básicos ni más de una defensa.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – MANIPULACIÓN DE LA PERCEPCIÓN
+================================================================================
+
+100 EXP
+
+
+Mental — Defensiva (Anulación)
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria manipula la percepción de su oponente, haciéndole creer que le ha atacado cuando en realidad ha fallado. Efecto: Anula una habilidad con proyección física realizada por un oponente.
+
+ACLARACIONES:
+  Solamente consume 1 PA si la habilidad a anular es de TIER 3/2, consumiendo 1 PA adicional por cada TIER superior.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – LIBERACIÓN PSIÓNICA
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: Área 3 sobre la usuaria
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria desata toda la capacidad de su mente, materializando ondas de energía psiónica capaz de afectar a la mente de sus oponentes físicamente. Efecto: Provoca daño mental de “PSI*2.25” y un indirecto por quemadura del “10% [*0.10]” del daño recibido durante 4 acciones a todos los oponentes que estén en el área afectada. No es posible de defender por defensas internas.
+
+ACLARACIONES:
+  Se proyecta de forma física.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – LLAMARADA PSIÓNICA
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: Cónico 3
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria alarga sus manos, proyectando una “llamarada” de energía psiónica que consume las mentes de sus oponentes. Efecto: Provoca daño mental de “PSI*2.25” y aturde durante 2 acciones. No es posible de defender por defensas internas.
+
+ACLARACIONES:
+  Se proyecta de forma física.
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – EMBATES PSIÓNICOS
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 5
+
+
+Coste: Variable
+
+
+Variable
+
+EFECTO VISUAL:
+  La usuaria manifiesta su energía psiónica, golpeando sin cesar a sus oponentes con fuertes proyecciones de fuerza sobre sus cuerpos. Efecto: Genera daño energético en “dos oportunidades” según las condiciones: .
+
+ACLARACIONES:
+  Se reaccionan por separado.
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – RETENCIÓN PSIÓNICA
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 5
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  La usuaria controla la energía psiónica que rodea a su oponente, paralizándolo. Efecto: Paraliza durante 3 acciones a un oponente.
+
+ACLARACIONES:
+  Se reaccionan por separado.
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – AZOTE PSIÓNICO
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 7
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria arroja a su oponente contra un elemento del terreno. Efecto: Genera daño físico en un oponente afectado por “Retención Psiónica” o bien que no posea capacidad para desplazarse por encontrarse bajo un estado negativo, debiendo desplazarlo a cualquier casilla al alcance de la habilidad. Al momento de chocar, recibirá un daño de “EN*2” y quedará aturdido durante 2 acciones. En caso de estar bajo “Retención Psiónica” las acciones que restan de la parálisis pasan a ser de aturdimiento como beneficio.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – CAMPO DE ENERGÍA
+================================================================================
+
+100 EXP
+
+
+Energética — Defensiva (Defensa Externa)
+
+
+Alcance: Área 1 sobre la usuaria
+
+
+Coste: Variable
+
+
+Variable
+
+EFECTO VISUAL:
+  La usuaria crea un poderoso campo energético a su alrededor. Efecto: Genera una defensa de valor variable a su alrededor: En caso de no ser derribada con el primer impacto se mantendrá durante una acción más con su resistencia en totalidad.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – RECUBRIMIENTO PSIÓNICO
+================================================================================
+
+100 EXP
+
+
+Energética — Suplementaria
+
+
+Alcance: Propio
+
+
+Coste: 1 PA
+
+
+No clasificada
+
+EFECTO VISUAL:
+  La usuaria recubre su cuerpo de energía psiónica, aumentando parcialmente sus capacidades gracias al potencial de su telequinesis omega. Efecto: La usuaria suma “EN*0.25” a sus atributos de FUERZA y DEFENSA PASIVA durante “VOL” turnos propios, interactuando con escalados que lo requieran. Mientras esta habilidad permanezca activa, la usuaria se verá inmune a cualquier tipo de efecto por contacto. A términos sistemáticos, la defensa pasiva de la usuaria mientras esta habilidad permanezca activa se considera de clase “SOBREHUM. +” y la fuerza de “TIER 3”.
+
+ACLARACIONES:
+  Tras finalizar, debe pasar un turno propio para volver a ser utilizado.
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS] – ROMPECUERPOS
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 5
+
+
+Coste: 2 PA
+
+
+Tier 2
+
+EFECTO VISUAL:
+  La usuaria concentra cantidades de energía psiónica sobre una extremidad a elección del oponente, presionándola lo suficiente para dislocarla. Efecto: Provoca daño energético de “EN*1.75” e inhabilita una extremidad a elección por el usuario durante las próximas 5 acciones.
+
+ACLARACIONES:
+  - No puede evadirse ni tampoco defenderse mediante defensas internas. Resistible sólo en caso de poseer una FUERZA superior a las 40 TON.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                   RANGO III                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – POTENCIACIÓN GENÉTICA
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria libera todos los inhibidores psíquicos de sus aliados, potenciando sus habilidades hasta puntos notablemente superiores. Efecto: Utilizado junto a un ataque realizado por un aliado aumenta su daño final en un “25% [*1.25]”. En caso de poseer tan sólo duración en acciones se sumarán +2.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – INHIBIDOR PSÍQUICO
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria se introduce en la mente de su oponente, plantando inhibidores que le aíslan de poder hacer uso de sus poderes. Efecto: Impide hacer uso durante “2 + VOL acciones” de habilidades relacionadas al poder. Esto elimina también cualquier beneficio pasivo activo que posea.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – DESPERTAR PSIÓNICO
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 3 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  La usuaria expande su conciencia de forma brutal, creando ondas psíquicas incontrolables a su alrededor mientras destruye la mente de su oponente. Efecto: Provoca daño mental de “PSI*3.15” y un indirecto por quemadura del “10% [*0.10]” del daño recibido durante 4 acciones al oponente. Ignora cualquier tipo de inmunidad o resistencia mental. En caso de ser afectado caerá en Muerte Cerebral durante 3 acciones. No es posible inmunizarse a los efectos de la Muerte Cerebral, y no pueden ser reducidos por reducciones comunes. Se considera que causa los mismos efectos que un aturdimiento.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – SACRIFICIO MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental – Defensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 3 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  La usuaria aísla las mentes de todos sus aliados de las capacidades telepáticas de sus oponentes, siendo capaz de recibir por ellos cualquier ataque. Efecto: Convierte a la usuaria en la única combatiente de su bando en poder ser afectada por habilidades de carácter mental (específicamente telepatías o daños mentales directos) durante las próximas “VOL*2” acciones. Mientras se mantiene como cebo, la usuaria adquiere una defensa mental de “PSI*5”, la cual permanecerá de forma degradable hasta la finalización del efecto. Siempre y cuando no se rompa la defensa no se podrá ser víctima de controles de masa de la misma naturaleza.
+
+ACLARACIONES:
+  Puede ser utilizada en respuesta.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA Y TELEQUINESIS: AVE ÍGNEA] – AVE ÍGNEA
+================================================================================
+
+100 EXP
+
+
+Mental – Ofensiva
+
+
+Alcance: Propio
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria es capaz de manifestar su energía psíquica en forma de una gran ave de fuego, la cual azotará con sus garras a todos los oponentes que ella desee. Efecto: Crea un Ave Ígnea en el combate. El Ave Ígnea posee una resistencia igual a “PSI*1.65” y puede ser seleccionada como objetivo. No posee comandos básicos, pero por cada turno general que transcurra de combate el Ave Ígnea realiza un ataque sobre “un oponente (1)” generando un daño de “PSI*1.15” que no puede ser defendido por defensas internas. El Ave Ígnea posee dos comandos únicos que pueden ser utilizados según la usuaria: [EXPLOSIÓN DEL FÉNIX]: El Ave Ígnea se sacrifica a sí misma, generando una explosión psíonica que consume todo lo que le rodea. Afecta en área 2 desde donde elija la usuaria, y causará un daño de “PSI*1.55” que no puede ser defendido por defensas internas. – 1 PA. [SACRIFICIO DEL FÉNIX]: El Ave Ígnea se sacrifica para proteger a su creadora. Reduce a “0” cualquier ataque que fuese a recibir la usuaria de TIER inferior a 1. – 1 PA.
+
+ACLARACIONES:
+  Una vez el Ave Ígnea desaparece no es posible invocarla hasta pasadas 2 rondas.
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – GARRAS PSIÓNICAS
+================================================================================
+
+100 EXP
+
+
+Energética — Suplementaria
+
+
+Alcance: Propio
+
+
+Coste: 2 PA
+
+
+TIER II
+
+EFECTO VISUAL:
+  La usuaria es capaz de copiar el talento básico de los Lupus Sapiens, cubriendo sus manos de unas largas garras psiónicas capaz de dañar la mente de sus rivales. Efecto: Genera un arma cuyo valor equivale a “ARMA MEDIANA TIER 2” y permanece durante “VOL” turnos propios. Esta arma puede usarse en habilidades pertenecientes al perfil Armas de Filo, el cual es habilitado mientras la usuaria se mantenga con esta habilidad activa. El daño que se provoque (es decir, que reciba el oponente) a través de Garras Psiónicas se considera como daño mental, por lo que adquiere las respectivas propiedades.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – CHOQUE PSIÓNICO
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: Cónico 4
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria manifiesta su energía psiónica, haciendo violar con fuerza a todos los oponentes que se encuentren al alcance. Efecto: Genera un daño energético de “EN*2.45” en el área indicada y expulsa a los oponentes afectados 4 casillas atrás. Una vez caen, de chocar contra un obstáculo, quedarán aturdidos por 3 acciones, y en caso de simplemente retroceder, quedarán derribados.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – CONTENCIÓN PSIÓNICA
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 5
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria manifiesta su energía psiónica en forma de ataduras apegadas al suelo con el fin de impedir el movimiento de grandes bestias. Efecto: Inmoviliza durante 5 acciones a un oponente.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – DESMANTELAR ARMAS
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 4
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria manifiesta su energía psiónica sobre las armas de sus oponentes, dejándolas inutilizables. Efecto: Desmantela (inutiliza) una parafernalia por el resto de combate sin importar su material (a excepción de parafernalias categorizadas como místicas). Permite desmantelar más parafernalias, por una adicional aumenta el coste en +1 PA. Únicamente anticipable o anulable.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – FRENADO EN SECO
+================================================================================
+
+100 EXP
+
+
+Energética — Defensiva (Anulación)
+
+
+Alcance: 5
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria manifiesta su energía psiónica alrededor de su oponente, conteniendo por completo su movimiento en caso de pretender atacarla. Efecto: Anula una acción realizada por el oponente (de carácter ofensivo) y genera una acción de interferencia.
+
+ACLARACIONES:
+  Un uso cada dos rondas.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO IV                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – MANIPULACIÓN DE MEMORIAS
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: Variable
+
+
+Coste: Variable
+
+
+TIER Variable
+
+EFECTO VISUAL:
+  El usuario se concentra en la mente de su enemigo, modificando los recuerdos a su antojo, pudiendo lograr en cuestión de segundos que para él su vida haya ocurrido de una manera completamente diferente. Efecto: El usuario recibe acceso al siguiente compendio de efectos: [AMNESIA RETRÓGRADA]: El usuario manipula la mente del oponente, para que este sea incapaz de recordar que el combate ha sucedido, aplicándolo como efecto post-combate. – FDC. Tier No catalogado. Un uso cada 24 horas. [AMNESIA ANTERÓGRADA]: El usuario trastoca las experiencias vividas por su enemigo, suprimiendo determinados recuerdos como si arrancara páginas de un libro. El enemigo no puede hacer uso de sus compras de la Tienda de Experiencia durante los próximos 3 días. – FDC. Tier II. Un uso 7 días. [AMNESIA GLOBAL]: El usuario elimina por completo la vida de su enemigo, dejando su mente como un lienzo en blanco. El enemigo deja de pertenecer a su sede durante los próximos 3 días, considerándose durante ese tiempo solitario. Además, no podrá acceder a la mejora “Fraternidad” durante este mismo lapso de tiempo. Interpretativamente se considera que no recuerda a nada o nadie de su vida. – FDC. Tier I. Un uso cada 7 días. [AMNESIA GLOBAL TRANSITORIA]: El oponente olvida cuál es su bando, debiendo atacar a quien más cerca esté de él durante las próximas “VOL” acciones. – Alcance “CONCENTRACIÓN”. Tier III. 1 PA. Resistible. [FUGA DISOCIATIVA]: El enemigo se olvidó de porque estaba en primer lugar en el combate, por lo que simplemente se ve expulsado de este. – Alcance “CONCENTRACIÓN”. Un uso cada 48 horas. Tier I. 4 PA. Resistible, un uso cada 3 rondas en caso de fallar. [CREACIÓN DE RECUERDOS]: El usuario pasa a considerarse aliado de quien utiliza esta pasiva durante 96 horas. No podrá atacar de ninguna manera al usuario de este poder, ya sea vía RPG o D&D. – FDC. Tier II. Un uso cada 7 días.
+
+ACLARACIONES:
+  - Cualquiera de los efectos aquí desarrollados pueden ser eliminados únicamente por Telépatas Omega o superiores. En caso de los efectos Fuera de Combate basta con un roleo de diez diálogos. - El TR comienza a comenzar al terminar los efectos, incluso cuando son curados.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA: AVE ÍGNEA] – DESCONEXIÓN MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 4 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  La usuaria desconecta la mente de su enemigo, dejándolo inconsciente de ipso facto. Efecto: Permite a la usuaria finalizar y declararse vencedora de un combate, siempre y cuando supere en VOL a su oponente. No genera estados sobre su enemigo, y le brinda diez minutos de inmunidad para poder irse de mapa.
+
+ACLARACIONES:
+  - Un uso cada 15 días. - Solo puede ser empleado durante las primeras tres rondas. - No puede se puede utilizar si en el bando del enemigo hay más de un oponente.
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – REESTRUCTURACIÓN MOLECULAR
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: FDC
+
+
+Coste: FDC
+
+
+TIER I
+
+  Efecto Visual: El usuario es capaz de controlar los átomos y las estructuras moleculares al punto que puede recomponer su propio cuerpo. Efecto: El usuario puede revivir a otros usuarios reestructurando sus cuerpos: [USUARIOS CON FISIONOMÍAS HUMANAS]: El usuario es capaz de restaurar cadáveres de nuevo a la vida, haciendo que sus organismos recuperen su normal funcionamiento a pesar de la complejidad. – Un uso cada 15 días. Dos veces por usuario. [USUARIOS CON FISIONOMÍAS “INERTES”]: El usuario es capaz de recomponer aquellos personajes que están compuestos por elementos diferentes a la carne y a los órganos, como pueden ser por ejemplo el Diamante Orgánico, Rocas, gaseosos, u otros elementos/materiales similares. Esta recuperación resulta mucho más sencilla debido a que no son tan complejos como el cuerpo humano. – Un uso cada 7 días. Una vez por usuario. [CUERPOS DESINTEGRADOS]: El usuario es capaz de reconstituir un cuerpo que haya sido completamente desintegrado, recuperándolo átomo por átomo, y volviendo a reubicar la materia reconvertida en el proceso de desintegración. – Un uso cada 30 días. Una vez por usuario.
+ACLARACIONES:
+  - En caso de revivir a usuarios que hayan perdido alguna de sus extremidades, estos vuelven con su cuerpo reconstituido por completo, como si nada les hubiera sucedido cuando murieron. - Los TRs de las habilidades son independientes. - Como máximo puede revivir personajes cuya muerte se haya posteado 48 horas antes.
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – HURACÁN TELEQUINÉTICO
+================================================================================
+
+100 EXP
+
+
+Energética —Defensiva (Anticipación)
+
+
+Alcance: 10
+
+
+Coste: 2 PA
+
+
+TIER II
+
+  Efecto Visual: El usuario completamente versado en las artes telequinéticas es capaz de tan sólo con elevar su dedo producir torbellinos de objetos telequinéticos, movilizando todo lo que se encuentre al rededor Efecto: El usuario puede movilizar todos los objetos que existan en un área 10 alrededor de él, afectando de forma directa al rival. Esta habilidad posee un daño base, sólo por el hecho de ser golpeado por la energía telequinética según el rango es de EN*2.0 Además, en caso de que haya objetos en el área estos potenciarán pasivamente el daño de forma física: [DOS FURNIS] El ataque aumenta +15% [*1.15]. [CINCO FURNIS] El ataque aumenta +25% [*1.25]. Afecta en Área 1 sobre el objetivo. – 1 PA adicional. [OCHO FURNIS] El ataque aumenta +50% [*1.5]. Afecta en Área 3 sobre el objetivo. – 2 PA adicional. En caso de caer bajo esta habilidad se provocará una herida adicional.
+ACLARACIONES:
+  - Afecta a aliados y oponentes indistintamente. - No cuentan furnis que representen edificios o el pavimento. - Requiere que hayan pasado 2 rondas para volver a utilizarse.
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – CÚPULA TELEQUINÉTICA
+================================================================================
+
+100 EXP
+
+
+Energética — Defensiva (Defensa Externa)
+
+
+Alcance: Área 3
+
+
+Coste: 3 PA
+
+
+TIER I
+
+  Efecto Visual: El usuario crea una cúpula en base a la energía psiónica, capaz de defensar gran cantidad de ataques. Efecto: El usuario crea un constructo que protege EN*4. Adicionalmente, se considera defensa degradable, que protege de todas aquellas habilidades que tengan proyección física. Reduce en un 50% [*0.50] ataques con armas de dureza inferior al Adamantium.
+ACLARACIONES:
+  - Se puede atacar de dentro a fuera de la cúpula y viceversa.
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS: AVE ÍGNEA] – DESMEMBRAMIENTO
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: Área 3
+
+
+Coste: 3 PA
+
+
+TIER I
+
+  Efecto Visual: El usuario es capaz de desgarrar por completo el cuerpo de sus oponentes mediante el uso de su telequinesis. Efecto: Posee los siguientes usos: [USO 1 - CUERPO]: El usuario puede utilizar este uso en caso de matar a otro personaje vía RPG o Rolz. De esta manera el cuerpo del afectado quedará separado por la mitad, imposibilitando las resurrecciones que requieran el cuerpo entero. - 30 días TR/CD [USO 2 - EXTREMIDAD]: El usuario, al derrotar a un personaje vía RPG, es capaz de amputar una extremidad mediante su telequinesis de hasta resistencia SOBREHUM.+. - 30 días TR/CD
+ACLARACIONES:
+
+================================================================================
+

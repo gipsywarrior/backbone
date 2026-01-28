@@ -1,0 +1,496 @@
+
+████████████████████████████████████████████████████████████████████████████████
+                   Posesión Mágica Brujería de Batalla   Ogun                   
+████████████████████████████████████████████████████████████████████████████████
+
+
+
+--------------------------------------------------------------------------------
+                              HABILIDADES BÁSICAS                               
+--------------------------------------------------------------------------------
+
+
+================================================================================
+ENTRENAMIENTO ORIENTAL
+================================================================================
+  Física — Pasiva
+
+EFECTO VISUAL:
+  Te has entrenado en casi todas las artes marciales y te has aventurado a crear la tuya propia. Eres increíblemente ágil y letal. Efecto: El usuario accede a los siguientes atributos: [FUERZA DE LÍMITE HUMANO]: La fuerza del usuario se corresponde con la cúspide de los límites humanos. [VITALIDAD DE LÍMITE HUMANO]: El usuario tiene un aguante considerablemente alto. [VELOCIDAD DE LÍMITE HUMANO]: Posee la misma celeridad que un atleta olímpico. [DEFENSA PASIVA – LÍMITE HUMANO]: Su cuerpo le dota de una resistencia efectiva. [CUERPO CURTIDO]: El usuario reduce en un “10% [*0.1]” el daño de índole física, energética y elemental. Reduce en 1 acción la duración de hemorragias y quemaduras. [3 REFLEJOS]: La capacidad de reacción del usuario le vuelve ágil en combate.
+
+ACLARACIONES:
+  Los atributos de esta pasiva reemplazan los básicos.
+
+================================================================================
+
+
+================================================================================
+GUERRERO LEGENDARIO
+================================================================================
+  Física — Pasiva
+
+EFECTO VISUAL:
+  El usuario ha vivido durante eones, y tras largas épocas de gloria y honor, ha sabido adiestrarse en el arte de la batalla. Efecto: El usuario ocupa sus huecos de perfil en los perfiles Combatiente Bruto, Combatiente Ágil, Armas de Filo, Armas Arrojadizas, Armas Contundentes, Armas de Fuego y Líder. [COMBINACIÓN MARCIAL]: El usuario puede utilizar este comando a fin de emplear dos habilidades de un mismo perfil contra un oponente, reduciendo el coste total de PA en -1. La segunda habilidad ve su daño reducido en un “25% [*0.75]”. Anular o anticipar la primera habilidad no afectará a la segunda. Un uso cada 3 turnos propios. [NATURALEZA BÉLICA]: El usuario puede unirse a un combate ignorando cualquier requisito a excepción de huecos y contando con que éste no se considere cerrado. Esta unión no puede ser rechazada bajo ningún método. Adicionalmente, el usuario puede optar por formar un tercer bando al que no podrá acceder ningún otro jugador salvo sea considerado su pupilo. Un uso cada 72 horas. [TÁCTICA DE COMBATE]: El usuario puede modificar el orden de los miembros en su bando una vez por ronda. Posee una cantidad de “2+RANGO” usos por combate. [LACERANTE]: El “25% [*0.25]” del daño causado por el usuario mediante habilidades de armas de filo, armas arrojadizas o cuerpo a cuerpo no puede ser sanado. [PUNTERÍA]: El usuario puede objetivar dos usuarios a la vez siempre que utilice habilidades basadas en armas arrojadizas. [AMBIDESTREZA]: El usuario puede equipar dos armas en simultáneo siempre y cuando cada una ocupe una mano. Al hacerlo debe designar un arma principal y un arma secundaria. El arma principal actuará bajo sus propiedades naturales, mientras que el arma secundaria aportará únicamente el “50% [*0.5]” de su valor sin ningún otro efecto añadido y sin poder utilizar habilidades propias que otorgase. [INSTINTO DEL GUERRERO]: Puede usar este comando junto a una habilidad defensiva, considerándose que posee 4 REF para reaccionar a la habilidad ofensiva. – Un uso por ronda, no consume PA.
+
+ACLARACIONES:
+  “Lacerante” no aplica a regeneraciones de TIER 1 o superior.
+
+================================================================================
+
+
+================================================================================
+TEMPLE DE ACERO
+================================================================================
+  Mental/Mística — Pasiva
+
+EFECTO VISUAL:
+  “Soy un guerrero. No he conocido nada más. No lucho por un país. No lucho por honor. No lucho por amor. Lucho por mí mismo…” Efecto: El usuario accede a las siguientes características: [AUSENCIA DE MIEDO]: El usuario es inmune a habilidades basadas en miedo efectuadas por oponentes de 4 VOL o superior. [VOLUNTAD INDOMABLE]: La fuerza de voluntad que el usuario ha desarrollado tras una larga vida de entrenamiento es la prueba de que podrá anteponerse a cualquier adversidad. [3 VOL] [SOLITARIO]: El usuario pasa a poder beneficiarse de todas las mejoras del Sistema de Solitarios indiferentemente de su rango. Adicionalmente, ve los costes de la tienda reducidos en -1 divisa de bronce, sin poder anular el precio por completo. [MENTE CAÓTICA]: Un oponente concentrado en la mente del usuario solo puede permanecer dentro de esta durante 5 turnos generales. Se considera que jugadores que ostenten telepatía de clase maestra o superior ignoran esta pasiva. [POR MI MISMO]: Siempre que el usuario se encuentre combatiendo en solitario bajo concepto de inferioridad numérica, pasa a tener un turno después de cada oponente.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+CONOCIMIENTO ESOTÉRICO
+================================================================================
+  Mística — Pasiva
+
+EFECTO VISUAL:
+  A lo largo del tiempo el usuario se ha versado en ciertas áreas del arte místico, así como ha obtenido de forma primitiva un uso especial de la magia para sus propósitos. Efecto: El usuario obtiene acceso a todas las habilidades de índole mística del documento y pasa a gozar de las siguientes características: [PODER MÁGICO]: Aunque no sea un hechicero experimentado, se le considera capaz de emplear habilidades mágicas con una noción básica. Obtiene el perfil Místico. [SEXTO SENTIDO]: El usuario detecta la posición de cualquier jugador en combate que se encuentre oculto por medios místicos o bien se halle en el plano astral.
+
+ACLARACIONES:
+  En principio, se considera que el jugador no puede optar por ningún tomo del perfil místico, sin embargo puede aspirar a obtener uno por otros medios.
+
+================================================================================
+
+
+================================================================================
+OGUN
+================================================================================
+  Mística — Pasiva
+
+EFECTO VISUAL:
+  Hace tiempo que el usuario dejó de ser una persona. En su lugar, un espíritu se adueñó de su mente y alma, haciéndole creer algo que no era, pero terminó siendo. Efecto: El usuario pasa a beneficiarse de las siguientes características. [ESPÍRITU MALIGNO]: Bajo la premisa de esta habilidad, el usuario se ve obligado a pertenecer al eje de alineamiento “Malvado”. Este parámetro no puede ser ignorado bajo ningún método. En lugar de morir, el usuario pasa a asumir la forma espectral de Ogun. Una vez en este estado, se considera que el jugador se vuelve intangible, por lo que en combate se le contempla como inmune a habilidades de proyección física, salvo que sean de carácter místico o mental. Adicionalmente, no puede ser retado o atacado fuera de combate salvo que le detecten jugadores místicos, telépatas de clase maestra o superior, consciencias cósmicas o personajes con 5 REF o más. Bajo este concepto, el usuario sólo puede emplear habilidades místicas, mentales o aquellas estipuladas dentro de esta pasiva. [PLANO ESPIRITUAL]: Dentro del plano espiritual, el usuario adquiere la potestad de entrar a cualquier combate mediante el comando “Irrumpir”, ignorando cualquier requisito de unión y sin ocupar hueco. Bajo esta premisa, la unión no puede ser denegada por habilidades que no se consideren de índole mística.
+
+ACLARACIONES:
+  - Bajo la forma espectral, el usuario conserva sus STAT originales. - La posesión de un usuario debe contemplarse en el tópico de Heridas, Muertes y Sucesos. - Una vez dada la posesión completa de un jugador, no es posible acceder a sus documentos de poder bajo ninguna premisa.
+
+================================================================================
+
+
+================================================================================
+MÁSCARA DEL ONI
+================================================================================
+
+Parafernalia — Accesorio (Cabeza)
+
+EFECTO VISUAL:
+  La máscara demoníaca, además de ocultar la identidad de aquel que la porta, sirve para cargar con la esencia de Ogun. Efecto: El usuario obtiene una identidad oculta. No es posible asociar las acciones realizadas durante la identidad oculta al aspecto habitual del usuario sin la máscara. Si el usuario es derrotado dos veces en combate por la misma persona en un plazo de 15 días, se le puede retirar la máscara y averiguar su verdadera identidad. Este efecto debe indicarse en el tópico de Heridas, Muertes y Sucesos tras ser derrotado. Además, cuenta con la siguiente característica. [ALIENTO DEL ONI]: La máscara exhala un denso humo blanco con propiedades somníferas. Empleando este comando, el usuario puede afectar a un usuario en su alcance 1 para producir el estado inconsciente durante 1 acción. El oponente requerirá 3 REF para poder reaccionar a este gas. Un uso cada 6 turnos propios.
+
+ACLARACIONES:
+  - La máscara puede portarse fuera de combate con el comando “[M]” en la misión. - La máscara, en caso de ser destruida, permanece 7 días sin poder ser utilizada a menos que se indique lo contrario. Dado el caso de que el usuario muera sin la máscara, no podrá beneficiarse de la pasiva “Ogun”.
+
+================================================================================
+
+
+================================================================================
+KATANA ANCESTRAL
+================================================================================
+
+Parafernalia — Arma de Filo
+
+EFECTO VISUAL:
+  Se trata de una antiquísima katana forjada por herreros místicos, imbuida de magias antiguas. Efecto: El usuario accede a una espada de escalados “ARMA MEDIANA TIER 3”. [FILO ENCANTADO]: Las habilidades realizadas a través de esta parafernalia pasan a ser híbridas con el tipo místico. Además, permite defender a través de defensas físicas habilidades que se consideren daño al alma. [INFLUENCIA]: Siempre que un oponente reciba daño a través de esta espada, suma una carga de hipnosis.
+
+ACLARACIONES:
+  Ocupa una mano.
+
+================================================================================
+
+
+================================================================================
+SHURIKEN
+================================================================================
+
+Parafernalia — Arma Arrojadiza
+
+
+Alcance 10
+
+EFECTO VISUAL:
+  Estrellas metálicas punzantes utilizadas a la distancia. Efecto: El usuario posee unidades ilimitadas de este artefacto, escalado de “ARMA CORTA TIER 3”. Produce una hemorragia del “10% [*0.1]” del daño causado durante 3 acciones. [VENENO LETAL]: Es posible utilizar este comando junto con una habilidad ofensiva para producir un daño indirecto adicional bajo concepto de veneno equivalente al “50% [*0.5]” del valor de esta parafernalia durante 2 acciones. En caso de que el oponente reciba, genera una carga de veneno (CV). +1 PA a la habilidad utilizada. [1 CV]: Una vez cada cinco acciones del oponente (la quinta), este colapsa y se ve inmovilizado durante una acción. [2 CV]: La inmovilización pasa a producirse cada tres acciones (la tercera). Un oponente elimina una carga de veneno pasadas cinco acciones efectuadas por el mismo.
+
+ACLARACIONES:
+  No consume hueco de manos. En su lugar, consume hueco de accesorio, por lo que puede utilizarse en simultáneo con otras armas.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO I                                     
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[TELEPATÍA MODERADA] – CONCENTRACIÓN
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva/Suplementaria
+
+
+Alcance “2*VOLUNTAD”
+
+
+“MENTES” PA
+
+
+Tier 3
+
+EFECTO VISUAL:
+  El usuario activa sus poderes psíquicos, concentrándose en la mente de uno o varios objetivos en específico para poder hacer uso de habilidades mentales. Efecto: Permite hacer uso de habilidades pertenecientes al documento que tengan índole mental sobre objetivos que se encuentren bajo concentración. En caso de que el usuario esté concentrado en más mentes que “VOL”, verá reducidos los efectos de sus habilidades en un “25% [*0.75]” y en “-VOL acciones” de forma general. Los siguientes escenarios anularán de manera automática esta habilidad. Recibir un daño superior a “15*VOL%” de su vitalidad máxima. Recibir un control de masa que impida el turno del usuario. No aplican inmovilizaciones ni tampoco parálisis.
+
+ACLARACIONES:
+  - Esta habilidad no puede ser reaccionada bajo métodos ordinarios salvo la reacción en cuestión especifique poder ser utilizada para esta habilidad. - Esta habilidad puede utilizarse también sobre aliados, considerándose suplementaria. - En caso de que el usuario pierda la concentración, deberá volver a ejecutarla en turno propio, gastando los puntos de acción correspondientes. - Concentración se mantiene, aunque los objetivos se salgan posteriormente del alcance, pero las habilidades mentales requerirán del alcance de la habilidad para ejecutarse.
+
+================================================================================
+
+
+================================================================================
+[CONCENTRACIÓN] – LECTURA MENTAL
+================================================================================
+  Mental — Pasiva
+
+EFECTO VISUAL:
+  El usuario se desplaza ágilmente hacia su oponente, desplegando un zarpazo de su arma tan hábil como letal. Efecto: El usuario detecta a todo aquel jugador sobre el que se esté concentrando y se oculte mediante métodos ordinarios. Esta detección no aplica si la ocultación del objetivo tiene aclaraciones contrarias a la de esta pasiva.
+
+ACLARACIONES:
+  Requiere poseer “Concentración” activa. Adicionalmente, se considera una intrusión mental.
+
+================================================================================
+
+
+================================================================================
+CORTE SOMBRÍO
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance 1
+
+
+1 PA
+
+
+Tier 3
+
+EFECTO VISUAL:
+  El usuario se desplaza ágilmente hacia su oponente, desplegando un zarpazo de su arma tan hábil como letal. Efecto: Produce un daño de “ARMA*1.6” al oponente y produce un indirecto del “10% [*0.1]” durante 3 acciones. Ignora el “50% [*0.5]” de las defensas internas utilizadas en respuesta. [APUÑALAR POR LA ESPALDA]: Este comando puede utilizarse en conjunto a la habilidad para atacar a otro usuario fuera de combate, requiriendo 4 REF para reaccionar al “50% [*0.5]” del daño total y efectos. Un uso cada 12 horas.
+
+ACLARACIONES:
+  Requiere utilizar un arma de filo.
+
+================================================================================
+
+
+================================================================================
+INTERPONER FILO
+================================================================================
+
+100 EXP
+
+
+Física — Defensiva
+
+
+Alcance propio
+
+
+1 PA
+
+
+Tier 3
+
+EFECTO VISUAL:
+  El usuario defiende con su arma cualquier ataque dirigido hacia él con una velocidad pasmosa. Efecto: Genera una defensa interna de “ARMA*1.7” ante habilidades de proyección física. Adicionalmente, ante habilidades de contacto sin armas, devuelve un daño irreaccionable correspondiente al “25% [*0.25]” del valor de la defensa.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+KEMURIDAMA
+================================================================================
+
+100 EXP
+
+
+Fisca — Suplementaria
+
+
+Área 5
+
+
+2 PA
+
+
+Tier 3
+
+EFECTO VISUAL:
+  El usuario lanza una bomba de humo que explota para ocultarlo. Efecto: Oculta la posición del bando aliado dentro del área. Esta ocultación se produce únicamente en función a la vista y el olfato. Tiene una duración de 5 acciones. La primer habilidad ofensiva realizada dentro de la ocultación tiene un requisito de 3 REF para evadir.
+
+ACLARACIONES:
+  - Realizar una habilidad ofensiva anula la ocultación para todo el bando aliado. - Posee una reutilización de 2 turnos propios tras su finalización.
+
+================================================================================
+
+
+================================================================================
+INFLUENCIA
+================================================================================
+
+100 EXP
+
+
+Mística/Mental — Ofensiva
+
+
+Alcance 5
+
+
+Variable
+
+
+Tier 3
+
+EFECTO VISUAL:
+  El usuario impone su voluntad para influenciar a su oponente y obligarlo a cumplir con cualquiera de sus órdenes. Efecto: Consume una (1) carga hipnótica para provocar uno de los siguientes efectos. [DETENTE]: Genera el estado inmóvil durante las próximas 3 acciones. 1 PA [ATEMORIZADO]: Causa que el oponente no pueda atacar al bando aliado durante su próximas dos acciones propias. 2 PA [OBEDECE]: Anula una habilidad ofensiva realizada por el oponente. 2 PA El usuario puede consumir cargas hipnóticas adicionales para potenciar los efectos de sus influencias. Debe escoger entre una de las siguientes opciones. [DURACIÓN]: Por cada 2 cargas hipnóticas invertidas, aumenta en +1 acciones la duración de “Detente” y “Atemorizado”. Máximo +2. [DIFICULTAD]: Por cada 2 cargas hipnóticas invertidas, aumenta en +1 el requisito de “VOL” para poder reaccionar los efectos de esta habilidad. Máximo 3 VOL.
+
+ACLARACIONES:
+  Únicamente resistible.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO II                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+CONTROL MENTAL
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance “CONCENTRACIÓN”
+
+
+3 PA
+
+
+Tier 3
+
+EFECTO VISUAL:
+  El usuario controla mentalmente el cuerpo de un oponente. Efecto: Otorga control del cuerpo del oponente durante los próximos dos turnos. Durante la duración del control, accede a los siguientes comandos: [DETENTE]: Interrumpe una acción del rival ya sea suplementaria u ofensiva. Se utiliza en respuesta y es considerada inefectiva de cara a reacciones. [CONTROL DE MOVIMIENTO]: Desplaza al oponente a una casilla a elección siempre y cuando se corresponda con su velocidad disponible. [CONTROL DE ACCIÓN]: Obliga al oponente a realizar una acción. En caso de ser ofensiva, puede hacer que ataque a otro miembro del bando del afectado. Esta habilidad cuenta con un TR/CD de 5 turnos propios tras su finalización. Adicionalmente, se considera que cada comando tiene un uso.
+
+ACLARACIONES:
+  - Requiere que el oponente esté bajo “Concentración”. No afecta a oponentes que superen en “VOL” al ejecutor de esta habilidad. - Los comandos deben ser utilizados durante el turno del afectado. - Acabar voluntariamente con el control inicia su enfriamiento de inmediato. - No es posible obligar al oponente a no defenderse o infligirse daño a sí mismo. - El afectado consume sus propios puntos de acción en las ordenes, no el usuario.
+
+================================================================================
+
+
+================================================================================
+CORTE ILUSORIO
+================================================================================
+
+200 EXP
+
+
+Física — Ofensiva
+
+
+Alcance 1
+
+
+2 PA
+
+
+Tier 2
+
+EFECTO VISUAL:
+  El usuario realiza un corte aparentemente débil, engañando a sus rivales por completo. Justo cuando estos se despistan, arrasas con una ofensiva letal. Efecto: Produce un daño de “ARMA*1.3”. [EFECTO OCULTO]: El primer daño se considera falso. Luego de que el oponente reaccione, se procede a dar el daño verdadero en función a “ARMA*2.3*, el cual no puede ser reaccionado. En caso de evadir el primer daño, no se provoca el efecto oculto. De reaccionarse con una defensa, se resta al daño verdadero.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+HIKARIDAMA
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Área 3
+
+
+2 PA
+
+
+Tier 3
+
+EFECTO VISUAL:
+  El usuario lanza una bomba lumínica para enceguecer a sus oponentes. Efecto: Produce ceguera durante 5 acciones a todos los oponentes que estén dentro del área. [HUIDA]: El usuario escapa de combate en caso de estar a 8 o más casillas lejos de los oponentes. En caso de que posean alguna detección sobre el usuario, es necesario salir del alcance que tenga la detección para poder huir. Un uso cada 72 horas.
+
+ACLARACIONES:
+  Requiere utilizar un arma de filo.
+
+================================================================================
+
+
+================================================================================
+SECUESTRO ASTRAL
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance 1
+
+
+FDC
+
+
+Tier 3
+
+EFECTO VISUAL:
+  El usuario golpea el pecho de su oponente, arrancando su forma astral y retándolo a un combate extraplanar. Efecto: Junto con una habilidad ofensiva, el usuario puede hacer uso de este comando para comenzar una pelea en el plano astral. De esta forma, ningún jugador podrá unirse al combate salvo que sean místicos que superen en PM al usuario. Esta habilidad no funciona para con místicos de “TIER 2” para arriba ni telépatas de escala “maestra” o superior.
+
+ACLARACIONES:
+  - No es posible reaccionar al secuestro astral. - Se considera que ambos usuarios conservan sus habilidades con normalidad. - Tanto el usuario como el oponente ven limitadas sus acciones fuera del plano astral. - El usuario puede finalizar el combate astral, devolviendo a ambos usuarios a sus cuerpos.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                   RANGO III                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+CORTE CERCENADOR
+================================================================================
+
+200 EXP
+
+
+Física — Ofensiva
+
+
+Alcance 1
+
+
+3 PA
+
+
+Tier 2
+
+EFECTO VISUAL:
+  El usuario traza un corte directo a alguna zona vital del cuerpo. Efecto: Genera un daño físico de “ARMA*3" a un único oponente. En caso de generar un “50% [*0.5]” del daño original, provoca la amputación de una extremidad a elección del usuario. En caso de amputar, inflige un indirecto de hemorragia equivalente al “10% [*0.1]” del daño causado durante cada acción por el resto del combate. De derrotar a un jugador mediante esta habilidad, resta un estado adicional. Tras derrotar a un oponente con esta habilidad, el usuario puede escoger que la mutilación sea permanente. Una vez cada 31 días.
+
+ACLARACIONES:
+  No es posible inhabilitar más de una extremidad a través de esta habilidad.
+
+================================================================================
+
+
+================================================================================
+ALTERACIÓN DE LEALTADES
+================================================================================
+
+200 EXP
+
+
+Mental/Mística — Ofensiva
+
+
+Alcance 5
+
+
+3 PA
+
+
+Tier 2
+
+EFECTO VISUAL:
+  El usuario altera la mente y percepción del aliado, aprovechando su gran influencia sobre el campo de batalla. Efecto: Consumiendo 10 cargas hipnóticas, objetiva a un oponente para que todos sus ataques pasen a afectar a sus aliados. Se interpreta que el oponente va hacia ellos para atacar y luego vuelve, indiferentemente de su velocidad. Si los aliados del oponente se encuentran en una posición en la que el oponente no los pueda alcanzar en ese momento (voladora, alzada, etcétera), no se verán afectados. Los efectos de esta habilidad tienen una duración de “RANGO+1” acciones.
+
+ACLARACIONES:
+  Un único uso por combate, no es reaccionable. No afecta a usuarios que le superen en voluntad.
+
+================================================================================
+
+
+================================================================================
+UNA SIMPLE ILUSIÓN
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance 1
+
+
+FDC
+
+
+Tier 3
+
+EFECTO VISUAL:
+  Todo fue una ilusión. Tan solo luchaban contra algo que creían que eras tú. Efecto: Tras finalizar un combate, el usuario puede utilizar esta habilidad para anular todos los efectos que hubiese recibido en combate. Un uso cada 96 horas.
+
+ACLARACIONES:
+  No afecta a usuarios que le superen en voluntad.
+
+================================================================================
+
+
+================================================================================
+MAESTRO Y APRENDIZ
+================================================================================
+
+Interacción
+
+EFECTO:
+  El usuario acoge bajo su tutela a otro jugador que considere digno. Este pasa a gozar de los siguientes beneficios: El usuario puede unirse a combates del aprendiz y viceversa. Ignoran todos los requisitos y pasan a compartir hueco. Mientras ambos luchen juntos, obtienen +1 VOL. Los daños y defensas de ambos aumentan en un “10% [*1.1]” si luchan juntos. El maestro pude intercambiar su turno con el del aprendiz al entrar en combate. Por cada tres combates que hayan ganado juntos, el maestro puede enseñarle una habilidad o parafernalia de este documento a su aprendiz designado. El vínculo de Maestro y Aprendiz solo puede romperse de una forma. De así desearlo, ambos jugadores pueden batirse en un combate a muerte que resultará en el deceso del personaje perdedor. Si el maestro es vencedor, puede buscar otro aprendiz pasados los 30 días. Por el contrario, si gana el aprendiz, éste debe abandonar de forma obligatoria cualquier documento de poder que posea (a excepción de parafernalias y fisionomías) para pasar a considerarse el nuevo portador del espíritu de Ogun, accediendo al material.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+

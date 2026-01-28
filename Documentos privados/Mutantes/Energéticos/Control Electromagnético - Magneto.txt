@@ -1,0 +1,1001 @@
+
+████████████████████████████████████████████████████████████████████████████████
+                       Control Electromagnético   Magneto                       
+████████████████████████████████████████████████████████████████████████████████
+
+
+
+--------------------------------------------------------------------------------
+                              HABILIDADES BÁSICAS                               
+--------------------------------------------------------------------------------
+
+
+================================================================================
+FÍSICO ENTRENADO
+================================================================================
+  Física — Pasiva
+
+EFECTO VISUAL:
+  Tu estado físico corresponde a la de un adulto que mantiene un entrenamiento regular. Esto te permite poder enfrentarte incluso sin recurrir a tus poderes principales. Efecto: Adquieres los siguientes beneficios. [VITALIDAD – HUM. ENTRENADO]: Posees una durabilidad superior a la media gracias a tu entrenamiento físico. [FUERZA – HUM. ENTRENADO]: Tu musculatura te permite cargar tu propio peso al igual que realizar impactos cuerpo a cuerpo con el potencial de un boxeador. [VELOCIDAD – HUM. ENTRENADO]: Tu entrenamiento te otorga el estado físico digno de un atleta de alto rendimiento. [CAPACIDAD REACTIVA]: Posees una capacidad reactiva ligeramente superior al promedio humano. [2 REF]. [ENTRENAMIENTO CUERPO A CUERPO]: Además del fortalecimiento de cuerpo, también posees entrenamiento en el combate mano a mano. Obtienes el Perfil Combatiente Ágil.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+LÍDER SUPREMO DE LA RAZA MUTANTE
+================================================================================
+  Habilidad Pasiva
+
+EFECTO VISUAL:
+  “¡Todo lo que exijo es temor y obediencia ciega!… ¡Porque Yo soy Magneto! ¡El más poderoso de todos los mutantes!” Efecto: Obtienes el Perfil Líder junto con los siguientes beneficios. [VOLUNTAD INDOMABLE]: Su voluntad no puede ser corrompida por trucos o manipulaciones de baja categoría [4 VOL]. [MONARCA MUTANTE]: El usuario podrá realizar una orden sin consumo de PA en cada ronda la cual debe ser aplicada de manera obligatoria sobre un aliado de la raza mutante. Adicionalmente, todas las habilidades del Perfil Líder obtienen una reducción en su coste de -1 PA (Mínimo 1 PA). [SUPREMACÍA AUTORITARIA – LÍDER INDISCUTIBLE]: El usuario solo podrá formar parte de una agrupación siempre y cuando ostente el cargo de “Líder”. Adicionalmente, su agrupación se verá sujeta a las siguientes directrices y beneficios. [HERMANDAD DE MUTANTES]: Los miembros de la agrupación deben pertenecer a la raza mutante de manera obligatoria. Será posible tener aliados solitarios de cualquier raza. [POR MIS HERMANOS]: Lo miembros de la agrupación del usuario podrán usar los comandos “IRRUMPIR” y “LLAMADO DE AYUDA” entre sí ignorando todos los requisitos de estos. [MÁXIMA OBEDIENCIA]: Los miembros de la agrupación deberán cumplir a cabalidad cualquier orden dictada por el usuario. Si algún miembro de la agrupación se niega tajantemente a acatar una orden, el usuario y el resto de miembros podrán retarlo o atacarlo fuera de combate produciéndole los estados que deseen. (En este combate, el miembro desobediente se considera un enemigo por lo que otorgará beneficios y requisitos de combate a pesar de compartir agrupación) [“¡MUTANTES Y ORGULLOSOS!”]: El usuario puede añadir esta frase durante una acción conjunta en un evento o escena de Rolz D&D otorgando un bonificar de +3 al resultado final de la misma. Solo puede ser usado en acciones conjuntas en las que todos los participantes sean de la raza mutante. (Este aumento no se acumula con ningún otro, reemplazando a bonificadores menores o siendo reemplazado por bonificadores mayores). [NADIE PODRÁ DETENERNOS]: Los requisitos de ascenso de agrupación obtienen las siguientes reducciones. Los días mínimos de antigüedad se ven reducidos en -5/-10/-15 días para los rangos I/II/III respectivamente. Las misiones requeridas se ven reducidas en un 50% [*0.50] (Redondeado al alza) [NO PERMITIRÉ QUE SALGAN HERIDOS]: El usuario puede adjuntar este comando junto al comando Irrumpir siempre que lo haga sobre un miembro de su agrupación produciendo uno (1) de los siguientes efectos. Ambos usos poseen un tiempo de reutilización compartido de 24 HRS. [INICIO DE RONDA]: Otorga 1 turno de interferencia instantáneo en caso de usarlo al inicio de una ronda en donde todos los combatientes posean la totalidad de sus PA. El turno siguiente al del usuario debe ser cedido a un enemigo de cara a respetar la intercalación de turnos. A partir de la siguiente ronda se ordenarán los turnos de manera convencional. [RONDA INICIADA]: Otorgará únicamente 1 acción ofensiva de interferencia en caso de usarlo en una ronda en la que cualquier combatiente enemigo haya gastado 1 PA o más.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+MAGNETOQUINESIS
+================================================================================
+  Energética — Pasiva
+
+EFECTO VISUAL:
+  Habilidad que permite controlar la energía electromagnética del universo. Esta tiene su máximo potencial dentro del planeta tierra gracias al espectro electromagnético que rodea al mismo. Efecto: Las habilidades de este documento se realizan a la velocidad del pensamiento, por lo que se considera que el usuario posee 6 REF al momento de usarlas. Adquieres los siguientes beneficios y directrices. [PROPIEDADES ELECTROMAGNÉTICAS]: Las habilidades basadas en control electromagnético pueden llegar a poseer una de las siguientes propiedades. [PROYECCIÓN ELECTROMAGNÉTICA]: Esta propiedad está presente en la materialización de la energía electromagnética en ondas visibles de energía o bien, en descargas eléctricas. En cualquier caso, estas poseerán la índole energética y sus cálculos harán uso del STAT “EN” bajo la escala de CONTROL EN. II. [MAGNETISMO]: Esta propiedad está presente en ciertas habilidades de este documento que por lo general no poseen proyección física. Este tipo de habilidades solo serán reaccionables mediante anticipaciones, anulaciones o el comando “RESISTIR”. [CONTROL SANGUÍNEO]: Los efectos de las habilidades marcadas con “CONTROL SANGUÍNEO” ignoran todo tipo de defensas pasivas, reducciones, inmunidades o cualquier interacción que no sea sobre la índole energética de manera explícita. De manera lógica, no afecta a individuos que no posean sangre. [SOBREESFUERZO FÍSICO]: Si bien se trata de una habilidad de un inmenso poder ofensivo clasificada dentro de la escala de amenazas “Omega”, esta implica un gran esfuerzo por parte de su usuario y generalmente produce las siguientes secuelas tras un uso prolongado. [INSUFICIENCIA FÍSICA]: Si el usuario se encuentra por debajo del 15% [*0.15] de su VITALIDAD MÁXIMA este perderá la capacidad de realizar las habilidades TIER I o superior de este documento, adicionalmente, las habilidades que si puede realizar sufren un aumento de +1 PA. Se considera que el usuario siempre posee esta desventaja en que caso de que luche estando HERIDO GRAVE o en un estado peor. [AFECCIÓN ENCEFÁLICA – DOLOR DE CABEZA]: Si el usuario pasa más de 20 rondas generales en un combate, este se verá afectado por severas jaquecas que dificultaran su desempeño. A partir de la ronda 21 el usuario perderá -1 PA al inicio de cada ronda de manera pasiva. [MAGNETIZACIÓN PREVENTIVA]: Te rodeas de un aura electromagnética de manera preventiva fuera de combate la cual produce los siguientes efectos. [DISRUPCIÓN Y REPULSIÓN MAGNÉTICA]: La primera habilidad basada en telequinesis o lanzamiento de proyectiles u objetos compuestos de cualquier aleación férrica se verá anulada de manera automática. Este efecto se repite una vez cada tras 3 rondas. [AISLAMIENTO DE PULSOS ELECTRO-CEREBRALES]: Otorga una reducción del 15% [*0.15] ante habilidades de índole mental. La primera habilidad de esta índole es anulada de manera automática (No incluye el comando “CONCENTRARSE”).
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+PERCEPCIÓN DEL ESPECTRO ELECTROMAGNÉTICO DE LA TIERRA
+================================================================================
+  Energética — Pasiva
+
+EFECTO VISUAL:
+  Tu mutación te permite establecer un vínculo con el espectro electromagnético de la tierra lo cual te otorga una capacidad de percepción de nivel global. Efecto: Adquieres los siguientes beneficios y directrices. [VÍNCULO MAGNÉTICO]: El usuario detecta la posición de todos los individuos tangibles o intangibles que se encuentren en el planeta tierra. En ningún caso ignora ocultaciones mentales o de la índole mística. [P.E.M - GLOBAL]: El usuario puede detectar si su base de operaciones está siendo observada o saboteada por cualquier tipo de artefacto o vehículo tecnológico pudiendo enviar un pulso electromagnético global que los deshabilite. Es posible usar este comando en respuesta a alguna habilidad aplicada a la sede del usuario basada en espionaje o sabotaje por medio de cualquier tipo de artefactos tecnológicos anulando los mismos.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[INTELECTO SUPERIOR] – GENIO GENETISTA E INGENIERO
+================================================================================
+  Energética — Pasiva
+
+EFECTO VISUAL:
+  Te clasificas como genio de la manipulación genética e ingeniería. Posees amplios conocimientos sobre la manipulación genética para la creación de seres vivos artificiales o clonados. Así mismo, te alzas sobre las grandes mentes en los campos de la robótica, el equipamiento tecnológico magnetizado, desarrollo de inteligencias artificiales sofisticadas, sistemas computacionales complejos e incluso estaciones espaciales. Efecto: Adquieres el Perfil Científico junto con los siguientes caminos de la ciencia. [TECNOLOGÍA] GADGETS | ROBÓTICA: Todas las legalizaciones de estos campos deben estar enfocadas en artefactos y unidades robóticas relacionadas con la manipulación electromagnética. [GENÉTICA] GÉNESIS: Permite la creación de ACOMPAÑANTES vivientes. El usuario puede recolectar el ADN de oponentes mutantes derrotados o de aliados mutantes voluntarios pudiendo asignar habilidades a su acompañante que estén relacionadas a la mutación del ADN extraído. [ESPECIAL] – CIENCIA COMPUTACIONAL: Será posible legalizar un único invento de esta rama el cual debe estar enfocado en una inteligencia artificial o sistema computarizado cuyo efecto esté orientado a modo de mejora de agrupación. [GENIO]: Posee un límite total de “8 legalizaciones”. Los usuarios en esta categoría podrán enviar una tanda de 2 Legalizaciones cada 30 días. NOTA: Adicionalmente al tiempo, se requiere poseer 2500 EXP acumulados por cada legalización a enviar, tal como se estipula en el documento de perfil.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO I                                     
+--------------------------------------------------------------------------------
+
+
+================================================================================
+RECUBRIMIENTO MAGNÉTICO
+================================================================================
+
+100 EXP
+
+
+Energética — Suplementaria
+
+
+Alcance: Propio
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Rodeas tu cuerpo con aura magnética amortiguante cuyas propiedades te permiten mantenerte consciente ante impactos producidos por oponentes de fuerzas incalculables. Efecto: Otorga la escala de “RESISTENCIA – SOBREHUMANA +” durante el resto del combate. Adicionalmente, otorga los siguientes beneficios. [REDUCCIÓN DE CONTUSIONES]: Otorga una reducción de “-1” acción a la duración del estado aturdido e inconsciente siempre que sea producido por habilidades con proyección física. (Sin posibilidad de reducir a “0”). [RANGO III]: A partir de este rango la reducción se extiende a “-2” acciones. [DESACELERACIÓN DE PROYECTILES]: Otorga una reducción del 50% [*0.50] al daño producido por proyectiles balísticos siempre que estén compuestos por alguna aleación férrica (metal, acero, etc.).
+
+ACLARACIONES:
+  Puede usarse en la ronda de preparación.
+
+================================================================================
+
+
+================================================================================
+VUELO MAGNÉTICO
+================================================================================
+
+100 EXP
+
+
+Energética — Suplementaria
+
+
+Alcance: Propio
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Anulas la gravedad a tu alrededor y se propulsas por medio de ondas magnéticas sin limitaciones. Pudiendo incluso salir de la atmósfera terrestre para surcar el espacio exterior. Efecto: Otorga la posición voladora durante 4 turnos propios junto a la escala de VELOCIDAD - 501/1200 KM/H. [PASIVA – VUELO INSTANTÁNEO]: Se considera que el usuario vuela instantáneamente en caso de ser necesario. Pudiendo alcanzar a oponentes en posición alzada o voladora con habilidades de cualquier alcance. No es necesario indicar el uso de esta habilidad ni de ningún comando para usar este beneficio. [VUELO ESTRATOSFÉRICO]: El usuario se eleva en el aire a alturas estratosféricas para realizar una retirada estratégica. Permite huir de un combate ignorando requisitos. Un uso cada 48 HRS. Consume 1 PA. [ACROBACIA AÉREA]: Es posible usar este comando si el vuelo se encuentra previamente activo para eludir una habilidad de Área 3 o inferior. Consume 1 PA.
+
+ACLARACIONES:
+  - Puede usarse en la ronda de preparación. - Puede usar se a modo de evasión permaneciendo en posición voladora.
+
+================================================================================
+
+
+================================================================================
+RETENCIÓN DE PROYECTILES
+================================================================================
+
+100 EXP
+
+
+Energética — Defensiva (Anulación)
+
+
+Alcance: Propio
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Desaceleras cualquier cantidad de proyectiles de manera instantánea dejándoles suspendidos en el aire. Efecto: Anula una habilidad basada en lanzamiento de armas, proyectiles balísticos o lanzamiento de objetos siempre que estos estén compuestos de alguna aleación férrica. Esta anulación beneficiará a todos los aliados dentro del Área 5 del usuario si es usada en respuesta a habilidades multiobjetivo o con alcance área. [REDIRECCIÓN]: Es posible usar este comando posteriormente para devolver la ofensiva replicando todos sus efectos sobre cualquier objetivo que desee. — Consume 1 PA adicional.
+
+ACLARACIONES:
+  - Esta habilidad puede usarse un máximo de tres (3) veces por ronda. - Cada repetición aumenta el coste de la misma en +1 PA.
+
+================================================================================
+
+
+================================================================================
+INTERPOSICIÓN DE PLACAS FÉRRICAS
+================================================================================
+
+100 EXP
+
+
+Energética/Física — Defensiva
+
+
+Alcance: Propio
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Manipulas el metal a tu alrededor interponiéndolo en la trayectoria de balas de bajo calibre o a modo de barrera ante una ofensiva enemiga Efecto: Al momento de usar esta habilidad debe seleccionar uno (1) de los siguientes efectos. [BARRERA METÁLICA]: Genera una defensa externa física de “EN*1.7”. [DESVIO DE PROYECTILES]: Anula una habilidad realizada a través de armamento de CALIBRE MEDIO o inferior. [MALEABILIDAD URBANA]: Aumenta el valor de la defensa a “EN*2.5” aumentado su costo a 2 PA — Requiere rango II o superior.
+
+ACLARACIONES:
+  Puede usarse dos veces por ronda.
+
+================================================================================
+
+
+================================================================================
+FUSILAMIENTO FÉRRICO
+================================================================================
+
+100 EXP
+
+
+Energética/Física — Ofensiva
+
+
+Alcance: 5
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Manipulas una moderada cantidad de esquirlas férricas arrojándolas a modo de metralla hacia un oponente. Efecto: Produce un daño físico de “EN*1.6” junto con un indirecto por hemorragia del 10% del daño durante 3 acciones.
+
+ACLARACIONES:
+  Puede usarse dos veces por ronda.
+
+================================================================================
+
+
+================================================================================
+DESENSAMBLAR
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 5
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Separas los componentes férricos de los que está compuesto el objetivo inhabilitándolo permanentemente. Efecto: Debe seleccionarse uno (1) de los siguientes efectos al momento de usar esta habilidad. [DESENSAMBLAJE DE OBJETOS]: Inhabilita una parafernalia tecnológica compuesta por varias partes férricas (armaduras, gadgets, armamento tecnológico, vehículos, etc.) [DESENSAMBLAJE DE INDIVIDUOS]: Derrota instantáneamente a un objetivo compuesto completamente de metal (individuos o acompañantes robóticos en general). No afecta a objetivos con una escala de VITALIDAD – BESTIA o superior. Este uso requiere RANGO II. Coste: 2 PA. TIER 2.
+
+ACLARACIONES:
+  - “DESENSAMBLAJE DE OBJETOS” es solo anticipable o anulable. - “DESENSANBLAJE DE INDIVIDUOS” pasa a tener las propiedades del MAGNETISMO.
+
+================================================================================
+
+
+================================================================================
+RAYO MAGNÉTICO
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 5
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Proyectas una onda electromagnética de alta densidad con la capacidad de producir daño sobre un adversario. Efecto: Produce un daño energético de “EN*1.65”. [PROYECCIÓN DOBLE]: Es posible afectar a dos objetivos con esta habilidad añadiendo este comando. Sin consumo de PA. Un uso por ronda.
+
+ACLARACIONES:
+  Puede usarse dos veces por ronda.
+
+================================================================================
+
+
+================================================================================
+DETONACIÓN MAGNÉTICA
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 5, Área 1 sobre el objetivo
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Sobrecarga el aire alrededor de un objetivo de un exceso de magnetismo que provoca un estallido. Efecto: Produce un daño energético de “EN*1.75” junto al estado desorientado durante 3 acciones. [PROYECCIÓN DOBLE]: Es posible afectar a dos objetivos con esta habilidad añadiendo este comando. Sin consumo de PA. Un uso por ronda.
+
+ACLARACIONES:
+  Puede usarse dos veces por ronda.
+
+================================================================================
+
+
+================================================================================
+PULSO P.E.M
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: Área 4
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Proyectas un pulso electromagnético que inutiliza los dispositivos tecnológicos de manera temporal. Efecto: Deshabilita parafernalias, vehículos, jugadores o acompañantes que se consideren artefactos tecnológicos o unidades robóticas durante 3 acciones. En el caso de jugadores y acompañantes, solo podrán reaccionar a esta habilidad mediante el comando “RESISTIR”.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+RETENCIÓN METÁLICA
+================================================================================
+
+100 EXP
+
+
+Energética/Física — Ofensiva
+
+
+Alcance: 5
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Manipulas varias piezas metálicas del entorno formando una especie de armadura retentiva para neutralizar un oponente Efecto: Produce el estado de parálisis durante 3 acciones. [REDIRECCIÓN]: Es posible usar este comando en caso de que la habilidad sea evadida repitiendo el efecto. — Sin consumo de PA. Un uso cada 2 rondas.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO II                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+MAGNETIZAR
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 5
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Rodeas a un objetivo de energía magnética con el fin de facilitar tus ofensivas. Efecto: No produce ningún efecto aparente. [FACTOR OCULTO]: Genera el estado magnetizado durante 3 rondas el cual permite la realización de otras habilidades. [ESTADO MAGNETIZADO]: Todos las parafernalias, vehículos y acompañantes que posea un oponente, así como el oponente en sí mismo, pasan a considerarse “férricos” de cara a los requisitos de uso de ciertas habilidades de este documento.
+
+ACLARACIONES:
+  - Posee las propiedades de “MAGNETISMO”. - Puede usarse 2 veces por ronda. El segundo uso consumirá 1 PA.
+
+================================================================================
+
+
+================================================================================
+EXPULSIÓN MAGNÉTICA
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 6
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Expulsa a un oponente varios metros en el aire levitándolo con energía electromagnética Efecto: Empuja un total de “RANGO*2” casillas y produce un daño físico por caída de “EN*1.6”. Este daño no podrá ser evadido salvo por teletransportaciones.
+
+ACLARACIONES:
+  - Posee las propiedades de “MAGNETISMO”. - Solo puede usarse sobre un oponente magnetizado. - Los oponentes que estén bajo los efectos de “RETENCIÓN METÁLICA” o posean alguna vestimenta compuesta de metal o que en sí mismo estén compuestos o recubiertos de metal podrán ser objetivo de esta habilidad sin necesidad de aplicar el estado magnetizado.
+
+================================================================================
+
+
+================================================================================
+ATRACCIÓN MAGNÉTICA
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 6
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Atrae a un oponente mediante energía electromagnética. Efecto: Atrae a un oponente dentro del alcance un total de “RANGO” casillas. [IMPACTO INEVITABLE]: Es posible usar esta habilidad junto a una habilidad ofensiva con proyección física provocando que la misma solo sea evadible mediante teletransportaciones.
+
+ACLARACIONES:
+  - Posee las propiedades de “MAGNETISMO”. - Solo puede usarse sobre un oponente magnetizado. - Los oponentes que estén bajo los efectos de “RETENCIÓN METÁLICA” o posean alguna vestimenta compuesta de metal o que en sí mismo estén compuestos o recubiertos de metal podrán ser objetivo de esta habilidad sin necesidad de aplicar el estado magnetizado.
+
+================================================================================
+
+
+================================================================================
+COMPRESIÓN MAGNÉTICA
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 6
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Ejerce una fuerte compresión sobre un oponente. Efecto: Produce un daño energético de “EN*2.15” junto al estado inmovilizado durante 4 acciones.
+
+ACLARACIONES:
+  - Posee las propiedades de “MAGNETISMO”. - Solo puede usarse sobre un oponente magnetizado. - Los oponentes que estén bajo los efectos de “RETENCIÓN METÁLICA” o posean alguna vestimenta compuesta de metal o que en sí mismo estén compuestos o recubiertos de metal podrán ser objetivo de esta habilidad sin necesidad de aplicar el estado magnetizado.
+
+================================================================================
+
+
+================================================================================
+[CONTROL SANGUÍNEO] – REVERTIR FLUJO SANGUÍNEO
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 6
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Reviertes la dirección del flujo sanguíneo produciendo severos daños internos. Efecto: Produce un daño energético de “EN*2.25” el cual ignora toda reducción o defensiva pasiva física. (No ignora reducciones explícitamente energéticas). Puede ser usado a modo de anticipación ante habilidades mentales aumentando el coste en +1 PA. La anticipación posee de un tiempo de reutilización de 2 turnos propios.
+
+ACLARACIONES:
+  - Posee las propiedades de “MAGNETISMO”.
+
+================================================================================
+
+
+================================================================================
+[CONTROL SANGUÍNEO] – CONTROL DEL FLUJO CEREBRAL
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 6
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Sobrecargas el cerebro del objetivo con un exceso de sangre produciendo el estado de inconsciencia. Efecto: Produce un daño energético de “EN*2” junto al estado inconsciente durante 3 acciones.
+
+ACLARACIONES:
+  - Posee las propiedades de “MAGNETISMO”.
+
+================================================================================
+
+
+================================================================================
+[ELECTROQUINESIS] – RAYO ELÉCTRICO
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 6
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Generas electricidad artificial mediante la modificación de la polaridad del espectro electromagnético. Efecto: Produce un daño energético de “EN*1.75” junto a un indirecto por quemadura del 10% del daño generado durante 3 acciones.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[ELECTROQUINESIS] – ELECTRIFICACIÓN MAGNÉTICA
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 6
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Manipulas el espectro electromagnético a tu alrededor modificando la polaridad del mismo para producir energía eléctrica magnetizante hacia tu objetivo. Efecto: Produce un daño de “EN*2.25” además del estado magnetizado sobre un oponente durante 3 rondas. Se requieren 4 REF para reaccionar a esta habilidad. Es posible afectar hasta a 2 objetivos de manera simultánea.
+
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+LANZAMIENTO DE ESTACAS METÁLICAS
+================================================================================
+
+100 EXP
+
+
+Energética/Física — Ofensiva
+
+
+Alcance: 6
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Moldeas el metal en el entorno formando estacas gigantes que posteriormente lanzas hacia un oponente. Efecto: Produce un daño físico de “EN*2.5” junto a un indirecto por hemorragia del 10% durante 4 acciones. Ignora un 50% [*0.50] de las defensas internas y pasivas sin armas realizadas por oponentes con una RESISTENCIA – SOBREHUMANA o inferior. [REDIRECCIÓN]: Es posible usar este comando en caso de que la habilidad sea evadida repitiendo los efectos sobre el objetivo. Consume 1 PA adicional.
+
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+APLASTAMIENTO TERRESTRE
+================================================================================
+
+100 EXP
+
+
+Energética/Física — Ofensiva
+
+
+Alcance: 6, Área 2 sobre el objetivo
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Manipulas las moléculas ferrosas de la tierra comprimiendo una porción de la misma para formar una roca de gran tamaño que luego lanzas sobre tus oponentes. Efecto: Produce un daño físico de “EN*2.35” sobre todos los objetivos en el área junto al estado de aturdimiento durante 3 acciones.
+
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+CONSTRICCIÓN FÉRRICA
+================================================================================
+
+100 EXP
+
+
+Energética/Física — Ofensiva
+
+
+Alcance: 6
+
+
+1 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Usas el metal a tu disposición a modo de soga metálica para sofocar al objetivo. Efecto: Produce un indirecto por asfixia del “5%” de la VITALIDAD MÁXIMA del objetivo durante 4 acciones. [APRETAR]: Es posible usar este comando posteriormente produciendo un daño físico no reaccionable de “EN*2” sobre el objetivo. Consume 2 PA. El comando se considera del TIER 2.
+
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+LANZAMIENTO MAGNÉTICO
+================================================================================
+
+100 EXP
+
+
+Energética/Física — Ofensiva
+
+
+Alcance: 6
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Permite arrojar objetos de gran tamaño cuya área abarque a varios adversarios. Efecto: Produce un daño físico según el tamaño de los objetos arrojados. [ARROJAMIENTO OPONENTE]: Puede emplearse para usar oponentes a modo de proyectiles manteniendo los escalados de daño según el tamaño del oponente.
+
+ACLARACIONES:
+  - Posee las propiedades de “MAGNETISMO”. - El furni se “consume”, por lo que no podrá usarse nuevamente. En caso de furnis de 3 casillas o más, tendrá un máximo de 2 usos.
+
+================================================================================
+
+
+================================================================================
+FORTALEZA URBANA
+================================================================================
+
+100 EXP
+
+
+Física — Defensiva (Externa)
+
+
+Alcance: 6
+
+
+Variable
+
+
+TIER Variable
+
+EFECTO VISUAL:
+  Permite interponer objetos metálicos urbanos para evitar daños. Efecto: Produce una defensa física externa según el tamaño de los objetos aplicados.
+
+ACLARACIONES:
+  - Posee las propiedades de “MAGNETISMO”. - El furni se “consume”, por lo que no podrá usarse nuevamente. En caso de Furnis de 3 casillas o más, tendrá un máximo de 2 usos.
+
+================================================================================
+
+
+================================================================================
+MARIONETIZACIÓN MAGNÉTICA
+================================================================================
+
+100 EXP
+
+
+Mística — Ofensiva
+
+
+Alcance: 4
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Ejerces control sobre un individuo compuesto de elementos metálicos o que porte un recubrimiento o armadura férrica. También te es posible controlar a aquellos individuos orgánicos con flujo sanguíneo Efecto: El usuario toma control del oponente durante el próximo turno propio del afectado. Mientras esta habilidad permanezca, el usuario puede realizar los siguientes comandos. [CONTROL DE ACCIÓN]: El usuario puede obligar al oponente a consumir sus PUNTOS DE ACCIÓN en habilidades ofensivas o suplementarias dirigidas hacia la usuaria o los aliados del afectado. En ningún momento puede obligar al afectado a atacarse a sí mismo, pero sí puede ordenarle desactivar habilidades activas en caso de poseerlas o de preferirlo, a pasar directamente turno sin accionar. [CONTROL DE MOVIMIENTO]: El usuario puede obligar al oponente a consumir sus puntos de MOVIMIENTO/VELOCIDAD durante la ronda, desplazándose a donde este le indique. Este uso no consume puntos de acción del usuario.
+
+ACLARACIONES:
+  - Posee las propiedades de “MAGNETISMO”. - Un uso cada dos rondas, contabilizando desde su finalización.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                   RANGO III                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+MAESTRÍA ELECTROMAGNÉTICA
+================================================================================
+  Energética — Pasiva
+
+EFECTO VISUAL:
+  Gracias a los continuos combates, logras dominar por completo tu mutación a un nivel de experticia máxima. Efecto: Alcanzado este rango y tras poseer 5.000 EXP acumulados, el usuario obtiene los siguientes beneficios. [VERSATILIDAD MÁXIMA]: El usuario puede usar hasta tres habilidades de este documento en una sola acción viendo reducido el costo de PA total en -2 PA. Cada habilidad debe ir a un objetivo distinto. Esta propiedad solo puede usarse una vez cada 3 rondas. (El coste mínimo siempre será 3 PA en caso de usar tres habilidades y de 2 PA en caso de usar dos). [PERCEPCIÓN DE LA ENERGÍA PSIÓNICA]: El usuario puede usar las anticipaciones de este documento que posean la propiedad de “MAGNETISMO” para reaccionar a habilidades mentales. [PRECISIÓN Y MANIPULACIÓN EXPERTA]: Desarrollas tal nivel de experticia en el manejo de tu mutación que tus habilidades de afección en área pasan a afectar de manera selectiva únicamente a tus oponentes o a quienes desees afectar. A modo de segunda evolución, se obtendrán los siguientes beneficios una vez se acumulen los 7.500 EXP. [PODER AL MÁXIMO]: Tras adquirir la suficiente experticia logras desarrollar un notable aumento de poder en tus proyecciones. El usuario adquiere la escala CONTROL EN. I. [INTERPOSICIÓN AUTOMÁTICA]: A modo de reflejo involuntario, el usuario interpone un objeto férrico de gran tamaño ante una ofensiva inminente con proyección física. El usuario realiza una defensa externa automática de “ENx1.75” ante la primera habilidad ofensiva de la que sea objetivo. En caso de que exista daño restante tras esta defensa, el usuario podrá reaccionar a este de manera adicional. [EXPERTICIA COMBATIVA]: El usuario puede usar una habilidad suplementaria del TIER 3 de este documento reduciendo su coste a 0 PA una vez por ronda.
+
+ACLARACIONES:
+  Solo será posible usar habilidades de TIER 2 o inferior en esta mecánica.
+
+================================================================================
+
+
+================================================================================
+PROYECCIÓN ELECTROMAGNÉTICA SOBRECARGADA
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: Área 3x7
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Proyectas una sobrecarga de energía magnética sobre tu objetivo. Efecto: Produce un daño energético de “EN*2.3”. Expulsa fuera del alcance produciendo el efecto desorientado durante 3 acciones en caso de haber colisión. [MAGNETISMO IMPARABLE – FACTOR OCULTO]: El efecto de empuje se producirá de igual forma incluso si el daño es defendido al completo mediante defensas internas.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+RÁFAGA MAGNÉTICA
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: Cónico 5
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Proyectas una estela cónica de magnetismo afectando a tu frente con una fuerza cinética devastadora. Efecto: Produce un daño energético de “EN*2.5”. Expulsa fuera del alcance generando un daño adicional de “EN” en caso de haber colisión. (Reemplaza al efecto sistemático de la colisión) [FACTOR OCULTO – POLOS EQUIVALENTES]: Las defensas internas realizadas mediante armamento metálico o por individuos de metal se anulan de manera automática al realizarlas ante esta habilidad.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+ENCARCELAMIENTO MAGNÉTICO
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 5, Área 2 sobre el objetivo
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Encierras a tus adversarios en una cúpula magnética prácticamente invisible. Efecto: Encierra a todos los objetivos en el alcance dentro de un aprisionamiento de resistencia “EN*2.25”. [OBSTRUCCIÓN]: Los oponentes dentro de la cúpula no podrán afectar ni desplazarse hacia el exterior hasta que esta sea destruida. Del mismo modo no será posible afectar a los oponentes atrapados salvo con habilidades con la propiedad de “MAGNETISMO” o con otras proyecciones electromagnéticas. [CONTENCIÓN DE LA ENERGÍA PSIÓNICA]: No es posible proyectar energía psiónica fuera de la cúpula, por lo que habilidades de índole mental tampoco podrán ser realizadas hacia fuera hasta destruirla.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+BARRERA ELECTROMAGNÉTICA
+================================================================================
+
+100 EXP
+
+
+Energética — Defensiva (Defensa Externa)
+
+
+Alcance: Propio
+
+
+Coste: 1 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Formas un escudo de magnetismo de gran resistencia con la capacidad de mitigar en gran medida los impactos físicos. Efecto: Genera una defensa externa de “EN*1.75”, la cual cubre todos los ángulos del usuario. [REPELER METALES]: Habilidades realizadas mediante armamento metálico, individuos compuestos de metal o en general cualquier medio férrico es reducido en un 50% “[*0.50]” antes de aplicar la resistencia. [MANTENER DEFENSA]: Es posible mantener el escudo como defensa no degradable, consumiendo el “PA original” invertido por cada acción ofensiva que desee mantener el escudo. [REGULAR POTENCIA]: Es posible reducir o aumentar la potencia del escudo tras renovar su duración mediante “MANTENER DEFENSA”, por ejemplo, es posible reducir la potencia del escudo a su versión de “1 PA” o aumentarla a su versión de “2 PA” consumiendo los PA correspondientes. [REFORZAR ESCUDO – I]: Permite aumentar el valor de la habilidad a “EN*2.5”. – Consume 1 PA adicional. [REFORZAR ESCUDO – II]: Permite aumentar el valor de la habilidad a “EN*3.25”. – Consume 2 PA adicionales. Requiere RANGO IV.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+RÁFAGA DE METRALLA FÉRRICA
+================================================================================
+
+100 EXP
+
+
+Energética/Física — Ofensiva
+
+
+Alcance: 5
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Manipulas una gran cantidad de fragmentos férricos de pequeño y mediano tamaño lanzándolos continuamente hacia tu objetivo. Efecto: Produce tres impactos físicos de “EN*1.6”, “EN*1.4” y “EN*1.25” a un objetivo junto a un indirecto por hemorragia del 10% del daño generado durante 4 acciones. Deben reaccionarse por separado. [DOBLE METRALLA]: Será posible afectar a dos objetivos con este combo. Aumenta el costo de PA de la habilidad en un 100% [*2]. Un uso cada 3 rondas.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+METEORO IMPROVISADO
+================================================================================
+
+100 EXP
+
+
+Energética/Física — Ofensiva
+
+
+Alcance: 6, Área 4 sobre el objetivo
+
+
+4 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  El usuario puede percibir la posición de aeronaves comerciales e incluso de satélites en la órbita terrestres para usarlos a modo de meteoros improvisados. Efecto: Produce un daño físico de “EN*3.25” junto al estado de aturdimiento durante 4 acciones.
+
+ACLARACIONES:
+  - Un uso cada 3 rondas. - Es posible interpretar el lanzamiento de cualquier aeronave o satélite y en general cualquier objeto férrico con la capacidad de volar. Siendo esto meramente interpretativo, pues no se posee ninguna condición tangible que restrinja el uso de esta habilidad.
+
+================================================================================
+
+
+================================================================================
+LÁTIGOS FÉRRICOS
+================================================================================
+
+100 EXP
+
+
+Energética/Física — Ofensiva
+
+
+Alcance: 6
+
+
+3 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Moldeas una gran cantidad de látigos férricos con el metal a tu alrededor apresando a un objetivo Efecto: Produce el estado de parálisis durante 5 acciones. Se requiere poseer un mínimo de 5 REF o VELOCIDAD – MACH 1 para poder reaccionar a esta habilidad. No será posible usar el comando “LIBERAR” por oponentes con una escala de FUERZA – 50 TON o inferior.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CONTROL SANGUÍNEO] – SOLIDIFICACIÓN DEL FLUJO SANGUÍNEO
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 6
+
+
+3 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Manipulas el hierro del flujo sanguíneo solidificando el mismo de manera temporal. Efecto: Produce el estado de parálisis durante 5 acciones.
+
+ACLARACIONES:
+  - Posee las propiedades de “MAGNETISMO”. - Un uso cada dos rondas, contabilizando desde su finalización.
+
+================================================================================
+
+
+================================================================================
+HIPER-REPULSIÓN ELECTROMAGNÉTICA
+================================================================================
+
+100 EXP
+
+
+Energética — Ofensiva
+
+
+Alcance: 6
+
+
+3 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Manipulas el hierro del flujo sanguíneo solidificando el mismo de manera temporal. Efecto: Se debe escoger uno (1) de los siguientes efectos al momento de usar esta habilidad. [EMPUJE HORIZONTAL]: Expulsa al oponente un total de “RANGO*4” casillas produciendo un daño físico de “EN*3” junto al estado de aturdimiento durante 4 acciones. En caso de colisionar con otro jugador, ambos recibirán los efectos de daño. Puede ser usado a modo de anticipación una vez cada 3 rondas. [FUERA DE LA ORBITRA TERRESTRE]: Expulsa a un adversario del combate. En caso de recibir este queda perdido en el vacío espacial obteniendo el estado de coma durante 7 días tras finalizar el combate. Oponentes inmunes al vacío espacial ignoran este estado siendo expulsados del combate únicamente. Un uso efectivo cada 7 días.
+
+ACLARACIONES:
+  - Posee las propiedades de “MAGNETISMO”. - El daño por colisión no posee la propiedad del magnetismo sin embargo no podrá ser evadido salvo por habilidades de teletransportación.
+
+================================================================================
+

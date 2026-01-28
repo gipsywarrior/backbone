@@ -1,0 +1,683 @@
+
+████████████████████████████████████████████████████████████████████████████████
+            Habilidades Arácnidas   Camino del Héroe (Peter Parker)             
+████████████████████████████████████████████████████████████████████████████████
+
+
+
+--------------------------------------------------------------------------------
+                              HABILIDADES BÁSICAS                               
+--------------------------------------------------------------------------------
+
+
+================================================================================
+FISIONOMÍA ARÁCNIDA
+================================================================================
+  Habilidad Pasiva
+
+EFECTO VISUAL:
+  Tras ser picado por un espécimen arácnido radioactivo, el usuario ha adquirido una serie de poderes y potenciadores físicos que le permiten superar los límites humanos en múltiples aspectos. Efecto: El usuario adquiere las siguientes características y STAT: [VITALIDAD SOBREHUMANA]: El usuario es capaz de recibir múltiples impactos físicos de gran fuerza en su cráneo sin perder la consciencia. [RESISTENCIA SOBREHUMANA]: El usuario puede caer de grandes alturas, soportar golpes criaturas monstruosas e incluso sobre esforzar sus músculos hasta desgarrarlos sin dejar de combatir. [FUERZA – 10 TON]: El usuario es capaz de agrietar un muro de ladrillos con un puño limpio, al igual que derribar puertas de acero reforzado de una patada obteniendo una escala de FUERZA de 10 TON. [VELOCIDAD SOBREHUMANA]: Tus capacidades físicas superan a los mejores atletas de alto rendimiento. [PERCEPCIÓN ARÁCNIDA]: El usuario tiene una capacidad de reacción superior al límite humano. [4 REF]. [VOLUNTAD DE UN HÉROE]: Posee una voluntad inquebrantable [3 VOL]. [REGENERACIÓN – TIER 3]: Puede curar en días y horas heridas que un humano común tardaría semanas, además puede regenerar lentamente algunos órganos vitales dañados. Se clasifica como TIER 3, reduce en un “40% [*0.6]”” la duración de máxima y mínima de heridas.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+PERCEPCIÓN ARÁCNIDA – “SPIDER SENSE”
+================================================================================
+  Física — Pasiva
+
+  Efecto Visual: El usuario ha desarrollado una hipersensibilidad que, similar a la capacidad de reacción de una araña, le permite sentir el peligro a su alrededor a manera de “alerta” mental. Efecto: El usuario puede reaccionar a habilidades con requisitos de hasta “5 REF”. El primer uso cada ronda no consumirá PA, usos posteriores consumirán “1 PA”. [SPIDER SENSE]: El usuario puede usar el comando *Spider Sense junto a una reacción frente a una habilidad con un requisito de 6 REF viendo el coste de su reacción aumentado en “1 PA”. Un uso por ronda. [FUERA DE COMBATE – “ERES COMO YO…”]: Se activa automáticamente si otro usuario con “Habilidades Arácnidas” se encuentra dentro del área 2 del usuario, por lo que se tendrá conocimiento de que esta persona posee dichas habilidades (En ningún momento anula o descubre identidades secretas). Hacer uso de esta propiedad acercándose adrede a un usuario en específico para tratar de perjudicarlo de algún modo será severamente sancionado
+ACLARACIONES:
+  - Ninguno de estos efectos aplica para habilidades que ignoren el sentido arácnido.
+
+================================================================================
+
+
+================================================================================
+VÍNCULO ARÁCNIDO – “CAMINO DEL HÉROE”
+================================================================================
+  Física — Pasiva
+
+EFECTO VISUAL:
+  El usuario posee un fuerte vínculo con otro individuo con habilidades similares al haber sido mordidos por el mismo espécimen arácnido. Efecto: El usuario posee un fuerte vínculo con el poseedor del Camino de la Novia (Cindy Moon) por el hecho de haber sido mordidos por el mismo espécimen arácnido radioactivo, por lo que ambos usuarios se ven sujetos a las siguientes directrices. [DESEO IRRESISTIBLE]: En caso de permanecer más de dos (2) turnos a Alcance 1 del poseedor del Camino de la Novia (Cindy Moon) ambos pasan a estar bajo el Estado Enamorado simultáneamente durante 3 acciones, ignorando las mecánicas del Sistema de Voluntad. En caso de encontrarse en el mismo bando, estos no podrán realizar habilidades ofensivas sobre ningún oponente hasta que el estado finalice ya que estarán muy ocupados haciendo otras “actividades”, así mismo, la primer habilidad ofensiva dirigida contra ellos anulará este estado en caso de que no haya finalizado
+
+ACLARACIONES:
+  - Estos beneficios no son efectivos frente a habilidades que ignoren el Sentido Arácnido.
+
+================================================================================
+
+
+================================================================================
+COMBATIENTE ARÁCNIDO – ARTES MARCIALES
+================================================================================
+  Física — Pasiva
+
+EFECTO VISUAL:
+  El usuario posee una gran destreza y talento en el combate cuerpo a cuerpo, desempeñándose dentro de un estilo que implica el uso de su fuerza sobrehumana y la rapidez de movimiento. Efecto: El usuario obtiene el Perfil Combatiente Ágil con el siguiente beneficio adicional. [AGILIDAD MARCIAL SUPERIOR]: La habilidad “REFLEJO INSTANTÁNEO” pasa a costar 1 PA, adicionalmente será posible realizarla ante ataques de hasta Área 1. [¿FUERZA SUPERIOR?]: Es capaz de ignorar la restricción de anulación sistemática de habilidades físicas cuerpo a cuerpo hasta “100 TON C.2”. – Un uso por ronda. [EQUILIBRIO SUPERIOR]: Es capaz de ejecutar el comando “LEVANTARSE” para salir de los efectos de Derribo en cualquier momento del combate, incluso puede acompañarlo de una reacción. – Un uso por ronda. [SALTO ARÁCNIDO]: Reemplaza al comando básico “SALTAR”, además no posee límite de usos por ronda. – Los dos primeros usos de cada ronda no consumirán PA.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[PARKER INDUSTRIES] – LANZA REDES
+================================================================================
+
+Accesorio – Parafernalia
+
+  Efecto Visual: Dispositivo tecnológico cuyo funcionamiento está enfocado en el lanzamiento de cargas de telaraña sintética que permiten al usuario desplazarse a grandes alturas a la par de mejorar su desempeño en combate. La mezcla puede ir siendo modificada en función de mejorar su resistencia. Efecto: Este artefacto posee un cargador con espacio para 10 Cargas de Telaraña (C.T). Estas serán consumidas en menor o mayor medida por algunas habilidades. Las parálisis, inmovilizaciones e inutilizaciones de extremidades producidas por telaraña no podrán ser reducidas pasivamente no podrán reducidas pasivamente ni ser anuladas mediante habilidades físicas que impliquen romper la atadura salvo por oponentes que posean una escala de fuerza de 10 TON o superior. Adicionalmente, el usuario desarrolla el STAT “WEB” cuyo valor varía según el rango: [MEJORA DE LA FÓRMULA DE TELARAÑA]: El usuario puede invertir 100 EXP para mejorar su formula aumentando el requisito de escala de fuerza en +10 TON hasta un máximo de 100 TON. [CAMINO DEL HÉROE – MAESTRO]: El usuario podrá entregar un duplicado de esta parafernalia al poseedor de “Habilidades Arácnidas (Camino del Renegado)” siempre que dicho poseedor cumpla al menos dos de los siguientes. Derrotar a dos (2) oponentes de Alineamiento Maligno o que pertenezcan a Facciones o Equipos de dicho Alineamiento. Conseguir 1000 EXP por cualquier medio (Se toma en cuenta la EXP Inicial) Haber completado 6 Misiones de Facción, Equipo o Solitario (Según sea el caso) Participar en dos (2) combates junto al usuario de Camino del Héroe. (En el mismo bando)
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[PARKER INDUSTRIES] – TRAJE DE SPIDER-MAN
+================================================================================
+
+Traje – Parafernalia
+
+  Efecto Visual: Traje de fibra sintética que permite realizar movimientos marciales gracias a su diseño elástico y aerodinámico. Efecto: El usuario obtiene los siguientes beneficios mientras posea el traje equipado. [ELASTICIDAD AERODINÁMICA]: El primer uso del comando “EVADIR” no consumirá la VELOCIDAD del usuario. [AISLANTE TÉRMICO]: El usuario reduce en un 25% [x0.75] los efectos y duración de habilidades basadas en temperatura (Dentro de este tipo entran habilidades basadas en congelamiento, fuego o electricidad). [MÁSCARA FILTRANTE]: El usuario no se ve afectado por habilidades basadas en proyección de gases nocivos. [DISPOSITIVO ELECTRIFICANTE]: El usuario puede hacer uso del comando *Dispositivo Electrificante en respuesta a una habilidad que implique el contacto directo del oponente y el usuario produciendo el efecto de “1” turno de parálisis por contacto. (Los efectos producidos por contacto no pueden ser reaccionados) (Requiere no reaccionar de ningún otro modo al ataque del oponente por lo que se recibirán todos los efectos del mismo al completo.) Habilidades del TIER I destruirán el traje de manera directa si el usuario recibe el 50% [x0.50] del daño original (Incluso si el usuario ha reaccionado) Recibir cualquier cifra daño de dos (2) habilidades TIER I destruyen el traje de manera directa (Incluso si el usuario ha reaccionado)
+ACLARACIONES:
+  - Los turnos de parálisis producidos por “DISPOSITIVO ELECTRIFICANTE” no pueden ser aumentados de ninguna forma.
+
+================================================================================
+
+
+================================================================================
+[PARKER INDUSTRIES] – CINTURÓN DE UTILIDADES
+================================================================================
+
+Accesorio – Parafernalia
+
+  Efecto Visual: Artefacto tecnológico que provee al usuario de cargas de telaraña sintética adicionales además de otro tipo de gadgets. Efecto: Otorga 10/20/30 C.T adicionales a las del lanzador en los rangos I/II/III respectivamente. [RASTREADOR ARÁCNIDO]: El usuario puede hacer uso del comando *Disparar Rastreador sobre un oponente provocando que no pueda huir durante el resto del combate salvo por habilidades de teletransportación o supervelocidad. Se poseen 4 unidades consumibles de rastreadores, lo que se traduce a 4 únicos usos por combate con “1 uso por ronda” cada uno. – Posee Alcance 3, no consume PA. [CAMINO DEL HÉROE – MAESTRO]: El usuario podrá entregar un duplicado de esta parafernalia al poseedor de “Habilidades Arácnidas (Camino del Renegado)” siempre que dicho poseedor cumpla al menos tres (3) de los siguientes. Derrotar a cuatro (4) oponentes de Alineamiento Maligno o que pertenezcan a Facciones o Equipos de dicho Alineamiento. Conseguir 2000 EXP por cualquier medio (Se toma en cuenta la EXP Inicial) Haber completado 12 Misiones de Facción, Equipo o Solitario (Según sea el caso) Participar en dos (2) combates junto al usuario de Camino del Héroe. (En el mismo bando) Poseer “LANZA REDES” previamente. (Este requisito es obligatorio)
+ACLARACIONES:
+  - Si el usuario obtiene el estado “MUERTO” puede heredarle de manera directa esta parafernalia al poseedor de “Camino del Renegado” ignorando los requisitos de obtención.
+
+================================================================================
+
+
+================================================================================
+[CAMINO DEL HÉROE] – “UN GRAN PODER CONLLEVA UNA GRAN RESPONSABILIDAD”
+================================================================================
+  Habilidad Pasiva
+
+  Efecto Visual: El usuario ha forjado su camino bajo el inquebrantable sentido de la justicia, lo que le ha dotado de una leve resistencia a ser controlado así como la iniciativa de nunca rendirse. Efecto: El usuario obtiene el alineamiento “LEGAL BUENO” de manera obligatoria además de los siguientes beneficios. [INQUEBRANTABLE]: Debido a la gran determinación del usuario, este posee cierta resistencia ante las habilidades telepáticas que busquen controlar su psique. El usuario ignora requisitos de hasta “4 VOL” viendo aumentado el coste de su reacción en +1 PA. Requiere haber sufrido al menos una habilidad mental en la que intervenga la voluntad en 10 combates distintos o bien haber activado “EL DEBER DE UN HÉROE” en al menos 5 combates. [OCURRENCIA IRRITANTE]: El usuario puede hacer uso de esta pasiva diciendo un comentario ocurrente sobre su oponente provocando que este deba dirigir sus próximas 3 acciones ofensivas al usuario de manera obligatoria. Deben pasar 2 rondas antes de volver a usarlo. Alcance 5. [EL DEBER DE UN HÉROE]: El usuario puede seguir combatiendo incluso tras ser herido de gravedad, manteniéndose en el frente de batalla hasta el final. El usuario puede usar el comando *El deber de un héroe tras ser derrotado en un combate RPG, volviendo al combate con el 25% [x0.25] de su VITALIDAD MÁXIMA. El usuario recupera el 50% de sus PA al levantarse los cuales solo son utilizables para habilidades defensivas, se pierden una vez pasa la ronda en la que se levanta o si llega su turno propio. Al volver a un combate mediante este medio el usuario pasa estar bajos los efectos de “ADRENALINA ARÁCNIDA”. Esto provoca que el usuario pase encontrarse bajo el estado Herido Leve de manera directa al finalizar el combate, con los tiempos mínimos y máximos de sanación duplicados. [HONORABLE]: El usuario no puede retar ni atacar fuera de combate a un oponente de Rango inferior al suyo. Esta propiedad puede ser ignorada si el sujeto en cuestión significa un peligro para los ciudadanos en el área, sin embargo, el usuario deberá tratar de solventar el peligro sin herirlo de gravedad en medida de los posible.
+ACLARACIONES:
+  - No es posible huir del combate si se activa “EL DEBER DE UN HÉROE”.
+
+================================================================================
+
+
+================================================================================
+[CAMINO DEL HÉROE] – “TU AMIGO Y VECINO EL HOMBRE ARAÑA”
+================================================================================
+  Habilidad Pasiva
+
+  Efecto Visual: El usuario posee una fuerte pasión y respeto por la justicia, por lo que emplea todo su empeño y habilidades en proteger al indefenso. Efecto: El usuario obtiene lo siguientes beneficios. [PROTEGIENDO AL INDEFENSO]: El usuario puede irrumpir a favor de un combatiente que se encuentre en inferioridad numérica ignorando requisitos. Este beneficio no aplica a individuos de alineamiento maligno. El combatiente puede rechazar su unión con normalidad en caso de no querer la ayuda del usuario. En escenas Rolz D&D el usuario puede realizar una tirada defensiva de interferencia ante una acción que vaya a producirle el estado “HERIDO GRAVE”, “HERIDO CRÍTICO” o “MUERTO” a un participante del evento contando con un bonificador de +4 en su tirada defensiva el cual reemplaza a cualquier otro bonificador. Un uso por evento. [EJEMPLO A SEGUIR]: El usuario podrá marcar a otro poseedor del documento de “Habilidades Arácnidas” como pupilo pudiendo enseñarle un máximo de (3) habilidades de este documento que su pupilo no posea, mediante una escena interpretativa del entrenamiento la cual debe durar un mínimo de 10 minutos y poseer al menos 20 diálogos. Así mismo, el usuario ignorará cualquier requisito unión con su pupilo. En caso de seleccionar como pupilo al poseedor de “Camino del Renegado” será posible enseñarle hasta “6 habilidades”. Solo es posible enseñar un máximo de 1 habilidad por semana. [SUJETO COMPASIVO Y ABNEGADO]: El usuario obtiene +50 puntos en estos rasgos viendo sus contrapartes reducidas a 0.
+ACLARACIONES:
+  - El usuario NO debe entregar documentos por su propia mano, este debe ponerse en contacto con un moderador que valide la interpretación y posteriormente entregue el documento al pupilo.
+
+================================================================================
+
+
+================================================================================
+[INTELECTO SUPERIOR] – GENIO CIENTÍFICO
+================================================================================
+  Habilidad Pasiva
+
+  Efecto Visual: El usuario posee un coeficiente intelectual elevado el cual le permite comprender y desempeñarse en complicados campos de la ciencia. Efecto: El usuario adquiere el Perfil Científico obteniendo acceso a los caminos “[TECNOLOGÍA] ARMAMENTÍSTICA”, “[TECNOLOGÍA] GADGETS”, “[TECNOLOGÍA] ARMADURAS”. [QUÍMICA] – MEZCLAS: Camino de la ciencia único el cual se enfoca en la creación de mezclas químicas para la producción de sustancias nocivas o mejoramiento de la fórmula de telaraña. [INTELECTO SUPERIOR – TIER III]: Posee un límite total de “3 legalizaciones” de 7 Puntos cada una. Las legalizaciones son creadas por los propios usuarios siguiendo los parámetros de este documento. Cada poder poseerá una cantidad de puntos a invertir y una cantidad de Legalizaciones de acuerdo al TIER que corresponda. Por cada legalización a mandar, el usuario deberá postear una Trama personal de mínimo 250 palabras en el apartado Historias cuyo link adjuntará en el propio ticket a la hora de legalizarla. Cuando una legalización sea validada, se establecerá un tiempo de espera para que el usuario mande su próxima legalización. Será posible enviar dos (2) Legalizaciones al mismo tiempo. El precio de cada legalización lo definirá moderación al momento de acordar los efectos, el precio no es negociable. NOTA: Adicionalmente al tiempo, se requiere poseer 2500 EXP acumulados por cada legalización a enviar, tal como se estipula en el documento de perfil. (Usuarios clasificados en “GENIO INVENTOR INNATO” ignoran este requisito)
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+[INTELECTO SUPERIOR] - INVESTIGADOR PERIODÍSTICO
+================================================================================
+  Habilidad Pasiva
+
+  Efecto Visual: El usuario posee una gran habilidad e intelecto a la hora de realizar investigaciones de escenas del crimen o eventos de gran relevancia, siendo esta una de sus peculiaridades más remarcables. Efecto: El usuario obtiene los siguientes beneficios. [INVESTIGADOR NATO]: Otorga una bonificación de +2 al resultado de dado en acciones que impliquen el análisis del terreno o descubrir un acertijo. [PRIMERA PLANA]: El usuario puede realizar un apartado en la sección de “Redes Sociales” del foro el cual represente un periódico en línea. En este apartado se podrá realizar una publicación mensual que hable sobre un suceso cuyo protagonista deberá ser un jugador del RPG. Dicho protagonista ganará +100 R (Sistema de Reputación). El usuario obtiene 200 EXP y +100 R [FAKE NEWS]: El suceso narrado en “PRIMERA PLANA” debe ser totalmente verídico además de contar con pruebas verificables (Pantallazos de hobba, post de heridas, etc.), adicionalmente siempre debe estar relacionado con un combate RPG o una mención destacable en algún evento o interacción. Cualquier indicio de que lo publicado es falso y solo se ha hecho para beneficiar a otro jugador de manera gratuita, el usuario verá anulada la ganancia de EXP de esta pasiva, además de ver congelado el beneficio de “PRIMERA PLANA” durante 90 días. Así mismo, el jugador beneficiado por la publicación perderá la ganancia de EXP otorgada por ésta, e incluso podrá ser acreedor de sanciones superiores en caso de descubrir que fue partícipe o poseía conocimiento de que se postearía un hecho falso para su beneficio.
+ACLARACIONES:
+  - Un uso cada 30 días.
+
+================================================================================
+
+
+================================================================================
+SIGILO ARÁCNIDO
+================================================================================
+  Física — Pasiva
+
+  Efecto Visual: El usuario puede retirarse de un combate sin producir el más mínimo ruido. Efecto: El usuario obtiene el comando *Sigilo Arácnido el cual le permite huir de un combate ignorando todo requisito a excepción de las casillas necesarias. – 48 HRS TR
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO I                                     
+--------------------------------------------------------------------------------
+
+
+================================================================================
+CAPACIDAD DE ADHERIRSE A SUPERFICIES - TREPAR
+================================================================================
+
+100 EXP
+
+
+Física — Suplementaria
+
+
+Alcance: 1
+
+
+Coste: 0 PA
+
+
+TIER 3
+
+  Efecto Visual: El usuario posee ciertas fibras quitinosas que le permiten adherirse tanto a objetos como a estructuras. Con la adaptación específica, es capaz de trepar por ellas con relativa facilidad. Efecto: El usuario puede realizar el comando *Trepar sobre un furni que como mínimo supere en tamaño al usuario o límite de la sala que represente una edificación. El usuario adquiere una posición levitante donde no puede ser alcanzado por habilidades cuyo alcance sea inferior a 2 por oponentes que se encuentren en el suelo. El recibir daño provoca que el usuario pierda la posición ventajosa en la que se encuentra cayendo al suelo automáticamente. Es posible desplazarse alrededor del furni en el que se trepa, en caso de ser un edificio, será posible desplazarse alrededor de toda su estructura. Desplazarse fuera del furni hace que se pierda esta posición de manera automática. [PASAR SOBRE OBSTÁCULOS]: Es posible usar esta habilidad sobre un furni no pisable considerándose que el usuario “pasa por encima”.
+ACLARACIONES:
+  - Puede ser usada en uno o más furnis que constituyan un edificio. - Esta habilidad puede realizarse hasta 3 veces en un mismo turno.
+
+================================================================================
+
+
+================================================================================
+REBOTE ARÁCNIDO
+================================================================================
+
+100 EXP
+
+
+Física — Defensiva
+
+
+Alcance: Propio
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+  Efecto Visual: El usuario es capaz de estabilizar su caída cuando es propulsado, de esta manera, puede realizar un rizo en el aire para salir airoso de la misma o inclusive volver hacia su oponente propinándole un segundo golpe. Efecto: El usuario puede hacer uso de esta habilidad en caso de ser desplazado por una habilidad enemiga y resultar en un efecto de colisión (impactar contra un furni). Por consiguiente, el efecto por colisión (en caso de que lo tuviera) se ve anulado y el usuario regresa tantas casillas como fuese empujado por la habilidad (máximo 5 casillas), obteniendo así la posibilidad de realizar una acción ofensiva proveniente de este documento de poder o un perfil del usuario. En caso de que el usuario decida por no realizar una acción ofensiva, la habilidad no consume PA.
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+ACROBACIA GIRATORIA
+================================================================================
+
+100 EXP
+
+
+Física — Defensiva (Evasión)
+
+
+Alcance: Propio
+
+
+Coste: 2 PA
+
+
+TIER 3
+
+  Efecto Visual: El usuario se mueve en el aire, desplazándose de manera que evita un embate realizado hacia él, apartándose en el último momento al apoyarse en su agilidad. Efecto: El usuario es capaz de evitar una habilidad ofensiva con proyección física no superior a área 3. [RANGO III]: Permite evadir habilidades de hasta “área 5”. [GIRO EN EL AIRE]: Tras utilizar esta evasión, si el siguiente ataque dirigido hacia el usuario en ese turno no posee área, puede evadirlo sin consumo de PA.
+ACLARACIONES:
+  - En caso de usar esta evasión ante habilidades individuales el coste se reduce a 1 PA.
+
+================================================================================
+
+
+================================================================================
+CODAZO CONTUNDENTE
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 1
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+  Efecto Visual: El usuario ejecuta un codazo sobre el objetivo. Efecto: El usuario realiza un impacto sobre un objetivo produciendo un daño directo de “FUE*1.75” y aturde durante 1 acción. Es posible usarla a modo de anticipación ante un ataque dirigido hacia un aliado pudiendo desplazarse para realizarlo, este uso aumenta el coste de la habilidad en +1 PA.
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+CONTUSIÓN ARÁCNIDA
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 1
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+  Efecto Visual: El usuario ejecuta un impacto con su pierna o puño hacia el objetivo, según lo vea conveniente. Efecto: Produce un daño directo de “FUE*1.75”. [REPETICIÓN]: En caso de que la habilidad sea reaccionada, es posible utilizarla nuevamente sin consumo de PA.
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+LANZAMIENTO DE TELARAÑA
+================================================================================
+
+100 EXP X COM
+
+
+Física – Suplementaria/Defensiva/Ofensiva
+
+
+Alcance Variable
+
+
+Costo Variable
+
+
+TIER 3
+
+  Efecto Visual: El método de lanzamiento de telaraña que emplea el usuario se ve sujeto al número de cargas de su lanzador. Efecto: El usuario puede hacer uso de esta habilidad produciendo uno (1) de los siguientes efectos. [ATRACCIÓN]: El usuario puede atraer a un objetivo hasta su Alcance 1 provocando que la próxima acción ofensiva no pueda ser evadida salvo por habilidades de teletransportación. Alcance: 4. Costo: 1 PA | 1 C.T [IMPULSO]: El usuario dispara su seda hacia un objetivo del entorno permitiéndole avanzar un total de “4” casillas en línea recta sin consumir velocidad, es posible usarla hasta 3 veces por turno propio. Alcance: 4. Costo: 1 PA | 1 C.T, el primer uso de cada turno propio posee un costo de 0 PA. [BALANCEO]: Permite evadir una habilidad de máximo área "CT CONSUMIDOS" (máximo 4 CT consumidos) dirigida hacia el usuario. Alcance: Propio. Costo: 1 PA por cada 2 C.T.
+ACLARACIONES:
+  - Cada efecto es independiente pudiendo usar la totalidad de ellos en una misma ronda como si se tratara de habilidades distintas.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO II                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+ACROBACIAS ARÁCNIDAS
+================================================================================
+
+200 EXP
+
+
+Física — Suplementaria
+
+
+Alcance: Propio
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+  Efecto Visual: El usuario está entrenado en el arte del parkour siendo capaz de realizar maniobras de movimiento a través de entornos en donde la movilidad resulta entorpecida por obstáculos, o bien para recorrer edificios con facilidad. Efecto: El usuario puede utilizar esta habilidad produciendo uno (1) de los siguientes efectos: [SALTO DEL MONO ARAÑA]: Permite pasar por encima de una casilla en la que se encuentre un furni que obstaculice el paso siempre y cuando este no supere la altura del usuario. [AGARRE IMPULSANTE]: Permite avanzar un total 4 casillas sin consumir VEL siempre y cuando haya un furni adyacente en el momento previo a realizar este comando. El furni debe representar inmobiliario urbano que esté fijo al suelo (farolas, estatuas, etc.) [RANGO III – PARKOUR MAESTRO]: Es posible utilizar uno de los efectos de esta habilidad sin consumo de PA. – Un uso cada tres rondas.
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+PATADA RÁPIDA
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 1
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+  Efecto Visual: El usuario hace uso de su destreza combativa para realizar una rápida patada al rostro del rival, buscando desconcentrarle durante un momento. Efecto: Produce un daño directo de “FUE*1.7”, además produce desorientación durante 3 acciones. [FUGAZ]: Posee un requisito de evasión de 3 REF.
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+IMPULSO DE ARAÑA
+================================================================================
+
+200 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 1
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+  Efecto Visual: El usuario se impulsa hacia su objetivo dando un salto para luego caer sobre él acertándole un golpe en la cabeza. Efecto: Produce un daño directo de “FUE*2.5”. [INBLOQUEABLE]: Esta habilidad no puede ser defendida mediante defensas internas. Únicamente será posible defenderla con defensas externas, anticipaciones, anulaciones o evasiones. – Se considera efecto oculto.
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+BLOQUEO ARÁCNIDO
+================================================================================
+
+200 EXP
+
+
+Física — Defensiva (Interna)
+
+
+Alcance: Propio
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+  Efecto Visual: El usuario cruza sus brazos para mitigar el daño de un impacto inminente haciendo gala de su fuerza arácnida sobrehumana. Efecto: Produce una defensa interna de “FUE*1.75.” [RANGO III]: Permite aumentar el valor de la defensa a “FUE*2.5”, considerándose TIER 2. – Consume 1 PA adicional.
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+DISPARO DE TELARAÑA
+================================================================================
+
+100 EXP X COM
+
+
+Física – Ofensiva
+
+
+Alcance 4
+
+
+Costo Variable
+
+
+TIER 2
+
+  Efecto Visual: El método de lanzamiento de telaraña que emplea el usuario se ve sujeto al número de cargas de su lanzador. Efecto: El usuario puede hacer uso de esta habilidad produciendo uno (1) de los siguientes efectos. [OJOS]: El usuario dispara una carga de seda orgánica a los ojos de su oponente produciendo ceguera durante 2 acciones. Costo: 1 PA | 1 C.T [TORSO]: El usuario envuelve por completo a un oponente proyectando varios hilos de seda desde los dedos de sus manos produciendo una parálisis durante “RANGO” acciones. Costo: 1 PA | 2 C.T [EXTREMIDADES]: El usuario dispara su seda hacia las piernas o brazos del oponente inmovilizando los mismos durante “RANGO” acciones. Costo: 1 PA. | 2 C.T [COSTILLAS]: Genera un daño directo de “WEB*1.5”. Posee un máximo de dos (2) usos por turno propio. Costo: 1 PA | 1 C.T [DISPARO OBSTRUYENTE]: Inutiliza un arma de fuego durante 5 acciones. Alcance: 4 Costo: 1 PA | 1 C.T. [DISPARO DESARMANTE]: Desequipa un arma de un oponente dejándola pegada en el suelo el resto del combate. El oponente solo puede reequiparla si cumple con el requisito de fuerza expuesto en esta telaraña. Es posible usarla a modo de anulación ante una habilidad que haga uso del arma una vez cada 4 turnos propios Alcance: 4 Costo: 1 PA | 2 C.T. [MORDAZA OBSTRUYENTE]: Es posible usar este comando en respuesta ante habilidades realizadas con la boca produciendo diversos efectos: Habilidades Verbales: Ordenes de líder o similares, conjuros mágicos, hechizos o en general cualquier habilidad que requiere verbalizar algo se verá anulada. Alcance: 4 Costo: 1 PA | 2 C.T. Proyecciones: Expulsión de fuego, energía o en general cualquier proyección física desde la boca se verá anulada y el oponente sufrirá los efectos de su propia habilidad siempre que esta posea daño directo. Alcance: 4 Costo: 2 PA | 3 C.T. [PIES]: Produce “Derribo” a un oponente. Alcance: 4 Costo: 1 PA | 1 C.T.
+ACLARACIONES:
+  - Cada efecto es independiente pudiendo usar la totalidad de ellos en una misma ronda como si se tratara de habilidades distintas.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                   RANGO III                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[GENÉTICA EVOLUTIVA] – SENTIDO ARÁCNIDO AVANZADO
+================================================================================
+  Habilidad Pasiva
+
+  Efecto Visual: Tras un rango trayecto de entrenamiento, el usuario ha descubierto otras funcionalidades de su sentido arácnido Efecto: El usuario obtiene los siguientes beneficios que se acumulan con los de “PERCEPCIÓN ARÁCNIDA – “SPIDER-SENSE”. [RADAR ARÁCNIDO]: El usuario detecta la posición de todos aquellos oponentes que se encuentren dentro de su “Área 6”. Además, ignora los efectos negativos de ceguera o sordera contra oponentes que se encuentren dentro del alcance del radar. [SENSIBILIDAD AUMENTADA]: El usuario evade de manera automática ataques fuera de combate por 0 PA pudiendo rechazar el combate retirándose de la sala o continuar con el mismo.
+ACLARACIONES:
+  - Ninguno de estos efectos aplica para habilidades o individuos que ignoren el sentido arácnido.
+
+================================================================================
+
+
+================================================================================
+[GENÉTICA EVOLUTIVA] – FISIONOMÍA ARÁCNIDA EVOLUCIONADA
+================================================================================
+  Habilidad Pasiva
+
+  Efecto Visual: Tras un rango trayecto de entrenamiento, el usuario ha desarrollado mayores capacidades físicas superándose a sí mismo en sus límites. Efecto: El usuario obtiene los siguientes beneficios que se acumulan con los de “FISIONOMÍA ARÁCNIDA” siempre que no afecten a un mismo STAT, en cuyo caso son reemplazados. [FUERZA AUMENTADA]: El usuario obtiene una escala de FUERZA de 20 TON.
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+SUCESIÓN DE GOLPES – IMPACTOS MÚLTIPLES
+================================================================================
+
+300 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 1
+
+
+Coste: 2 PA
+
+
+TIER 3
+
+  Efecto Visual: El usuario realiza una sucesión de golpes sobre uno de sus oponentes, acosándolo a través de los embates físicos intentando encajar un golpe decisivo sobre su adversario. Efecto: El usuario realiza tres golpes sobre un objetivo de FUE*1.85, FUE*1.75 y FUE*1.65. Estos impactos requieren de 3 REF para ser defendidos, es posible reaccionar con menos reflejos recibiendo un “50% [*0.5]” del daño.
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+GOLPE CRÍTICO
+================================================================================
+
+300 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 1
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+  Efecto Visual: El usuario ejecuta un puñetazo en el tabique del oponente con tal fuerza que podría causarle dificultades respiratorias. Efecto: El usuario produce un daño directo de “FUE*2.4”, además de un indirecto de asfixia equivalente al “5% [*0.05]” de la VIT MÁXIMA del oponente durante 3 acciones. [GOLPE SUCESIVO]: En caso de ser defendida o evadida con una reacción de coste “1 PA”, permite realizar una habilidad ofensiva cuerpo a cuerpo de coste “1 PA” sobre el oponente, la cual no consumirá PA. – Se considera efecto oculto.
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+LANZAMIENTO
+================================================================================
+
+300 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 4. Área 1 sobre el oponente
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+  Efecto Visual: El usuario tiene la capacidad de levantar objetos de gran tamaño cuyo peso supera o iguala al de un automóvil para lanzarlo hacia un oponente Efecto: El usuario produce un daño directo de “FUE*2.35” en Área 1 sobre el oponente y aturde durante “RANGO” acciones (máximo 3).
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+PROYECCIÓN DE TELARAÑA
+================================================================================
+
+100 EXP X COM
+
+
+Física – Suplementaria/Ofensiva/Defensiva
+
+
+Variable
+
+
+Costo Variable
+
+
+TIER 2
+
+  Efecto Visual: El método de lanzamiento de seda que emplea el usuario es ilimitado ya que no requiere de un artefacto tecnológico externo, sino que la produce naturalmente desde sus dedos. Efecto: El usuario puede hacer uso de esta habilidad especificando uno (1) de los siguientes efectos: [PRISIÓN DE SEDA]: Genera el estado de parálisis en área 1 sobre el objetivo durante “RANGO” acciones. Alcance: 3, Área 1 sobre el objetivo. Costo: 2 PA | 3 C.T [RESCATE ARÁCNIDO]: El usuario hace evadir a un aliado posicionándolo a su lado. Alcance: 3 Costo: 2 PA | 1 C.T [ATERRIZAJE FORZADO]: Anula la posición voladora o alzada de un oponente provocándole un daño físico de “WEB” de manera adicional (La posición se anula sin importar cuanto daño se genere salvo que se evada la habilidad o se defiende mediante una defensa externa) Alcance: 4 Costo: 1 PA | 1 C.T [ESCUDO DE SEDA]: Produce una defensa externa con una resistencia de “WEB*2.0” Costo: 1 PA. | 4 C.T – Es posible invertir +1 PA y +1 C.T adicional aumentando la resistencia a “WEB*4.0” [COLISIÓN ARÁCNIDA]: Empuja a un oponente un total de “RANGO” casillas, en caso de haber colisión se produce un daño de “WEB*1.3” y aturde durante 3 acciones. Alcance: 4. Costo: 1 PA | 2 C.T [PARACAÍDAS DE SEDA]: El usuario puede usarlo en respuesta a un ataque enemigo que provoque daño o cualquier otro efecto por caída anulándolo. Alcance: Propio. Costo: 1 PA | 3 C.T [DEVOLUCIÓN DE PROYECTILES]: Anula y devuelve una habilidad que consista en el lanzamiento de proyectiles físicos (misiles, flechas, rocas, etcétera), de forma que el oponente deberá reaccionar a la habilidad en cuestión. Alcance: 5, Si el enemigo se encuentra más lejos la habilidad únicamente se anula reduciendo su coste a “1 PA”. Costo: 2 PA | 2 C.T. – Ocupa 2 C.T adicionales por cada área que ocupe el proyectil (solo hasta un máximo de área 2). No tiene efecto sobre habilidades que ocupen Área 3 o superior, o bien habilidades TIER 0. [CATAPULTA ARÁCNIDA]: Permite desplazarse “C.T INVERTIDO” casillas en línea recta hacia cualquiera dirección. Alcance: Propio Costo: 1 PA por cada 5 C.T invertido. [OBSTRUCCIÓN DE TELA DE ARAÑA]: Bloquea un port de la sala impidiendo que sea posible escapar por el mismo salvo que se supera la indicación de FUERZA de esta telaraña. Alcance: 4 Costo: 1 PA | 2 C.T. [DISPARO DE TELARAÑA CONCENTRADO]: Produce un daño físico variable en función del “C.T” INVERTIDO”. Alcance: 4. Costo: Variable según C.T INVERTIDO. [2 C.T – 1 PA]: Produce daño físico de “WEB*2”. [3 C.T – 2 PA]: Produce daño físico de “WEB*3” en Área 1 sobre el oponente, produce parálisis durante 1 acción. [4 C.T – 3 PA]: Produce daño físico de “WEB*4” en Área 2 sobre el oponente, produce parálisis durante 2 acciones.
+ACLARACIONES:
+  - Cada efecto es independiente pudiendo usar la totalidad de ellos en una misma ronda como si se tratara de habilidades distintas.
+
+================================================================================
+
+
+================================================================================
+DESVÍO PRECISO
+================================================================================
+
+200 EXP
+
+
+Física — Defensiva (Anulación)
+
+
+Alcance: 1
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+  Efecto Visual: Detienes un ataque con suma destreza, parándolo en seco y después contraatacas con un potente ataque. Efecto: Anula una habilidad con proyección física realizada dentro del alcance de esta habilidad. [ATAQUE FUGAZ]: Tras realizar la anulación puede ejecutar una habilidad física cuerpo a cuerpo de “TIER 3” sobre el oponente, el cual poseerá un requisito de evasión de 3 REF. – Consume el PA de la habilidad normalmente.
+ACLARACIONES:
+  La anulación no tiene efecto sobre habilidades TIER 1 o que ocupen más de área 1.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO IV                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+PATADA FRONTAL
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance 1
+
+
+2 PA
+
+
+TIER 2
+
+  Efecto Visual: El usuario empuja el pecho del oponente con la planta de su pie para derribarlo al suelo. Efecto: Produce un daño directo de “FUE*2.5” y el estado derribado.
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+PUNTAPIÉ EN EL CUELLO
+================================================================================
+
+300 EXP
+
+
+Física — Ofensiva
+
+
+Alcance 1
+
+
+2 PA
+
+
+TIER 2
+
+  Efecto Visual: El usuario impacta la punta del pie sobre el cuello de uno de sus oponentes, provocando una contusión considerable que a su vez le ocasione la sensación de asfixia. Efecto: Produce un daño directo de “FUE*2.25” el cual ignora un 25% [*0.75] de las defensas pasivas con dureza igual o inferior al Acero Orgánico. Además, produce un indirecto de asfixia equivalente al 10% [*0.10] de la VIT MÁXIMA con duración de “RANGO” acciones. Requiere de 3 REF o superior para poder defenderse, en caso de reaccionar con una cantidad de reflejos inferior se recibirá el 50% [*0.50] de todos los efectos.
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+PUÑETAZO ESPINAL
+================================================================================
+
+300 EXP
+
+
+Física — Ofensiva
+
+
+Alcance 1
+
+
+2 PA
+
+
+TIER 2
+
+  Efecto Visual: El usuario ejecuta un fuerte puñetazo en la espina dorsal de su oponente provocándole una parálisis temporal. Efecto: Produce un daño directo de “FUE*2.25” y el estado de parálisis durante “3” acciones siempre que el oponente reciba al menos el 50% [*0.50] del daño original. Es posible añadir el comando *Por la Espalda* junta a esta habilidad añadiendo un requisito de 3 REF para evadir aumentando el coste en +1 PA.
+ACLARACIONES:
+  -
+
+================================================================================
+

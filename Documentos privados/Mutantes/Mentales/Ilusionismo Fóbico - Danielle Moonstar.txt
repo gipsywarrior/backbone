@@ -1,0 +1,376 @@
+
+████████████████████████████████████████████████████████████████████████████████
+                     Ilusionismo Fóbico   Danielle Moonstar                     
+████████████████████████████████████████████████████████████████████████████████
+
+
+
+--------------------------------------------------------------------------------
+                              HABILIDADES BÁSICAS                               
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[GEN X] — ACONDICIONAMIENTO FÍSICO
+================================================================================
+  Física — Pasiva
+
+EFECTO VISUAL:
+  El usuario posee un talento natural con el arco, sumado a su genética que le permite engañar la mente del oponente mediante ilusiones. Efecto: El usuario adquiere los siguientes efectos: [VITALIDAD] El usuario posee una resistencia ligeramente más alta que la de un humano promedio. TIER IV | HUM. ENTR. [VELOCIDAD] El usuario es bastante atlético, pudiendo mantener un buen ritmo sin cansarse. TIER IV | HUM. ENTR. [REFLEJOS] Las capacidades empáticas del usuario le permiten obtener un segundo más reacción ante los golpes de sus enemigos. [2 REF] [VOLUNTAD] El usuario posee un manejo sobre las mentes humanas (y no tan humanas), que incluye la suya propia. [2 VOL] [RANGO III] El usuario ha desarrollado su poder, y ahora sus ilusiones y habilidades psiónicas parecen afectar a los enemigos con una brutalidad mayor. [3 VOL]
+
+ACLARACIONES:
+  Los valores de acuerdo con su clasificación de atributos se encuentran en el foro del RPG. Sustituyen a los base, no se acumulan.
+
+================================================================================
+
+
+================================================================================
+[GEN X] — ILUSIONISMO FÓBICO
+================================================================================
+  Física — Pasiva
+
+EFECTO VISUAL:
+  El usuario desarrolló la capacidad de alcanzar el subconsciente de sus objetivos, obteniendo acceso a sus miedos y deseos más profundos. Obtiene las emociones de los que le rodean sin esforzarse, lo que facilita su trabajo de engaño y persuasión mediante ilusionismos. Efecto: El usuario adquiere los siguientes efectos: [ILUSIONISMO EXPERTO] El usuario posee un control mental superior a sus compañeros. Obtiene un nuevo atributo llamado PODER PSÍQUICO [PSI] que funcionará como multiplicador para ciertas habilidades de este documento. De cara a escalados, se considera que tiene un nivel de PODER PSÍQUICO REGULAR. [HABILIDAD COMBATIVA] El usuario obtiene los perfiles Armas de Fuego y Armas de Filo de forma automática. [VISTA PSÍQUICA] El usuario tiene la capacidad de ver a través de ilusiones, por lo cual no se ve afectado por éstas siempre y cuando el ejecutor no le supere en +2 VOL. [PRECISIÓN PSÍQUICA] Las habilidades del usuario ven su alcance aumentado en +1 siempre y cuando tengan relación con su Arco Psiónico. [AMPLIACIÓN] Una vez cada dos turnos propios, el usuario puede usar el comando *Ampliación* para afectar hasta a un enemigo adicional con cualquiera de sus habilidades psiónicas o basadas en ilusiones. Costo: +1 PA a la habilidad. [CONOCIMIENTO EMPÁTICO] El usuario puede detectar a todos los oponentes en su Área 4 pasivamente, siempre y cuando posean sentimientos. [EMPATÍA ANIMAL] El usuario posee una estrecha relación con los animales. Uno de cada tres ataques realizados por mascotas en combate (que se consideren animales) en combate fallará sea quien sea el objetivo. [MAESTRÍA ILUSORIA] El usuario burla las ilusiones de un oponente, inclusive aquellos que le superen enormemente en nivel de poder. Una de cada cinco habilidades ilusorias (la primera) fallará sobre el usuario. [PROYECCIÓN PSIÓNICA] El usuario puede hacer uso del comando *Materialización Psiónica* en una de sus ilusiones para que se considere de índole Física/Energética. En el momento en el que se materializa esta sólo se vuelve evadible, anulable o anticipable; ignorando el sistema de VOLUNTAD e inmunidades a ilusiones o habilidades de índole mental. Un uso cada dos rondas. [PERSUADIR A LA MUERTE] El usuario es capaz de desafiar a la muerte misma, mediante un “eje fantasma Cheyenne” hecho de poderes de imagen. Otorga la capacidad de eludir la muerte por evento, usando esta habilidad para generar un turno de interferencia defensivo. El Narrador a cargo decidirá las pautas para este turno de interferencia, considerando que no es posible aplicarle ningún bonificador de rolz. Máximo un uso.
+
+ACLARACIONES:
+  Los valores de acuerdo con su clasificación de atributos se encuentran en el foro del RPG. Sustituyen a los base, no se acumulan.
+
+================================================================================
+
+
+================================================================================
+[CONSTRUCTO PSIÓNICO] — ARCO
+================================================================================
+
+Parafernalia
+
+EFECTO VISUAL:
+  El usuario crea un arco capacitado para combinar las habilidades mentales a la perfección. Efecto: Mediante este arco es posible utilizar cualquier habilidad del perfil básico Armas de Fuego. De cara a escalados, se considera Calibre Medio y su daño de índole Mental/Energética. Las habilidades realizadas con esta arma ignoran el 50% [x0.5] de defensas internas inferiores a TIER III. Esta arma se considera de Ambas Manos y puede desequiparse en cualquier momento mediante el comando *Deshacer. El usuario puede entrar al combate con el arco equipado, pero en caso de desequiparlo deberá consumir 1 PA para volver a crearlo. El usuario obtiene acceso, adicionalmente, a los siguientes comandos: [CONSTRUCTO PSIÓNICO] Permite utilizar el comando *Psiónico* para hacer que el daño se considere completamente Mental. Adicionalmente, la habilidad pasará a no poder ser evadida. Coste: +1 PA a la habilidad. En caso de que la habilidad afecte a más de un enemigo, este efecto sólo aplicará en uno. [ILUSIONISMO FÓBICO] Las flechas del arco ignoran todas las defensas externas que no posean un recubrimiento psiónico. Coste: +1 PA a la habilidad.
+
+ACLARACIONES:
+  Los comandos poseen un uso cada dos rondas, y comparten tiempo de reutilización entre sí. Todas las armas psiónicas ignoran el sistema de VOLUNTAD de cara a reacciones e inmunidades, a menos que la habilidad indique lo contrario; pero esto también implica que se pueden defender y evadir con normalidad de forma base.
+
+================================================================================
+
+
+================================================================================
+[CONSTRUCTO PSIÓNICO] — JABALINA
+================================================================================
+
+Parafernalia
+
+EFECTO VISUAL:
+  El usuario crea una jabalina para darle caza a su oponente. Efecto: Mediante esta jabalina es posible utilizar cualquier habilidad del perfil básico Armas de Filo. De cara a escalados, se considera Arma Mediana Convencional, y su daño de índole Mental/Energética. Las habilidades realizadas con esta arma ignoran un 50% [x0.5] de defensas pasivas iguales o inferiores a TIER III — RES. SOBREHUMANA. Esta arma se considera de Ambas Manos y puede desequiparse en cualquier momento mediante el comando *Deshacer. El usuario puede entrar al combate con la jabalina equipada, pero en caso de desequiparla deberá consumir 1 PA para volver a crearla. El usuario obtiene acceso, adicionalmente, a los siguientes comandos: [MIEDO PRIMORDIAL] La jabalina logra funcionar inclusive sobre robots o seres que no posean mente, pasando todo su daño a Energético. [ILUSIONISMO FÓBICO] El usuario puede aumentar el daño de una habilidad del perfil Armas de Filo en un 25% [x1.25] mediante el comando *Recumbrimiento. Coste: +1 PA a la habilidad.
+
+ACLARACIONES:
+  Los comandos poseen un uso cada dos rondas, y comparten tiempo de reutilización entre sí. Todas las armas psiónicas ignoran el sistema de VOLUNTAD de cara a reacciones e inmunidades, a menos que la habilidad indique lo contrario.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO I                                     
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[TELEPATÍA] – CONCENTRACIÓN EMPÁTICA
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva/Suplementaria
+
+
+Alcance: VOLUNTAD*3
+
+
+MENTES PA
+
+
+No clasificado
+
+EFECTO VISUAL:
+  El usuario activa sus poderes psíquicos, concentrándose en la mente de uno o varios objetivos en específico para poder hacer uso de habilidades mentales. Efecto: Permite hacer uso de habilidades pertenecientes al documento que tengan índole Mental sobre objetivos que se encuentren bajo Concentración. En caso de que el usuario esté concentrado en más mentes que VOLUNTAD verá reducidos los efectos de sus habilidades en un “25% [*0.75]” y en -VOLUNTAD acciones de forma general. Los siguientes escenarios anularán de manera automática esta habilidad. Recibir un daño superior a “15%*VOLUNTAD” de su VIT máxima. Recibir un control de masa que impida el turno del usuario. No aplican inmovilizaciones ni tampoco parálisis para este escenario.
+
+ACLARACIONES:
+  - Esta habilidad no puede ser reaccionada bajo métodos ordinarios salvo la reacción en cuestión especifique poder ser utilizada para esta habilidad. - Esta habilidad puede utilizarse también sobre aliados, considerándose Suplementaria. - En caso de que el usuario pierda la Concentración, deberá volver a ejecutarla gastando los puntos de acción correspondientes. El usuario consume tantas PUNTOS DE ACCIÓN como OBJETIVOS (mentes) sobre los cuales desee concentrarse. - Concentración se mantiene, aunque los objetivos se salgan posteriormente del alcance, pero las habilidades mentales requerirán del alcance de la habilidad para ejecutarse.
+
+================================================================================
+
+
+================================================================================
+[ILUSIONISMO] — ILUSIÓN TERRORÍFICA
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+1 PA
+
+
+Tier III
+
+EFECTO VISUAL:
+  El usuario genera una ilusión que provoca terror puro sobre la mente del oponente, manifestando en la misma un sinfín de horrores personales. Efecto: Paraliza durante 2 acciones a un oponente.
+
+ACLARACIONES:
+  No afecta a oponentes inmunes al miedo.
+
+================================================================================
+
+
+================================================================================
+[ILUSIONISMO] — ILUSIÓN PIROMANIACA
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+1 PA
+
+
+Tier III
+
+EFECTO VISUAL:
+  El usuario genera una ilusión que provoca que el oponente piense que está siendo inmolado vivo. Efecto: Provoca un indirecto por quemadura de PSIx0.25 durante 5 acciones. A pesar de ser quemadura está catalogada como mental, por lo que ignora el 50% [x0.5] de inmunidades o reducciones a quemaduras (redondeado a la baja en caso de acciones).
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CONSTRUCTOS PSIÓNICOS] — FLECHA PSIÓNICA
+================================================================================
+
+100 EXP
+
+
+Mental/Energética — Ofensiva
+
+
+Alcance 4
+
+
+1 PA
+
+
+Tier III
+
+EFECTO VISUAL:
+  El usuario, gracias a su destreza con el arco y a su versatilidad en el área de las ilusiones, consigue proyectar una de sus flechas hacia el oponente. Efecto: Daña ARMAx1.5. [RANGO III] Todo el daño provocado por esta habilidad pasa a ser considerado de índole Mental. Aún puede ser reaccionada con normalidad.
+
+ACLARACIONES:
+  Es necesario tener el Arco equipado.
+
+================================================================================
+
+
+================================================================================
+[CONSTRUCTOS PSIÓNICOS] — BANDADA DE FLECHAS
+================================================================================
+
+100 EXP
+
+
+Mental/Energética — Ofensiva
+
+
+Cónico 3
+
+
+1 PA
+
+
+Tier III
+
+EFECTO VISUAL:
+  El usuario, gracias a sus habilidades psiónicas, consigue proyectar una bandada de flechas contra sus enemigos. Efecto: Daña ARMAx1.2 a todos los objetivos en el área.
+
+ACLARACIONES:
+  Es necesario tener el Arco equipado.
+
+================================================================================
+
+
+================================================================================
+[CONSTRUCTO PSIÓNICO] — MURO
+================================================================================
+
+100 EXP
+
+
+Energética — Defensiva (Defensa Externa)
+
+
+Área de 1x3 frente al usuario
+
+
+2 PA
+
+
+Tier III
+
+EFECTO VISUAL:
+  El usuario crea una ilusión con su energía psiónica, enfocándose en un constructo sólido que le defienda. Efecto: Defiende PSI x2 al usuario y todos los aliados cubiertos por el muro. Se mantiene en el campo hasta ser destruido.
+
+ACLARACIONES:
+  Enemigos que estén pisando el área del muro se verán empujados hacia atrás.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO II                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[ILUSIONISMO] — ILUSIÓN NOCTURNA
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+2 PA
+
+
+Tier III
+
+EFECTO VISUAL:
+  El usuario corta la capacidad de sus enemigos de verlo, haciéndoles creer que fueron sumidos en una oscuridad profunda. Efecto: Provoca 3 acciones de cegado sobre todos los enemigos que el usuario posea en Concentración a razón de oscuridad total.
+
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+[ILUSIONISMO] — ARENAS MOVEDIZAS
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+2 PA
+
+
+Tier III
+
+EFECTO VISUAL:
+  El usuario genera la ilusión de que los enemigos han pisado arenas movedizas, y que se están hundiendo poco a poco. Efecto: Reduce la VELOCIDAD de dos objetivos a la mitad (VEL/2) durante un turno propio. Esta habilidad únicamente puede ser Resistida o Evadida. [RANGO III] El usuario puede escoger afectar a un solo objetivo, a cambio reduciendo su velocidad en dos turnos propios.
+
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+[ILUSIONISMO] — SOBRECARGA DE ESTRÉS
+================================================================================
+
+200 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+3 PA
+
+
+Tier II
+
+EFECTO VISUAL:
+  El usuario genera una ilusión con varios objetos, monstruos y enemigos diseñados para angustiar al enemigo. Efecto: Provoca un daño de PSIx2 a un enemigo en el alcance. En caso de que reciba daño, provocará el estado Desorientado durante dos turnos generales.
+
+ACLARACIONES:
+  -
+
+================================================================================
+
+
+================================================================================
+[ILUSIONISMO] — DISTRACCIÓN LUJURIOSA
+================================================================================
+
+200 EXP
+
+
+Mental — Defensa (Anulación)
+
+
+Alcance: CONCENTRACIÓN
+
+
+3 PA
+
+
+Tier II
+
+EFECTO VISUAL:
+  El usuario crea sobre un enemigo la ilusión de un grupo de hombres y mujeres completamente atractivos y desnudos, dispuestos a cumplir todas las fantasías del objetivo. Efecto: Anula una habilidad enemiga, independientemente de su índole.
+
+ACLARACIONES:
+  Esta habilidad funciona por atracción, por lo que usuarios inmunes a este tipo de habilidades no se ven afectados.
+
+================================================================================
+
+
+================================================================================
+[CONSTRUCTOS PSIÓNICOS] — LANZAMIENTO DE JABALINA
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: 5
+
+
+2 PA
+
+
+Tier II
+
+EFECTO VISUAL:
+  El usuario lanza su jabalina por los aires, enviándola hasta el enemigo para atravesarle con su energía psiónica. Efecto: Daña ARMAx2.5 e inmoviliza al objetivo durante 3 acciones. Tras su finalización, la jabalina se considera que está en la casilla objetivo hasta que el usuario la recoja mediante el comando *Levantar Jabalina.
+
+ACLARACIONES:
+  Requiere de Jabalina activa.
+
+================================================================================
+

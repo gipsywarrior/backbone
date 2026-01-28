@@ -1,0 +1,762 @@
+
+████████████████████████████████████████████████████████████████████████████████
+                         Alma Oscura (Daimon Hellstrom)                         
+████████████████████████████████████████████████████████████████████████████████
+
+
+
+--------------------------------------------------------------------------------
+                              HABILIDADES BÁSICAS                               
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[HERENCIA DEMONIACA] – ALMA OSCURA
+================================================================================
+  Física – Pasiva
+
+EFECTO VISUAL:
+  El usuario es el fruto de la concepción entre el demonio mayor Marduk Kurios, también llamado Satán, y una humana. A diferencia de su alma humana, esta contraparte demoníaca denominada como Alma Oscura se manifiesta como un pentagrama en el pecho del usuario, otorgándole los poderes demoniacos. Efecto: El usuario obtiene el comando *Posesión de Alma Oscura* el cual le otorga un aumento de STAT por el resto del combate. – 0 PA, puede mantenerse esta forma inclusive fuera de combate colocando en misión *AO. [VITALIDAD/DEFENSA PASIVA – SOBREHUMANA]: Posees una durabilidad muy superior a la de cualquier mortal. [NATURALEZA METAFÍSICA]: Tu defensa pasiva es efectiva frente a daños de índole mística e inclusive daño al alma y fuego infernal. [INMUNIDAD ÍGNEA]: Habilidades basadas en fuego, calor extremo o de índole ígnea (no fuego infernal) no tienen efecto sobre el usuario y ven sus daños reducidos en un “100% [*0]” de forma automática. [VELOCIDAD – SOBREHUMANA]: Puedes desplazarte mucho más rápido que cualquier mortal. [AGILIDAD SOBREHUMANA]: El comando básico Evadir no consume velocidad al usuario para desplazamientos que involucren “4 casillas o menos”. – Un uso cada dos rondas. [FUERZA – 2 TON]: Posees un grado de fuerza sobrehumana siendo capaz de levantar alrededor de 10 veces lo que levantaría un ser humano entrenado. [VOLUNTAD DEL HIJO DE SATÁN]: Debido a tu naturaleza, posees una fuerza de voluntad casi inquebrantable. [4 VOL] [4 REFLEJOS]: Tu capacidad de reaccionar se encuentra en un alto nivel sobrehumano. [SISTEMA INMUNOLÓGICO AVANZADO]: Posee inmunidad total a enfermedades y toxinas, tanto de origen terrestre como de origen extraterrestre. No es inmune a enfermedades especiales como el virus tecno-orgánico. [COMBATIENTE INFERNAL]: Obtienes los perfiles Combatiente Bruto y Armas de Filo.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[ALMA OSCURA] – HIJO DE SATÁN
+================================================================================
+  Mística – Pasiva
+
+  Efecto Visual: El alma oscura es la contraparte a un alma humana que se manifiesta en el nacimiento como un pentagrama invertido en el pecho. Esta es la principal fuente de los poderes del usuario y lo que le otorga su característica mentalidad caótica. Efecto: El usuario se considera un demonio para cualquier tipo de interacción dentro o fuera de combate, independientemente de los efectos son positivos o negativos. Además, se considera inmune a habilidades y efectos que afecten a través del miedo. Debe poseer alineamiento Caótico y no puede tener ningún alineamiento Benigno. Además, adquiere los siguientes rasgos: “Supersticioso – 10” y “Osado – 10”, viendo sus contrapartes reducidas a “0”. Su rasgo “Cruel” no puede superar al rasgo “Compasivo”. En caso de que el personaje muera, volverá a la vida tras 48 horas completamente Ileso. Si en un plazo de 30 días o menos el usuario vuelve a morir, el tiempo de espera para revivir se duplica por cada muerte.
+ACLARACIONES:
+  El usuario no puede volver a la vida en caso de ser borrado de la realidad o si es asesinado por un Hell Lord.
+
+================================================================================
+
+
+================================================================================
+[HERENCIA DEMONIACA] – POTENCIAL MÁGICO
+================================================================================
+  Mística – Pasiva
+
+EFECTO VISUAL:
+  El Alma Oscura del usuario le otorga los poderes de la sangre de su padre, Satanás, llevando al usuario a un control de envidiar sobre las artes místicas. Efecto: El usuario adquiere los siguientes beneficios: [PODER MÁGICO – TIER I]: Posees un poder mágico clasificado como TIER I. [MISTICISCMO POLIVALENTE]: Adquiere el Perfil Místico, además del “Tomo: Magia Infernal”. Toda habilidad del Perfil Místico cuyo índole sea ígneo, pasará a considerarse Fuego Infernal. La duración de los indirectos por habilidades de fuego infernal aumenta en +1. [TALENTO INNATO – MÍSTICISMO POLIVALENTE]: Los multiplicadores de las habilidades del Perfil Místico y los Tomos Mágicos del usuario se ven reemplazados por los siguientes en caso de ser menores: [CONTROL TOTAL SOBRE EL FUEGO INFERNAL – AFINIDAD INFERNAL]: Cada tres habilidades ofensivas que posean daño y se consideren Fuego Infernal (la tercera) hará que su daño sea de un “75% [*0.75]” de daño al alma. [CONVERSIÓN INFERNAL]: Utilizada junto a una habilidad ofensiva mística, altera la misma, convirtiéndola en Fuego Infernal. – Dos usos por ronda, no consume PA. [DOMINIO INFERNAL]: Mediante este comando es posible reducir el coste de una habilidad ofensiva del Tomo Magia Infernal en "-1 PA" (Siendo imposible reducir a 0). – Un uso cada 2 rondas, no consume PA. [ALL-SPEAK]: El usuario comprende manera pasiva todos los idiomas, tanto terrestres como alienígenas. Frente a habilidades en otro idioma, si el usuario lo requiere, el enemigo tendrá que revelar su significado. En el sistema D&D, el usuario tiene un bonificador de +2 en tiradas relacionadas con el entendimiento de idiomas y mensajes encriptados.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[HERENCIA DEMONIACA] – CONOCIMIENTO INFERNAL
+================================================================================
+  Mística – Pasiva
+
+EFECTO VISUAL:
+  El usuario dota de un conocimiento sobre demonología y es capaz de diferenciar entre almas gracias a sus capacidades como súcubo. Esto significa una gran desventaja para sus oponentes en caso de que estos posean una naturaleza demoniaca. Efecto: El usuario tiene la capacidad de reconocer a todo aquel jugador que se encuentre bajo una posesión demoníaca, se trate de un demonio o similares. Esto además permite reconocer fuera o dentro de combate los cambios de apariencia y ocultaciones que realicen jugadores con dichas características, ignorando sus efectos. [DEMONOLOGÍA]: El usuario ve su daño aumentado un “10% [*1.1]” contra oponentes que se consideren demonios o estén bajo la influencia de uno y puede conocer su VITALIDAD restante en cualquier momento. Además, en eventos o escenas D&D obtiene un aumento de tirada de “+2” contra este tipo de oponentes. [ANÁLISIS DEMONÍACO]: Cuando el usuario derrota a un oponente demoníaco, bajo la influencia de uno o similares, puede utilizar este comando sobre él. De esta forma el aumento de daño porcentual de esta habilidad aumenta en un “5% [*1.05]” de manera acumulable contra este oponente y puede seleccionar una habilidad que dicho oponente haya empleado en combate, ignorando requisitos de reacción sobre ella. – Este análisis puede realizarse un máximo de 3 veces sobre un mismo oponente. – 0 PA, un uso por ronda. Una vez se ha analizado a un oponente de dichas características el máximo de veces, la próxima vez que el usuario lo derrote, el oponente no podrá ejecutar efectos ocultos en combates donde el usuario participe y habilidades con requisitos de PODER MÁGICO o REFLEJOS serán ignorados por el usuario.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[ALMA OSCURA] – MENTE CORRUPTA
+================================================================================
+  Mental – Pasiva
+
+  Efecto Visual: La psique del usuario está conectada de forma directa al infierno. Posees la capacidad para expulsar a individuos de tu mente, siendo muy difícil interferir con tu mente. Efecto: Al realizar una habilidad como “Concentración” sobre el usuario, el usuario puede ejecutar este comando como reacción anulando los efectos de dicha habilidad. El oponente no podrá volver a concentrarse sobre el usuario hasta pasadas “RANGO*1.5” acciones. – Un uso cada dos turnos propios, no afecta a telépatas de clasificación “TELEPATÍA – OMEGA”. No consume PA. Los oponentes que logren concentrarse en la mente del usuario sufrirán desorientación durante 5 acciones.
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[ALMA OSCURA] – PERCEPCIÓN DE LO SOBRENATURAL
+================================================================================
+  Mística – Pasiva
+
+  Efecto Visual: Al igual que tu padre, has heredado la capacidad sobrenatural de poder discernir entre las almas humanas y demoníacas, reconociendo a los últimos al instante. Efecto: Interpretativamente el usuario tiene conocimiento de todo aquel jugador que esté bajo alguna posesión demoníaca, se trate de un demonio o similares. También eres capaz de saber si una persona ha tenido contacto reciente con una entidad demoníaca. [RECONOCIMIENTO DEMONÍACO]: Eres capaz de identificar y desenmascarar la identidad de demonios. Detecta las ocultaciones realizadas fuera de combate o cambios de apariencia de oponentes demoníacos, ignorando sus efectos. En combate detecta sus posiciones en todo momento, independientemente de la ocultación. [SENSOR METAFÍSICO]: Posees la capacidad para ver y detectar ondas metafísicas. Detecta la posición de cualquier jugador que realice una habilidad de índole mística durante las próximas “RANGO*2” acciones. La duración se renueva por cada habilidad de índole mística que ejecute. Además, detecta pasivamente la posición de objetos místicos o mágicos. [SENSOR DE PELIGRO]: Eres capaz de percibir el peligro antes de que este llegue a ti. El usuario evade automáticamente la primera habilidad ofensiva con proyección física sobre él, sólo tiene efecto si la habilidad es de Área 1 o inferior. — Un uso por combate. No ignora requisitos de “VELOCIDAD”, pero si requisitos de reacción de hasta “6 REF”. [DETECCIÓN DE MENTIRAS]: Posees la capacidad metafísica para ver a través de mentiras, siempre sabrás si alguien dice o no la verdad. – Uso interpretativo, requiere que los oponentes posean alma para ser efectiva. [SENSOR DE MIEDO]: Eres capaz de sentir el miedo y desesperación de otros individuos. Detectas a todo oponente que sea capaz de sentir miedo en Área 5 sobre ti.
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[ALMA OSCURA] – RITUALES DE EXORCISMO
+================================================================================
+  Mística – Pasiva
+
+  Efecto Visual: A través de los años has adquirido la capacidad de realizar exorcismos sobre los que están bajo la influencia de algún demonio, ya sea un control o posesión. Efecto: El usuario puede realizar un Exorcismo sobre cualquier jugador que esté bajo la influencia demoníaca de alguna criatura infernal (como puede ser un demonio) y también es capaz de expulsar un demonio que esté poseyendo a alguien de forma temporal o permanente (Posesiones Infernales o demoníacas). [PAUTA 1 – MOTIVO DEL EXORCISMO]: Por lo general, el usuario nunca intentará extraer los demonios de alguien debido a su condición y lazos que le unen con el mundo infernal, salvo que tenga un motivo para ello. Las formas de obtener un motivo son: Ser atacado por un jugador bajo la posesión o influencia demoníaca. Haber sido contratado por otro jugador para realizar el exorcismo (Este jugador debe haber sido atacado por el que se encuentre poseído o influenciado). El usuario debe cobrarle por sus servicios de exorcismo 500 EXP. El pago se realizará una vez el exorcismo haya tenido lugar. El cliente mantendrá esa divisa de oro congelada (por lo que no podrá emplearla para ninguna compra o similares), salvo que anule el contrato. [PAUTA 2 – CONOCER EL NOMBRE]: Para llevar a cabo del ritual, lo primero que se debe conocer es el nombre de aquello a lo que buscamos expulsar. Para ello debe utilizarse el siguiente comando: ¡Por derecho de sangre te ordeno que me digas tu nombre “NOMBRE OPONENTE”! Un oponente afectado por este comando debe nombrar al demonio que lo posee o aquel que le ha influenciado o controlado. Debe resistirse. Por cada “25% [*0.75]” de VITALIDAD que pierda el oponente, requerirá 1 PA adicional para poder resistirse. — 1 PA, TIER 3. Un uso por ronda. [PAUTA 3 – EXORCISMO]: Una vez obtenido el nombre del demonio que ha tomado posesión del oponente es posible acceder a esta pauta. Para llevar a cabo el exorcismo, el oponente deberá encontrarse inmovilizado o paralizado. Al momento que el oponente reciba la inmovilización o paralizado, el usuario puede utilizar el comando “Pentagrama Infernal” sin ser su turno y sin consumo de PA. El pentagrama tardará “10-RANGO” acciones en formarse en “Área 2 alrededor del oponente” a través de llamas infernales. Una vez transcurrido el turno, el usuario puede dar por finalizado el exorcismo. Para ello debe utilizar el siguiente comando y elegir uno de los tipos de exorcismos que hay más abajo: [Nombre del demonio], por el derecho de nacimiento que me confiere mi sangre y esta magia arcana, trazo tu símbolo con sangre. Te ordeno desaparecer y no regresar. EXORCISMO MENOR [6 HORAS TR/CD]: Impide utilizar cualquier habilidad relacionada a la posesión durante 24 horas. En caso de ser un control o influencia, es anulado y no puede volver a ser aplicado hasta pasadas al menos 24 horas. EXORCISMO MAYOR [5 DÍAS TR/CD]: Impide utilizar cualquier habilidad relacionada a la posesión durante 7 días. En caso de ser un control o influencia, es anulado y no puede volver a ser aplicado hasta pasados 7 días. Requiere superar en “EXP” si es que posee la misma clasificación de PM (o a aquel que tiene bajo control al oponente si se trata de un jugador real). EXORCISMO COMPLETO [31 DÍAS TR/CD]: Expulsa por completo al demonio del cuerpo del oponente. En caso de tratarse de un poder basado en una posesión, pierde dicho poder. En caso de ser un control o influencia, es anulado y el ejecutor no podrá volver a afectar a dicho oponente mediante controles o influencias místicas. Requiere superar en “2000 EXP” si es que posee la misma clasificación de PM (o a aquel que tiene bajo control al oponente si se trata de un jugador real). Para poder llevar a cabo los exorcismos, el usuario puede solicitar la ayuda de otro jugador con conocimientos sobre los rituales de magia relacionados a los exorcismos (Como Brother Voodoo), de esta forma dicho aliado suma su “EXP” a la del usuario a la hora de comparar. Para ello el usuario deberá pagarle 200 EXP al concretarse el exorcismo. Dicho jugador gana la capacidad de irrumpir e intervenir en los combates del usuario en contra del demonio con normalidad. En caso de ser ayudado en un exorcismo a través de este método, el tiempo de reutilización del exorcismo ejercido se triplica.
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[ALMA OSCURA] – DEMONIZACIÓN
+================================================================================
+  Mística– Pasiva
+
+  Efecto Visual: Cuando estás en el infierno, sin importar en qué dimensión, los poderes que te fueron otorgados por parte de tu padre se intensifican, corrompiéndote. Efecto: El usuario en el “Infierno” obtiene varias fases de demonización que aumentan algunas de sus estadísticas y le otorgan ciertas habilidades adicionales. Puede acceder a cualquiera de las fases en cualquier momento siempre y cuando cumpla los requisitos para poder acceder a ellas. – 0 PA. [DEMONIZACIÓN – PRIMERA FASE]: Adquieres una aterradora apariencia, sucumbiendo a las energías del propio infierno y a la naturaleza que reprimes en tu interior que te conecta a lo demoníaco. [FUERZA – 20 TON]: Puedes levantar hasta 20 TON sin dificultad alguna. [VITALIDAD/DEFENSA PASIVA – SOBREHUMANA+]: La durabilidad del usuario escala a gran nivel, considerándose en la escala sobrehumana alta. [TENACIDAD MEJORADA]: Reduce la duración de controles de masa de habilidades que posean proyección física en -1 acción, siendo incapaz de reducir a “0”. Obtiene un aumento de defensas del “10% [*1.1]”. Sus habilidades físicas realizadas con sus manos, ignoran defensas pasivas de clasificación “SOBREHUM.” y generan un indirecto de hemorragia equivalente al “10% [*0.1]” del daño causado durante 3 acciones. El usuario puede acceder a esta fase sin ningún tipo de requisito, salvo el de encontrarse en el “Infierno”. Durante esta fase los atributos demoníacos del usuario se intensifican, por lo que deben ser representados correctamente en Hobba, considerando que la parte inferior de su cuerpo guarda similitud con el de las cabras. [DEMONIZACIÓN – SEGUNDA FASE]: Adquieres una aterradora apariencia, sucumbiendo a las energías del propio infierno y a la naturaleza que reprimes en tu interior que te conecta a lo demoníaco. [TENACIDAD MEJORADA]: Reduce la duración de controles de masa de habilidades que posean proyección física en -2 acciones, siendo incapaz de reducir a “0”. [FUERZA – 40 TON]: Puedes levantar hasta 40 TON sin dificultad alguna. Mientras esté en esta forma, sólo puede utilizar el perfil “Combatiente Bruto” y las habilidades de este documento. Obtiene un aumento de daño directo del “10% [*1.10]”. El usuario pasa a adquirir unas alas en su espalda, adquiriendo una posición voladora de forma permanente mientras esté en el infierno. En caso de ser derribado al suelo, tendrá que esperar 5 acciones para volver a alzar vuelo. Necesitan haber transcurrido al menos 3 rondas en “DEMONIZACIÓN – PRIMERA FASE”. Durante esta fase los atributos demoníacos del usuario se intensifican, por lo que deben ser representados correctamente en Hobba, considerando que la parte inferior de su cuerpo guarda similitud con el de las cabras.
+ACLARACIONES:
+  Los aumentos de estadísticas de esta transformación reemplazan cualquier otro que posea el usuario y sea inferior.
+
+================================================================================
+
+
+================================================================================
+[ALMA OSCURA] – ELECTROQUINESIS
+================================================================================
+  Mística/Energética – Pasiva
+
+  Efecto Visual: Eres capaz de percibir ondas eléctricas y posees cierto grado de manipulación sobre las mismas. Efecto: Detecta en “Área 6 sobre el usuario” a todo oponente que porte una parafernalia que esté compuesta por electricidad, utilice habilidades eléctricas o bien esté compuesto por esta energía.
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                   RANGO III                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[TELEPATÍA MÁGICA] – CONCENTRACIÓN
+================================================================================
+
+100 EXP
+
+
+Mística/Mental – Suplementaria
+
+
+Alcance: “VOLUNTAD*3”
+
+
+Coste: “MENTES PA”
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Eres capaz de invocar un miedo irracional a quiénes miras, llenándolos de terror y desesperación. Efecto: Permite hacer uso de habilidades pertenecientes al documento que tengan índole Mental/Mística sobre objetivos que se encuentren bajo Concentración, sólo aquellas cuyo alcance indique “CONCENTRACIÓN”. En caso de que el usuario esté concentrado en más mentes que “VOLUNTAD” verá reducidos los efectos de sus habilidades en un “25% [*0.75]” y en “-VOLUNTAD acciones” de forma general. Puede ser utilizada en preparación sin ningún consumo. Los siguientes escenarios anularán de manera automática esta habilidad: Recibir un daño superior a “15%*VOLUNTAD” de su VIT máxima. Recibir un control de masa que impida el turno de la usuaria. No aplican inmovilizaciones ni tampoco parálisis para este escenario. [RASTREADOR MÁGICO]: Es posible utilizar esta habilidad en ronda de preparación, sin consumo de PA sobre máximo “2 jugadores”.
+
+ACLARACIONES:
+  - Esta habilidad no puede ser reaccionada bajo métodos ordinarios salvo la reacción en cuestión especifique poder ser utilizada para esta habilidad. - Esta habilidad puede utilizarse también sobre aliados, considerándose Suplementaria. - En caso de que el usuario pierda la Concentración, deberá volver a ejecutarla gastando los puntos de acción correspondientes. El usuario consume tantas PUNTOS DE ACCIÓN como OBJETIVOS (mentes) sobre los cuales desee concentrarse. El redondeo es siempre a la BAJA. - Las habilidades mentales de la usuaria afectan únicamente a un objetivo en individual salvo la misma especifique una aclaración contraria. - Concentración se mantiene, aunque los objetivos se salgan posteriormente del alcance, pero las habilidades mentales requerirán del alcance de la habilidad para ejecutarse.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MÁGICA] – LECTURA MENTAL
+================================================================================
+  Mística/Mental – Pasiva
+
+  Efecto Visual: Eres capaz de leer los pensamientos y rastrear a diversos individuos con suma facilidad. Efecto: El usuario detecta a todo aquel usuario sobre el que se esté concentrado y se oculte mediante métodos ordinarios. Esta detección no aplica si la ocultación del objetivo tiene aclaraciones contrarias a la de esta pasiva. [TELEPATÍA MÁGICA]: Puede ignorar requisitos de reacción de oponentes que estén bajo “CONCENTRACIÓN”. – Un uso por ronda.
+ACLARACIONES:
+  Requiere poseer Concentración activa. Únicamente ignora requisitos de REFLEJOS, si la habilidad en cuestión posee otros tipos de requisitos adicionales, deberá cumplirlos para reaccionar. Se considera una intrusión mental.
+
+================================================================================
+
+
+================================================================================
+PRESENCIA TERRORÍFICA
+================================================================================
+
+100 EXP
+
+
+Mística – Ofensiva
+
+
+Alcance: 4
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Eres capaz de invocar un miedo irracional a quiénes miras, llenándolos de terror y desesperación. Efecto: Produce parálisis durante 4 acciones a un único objetivo. [TRAUMA]: Permite aplicar este estado post-combate a un oponente derrotado por el usuario, aplicando una reducción de estadísticas de un “25% [*0.75]” durante 48 horas. – Un uso cada 48 horas, posee un enfriamiento individual de 7 días por jugador.
+
+ACLARACIONES:
+  No afecta a oponentes que posean 4 VOL o superior, o bien sean inmunes al miedo.
+
+================================================================================
+
+
+================================================================================
+LIBERACIÓN MENTAL
+================================================================================
+
+100 EXP
+
+
+Mística – Defensiva (Anulación)
+
+
+Alcance: Propio
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Eres capaz de anular influencias o controles de voluntad ajenos. Efecto: Anula una habilidad basada en controles, alteraciones o influencias mentales o místicas.
+
+ACLARACIONES:
+  No tiene efecto si el oponente le supera en “PODER MÁGICO” en caso de ser místico o si posee telepatía “HIGH ORDER OMEGA”.
+
+================================================================================
+
+
+================================================================================
+[HECHIZO] – INDUCCIÓN DE DOLOR
+================================================================================
+
+100 EXP
+
+
+Mística – Ofensiva
+
+
+Alcance: 4
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Generas un hechizo que induce el dolor equivalente al que el objetivo ha causado en toda su vida. Efecto: Produce parálisis durante 3 acciones, además de generar un indirecto de dolor equivalente a “PM/2” por cada acción que permanezca paralizado. [MIENTRAS MÁS DAÑO HAYAS CAUSADO, MAYOR SERÁ TU DOLOR]: Oponentes que posean alineamiento Malvado, hayan dejado a un jugador un post-combate negativo (herida adicional, secuestro, etcétera) en los últimos 7 días o bien hayan asesinado a un jugador en algún momento, el daño aumenta a “PM” por cada acción y la duración de la parálisis se vuelve no reducible.
+
+ACLARACIONES:
+  Sólo resistible. Sólo puede ser anulada o anticipada mediante habilidades místicas, sólo si es igualado o superado en “PODER MÁGICO”. El indirecto ignora inmunidades a dolor de oponentes que posean alma.
+
+================================================================================
+
+
+================================================================================
+[TRIDENTE DE NETHARIUM] – DESARME
+================================================================================
+
+100 EXP
+
+
+Física/Mística – Ofensiva
+
+
+Alcance: 2
+
+
+Coste: 1 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Utilizas tu tridente para desarmar a un oponente, lanzando su arma al suelo, posteriormente eres capaz de incinerar el arma, destruyéndola. Efecto: Desarma a un oponente. [INCINERAR ARMA]: En caso de desarmar al oponente, permite ejecutar este comando para destruir el arma por el resto del combate, considerándose que la destruye mediante fuego infernal (no destruye durezas superiores al Adamantium). – 1 PA adicional. Se considera efecto oculto. El primer uso en combate no consume PA. Sólo anulable o anticipable.
+
+ACLARACIONES:
+  Requiere de “Tridente de Netharium”.
+
+================================================================================
+
+
+================================================================================
+[TRIDENTE DE NETHARIUM] – INCINERAR
+================================================================================
+
+100 EXP
+
+
+Mística/Ígnea (Fuego Infernal) – Ofensiva
+
+
+Alcance: 1
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Después de herir a tu oponente con tu tridente, eres capaz de incinerarlo al contacto con el mismo. Efecto: Sólo puede utilizar esta habilidad tras generar un “50% [*0.5]” o más de daño con una habilidad de contacto que involucre el “Tridente de Netharium”. Genera daño por fuego infernal de “PM*1.5” a un único objetivo, de forma irreaccionable. [CENIZAS]: Un oponente derrotado por esta habilidad sufre una herida adicional. – Se considera efecto oculto.
+
+ACLARACIONES:
+  Requiere de “Tridente de Netharium”. Un uso cada dos rondas.
+
+================================================================================
+
+
+================================================================================
+[TRIDENTE DE NETHARIUM] – EJECUCIÓN INFERNAL
+================================================================================
+
+200 EXP
+
+
+Mística/Ígnea (Fuego Infernal) – Ofensiva
+
+
+Alcance: 2
+
+
+Coste: 3 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Apuntas con el tridente a la cabeza de uno de tus oponentes, incinerando la misma con suma facilidad. Efecto: Genera daño por fuego infernal de “PM*3”, además de un indirecto de quemadura infernal equivalente a “PM/3” durante 3 acciones. [INCINERAR CABEZA]: Un oponente derrotado por esta habilidad sufre una herida adicional. – Se considera efecto oculto. [EJECUTA DEMONIOS]: Frente a oponentes considerados demonios, posee un requisito de reacción de “5 REF”.
+
+ACLARACIONES:
+  Requiere de “Tridente de Netharium”.
+
+================================================================================
+
+
+================================================================================
+DESTIERRO
+================================================================================
+
+100 EXP
+
+
+Mística – Ofensiva
+
+
+Alcance: 5
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Eres capaz de invocar fuerzas metafísicas que expulsan a criaturas a otros planos u otros lugares. Efecto: Expulsa del combate a una mascota, acompañante, etcétera. [EXPULSAR DEMONIOS]: Esta habilidad no puede ser resistida por acompañantes o mascotas que se consideren demonios.
+
+ACLARACIONES:
+  Sólo resistible. Sólo puede ser anulada o anticipada mediante habilidades místicas, sólo si es igualado o superado en “PODER MÁGICO”.
+
+================================================================================
+
+
+================================================================================
+[TRIDENTE DE NETHARIUM] – IGNICIÓN INFERNAL
+================================================================================
+
+100 EXP
+
+
+Mística/Ígnea (Fuego Infernal) – Ofensiva
+
+
+Alcance: 5
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Apuntas con el tridente a uno de tus oponentes, manifestando llamas infernales en su cuerpo. Efecto: Genera daño por fuego infernal de “PM*2”, además de un indirecto de quemadura infernal equivalente a “PM/4” durante 3 acciones. [CENIZAS]: Un oponente derrotado por esta habilidad sufre una herida adicional. – Se considera efecto oculto.
+
+ACLARACIONES:
+  Requiere de “Tridente de Netharium”. Sólo resistible, anulable o anticipable.
+
+================================================================================
+
+
+================================================================================
+[TRIDENTE DE NETHARIUM] – CREMACIÓN DE LOS CONDENADOS
+================================================================================
+
+100 EXP
+
+
+Mística/Ígnea (Fuego Infernal) – Ofensiva
+
+
+Alcance: 5, Área 5 sobre el objetivo
+
+
+Coste: 3 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Invocas un abrazo crematorio alrededor de un gran grupo de individuos en busca de obliterar su presencia de todos los planos existenciales. Efecto: Genera daño por fuego infernal de “PM*3.25” en Área 5 alrededor de un objetivo. [CREMACIÓN INTERNA]: Un oponente derrotado por esta habilidad sufre una herida adicional viendo los tiempos mínimos y máximos aumentados en un “100% [*2]” . Si se recibe el estado “Muerto” a causa de esta habilidad, se considera una muerte por desintegración. No es posible reducir ni curar las heridas generadas por esta habilidad, debiendo esperar la totalidad del tiempo normal. – Se considera efecto oculto.
+
+ACLARACIONES:
+  Requiere de “Tridente de Netharium”.
+
+================================================================================
+
+
+================================================================================
+[TRIDENTE DE NETHARIUM] – BARRERA DE NETHARIUM
+================================================================================
+
+100 EXP
+
+  Mística/Ígnea (Fuego Infernal) – Defensiva (Externa)
+
+Alcance: Área 2
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Movimiento bruzco del Tridente de Netharium cuya estela ígnea forma una especie de barrera protectora. Efecto: Genera una defensa externa de “PM*2.35” la cual beneficia a todos los aliados dentro del alcance. [ESTELA ARDIENTE]: En caso de usarla ante ofensivas cuerpo a cuerpo, los oponentes recibirán la resistencia restante (en caso de haberla) a modo de daño por contacto. – Se considera efecto oculto.
+
+ACLARACIONES:
+  Requiere de “Tridente de Netharium”.
+
+================================================================================
+
+
+================================================================================
+[SOULFIRE] – PROYECCIÓN DE FUEGO DEL ALMA
+================================================================================
+
+100 EXP
+
+
+Mística/Ígnea (Fuego Infernal) – Ofensiva
+
+
+Alcance: VARIABLE
+
+
+Coste: VARIABLE
+
+
+TIER VARIABLE
+
+EFECTO VISUAL:
+  Incluso sin la presencia del Tridente de Netharium, posees la capacidad de realizar proyecciones ígneas infernales con el poder suficiente para obliterar a tus adversarios. Efecto: El usuario debe seleccionar uno (1) de los siguientes efectos al momento de usar esta habilidad. [RAYO DIRECTO]: Produce un daño de fuego de infernal “PM*1.65” junto a indirecto por quemadura infernal de “PM/5” durante 2 acciones. TIER 3. Consume 1 PA. Alcance 5. Es posible usarlo hasta dos veces por ronda. [RÁFAGA INFERNAL]: Produce un daño de fuego infernal “PM*1.75” junto a un indirecto de quemadura infernal de “PM/5” durante 3 acciones. TIER 3. Consume 1 PA. Cónico 4. [POTENCIA INFERNAL]: Es posible realizar esta habilidad una segunda vez durante la misma ronda viendo sus efectos modificados de la siguiente forma: Produce un daño de “PM*2.15” junto a un indirecto de PM/4 durante 4 acciones. TIER 2. Consume 2 PA. Cónico 6. [TORRENTE INCINERANTE]: Produce un daño de fuego infernal de “PM*2.2”. Genera un desplazamiento forzado expulsando a todos los objetivos fuera del alcance produciendo aturdimiento durante 4 acciones en caso de haber colisión. TIER 2. Consume 2 PA. Área Frontal 3x7 (ancho/largo).
+
+ACLARACIONES:
+  Todos los usos de esta habilidad se consideran habilidades distintas de cara a su utilización dentro de la misma ronda.
+
+================================================================================
+
+
+================================================================================
+[SOULFIRE] – LIBERACIÓN ÍGNEA
+================================================================================
+
+100 EXP
+
+  Mística/Ígnea (Fuego Infernal) – Defensiva (Anulación)
+
+Alcance: Propio
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Rodeas tu cuerpo de una intensa estela ígnea con la capacidad de incinerar toda restricción de movimiento presente en tu cuerpo. Efecto: Es posible usar esta habilidad en respuesta a un control de masa que se base en la utilización de un elemento externo para producirse (lazos, cadenas, látigos, esposas, etc.) para anular el mismo. En caso de que el elemento de control sea una parafernalia esta queda destruida por el resto del combate siempre que posea una dureza convencional. [INTOCABLE]: En caso de controles de masa basados en restricción cuerpo a cuerpo (como llaves marciales, agarres, retenciones, etc.) estos también serán anulados con el efecto adicional de producir una quemadura de “PM/3” durante 4 acciones. Este indirecto no podrá ser reaccionado por lo que solo podrá burlarse mediante inmunidades pasivas al fuego infernal.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[SOULFIRE] – ALIENTO INFERNAL
+================================================================================
+
+100 EXP
+
+  Mística/Ígnea (Fuego Infernal) – Ofensiva/Defensiva (Contraataque)
+
+Alcance: Cónico 5
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Proyección realizada a través de la boca del usuario la cual se extiende en forma cónica hacia el frente. Efecto: Produce un daño de fuego infernal “PM*2.4” a todos los objetivos dentro del alcance, junto a un indirecto por quemadura infernal de “PM/4” durante 4 acciones. [DESINTEGRACIÓN INFERNAL]: Esta habilidad ignora defensas internas realizadas mediante parafernalias con una dureza convencional afectando con normalidad a su objetivo. Adicionalmente, dicha parafernalia quedará destruida durante el resto del combate. – Se considera efecto oculto. [CONFROTACIÓN INFERNAL]: Es posible usar esta habilidad a modo de contraataque. En caso de contraatacar una habilidad realizada mediante armamento de dureza convencional, esta será anulada y atravesada por el aliento infernal produciendo la totalidad de sus efectos sobre los objetivos dentro del alcance. – Un uso cada 2 rondas. Se considera una habilidad distinta a su uso ofensivo convencional.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+EVASIÓN ÁGIL
+================================================================================
+
+100 EXP
+
+
+Física – Defensiva (Evasión)
+
+
+Alcance: Propio
+
+
+Coste: 2 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Eres capaz de esquivar ataques a alta velocidad, con suma destreza. Efecto: Permite evadir una habilidad ofensiva con proyección física de hasta Área 4.
+
+ACLARACIONES:
+  Solamente consume 1 PA para evadir habilidades directas o sin área.
+
+================================================================================
+
+
+================================================================================
+MANIPULACIÓN DE MEMORIAS
+================================================================================
+
+100 EXP
+
+
+Mística/Mental – Ofensiva
+
+
+Alcance: FDC
+
+
+Coste: FDC
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Eres capaz de manipular las memorias de otros individuos, siendo capaz de borrarlas a voluntad. Efecto: Puede utilizar esta habilidad como estado post-combate tras derrotar a un oponente: [MEMORIA A CORTO PLAZO]: El afectado pierde toda noción de lo que sucedió en el combate y de las últimas 24 horas, olvidando todo ese conocimiento. – Un uso cada 48 horas. Posee un uso [AMNESIA]: El afectado pierde noción de partes importantes de su identidad, olvidando incluso su propósito de vida. Se considera que el afectado olvida sus afiliaciones, amistades y “abandona” su agrupación en caso de poseer, perdiendo todos los beneficios de la misma y no puede asistir a eventos relacionados a la misma durante las próximas 72 horas. – Un uso cada 7 días, posee un enfriamiento individual de 21 días por jugador.
+
+ACLARACIONES:
+  No afecta a oponentes que superen en VOLUNTAD al usuario.
+
+================================================================================
+
+
+================================================================================
+CONTROL DE VOLUNTAD
+================================================================================
+
+100 EXP
+
+
+Mística/Mental – Ofensiva
+
+
+Alcance: 4
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Eres capaz de controlar la voluntad de otros individuos y someterlos, siendo incluso capaz de doblegar a individuos carentes de raciocinio mediante tus poderes metafísicos. Efecto: El usuario toma control del oponente durante el resto del turno propio, permitiéndole hacer uso de sus capacidades hasta finalizarlo. Mientras esta habilidad permanezca, el usuario puede realizar los siguientes comandos. [CONTROL DE ACCIÓN]: El usuario puede obligar al oponente a hacer uso de habilidades ofensivas o suplementarias dirigidas hacia el usuario o los aliados del afectado. El usuario consumirá 1 PA por cada acción que el oponente realice bajo su control. Por cada TIER de la habilidad este consumo aumenta en 1 PA. [CONTROL DE MOVIMIENTO]: El usuario puede obligar al oponente a desplazarse mientras esté bajo su control, sin embargo, no consumirá sus puntos de velocidad. [SOMETIMIENTO MÍSTICO]: Ignora inmunidades o reducciones a controles mentales por intelecto reducido o similares. [ESTÁS BAJO MI CONTROL]: En caso de derrotar a un oponente, podrá aplicar un estado post-combate al mismo de forma que pasará a estar controlado durante 24 horas por el usuario y deberá obedecer cada orden que le de, en este período el jugador controlado podrá unirse a los combates del usuario y podrá irrumpir ignorando todo tipo de requisitos, salvo el de huecos en combate. En caso de que el usuario sea derrotado en combate en este período o pase a estado Herido Grave mediante cualquier método (evento, escena, etcétera), el control finaliza automáticamente. – Un uso cada 5 días.
+
+ACLARACIONES:
+  - No afecta a oponentes que superen en VOLUNTAD al usuario. Debe resistirse. - El oponente nunca consumirá sus puntos de velocidad o puntos de acción propios. - Por cada 2 VOL de diferencia con el oponente consumirá +1 PA al Resistir.
+
+================================================================================
+
+
+================================================================================
+[TELEQUINESIS MÁGICA] – DETENCIÓN
+================================================================================
+
+100 EXP
+
+
+Mística – Defensiva (Anulación)
+
+
+Alcance: Propio / 5
+
+
+Coste: 1 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Eres capaz de utilizar tu telequinesis mágica para detener balas u objetos lanzados hacia ti. Efecto: Anula una habilidad que involucre el lanzamiento de proyectiles balísticos u objetos físicos, siempre que no supere el Área 2 o Cónico 3.
+
+ACLARACIONES:
+  Puede ser utilizada para defender a otros aliados sin la necesidad del comando básico Socorrer, utilizando el segundo alcance correspondiente. Su uso en aliados ve aumentado su coste en +1 PA.
+
+================================================================================
+
+
+================================================================================
+[TRIDENTE DE NETHARIUM] – DISPERSIÓN DE ILUSIONES
+================================================================================
+
+100 EXP
+
+
+Mística – Defensiva/Suplementaria
+
+
+Alcance: 5
+
+
+Coste: 1 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Levantas tu tridente y mediante la manipulación de energía mística eres capaz de dispersar una ilusión. Efecto: Anula una ilusión mística impuesta sobre el usuario o un aliado dentro del alcance, siempre y cuando iguale o supere en “PODER MÁGICO” al ejecutor. Es posible usarlo sobre todos los aliados dentro del alcance. El coste se ve aumentado en +1 PA en su uso sobre aliados.
+
+ACLARACIONES:
+  Requiere de “Tridente de Netharium”. Ante casos de no poseer PODER MÁGICO, requiere únicamente igualar en rango. Puede ser usada tanto en respuesta a modo de reacción o como habilidad suplementaria en el turno del usuario.
+
+================================================================================
+
+
+================================================================================
+[TRIDENTE DE NETHARIUM] – CAÍDA DEL TRUENO
+================================================================================
+
+100 EXP
+
+
+Energética/Mística – Ofensiva
+
+
+Alcance: Área 3 sobre el usuario
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Posees la capacidad de llamar un trueno a tu tridente, devastando la zona y enviando a volar a varios objetivos. Efecto: Genera daño energético de “PM*2.25” en Área 3 sobre el usuario, además de producir Derribo. Posee un requisito de reacción de “4 REF”. [CONDUCTOR]: Ignora defensas pasivas e internas de oponentes compuestos de metal, o bien defensas internas con armas de contacto metálicas. – Se considera efecto oculto.
+
+ACLARACIONES:
+  Requiere de “Tridente de Netharium”. En caso de que el tridente esté en otra casilla distinta a la del usuario por efecto de “Lanzar Tridente”, se produce en Área 3 sobre el mismo.
+
+================================================================================
+
+
+================================================================================
+[ELECTROQUINESIS] – MANIPULACIÓN ELÉCTRICA
+================================================================================
+
+100 EXP
+
+
+Energética/Mística – Ofensiva
+
+
+Alcance: 5
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Manipulas la electricidad de una lámpara o farola, redirigiéndola como relámpago en dirección a un oponente. Efecto: Genera daño energético de “PM*1.65” a un oponente, además de producir parálisis durante 2 acciones. Posee un requisito de evasión de “4 REF”. [CONDUCTOR]: Ignora defensas pasivas e internas de oponentes compuestos de metal, o bien defensas internas con armas de contacto metálicas. Además, la duración de la parálisis no puede ser reducida a “0” por este tipo de oponentes. – Se considera efecto oculto.
+
+ACLARACIONES:
+  Sólo puede ser utilizada en una sala que represente un espacio abierto o cerrado que posea objetos que emitan luz artificial por electricidad, como lámparas, farolas, etcétera, como puede ser una vía pública o el interior de un edificio. No es necesaria la presencia de un furni concreto.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO IV                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[TRIDENTE DE NETHARIUM] – INVOCAR TORMENTA
+================================================================================
+
+200 EXP
+
+
+Energética/Mística – Ofensiva
+
+
+Alcance: Sala
+
+
+Coste: 3 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Apuntas con tu tridente hacia los cielos, siendo capaz de invocar una tormenta que genera mal clima y produce la caída de rayos. Efecto: Invocas una tormenta durante los próximos 12 turnos generales. Al inicio de cada turno general, caen rayos que generan daño energético de “PM*1.5” en Área 1 sobre cada oponente en combate. No caen sobre oponentes a los cuales el usuario no pueda detectar. [CONDUCTOR]: Ignora defensas pasivas e internas de oponentes compuestos de metal, o bien defensas internas con armas de contacto metálicas. – Se considera efecto oculto.
+
+ACLARACIONES:
+  Requiere de “Tridente de Netharium” y sólo puede ser utilizada en una sala que represente un espacio abierto. Un uso cada 10 días en caso de ser efectiva y un uso cada tres rondas en caso de ser anulada o anticipada. Esta tormenta no puede ser anticipada, anulada ni eliminada salvo por oponentes que superen en VOLUNTAD al usuario o bien posean “PODER MÁGICO – TIER I” o “CONTROL ELEMENTAL – I”.
+
+================================================================================
+
+
+================================================================================
+[TRIDENTE DE NETHARIUM] – MURALLA FLAMÍGERA
+================================================================================
+
+200 EXP
+
+
+Mística/Ígnea (Fuego Infernal) – Ofensiva
+
+
+Alcance: 5. 1x7 (LargoxAncho)
+
+
+Coste: 3 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Formas una suerte de muro compuesto de fuego del infierno que impide el paso de tus adversarios. Efecto: Invoca una muralla de fuego que ocupa una línea/fila de hasta 7 casillas consecutivas. Las casillas ocupadas por la muralla ígnea producirán un daño inicial de “PM*2.5” a todos los objetivos dentro del alcance al momento de ser invocadas. Posteriormente, las casillas afectadas por la muralla se mantendrán incendiadas durante los próximos 6 turnos. [INCENDIO]: Las casillas incendiadas o afectadas por “INCENDIO” producirán un daño de fuego infernal no reaccionable de “PM” a todos los individuos que trasiten por ellas. La altura de las llamas alcanza incluso aquellos en posición levitadora/alzada mientras que los individuos en posición voladora podrán transitar dichas casillas sin consecuencia alguna.
+
+ACLARACIONES:
+  - Un uso cada 3 rondas. - Requiere de “Tridente de Netharium”. - Es posible usarla a modo de anticipación cortando un acercamiento enemigo en el momento que se desee siempre y cuando se encuentre dentro del alcance.
+
+================================================================================
+

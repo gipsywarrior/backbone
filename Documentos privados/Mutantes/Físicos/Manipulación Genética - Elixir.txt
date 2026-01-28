@@ -1,0 +1,585 @@
+
+████████████████████████████████████████████████████████████████████████████████
+                         Manipulación Genética   Elixir                         
+████████████████████████████████████████████████████████████████████████████████
+
+
+
+--------------------------------------------------------------------------------
+                              HABILIDADES BÁSICAS                               
+--------------------------------------------------------------------------------
+
+
+================================================================================
+MANIPULACIÓN GENÉTICA – GEN X
+================================================================================
+  Física – Pasiva
+
+EFECTO VISUAL:
+  Por tu gen x han sido clasificado como un mutante de Nivel Omega. Tienes la capacidad de manipular el material orgánico a nivel genético el cual puedes utilizar para curar heridas, como también para terminar con la vida de un ser viviente. Efecto: Adquieres los siguientes STATS y características mostradas a continuación. [PIEL DORADA]: El usuario debe representar una tara física dorada en la plataforma de juego Hobba de manera obligatoria. De no hacerlo, podría acarrear consecuencias. [VITALIDAD – SOBREHUM.+]: Posees mayor vigorosidad que un humano común. [REGENERACIÓN – TIER X]: Tu capacidad de regenerarte es clasificada como una de las más poderosas y altamente eficaz. Indirectos por hemorragia, envenenamiento, quemadura, asfixia se ven reducidos a 0 Acciones y aplica a indirectos mentales y místicos. Posees inmunidad absoluta a toda enfermedad, veneno o indirecto existente y/o clasificada como “no catalogado”. Las amputaciones/inhabilitaciones de extremidades con duración por acciones se ven reducidas en 1 Acción y si aplica en días y/o horas únicamente duran 5 minutos como máximo. Las extremidades amputadas por todo el combate se regeneran en un total de 3 Acciones. Las incapacidades por lesiones, roturas de hueso, sorderas, pérdida del habla y cegueras se ven reducidas también en 1 Acción. Tus HERIDAS LEVES sanan de manera automática, así como tus HERIDAS GRAVES y HERIDAS CRÍTICAS ven reducida su duración mínima y máxima en un 90% [*0.10] (redondeado a la baja a partir de cualquier decimal. [VIRTUALMENTE INMORTAL]: Puedes regresar de la muerte bajo casi cualquier concepto, ya que al morir auto-revives al pasar 6 Horas. Aplica a muertes en eventos o en combates, no puedes revivir si eres borrado de la realidad o similares. [EFECTO PVP]: Durante un combate en caso de caer derrotado, puedes volver a levantarte con el 50% [*0.50] de tu VIT MÁX y el 50% [*0.50] de tus PA para el uso exclusivo de habilidades defensivas. – Un uso cada 24 horas. [VERSATILIDAD COMBATIVA]: Adquieres los perfiles Combatiente Ágil y Combatiente Bruto de manera gratuita. [VEL/FUE HUM. ENTR.]: Posees un físico entrenado capaz de mantenerse en combate durante más tiempo que un humano común. [REFLEJOS]: Tu entrenamiento ha mejorado tu capacidad de reacción. [2 REF] [DEFENSA PASIVA – RES. LÍM. HUM.]: Tu capacidad de soportar impactos es superior a la de un humano común. [CONTROL ENERGÉTICO – TIER II.]: Tus habilidades provenientes del gen-x escalan haciendo uso del atributo EN clasificado como TIER II. [RANGO IV]: El atributo escala a TIER I.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+PIEL DICROMATIFORMA – MODO ENFERMEDAD
+================================================================================
+  Física – Pasiva
+
+EFECTO VISUAL:
+  Eres capaz de dañar a otros causando diferentes tipos de enfermedades, hinchazones, fallas en los órganos, incluso la muerte. A su vez, entras en un estado donde eres vulnerable psicológicamente, volviéndote aparentemente loco. Efecto: El usuario adquiere las siguientes características mostradas a continuación. [PIEL OSCURA]: El usuario puede cambiar su color de piel a oscura en cualquier momento, pudiendo mantenerse así dentro o fuera de un combate. Sin embargo, cambiar de color de piel deberá indicarse en un combate durante su turno sin consumo de PA, máximo una vez por Ronda. [RANGO III]: A partir de este rango, puede cambiar de piel hasta máximo 2 veces por Ronda. [RANGO IV – CAMBIO PARCIAL]: A partir de este rango, puede cambiar parcialmente su piel (en su mayoría, enfocada en sus manos) para hacer uso de las habilidades provenientes del modo enfermedad sin perder los beneficios de piel dorada, haciendo uso del comando *Cambio parcial (extremidad(es)* junto a una habilidad ofensiva/defensiva. No posee límite de usos por ronda, sin embargo, al partir del tercer uso consume 1 PA. [TOQUE MORTAL]: Cuando un oponente tenga contacto físico con tu cuerpo, recibirá un daño irreaccionable de “EN” el cual no puede ser curado ni regenerado a menos que posean una regeneración equivalente o superior a TIER 1. Este daño ignora cualquier inmunidad a enfermedades, toxinas, gases, entre otros de cualquier clase. Este efecto no aplica frente a armas DE CONTACTO o ARMADURAS que cubran el cuerpo del oponente de resistencia/dureza equivalente o inferior a RES. DIVINA/Uru. [TOQUE MORTAL - RANGO IV]: A partir de este rango, requiere poseer regeneración equivalente o superior a TIER 0. [TOQUE DE MUERTE]: Tus ofensivas cuerpo a cuerpo ignoran por completo [*0] las defensas pasivas e internas realizadas con alguna parte del cuerpo, con dureza equivalente o inferior a BESTIA. En caso contrario, solo ignoran un 50% [*0.50] el RESTO de defensas pasivas e internas. Este efecto no aplica frente a armas DE CONTACTO o ARMADURAS que cubran el cuerpo del oponente de resistencia/dureza equivalente o inferior a RES. DIVINA/Uru. [DESCONTROL MENTAL]: Si posees este modo por más de 30 MINUTOS o en su defecto, durante el combate te mantienes por más de RANGO TURNOS PROPIOS con la piel oscura, entrarás en un estado de DESCONTROL MENTAL en el cual adquieres las siguientes características: [LOCURA]: En este estado eres incapaz de regresar a tu PIEL DORADA tras haber pasado un total de 3 HORAS o en su defecto, durante el RESTO DEL COMBATE. [SIN CONTROL]: En este estado te vez obligado a dañar a cualquier persona que se encuentre cerca de ti, no eres capaz de distinguir entre tus aliados y enemigos, o en su defecto, Habilidades suplementarias como Órdenes u otras similares no tienen efecto en ti.
+
+ACLARACIONES:
+
+================================================================================
+
+
+================================================================================
+MANIPULACIÓN GENÉTICA – RESURRECCIÓN Y CURACIÓN
+================================================================================
+  Física – Pasiva
+
+EFECTO VISUAL:
+  Tienes la capacidad de revivir a cualquier ser vivo, reconstruyendo su cuerpo a nivel molecular, restaurando órganos y sistemas perdidos, hasta traerlo de devuelta a la vida. Efecto: Puedes traer de vuelta a la vida a cualquier personaje que haya muerto de forma definitiva. Tienes 72 horas a partir de su muerte para revivirlo. Esta resurrección tiene un tiempo de reutilización base de 6 HORAS, la cual irá aumentando en +2 HORAS por cada personaje revivido. Puedes revivir hasta un total de (3) TRES personajes al mismo tiempo, Esta resurección no funciona si el personaje ha sido borrado de la realidad o similares. [REGENERACIÓN DE HERIDAS]: Adquieres el perfil Paramédico de manera gratuita, además, ignorar el tiempo mínimo para curar heridas de SERES VIVOS, así como el límite de curaciones semanales. [CURACIÓN INSTANTÁNEA]: Tienes la capacidad de curar por completo las heridas de cualquier SER VIVO de forma instantánea, es decir, si se encuentra Herido Crítico, pasará de forma automática a ILESO. En casos especiales como efectos post evento interpretativos o de alguna habilidad especial, se requiere realizar una escena con una duración mínima de 5 minutos donde muestre cómo sana las heridas del personaje. [CONOCIMIENTO INNATO]: Adquieres todos los caminos de Médico Especialista de forma pasiva y “CON” se ve sustituido por “EN” para el uso de las habilidades. [REGENERACIÓN DE EXTREMIDADES/ÓRGANOS]: Tienes la capacidad de regenerar cualquier órgano o extremidad de un SER VIVO. Se requiere realizar una escena con una duración mínima de 5 minutos.
+
+ACLARACIONES:
+  Requiere poseer PIEL DORADA activa.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO I                                     
+--------------------------------------------------------------------------------
+
+
+================================================================================
+TOQUE CURATIVO
+================================================================================
+
+100 EXP
+
+
+Físico – Suplementaria
+
+
+Alcance: 1
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Al entrar en contacto con cualquier ser vivo eres capaz de restaurar las células muertas de su cuerpo, con el fin de sanar cualquier herida interna como externa. Efecto: Restauras un total de “EN*1.25“ de VITALIDAD a uno de tus aliados o a ti mismo. Adicionalmente, reduces en 0 Acciones cualquier indirecto que posea activo sin importar su clasificación. Puede incrementarse la restauración de VIT en “EN*2”, consumiendo 1 PA adicional. [CURACIÓN A DISTANCIA – RANGO II]: Permite utilizar esta habilidad en ALCANCE 3. [CURACIÓN A DISTANCIA – RANGO III]: Permite utilizar esta habilidad en ALCANCE 5.
+
+ACLARACIONES:
+  Requiere poseer PIEL DORADA activa.
+
+================================================================================
+
+
+================================================================================
+RESTAURACIÓN
+================================================================================
+
+100 EXP
+
+
+Físico – Suplementaria
+
+
+Alcance: 1
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Restauras la movilidad de una o varias extremidades, la función de un órgano, incluso, regenerar una amputación o daños irreversibles. Efecto: Restauras o regeneras toda extremidad u órgano que haya sido inhabilitado, amputado, entre otros efectos, en su totalidad. [RESTAURACIÓN A DISTANCIA – RANGO II]: Permite utilizar esta habilidad en ALCANCE 3. [CURACIÓN A DISTANCIA – RANGO III]: Permite utilizar esta habilidad en ALCANCE 5.
+
+ACLARACIONES:
+  Requiere poseer PIEL DORADA activa.
+
+================================================================================
+
+
+================================================================================
+DETECCIÓN GENÉTICA
+================================================================================
+
+100 EXP
+
+
+Físico – Suplementaria
+
+
+Alcance: Sala
+
+
+0 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Tienes la capacidad de percibir todo ser vivo presente a tu alrededor, siendo incapaces de mantenerse ocultos sin importar sus habilidades. Efecto: Detecta a los rivales que se encuentren ocultos que se consideren SERES VIVOS, sin importar su capacidad de ocultación durante RANGO Turnos propios. Después del primer uso, posee un coste de 1 PA por uso adicional en combate.
+
+ACLARACIONES:
+  Requiere poseer PIEL DORADA activa.
+
+================================================================================
+
+
+================================================================================
+ALIVIO
+================================================================================
+
+100 EXP
+
+
+Físico – Suplementaria
+
+
+Alcance: 1
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Al entrar en contacto con cualquier ser vivo eres capaz de ayudarle a sentir alivio de cualquier situación en la que se encuentre. Efecto: Anulas el control mental, parálisis, cegueras, entre otros de un aliado o a ti mismo sin importar su índole. No funciona frente a controles realizados con armas u objetos, por ejemplo, una inmovilización realizada por una cuerda. [ALIVIO A DISTANCIA – RANGO III]: Permite utilizar esta habilidad en ALCANCE 3. [ALIVIO A DISTANCIA – RANGO IV]: Permite utilizar esta habilidad en ALCANCE 5.
+
+ACLARACIONES:
+  Requiere poseer PIEL DORADA activa.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO II                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+TOQUE DE ENFERMEDAD – FALLA INTERNA
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: 1
+
+
+1 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Tienes la capacidad de hacer fallar uno o incluso todos los órganos de cualquier ser vivo. Efecto: Genera un daño INTERNO de “EN*1.55” el cual no puede ser sanado de ninguna manera a menos que cumpla los requisitos de TOQUE MORTAL. Únicamente evadible, anticipable, anulable o defendible con defensas externas. – En caso de realizar una anticipación o anulación que realice contacto cuerpo a cuerpo con el usuario, recibirá sus efectos. Se considera efecto oculto. [FALLA INTERNA – RANGO III]: Permite utilizar esta habilidad en ALCANCE 4. Adicionalmente, puede añadir un ÁREA 2 sobre el rival afectado, consumiendo +1 PA.
+
+ACLARACIONES:
+  Requiere poseer PIEL OSCURA activa.
+
+================================================================================
+
+
+================================================================================
+TOQUE DE ENFERMEDAD – FALLA CEREBRAL
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: 1
+
+
+1 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Tienes la capacidad de hacer fallar el cerebro de un ser vivo ocasionando graves consecuencias. Efecto: Genera un daño INTERNO de “EN*1.75” el cual no puede ser sanado de ninguna manera a menos que cumpla los requisitos de TOQUE MORTAL. Produce la alteración Aturdido durante 3 Acciones. Únicamente evadible, anticipable, anulable o defendible con defensas externas. – En caso de realizar una anticipación o anulación que realice contacto cuerpo a cuerpo con el usuario, recibirá sus efectos. Se considera efecto oculto. [FALLA INTERNA – RANGO III]: Permite utilizar esta habilidad en ALCANCE 4. Adicionalmente, puede añadir un ÁREA 2 sobre el rival afectado, consumiendo +1 PA. [EFECTO OCULTO]: En caso de recibir 3 veces daño de esta habilidad, el usuario queda fuera del combate de manera automática sin importar si aún posee VITALIDAD para mantenerse en pie.
+
+ACLARACIONES:
+  Requiere poseer PIEL OSCURA activa.
+
+================================================================================
+
+
+================================================================================
+TOQUE DE ENFERMEDAD – FALLA CORPORAL
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: 1
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Tienes la capacidad de hacer fallar el cerebro de un ser vivo ocasionando graves consecuencias. Efecto: Genera un daño INTERNO de “EN*2.25” el cual no puede ser sanado de ninguna manera a menos que cumpla los requisitos de TOQUE MORTAL. Produce la inhabilitación de una extremidad a elección durante 5 Acciones. Únicamente evadible, anticipable, anulable o defendible con defensas externas. – En caso de realizar una anticipación o anulación que realice contacto cuerpo a cuerpo con el usuario, recibirá sus efectos. Se considera efecto oculto. [FALLA INTERNA – RANGO III]: Permite utilizar esta habilidad en ALCANCE 4. Adicionalmente, puede añadir un ÁREA 2 sobre el rival afectado, consumiendo +1 PA. [EFECTO OCULTO]: En caso de recibir 3 veces daño de esta habilidad inhabilitando la misma extremidad, esta queda inutilizada durante el resto del combate y tiene efectos post-combate, las cuales permanece inutilizada durante 48 Horas. Este efecto se repite en cada extremidad afectada.
+
+ACLARACIONES:
+  Requiere poseer PIEL OSCURA activa.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                   RANGO III                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+REANIMACIÓN
+================================================================================
+
+100 EXP
+
+
+Físico – Suplementaria
+
+
+Alcance: 1
+
+
+3 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Tienes la capacidad de sanar por completo las heridas de un ser vivo para que pueda levantarse y seguir combatiendo. Efecto: Regresa al combate a un aliado caído con el 25% [*0.25] de su VIT TOTAL. Un uso por combate. [REANIMACIÓN A DISTANCIA – RANGO IV]: Permite utilizar esta habilidad en ALCANCE 6 y adquieres un uso adicional de esta habilidad.
+
+ACLARACIONES:
+  Requiere poseer PIEL DORADA activa.
+
+================================================================================
+
+
+================================================================================
+FACTOR CURATIVO INNATO
+================================================================================
+
+100 EXP
+
+
+Físico – Suplementaria
+
+
+Alcance: Área 5 sobre ti
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Tienes la capacidad de sanar a todo ser vivo que se encuentre cerca de ti sin necesidad de tener contacto. Efecto: Los aliados que se encuentre dentro del área de alcance, reciben una curación de “REGENERACIÓN – TIER 1” durante 5 turnos generales. Un uso cada 4 Rondas al finalizar sus efectos.
+
+ACLARACIONES:
+  Requiere poseer PIEL DORADA activa.
+
+================================================================================
+
+
+================================================================================
+AMPLIFICACIÓN DE HABILIDADES
+================================================================================
+
+100 EXP
+
+
+Físico – Suplementaria
+
+
+Alcance: Área 5 sobre ti
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Eres capaz de potenciar las capacidades de cualquier ser vivo que se encuentra cerca de ti. Efecto: Las habilidades ofensivas y defensivas de tus aliados (con relación a su poder, es decir, no incrementa las habilidades de una destreza humana, por ejemplo) aumentan su efectividad en “EN” durante sus próximas 3 Acciones. Un uso cada 3 Rondas al finalizar sus efectos.
+
+ACLARACIONES:
+  Requiere poseer PIEL DORADA activa.
+
+================================================================================
+
+
+================================================================================
+TOQUE DE ENFERMEDAD – PARÁLISIS TOTAL
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: 1
+
+
+3 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Tienes la capacidad de hacer fallar el cerebro de un ser vivo ocasionando graves consecuencias. Efecto: Genera un daño INTERNO de “CON*3” el cual no puede ser sanado de ninguna manera a menos que cumpla los requisitos de TOQUE MORTAL. Produce la alteración Paralizado durante 3 Acciones. Únicamente evadible, anticipable, anulable o defendible con defensas externas. – En caso de realizar una anticipación o anulación que realice contacto cuerpo a cuerpo con el usuario, recibirá sus efectos. Se considera efecto oculto.
+
+ACLARACIONES:
+  Requiere poseer PIEL OSCURA activa.
+
+================================================================================
+
+
+================================================================================
+TOQUE DE ENFERMEDAD – COLAPSO MENTAL
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: 3
+
+
+4 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Tienes la capacidad de generar un terrible dolor en el cerebro de un ser vivo, sintiendo como este va colapsando bruscamente. Efecto: Genera un daño INTERNO de “CON*4” el cual no puede ser sanado de ninguna manera a menos que cumpla los requisitos de TOQUE MORTAL. – En caso de realizar una anticipación o anulación que realice contacto cuerpo a cuerpo con el usuario, recibirá sus efectos. Se considera efecto oculto. El usuario puede utilizar esta habilidad para aumentar en +1 La Herida de un rival caído en combate. Adicionalmente, puede añadir un ÁREA 2 sobre el rival afectado, consumiendo +1 PA.
+
+ACLARACIONES:
+  Requiere poseer PIEL OSCURA activa.
+
+================================================================================
+
+
+================================================================================
+TOQUE DE ENFERMEDAD – FALLA DEL SISTEMA NERVIOSO
+================================================================================
+
+100 EXP
+
+
+Física – Defensiva (Anulación)
+
+
+Alcance: 4
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Tienes la capacidad de hacer fallar el sistema nervioso de un oponente con gran facilidad. Efecto: Anula una habilidad ofensiva con proyección física o el desplazamiento del oponente, dentro del área de alcance. Puedes añadir un daño interno equivalente a “EN*1.65” junto a esta anulación, consumiendo 1 PA adicional. Puede ser reaccionado.
+
+ACLARACIONES:
+  Requiere poseer PIEL OSCURA activa.
+
+================================================================================
+
+
+================================================================================
+TOQUE DE ENFERMEDAD – DERRAME CEREBRAL
+================================================================================
+
+100 EXP
+
+
+Física – Defensiva (Anticipación)
+
+
+Alcance: 4
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Tienes la capacidad provocar un derrame cerebral sin dificultad Efecto: Daña internamente “EN*1.35” en concepto de anticipación. Puede ser reaccionado.
+
+ACLARACIONES:
+  Requiere poseer PIEL OSCURA activa.
+
+================================================================================
+
+
+================================================================================
+CURACIÓN TOTAL
+================================================================================
+
+300 EXP
+
+
+Física – Suplementaria
+
+
+Alcance: Propio
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Tienes la capacidad de sanarte por completo concentrando todo tu poder. Efecto: Posee dos usos a elección del usuario. Aumentas en un 100% [*2] la efectividad de tu regeneración durante 2 turnos propios. Máximo dos usos por combate. Restauras por completo tu VITALIDAD. Un uso por combate.
+
+ACLARACIONES:
+  Requiere poseer PIEL DORADA activa.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO IV                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+TOQUE DE ENFERMEDAD – FALLA INTERNA
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: Área 4 sobre ti
+
+
+3 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Tienes la capacidad de hacer fallar desde la mínima célula hasta el sistema nervioso por completo de una persona, produciendo dolores insoportables. Efecto: Genera un daño INTERNO de “EN*3.25” y un indirecto clasificado como DOLOR del 20% [*0.20] del daño causado durante 5 acciones, el cual no puede ser sanado de ninguna manera a menos que cumpla los requisitos de TOQUE MORTAL. – En caso de realizar una anticipación o anulación que realice contacto cuerpo a cuerpo con el usuario, recibirá sus efectos. Se considera efecto oculto. El daño se produce de forma individual a pesar de ser un área, al ser un daño interno.
+
+ACLARACIONES:
+  Requiere poseer PIEL OSCURA activa.
+
+================================================================================
+
+
+================================================================================
+TOQUE DE ENFERMEDAD – HEMORRAGIA INTERNA
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: Área 4 sobre ti
+
+
+3 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Tienes la capacidad de dañar desde una arteria hasta los órganos en su totalidad, provocando una hemorragia interna. Efecto: Genera un indirecto de Hemorragia INTERNA del 05% [*0.05] VIT MÁX. del oponente durante 5 acciones, el cual no puede ser sanado de ninguna manera a menos que cumpla los requisitos de TOQUE MORTAL. – En caso de realizar una anticipación o anulación que realice contacto cuerpo a cuerpo con el usuario, recibirá sus efectos. Se considera efecto oculto. El daño se produce de forma individual a pesar de ser un área, al ser un daño interno.
+
+ACLARACIONES:
+  Requiere poseer PIEL OSCURA activa.
+
+================================================================================
+
+
+================================================================================
+TOQUE DE ENFERMEDAD – ENFERMEDAD TERMINAL
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: 4
+
+
+4 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Tienes la capacidad de generar enfermedades terminales en tus oponentes sin dificultad alguna. Efecto: Genera un daño INTERNO de “EN*4.15” y un indirecto clasificado como QUEMADURA INTERNA del 20% [*0.20] del daño causado durante 5 acciones, el cual no puede ser sanado de ninguna manera a menos que cumpla los requisitos de TOQUE MORTAL. – En caso de realizar una anticipación o anulación que realice contacto cuerpo a cuerpo con el usuario, recibirá sus efectos. Se considera efecto oculto. [EFECTO POST-COMBATE]: Puede utilizarse sobre el rival derrotado, permaneciendo la enfermedad terminal durante 72 horas donde sus STATS se reducen un 35% [*0.65] y en caso de combatir, obtiene un indirecto no catalogado del 02% [*0.02] VIT MÁX durante todo el combate. – Un uso cada 7 días sobre el mismo oponente.
+
+ACLARACIONES:
+  - Requiere poseer PIEL OSCURA activa. - Un uso cada 3 Rondas.
+
+================================================================================
+
+
+================================================================================
+TOQUE DE ENFERMEDAD – FALLO PULMONAR
+================================================================================
+
+100 EXP
+
+
+Física – Ofensiva
+
+
+Alcance: Área 4 sobre ti
+
+
+4 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Tienes la capacidad de hacer fallar los pulmones dejándolos inútiles y sin la capacidad de oxigenar. Efecto: Genera un indirecto de ASFIXIA del 10% [*0.10] VIT MÁX. del oponente durante 4 acciones, el cual no puede ser sanado de ninguna manera a menos que cumpla los requisitos de TOQUE MORTAL. – En caso de realizar una anticipación o anulación que realice contacto cuerpo a cuerpo con el usuario, recibirá sus efectos. Se considera efecto oculto. El daño se produce de forma individual a pesar de ser un área, al ser un daño interno.
+
+ACLARACIONES:
+  - Requiere poseer PIEL OSCURA activa. - Un uso cada 3 Rondas.
+
+================================================================================
+

@@ -1,0 +1,757 @@
+
+████████████████████████████████████████████████████████████████████████████████
+                      Telepatía Grupal   Stepford Cuckoos                       
+████████████████████████████████████████████████████████████████████████████████
+
+
+
+--------------------------------------------------------------------------------
+                              HABILIDADES BÁSICAS                               
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – CREACIÓN ARTIFICIAL
+================================================================================
+  Física — Pasiva
+
+EFECTO VISUAL:
+  Las hermanas fueron creadas a obra y semejanza de un mutante de gran capacidad telepática con la capacidad de convertir su cuerpo en diamante. Gracias a este programa, sus cuerpos nacieron de forma perfecta, poseyendo atributos desarrollados a un nivel más que óptimo para el ser humano corriente, siendo una creación sin aparentes defectos en cuanto a capacidades físicas. Efecto: Las usuarias obtienen un aumento de atributos de: [VITALIDAD/VELOCIDAD – HUMANO ENTRENADO]: Las hermanas son capaces de mantener ritmos de entrenamiento físico superior al del humano corriente, destacándose entre los más comunes de su clase con facilidad. [2 REFLEJOS]: Las hermanas poseen reflejos entrenados, pero no sobresalen de forma extrema con respecto a otros humanos. [ENTRENAMIENTO CUERPO A CUERPO]: Las hermanas son capaces de entablar combates cuerpo a cuerpo contra otros usuarios sin demasiada complicación, siempre y cuando estos estén también limitados a un nivel humano. Desarrollan el perfil Combatiente Ágil/Bruto.
+
+ACLARACIONES:
+  Los atributos aumentados se REEMPLAZAN, en ningún caso se suman entre sí.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – MENTE COLMENA TELEPÁTICA
+================================================================================
+  Especial — Pasiva
+
+EFECTO VISUAL:
+  Las hermanas funcionan como una única mente cuando están, compartiendo información de forma permanente, así como la mayoría de sus pensamientos. Su coordinación es perfecta, conociéndose a profundidad como si se tratasen de una misma. Efecto: Las usuarias están obligadas a compartir una única ficha, por ello las ganancias de experiencia en todos los ámbitos equivalen a las de uno solo. Adicionalmente, la ficha en común deberá contar con un registro que distinga los ingresos y egresos de divisas de cada uno de los jugadores. De cara a la adquisición de material, se considera que todos los usuarios comparten documentos. Estas poseen los beneficios descritos a continuación: [HERMANDAD]: Las usuarias detectan cuando una de las suyas está en peligro. Es posible unirse entre sí en calidad de aliados mediante el comando Irrumpir ignorando cualquier tipo de requisito de unión, a excepción del propio límite de huecos. [TE METES CON UNA, TE METES CON TODAS]: Las usuarias acostumbran a estar juntas al momento de combatir. En caso de que una de las usuarias reciba un reto o ataque fuera de combate, el resto de las usuarias podrán unirse a esta ignorando otros retos que pretendan separarlas, sin embargo, deberá ser automática la unión. Esto significa que, en caso de no tener interés en unirse a dicho combate, el reto será válido y están obligadas a luchar. Esta capacidad sólo aplica hasta el momento en el que llenan los huecos del combate. [LÍDERES NATURALES]: Las usuarias poseen un importante lazo entre ellas, siendo capaz de darse las órdenes óptimas. Este talento de coordinarse perfectamente les ha permitido amplicarlo hasta quienes les rodean. Adquieren el perfil Líder. La primera órden dada en una ronda dirigida a una de sí mismas no poseerá consumo de PA. [UNA MISMA]: Las usuarias poseen un mismo código genético, por lo que comúnmente con afectar a una se puede crear una secuencia de beneficios en todas. Las habilidades aplicadas sobre aliados aplican a todas las miembros de la Mente Colmena Telepática en caso de ser una de ellas objetivo de la misma. Se mantendrá durante las acciones que indique la habilidad con normalidad, pero, en caso de tratarse de usos específicos, cada una de las usuarias poseerá el suyo sin cancelar el de la otra. [TRES EN UNA]: Las usuarias poseen diversas formas de compenetrar su mente colmena, escalando en sus propios niveles de poder conocido. El primero de ellos es el Tres en Una. El Tres en Una se activa automáticamente cuando tres de las usuarias se encuentran en combate, dando una serie de beneficios descritos en distintas partes de este documento. [CINCO EN UNA]: Las usuarias poseen diversas formas de compenetrar su mente colmena, escalando en sus propios niveles de poder conocido. El segundo de ellos es el Cinco en Una. El Cinco en Una se activa automáticamente cuando cinco de las usuarias logran entrar en un mismo combate. La única forma de que esta capacidad se active es haciendo uso de la habilidad con el mismo nombre de este comando, permitiendo que todas las usuarias que forman parte de la Mente Colmena Telepática puedan introducirse en un mismo combate ignorando los huecos requeridos. El comando se activa bien, al inicio de un combate, o después de que se una una nueva usuaria cuando ya se encuentran todos los huecos ocupado, requeriendo que se una la quinta para obtener sus beneficios. Sólo es posible gozar de los beneficios de Cinco en Una una vez cada 48 horas. Al hacer uso de este comando las usuarias reducen sus PA en un “75% [*0.75]”. Permite que el bando oponente pueda hacer uso de un hueco extra de combate. Ante la ventaja numérica es posible realizar hasta dos turnos seguidos (según el orden fijo) considerándose que es uno sólo para mantener la repartición de turnos. [REINA DE LA COLMENA]: No siempre la mente colmena funciona como debe, pues la necesidad de un poder superior puede llevar al arrebato de sus hermanas. Es posible que una de las usuarias de la Mente Colmena Telepática se declare a sí misma la Reina de la Colmena, gozando de los beneficios citados a continuación: La usuaria declarada como reina obtendrá una TELEPATÍA DE ORDEN SUPERIOR. A cambio, el resto de las usuarias no poseerá la capacidad de alcanzar esta escala de telepatía al unirse en Tres en Una. La usuaria poseerá +1 PA extra en combate. A cambio, el resto de las usuarias perderá también 1 PA de sus contadores. La usuaria adquiere +1 VOL. La usuaria pierde los beneficios indicados en “Hermandad” y “Te metes con una, te metes con todas”. En caso de luchar con otras usuarias de la Mente Colmena Telepática la usuaria obtiene un beneficio en su escalados de daño de “10% [*1.10]” (se suma al múltiplo de la habilidad, no al daño final de la misma). A cambio, el resto de las usuarias reducen un “10% [*0.9]” sus daños. La única forma de revertir esta decisión es o bien voluntariamente, o enfrentando a la reina y derrotándole conformando un bando formado únicamente por las propias usuarias de la Mente Colmena Telepática. En este combate la reina obtendrá +5 PA extras, y puede intercalar su turno propio entre todos los de sus oponentes según considere necesario. Ninguna capacidad indicada en “Enlace Psíquico Gestalt” puede ser aplicada en contra de la propia reina. En cambio, esta sí podrá aplicarlo sobre el resto. [COMO ORDENE, MISS FROST]: Nunca será posible negar de dónde vienen. Es posible que que el/la portador/a de Telepatía y Cuerpo de Diamante (Emma Frost) se incluya de forma consensuada en la Mente Colmena Telepática, pudiendo gozar y compartir los beneficios que estas se brindan entre sí. Cuenta como una miembro natural más, por lo que todos los comandos son compartidos en combate. En el caso de beneficios por escala estos no son compartidos de forma automática El comando POTENCIACIÓN tan sólo brindará un aumento del “15% [*1.15]” en los daños/+1 acción de duración del portador de dicho poder, pues no posee beneficios personalizados. Sólo es posible elegir uno de los beneficios. El comando PROPAGACIÓN puede ser compartido aún si no poseen la habilidad.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – ENLACE PSÍQUICO GESTALT
+================================================================================
+  Mental — Pasiva
+
+EFECTO VISUAL:
+  Las hermanas desarrollaron gracias a sus modificaciones genéticas una telepatía semejante a la portadora del código genético original, sin embargo, sus capacidades individuales se vieron mermadas comparadas a ella, desarrollándose a cambio la capacidad de funcionar como una mente colmena perfecta. Unidas, son más que la suma de sus partes, convirtiéndose en telépatas de un nivel omega y superando con creces a quienes pretendían copiar. Efecto: Las usuarias poseen una TELEPATÍA ALPHA de forma individual, lo que le otorga acceso directo al atributo de PODER PSÍQUICO (PSI). Este valor es utilizado en todas las habilidades de índole mental que lo presenten en sus cálculos y escala conforme ascienda de rango. [BENEFICIOS PASIVOS] [TELEPATÍA ALPHA]: Las usuarias, por separado, debido a la naturaleza de sus poderes mutantes han reforzado su voluntad, destacando sobre las mentes ordinarias. [+1 VOL] [COMPARTIR GASTO]: Siempre que esté en compañía de otra miembro de la Mente Colmena Telepática es posible compartir sus gastos de PA entre sí siempre y cuando se trate de habilidades telepáticas pertenecientes a este documento. Los gastos siempre se deben realizar de forma clara al momento de ser compartidos, y nunca podrá consumir “0” la usuaria original. Al compartir no siempre deberán consumir todos los PA de forma equitativa, bien pudiendo repartirlo entre algunas en específico o entre todasPoten. [POTENCIACIÓN]: Siempre que esté en compañía de otra miembro de la Mente Colmena Telepática es posible aplicar este comando sobre una habilidad realizada por otra, dotándole de beneficios específicos que no tendría al ser utilizada en solitario. El primer uso de Potenciación en una ronda no consume PA (siendo independiente entre sí esta restricción). Usos posteriores siempre consumirán 1 PA. El gasto en este caso lo realiza la usuaria quien potencia y no puede ser compartido. [PROPAGACIÓN]: Siempre que esté en compañía de otra miembro de la Mente Colmena Telepática es posible aplicar este comando sobre una habilidad realizada por otra, permitiendo que afecte a otro oponente extra que se mantenga bajo los efectos de la Concentración. El primer uso de Potenciación en una ronda no consume PA (siendo independiente entre sí esta restricción). Usos posteriores siempre consumirán 1 PA. Aplicar esta capacidad sobre habilidades de TIER superior a 3 siempre consumirá PA. El gasto en este caso lo realiza la usuaria quien propaga y no puede ser compartido. [REPETICIÓN]: Siempre que esté en compañía de otra miembro de la Mente Colmena Telepática es posible aplicar este comando sobre una habilidad realizada por otra, permitiendo que pueda ser reutilizada en un mismo turno propio, sin embargo, a cambio esta habilidad no podrá ser utilizada en el turno de la que ha decidido ceder su propio uso. [FANTASMA PSÍQUICO (REQUIERE RANGO IV)]: En caso de que una de las usuarias de la Mente Colmena Telepática fallezca esta puede dejar un Fantasma Psíquico en la mente de un personaje con vida. Al hacer esto el personaje no se perderá de forma irremediable, pero deberá esperar a la confirmación explícita del usuario al que pertenece el personaje para poder heredarlo como suyo, adquiriendo parte de la trayectoria y premios que este haya obtenido. Las únicas condiciones son: el personaje no puede poseer un poder vetado y deberá haber permanecido a la misma sede que la usuaria. Administración será la encargada de suministrar la lista de beneficios finales con los que el personaje es adquirido. [LECTURA MENTAL MUNDIAL]: Permite realizar una interpretación de 5 minutos en la que debe verse reflejado cómo lee la mente de grandes grupos de personas, incluso ciudades, obteniendo 50 EXP. – Un uso cada 7 días. También es posible utilizar esta capacidad adjuntado a un suceso del apartado “Heridas, Muertes y Sucesos”, aprendiendo sobre el hecho a través de un testigo o civil, el contexto del suceso a aprender debe ser el adecuado, como por ejemplo acontecimientos ocurridos en la vía pública. – Un uso cada 7 días. [TRES EN UNA] Los beneficios descritos a continuación son activados cuando se encuentran en Tres en Una. Las usuarias poseen una TELEPATÍA DE ORDEN SUPERIOR de forma conjunta. [REFUERZO MENTAL]: Las usuarias, al unir su mente, refuerzan enormemente su voluntad, convirtiéndose en un escudo casi perfecto ante telépatas y controladores. [+2 VOL] [RADAR TELEPÁTICO]: Se consideran que las usuarias detectan de forma pasiva a cualquier mente que se encuentre en el combate, aún si esta no se encuentra bajo los efectos de Concentración o de si posee cierto tipo de inmunidad ante el uso de habilidades telepáticas (respetando el hecho de poseer una mente). [DOMINACIÓN TELÉPATICA]: En caso de que un oponente pretenda realizar una habilidad mental ofensiva de naturaleza telepática, las usuarias pueden utilizar este comando junto a otra habilidad mental ofensiva, anulando la acción del oponente y provocando en respuesta el daño de la habilidad que acompañaba. – Un uso cada dos rondas, no consume PA. Aplica también efectos secundarios de la habilidad. Obligatoriamente la habilidad deberá ocasionar daño para ser utilizada con esta habilidad. Puede afectar incluso a Telépatas Omega de Orden Superior. [RECUPERACIÓN DE RECUERDOS]: En caso de que un aliado haya sido afectado por una habilidad de pérdida de memoria, las usuarias pueden utilizar este comando para anular todos sus efectos sobre él. – Un uso cada dos rondas, no consume PA. Puede ser utilizado en respuesta de forma instantánea. [TRIANGULACIÓN PERFECTA]: Acompañando un ataque o reto con este comando permite unir de forma automática hasta dos miembros de la Mente Colmena Telepática en combate en conjunto a quien hace uso del comando, pudiendo posicionarse en cualquier punto de la sala a un máximo de “10” casillas del retado. El oponente afectado no podrá huir del combate mientras se mantengan de pie formando Tres en Una. – Un uso por día. [SILENCIO MENTAL]: Permite utilizar este comando en caso de encontrarse bajo los efectos de Concentración por más de “3 acciones”, obligando al oponente a cancelar este efecto sobre la Mente Colmena Telepática. Es posible aplicar esta habilidad sobre un aliado, ocasionando el mismo efecto. No es posible volver a Concentrarse sobre una mente que ha sido afectada por Silencio Mental durante las próximas “VOL” acciones. – Un uso cada dos rondas. En caso de aplicarse sobre un aliado consumirá 1 PA. No afecta a oponentes con Telepatía Omega de Orden Superior o mayor. [BLOQUEO TELEPÁTICO]: Permite utilizar este comando sobre un oponente que haya sido afectado por una habilidad mental de alguna de las usuarias, provocando que, en caso de ser un telépata, vea imposibilitado el uso de sus habilidades de categoría mental por “VOL*1.5” acciones. – Un uso cada tres rondas. Consume 1 PA. No afecta a oponentes con Telepatía Omega de Orden Superior o mayor. [LECTURA PERFECTA]: Permite utilizar este comando junto a una habilidad mental, provocando que, en caso de afectar al oponente, este deba de compartir cualquier efecto oculto de sus habilidades durante las próximas “VOL*1.5” acciones. – Un uso por ronda. [REFORZAMIENTO DE VOLUNTAD]: Permite utilizar este comando en ronda propia, bonificando la VOLUNTAD de todos sus aliados en +1 por las próximas “VOL*1.5” acciones. – Un uso cada dos rondas. Consume 1 PA. Afecta en área 6 de cada miembro. [ABRUMAR]: Permite utilizar este comando junto a una habilidad mental sin proyección física, ignorando defensas y reducciones que se posean de forma pasiva que apliquen ante este tipo de ataque. – El primer uso de cada ronda no consume PA, posteriores usos consumen 1 PA. No afecta a oponentes con Telepatía Omega de Orden Superior o mayor. [CINCO EN UNA] Los beneficios descritos a continuación son activados cuando se encuentran en Cinco en Una. Las usuarias poseen una TELEPATÍA OMEGA de forma conjunta. Mantienen los beneficios de Tres en Una. Potenciación aplica en su capacidad máxima al usar cada una de las habilidades.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO I                                     
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – CONCENTRACIÓN
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: “VOLUNTAD*6”
+
+
+Coste: “MENTES/2” PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Las usuarias activan sus poderes, concentrándose en la mente de sus rivales para poder dar rienda suelta a sus capacidades. Efecto: Permite hacer uso de habilidades pertenecientes al documento que tengan índole Mental sobre objetivos que se encuentren bajo Concentración. En caso de que la usuaria esté concentrada en más mentes que “VOLUNTAD” verá reducidos los efectos de sus habilidades en un “25% [*0.75]” y en “-VOLUNTAD acciones” de forma general. Los siguientes escenarios anularán de manera automática esta habilidad. Recibir un daño superior a “15%*VOLUNTAD” de su VIT máxima. Recibir un control de masa que impida el turno de la usuaria. No aplican inmovilizaciones ni tampoco parálisis para este escenario. [TELEPATÍA GRUPAL]: Las mentes concentradas se comparten con el resto de la Mente Colmena Telepática, pero no aplican ninguna desventaja en caso de superar la “VOLUNTAD”.
+
+ACLARACIONES:
+  - Esta habilidad no puede ser reaccionada bajo métodos ordinarios salvo la reacción en cuestión especifique poder ser utilizada para esta habilidad. - Esta habilidad puede utilizarse también sobre aliados, considerándose Suplementaria. - En caso de que la usuaria pierda la Concentración, deberá volver a ejecutarla gastando los puntos de acción correspondientes. La usuaria consume tantas PUNTOS DE ACCIÓN como OBJETIVOS (mentes) sobre los cuales desee concentrarse. El redondeo es siempre a la BAJA. - Las habilidades mentales de la usuaria afectan únicamente a un objetivo en individual salvo la misma especifique una aclaración contraria. - Concentración se mantiene, aunque los objetivos se salgan posteriormente del alcance, pero las habilidades mentales requerirán del alcance de la habilidad para ejecutarse.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – LECTURA MENTAL
+================================================================================
+  Mental – Pasiva
+
+EFECTO VISUAL:
+  Las usuarias son capaces de leer múltiples mentes en simultáneos, conociendo información acerca de quién enfrentan. Efecto: La usuaria detecta a todo aquel usuario sobre el que se esté concentrado y se oculte mediante métodos ordinarios. Esta detección no aplica si la ocultación del objetivo tiene aclaraciones contrarias a la de esta pasiva. [TELEPATÍA GRUPAL]: La usuaria ignora requisitos de reacción de oponentes que estén bajo “CONCENTRACIÓN”. Ignorando requisitos de 1 de cada 2 ataques (el primero) siempre y cuando sean referentes a REFLEJOS (REF). Por el consumo de 1 PA es capaz de ignorar requisitos siempre, independiente de si se trata del segundo ataque con requisitos de REFLEFJOS.
+
+ACLARACIONES:
+  - Requiere poseer Concentración activa. - Únicamente ignora requisitos de REF, si la habilidad en cuestión posee otros tipos de requisitos adicionales, deberá cumplirlos para reaccionar. - Se considera una intrusión mental.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – RAYO MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  La usuaria manifiesta su energía psiónica en dirección a la mente de su oponente, provocándole un fuerte daño. Efecto: Genera un daño mental de “PSI*1.25” y produce desorientación durante 3 acciones. [POTENCIACIÓN]: El daño provocado pasa a ser de “PSI*1.40”.
+
+ACLARACIONES:
+  Posee dos usos por ronda.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – DESCARGA MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  La usuaria manifiesta su energía psiónica de forma violenta, sobrecargando la mente de su oponente por un corto período de tiempo. Efecto: Genera un daño mental de “PSI*1.35” y produce un indirecto mental relacionado a dolor equivalente al “10% [*0.1]” del daño recibido durante 3 acciones. [POTENCIACIÓN]: El daño provocado pasa a ser de “PSI*1.45”. El indirecto permanece durante 1 acción extra.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – COLAPSO CEREBRAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  La usuaria colapsa la mente de su oponente, aturdiéndolo. Efecto: Aturde a un oponente durante “1+VOL” acciones. [POTENCIACIÓN]: El aturdimiento aumenta en +1 acción.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – DEFENSA MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental — Defensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  La usuaria es capaz de crear un escudo mental para protegerse de ataques. Efecto: Genera un escudo mental degradable con una resistencia de “PSI*1.35”. Mientras el objetivo de esta habilidad permanezca con el escudo activo, no podrá verse afectado por habilidades mentales carentes de daño salvo se le supere en VOLUNTAD al creador del escudo. [DOMINIO]: Por cada 2 VOL poseídos, el valor del escudo mental degradable aumenta en un “25% [*1.25]” acumulable. [POTENCIACIÓN]: El escudo no podrá ser ignorado por habilidades que lo indiquen.
+
+ACLARACIONES:
+  - No pueden acumularse escudos mentales. Debe haber sido degradado hasta 0 el vigente para poder reemplazarlo con uno nuevo. - En caso de querer ser aplicado sobre un aliado, requiere Concentración sobre este. - Puede ser utilizado en respuesta únicamente para defender a la usuaria, no a aliados.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – ENLACE PSÍQUICO
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: FDC
+
+
+Coste: FDC
+
+
+No clasificada
+
+EFECTO VISUAL:
+  La usuaria crea un lazo mental independiente con algún cercano, compartiendo la información que este reciba de forma temporal. Efecto: La usuaria puede aplicar esta habilidad sobre “VOL” aliados a la semana. Mientras este vínculo permanezca activo, la usuaria puede irrumpir en combates donde los aliados seleccionados hayan sido los retados o atacados, ignorando requisitos de unión. Después de que el combate sobre el cual se hizo uso esta habilidad descarta al usuario auxiliado del enlace y debe esperar al inicio de una nueva semana para poder renovarlo, considerándose que una nueva semana inicia los lunes.
+
+ACLARACIONES:
+  No ignora el límite de huecos, únicamente los requisitos del comando Irrumpir.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – ADVERTENCIA PSÍQUICA
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: “MENTES” PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  La usuaria comparte parte de la información que recibe la mente colmena, haciéndoles ver a todos sus aliados lo que ellas ven. Efecto: La usuaria advierte de la ubicación de oponentes ocultos que sus aliados no perciban, pero él sí hasta la finalización del próximo turno propio del aliado.
+
+ACLARACIONES:
+  - Consume tantos PA como aliados a advertir.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – EVASIÓN ILUSORIA
+================================================================================
+
+100 EXP
+
+
+Mental — Defensiva (Evasión)
+
+
+Alcance: Propio
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria crea una falsa imagen de sí, permitiéndole evitar un ataque. Efecto: La usuaria evade una habilidad con proyección física de máximo “Área 4”.
+
+ACLARACIONES:
+  Posee dos usos por ronda. Solamente consume 1 PA para evadir habilidades directas o sin área. Sólo es capaz de utilizar esta habilidad si está concentrada sobre el atacante.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – CUERPO DE DIAMANTE
+================================================================================
+
+100 EXP
+
+
+Física — Defensiva/Suplementaria
+
+
+Alcance: Propio
+
+
+Coste: 0 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  El material genético de la usuaria ha conservado la capacidad de convertir su piel en diamante. Debido a la densidad del diamante, su peso y fuerza se triplican, adquiriendo además la dureza del propio material. Como contratiempo el diamante complica la salida de impulsos eléctricos del cerebro, pero impide por completo recibirlos, significando un sacrificio de su telepatía y una ganancia de invulnerabilidad a la misma. Efecto: La usuaria obtiene un aumento de estadísticas y otros beneficios. [RESISTENCIA – HUMANO ENTRENADO]: El recubrimiento de diamante es capaz de resistir fuertes golpes sin sufrir ningún quiebre. – El atributo RESISTENCIA se considera como una VITALIDAD distinta a la base de la usuaria, la cual está superpuesta sobre la misma. Dañar a la RESISTENCIA del CUERPO DE DIAMANTE, no dañará a la VITALIDAD base de la usuaria. [DEFENSA PASIVA – SOBREHUMANA]: La dureza del diamante le brinda una gran resistencia ante impactos. – Esta defensa pasiva aplica para índole SONORA. [TENACIDAD AUMENTADA]: Reduce la duración de controles de masa de habilidades con proyección física en “1 acciones” (no puede ser “0”). [FUERZA – 2 TON]: La fuerza triplicada le permitirá levantar alrededor de 2 TON. [3 REFLEJOS]: El diamante le brinda una agilidad más apta para el combate físico. [REGENERACIÓN – TIER 2]: Al estar transformada adquiere una REGENERACIÓN de TIER 2, de forma que su forma de diamante recupera constantemente sus propiedades. – Únicamente actúa sobre “RESISTENCIA” otorgada por CUERPO DE DIAMANTE, no actúa sobre la VITALIDAD de la usuaria. [PROPIEDADES DE DIAMANTE]: Obtiene los siguientes beneficios mientras está en esta forma: [COMPOSICIÓN INORGÁNICA]: Adquiere inmunidad total a asfixias, hemorragias, venenos, enfermedades, toxinas, feromonas, drogas. [INMORTALIDAD]: Adquiere inmunidad parcial a habilidades basadas en absorción de vida o degeneración vital, reduciéndolas en un “50% [*0.5]”, además inmunidad total a envejecimientos o efectos de paso del tiempo. [ADAPTACIÓN]: Posee inmunidad total a efectos negativos relacionados a cambios climáticos (en ningún caso daño directo o similares). [IMPACTO DOLOROSO]: Habilidades de contacto físico (sin armas) sobre la usuaria sin poseer recubrimientos en sus manos o piernas reciben un “25% [*0.25]” del daño causado como daño físico como consecuencia del contacto con el cuerpo de la usuaria– No es posible reaccionar a este daño, considerándote factor oculto. No afecta a oponentes con defensa pasiva “SOBREHUMANA+” o superior. [INMUNIDAD A ARMAS]: Reduce en un “100% [*0]” el daño directo y efectos provocado por armas de filo, proyectiles balísticos, armas arrojadizas o armas contundentes que posean una dureza convencional. [CUERPO IGNÍFUGO]: Reduce en un “50% [*0.5]” el daño directo de habilidades de índole ignea. Se vuelve inmune a indirectos de quemadura. [CUERPO REFLECTANTE]: Reduce en un “30% [*0.7]” el daño directo de habilidades de índole energética. [EXTREMIDADES RESILIENTES]: No es posible inhabilitar o amputar sus extremidades de forma física salvo por oponentes con “FUE 100 TON C.4” o superior, armas con dureza Adamantium o superior. [CUERPO UNIFORME]: Posee inmunidad total a efectos secundarios (no daño directo) de habilidades relacionadas a ataques a puntos de presión o puntos vitales (no puntos débiles). [INMUNIDAD PSÍQUICA]: La usuaria adquiere una reducción del “100% [*0]” ante daños y efectos de índole mental. – No puede ser ignorada bajo ningún método. No aplica a habilidades mentales que no estén relacionadas a habilidades estrictamente PSIÓNICAS o PSÍQUICAS, como por ejemplo una persuasión mediante el convencimiento o carisma, etcétera. [LIBERACIÓN PSIÓNICA]: Acompañando una habilidad de naturaleza mental con este comando es posible utilizarla pese a las condiciones del Cuerpo de Diamante. – El primer uso en una ronda no poseerá consumo de PA. El resto de usos siempre consumirán 1 PA. Máximo “VOL” usos en una misma ronda. [COMBATIENTE BRILLANTE]: Los escalados de los perfiles que hagan uso de la “FUERZA” son reemplazados por los siguientes en caso de ser menores a ello. [RECUBRIMIENTO PARCIAL OFENSIVO]: Es posible hacer uso de este comando para gozar los beneficios de Cuerpo de Diamante en una habilidad ofensiva sin necesidad de haberlo activado previamente. Tras ello, la transformación será eliminada. – El primer uso en una ronda no poseerá consumo de PA. El resto de usos siempre consumirán 1 PA. Máximo “VOL” usos en una misma ronda. [RECUBRIMIENTO PARCIAL DEFENSIVO]: Es posible hacer uso de este comando para gozar los beneficios de Cuerpo de Diamante en respuesta a una habilidad ofensiva, beneficiándose de las capacidades que brinda esta habilidad. Tras ello, la transformación será eliminada – El primer uso en una ronda no poseerá consumo de PA. El resto de usos siempre consumirán 1 PA. Máximo “VOL” usos en una misma ronda. No necesariamente deberá ser utilizado para habilidades basadas en daños.
+
+ACLARACIONES:
+  - La activación de la habilidad no cuenta de cara al conteo de acciones. - Es posible activar esta habilidad en su turno propio o en respuesta a una habilidad ofensiva, acompañándolo con una acción defensiva de forma adicional, consumiendo los PA correspondientes. - Es posible desactivar en su turno propio o en respuesta a una habilidad ofensiva, acompañándolo con una acción defensiva de forma adicional, consumiendo los PA correspondientes. - En caso de que “RESISTENCIA” se reduzca a “0” pasa a dañar a la VITALIDAD de la usuaria, pero contando con las inmunidades y resistencias de CUERPO DE DIAMANTE. - La “RESISTENCIA” que aporta esta habilidad no se renueva al desactivar y activar la habilidad, salvo por la REGENERACIÓN correspondiente, la cual no actúa al estar desactivada. - Mientras esta habilidad se mantenga activa no se podrá hacer uso de habilidades mentales o referidas a la telepatía sin excepción. Liberación Psiónica permite burlar esta regla.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO II                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – TORMENTA MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria colapsa de energía psiónica la mente de su oponente. Efecto: Produce daño mental de “PSI*1.75” y aturde durante 3 acciones. Esta habilidad afecta a todos los oponentes sobre los que se posea concentración. [POTENCIACIÓN]: El daño mental provocado es de “PSI*1.95”.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – CURACIÓN MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  La usuaria se concentra en la mente de su aliado, permitiendo sanar sus traumas. Efecto: Sana “PSI*1.3” de VITALIDAD perdida por daños mentales, además de eliminar todo control de masa o alteración producido por habilidades mentales. [POTENCIACIÓN]: La VITALIDAD sanada pasa a ser de “PSI*1.65”.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – DISPERSIÓN ILUSORIA
+================================================================================
+
+100 EXP
+
+
+Mental — Defensiva (Anulación)
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  La usuaria supera con creces las jugarretas del oponente, disipando su ilusión. Efecto: Anula una habilidad mental basada en ilusiones que tenga como objetivo a la usuaria o a un aliado. [POTENCIACIÓN]: Puede utilizar este comando para redirigir los efectos de la ilusión al oponente, debiendo reaccionar a la misma.
+
+ACLARACIONES:
+  - Requiere de “Concentración” en caso de ser utilizada sobre el aliado. - Solamente consume 1 PA si la habilidad a anular es de TIER 3, consumiendo 1 PA adicional por cada TIER superior.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – CONTROL EMPÁTICO: “PAZ”
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria ordena con agresividad el retiro de un personaje. Efecto: Obliga a un oponente a retirarse de un combate, debe utilizarse en respuesta a un reto o un ataque fuera de combate, de forma que el jugador afectado no podrá volver a retar a la usuaria durante 1 hora.
+
+ACLARACIONES:
+  - Un uso cada 72 horas. - No puede ser reaccionada, no afecta a oponentes que igualen o superen en VOLUNTAD a la usuaria. - Si el oponente que recibe esta habilidad es el retador, el combate finaliza automáticamente independiente si existen más jugadores en combate. - En caso de que la usuaria ataque a un aliado del jugador afectado o actos similares, el tiempo de inmunidad de reto se anula. - El enfriamiento se comparte entre todas las usuarias.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – CONTROL EMPÁTICO: “GUERRA”
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria infunde una rabia sin igual en su oponente, provocando que pierda los estribos en combate y deje de identificar a sus aliados. Efecto: El oponente afectado por esta habilidad tendrá que dirigir sus dos (2) próximas habilidades ofensivas al aliado u oponente más cercano que no sea la usuaria misma. Al menos una de las habilidades utilizadas debe ser como mínimo TIER 2.
+
+ACLARACIONES:
+  - Un uso cada dos rondas. - No afecta a oponentes que igualen o superen en VOLUNTAD a la usuaria.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – INVISIBILIDAD TELEPÁTICA
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+No clasificada
+
+EFECTO VISUAL:
+  La usuaria altera la percepción de todos a su alrededor, volviéndose invisible. Efecto: Vuelve invisible a la usuaria o a un aliado durante “2 + VOL” acciones. No puede ser objetivo de habilidades con alcance directo mientras permanezca con esta habilidad activa y tampoco podrá ser detectado por métodos que no sean mentales, místicos o especifiquen poder burlar invisibilidades de naturaleza mental. En caso de que la usuaria ejecute un ataque directo de naturaleza no mental con esta habilidad activa, el ataque en cuestión pasara a requerir “4 REF” para reaccionar, pero culminará automáticamente con esta habilidad, desactivándose. [POTENCIACIÓN]: La invisibilidad permanecerá durante “1 acción” extra tras realizar el ataque que la finalizará.
+
+ACLARACIONES:
+  Un uso cada dos turnos propios al finalizar.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – EXTRACCIÓN DE INFORMACIÓN
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+No clasificada
+
+EFECTO VISUAL:
+  La usuaria lee por completo la mente de su oponente, obteniendo toda la información que necesitan para el combate. Efecto: El objetivo de esta habilidad deberá responder una pregunta de la usuaria con la verdad absoluta, siendo lo que puede preguntarse aspectos como VITALIDAD restante, debilidades específicas, duración de una transformación, etc. Además, durante 2 turnos propios el afectado estará obligado a indicar cualquier posible efecto oculto en sus habilidades, así como interacciones especiales ante reacciones. Únicamente podrá preguntar cosas sistemáticas. En caso de que la usuaria salga victoriosa de un combate, puede hacer uso de esta habilidad para adquirir conocimientos interpretativos del oponente derrotado en caso de no tener protecciones – Un uso cada 24 horas.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – SECUELAS MENTALES
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria fragmenta la mente de su oponente, alargando una extrema agonía. Efecto: Provoca aturdimiento durante 3 acciones, en los que producirá un daño de “PSI*0.65” cada acción de control de masa. [POTENCIACIÓN]: Requiere de +1 PA para poder ser Resistida.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – CONTROL MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 3 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria toma control de la mente de su oponente, manejándolo a su antojo. Efecto: La usuaria toma control del oponente hasta el próximo turno propio del afectado. Mientras esta habilidad permanezca, la usuaria puede realizar los siguientes comandos. [CONTROL DE ACCIÓN]: La usuaria puede obligar al oponente a consumir sus PUNTOS DE ACCIÓN en habilidades ofensivas o suplementarias dirigidas hacia el usuario o los aliados del afectado. La usuaria puede obligar al oponente a atacarse a sí mismo, pudiendo este reaccionar mediante el comando “RESISTIR” a cada sugestión. [CONTROL DE MOVIMIENTO]: La usuaria puede obligar al oponente a consumir sus puntos de MOVIMIENTO/VELOCIDAD durante la ronda, desplazándose a donde este le indique. Este uso no consume Puntos de Acción de la usuaria. [POTENCIACIÓN]: Permanece hasta un turno propio extra. – Este uso siempre consumirá PA, aún si es el primero en la ronda.
+
+ACLARACIONES:
+  - No afecta a oponentes que igualen o superen en VOLUNTAD a la usuaria. - Debe resistirse. Por cada 2 puntos de VOL que la usuaria tenga de diferencia con el objetivo, aumenta el coste del comando básico “Resistir” en +1 PA.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – OLVIDO
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  La usuaria hurga en la mente de su oponente, arrebatándole recuerdos. Efecto: Obliga a un oponente a ignorar “1 + VOL” habilidades durante “VOL” rondas.
+
+ACLARACIONES:
+  No pueden olvidarse comandos básicos. Tras finalizar su duración no podrá volver a ser aplicada hasta que posea dos turnos propios.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – DISTORSIÓN ILUSORIA
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  La usuaria crea un nuevo mundo para su oponente, aislándolo de todos sus sentidos y volviéndolo inútil en combate. Efecto: El jugador afectado no podrá interactuar de ninguna forma con el resto de los combatientes durante “4 + VOL” acciones.
+
+ACLARACIONES:
+  - Un uso cada tres rondas. - A la hora de considerar INTERACCIÓN nos referimos a cualquier reacción o acción en la que intervenga un combatiente del combate, lo que significa que tampoco se podrá reaccionar a los combatientes fuera de la ilusión. - En caso de recibir daño, control de masa o alteración, los efectos de la ilusión finalizan.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – ILUSIÓN DISUASIVA
+================================================================================
+
+100 EXP
+
+
+Mental — Defensiva (Anulación)
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria se introduce en la mente de su oponente, alterando sus sentidos. Efecto: Anula una habilidad con proyección física realizada por un oponente. [POTENCIACIÓN]: La habilidad anulada pasará a afectar directamente a un aliado del oponente a elección de la usuaria.
+
+ACLARACIONES:
+  Solamente consume 1 PA si la habilidad a anular es de TIER 3, consumiendo 1 PA adicional por cada TIER superior.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                   RANGO III                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – ENFRIAMIENTO CORPORAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria afecta el cerebro de su oponente, paralizando su sistema nervioso. Efecto: Paraliza por 3 acciones. [POTENCIACIÓN]: Tras finalizar la parálisis, mantendrá dos extremidades inhabilitadas por 3 acciones.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – DAÑO CEREBRAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria crea un colapso cerebral en el oponente, alterando sus capacidades motoras con facilidad. Efecto: Produce daño mental de “PSI*2” e inhabilita un brazo/pierna (a elección de la usuaria) durante 4 acciones. [POTENCIACIÓN]: Es posible agregar la pérdida de un sentido que permanecerá durante la misma cantidad de acciones.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – POTENCIACIÓN GENÉTICA
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria profundiza en la mente de su oponente, potenciando su gen. Efecto: Utilizado junto a un ataque realizado por un aliado aumenta su daño final en un “35% [*1.35]”. En caso de poseer tan sólo duración en acciones se sumarán +2.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA GRUPAL] – INHIBIDOR PSÍQUICO
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La usuaria triangula en la mente de su oponente, imposibilitando el uso de su gen. Efecto: Impide hacer uso durante “2 + VOL acciones” de habilidades relacionadas al poder. Esto elimina también cualquier beneficio pasivo activo que posea. [POTENCIACIÓN]: En caso de ser un Telepáta Omega o inferior la pérdida de habilidades permanecerá durante el doble de acciones.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
