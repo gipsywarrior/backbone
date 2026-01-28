@@ -1,0 +1,129 @@
+
+================================================================================
+CLASIFICACIÓN Y GUÍA DE ATRACCIONES
+================================================================================
+  Guía de Creación
+  Explicación: La atracción es el fenómeno que se produce cuando un personaje genera efectos en terceros a través de su encanto físico, mental, mágico, o cualquier otra posible naturaleza. Esta guía es destinada para todos aquellos documentos de personajes que hayan presentado esta capacidad y el funcionamiento según la escala otorgada. 
+ATRACCIÓN DE NIVEL V: Este nivel de atracción está destinado a personajes que han utilizado su físico para tener efecto mínimo en terceros y han sido descritos como atractivos.
+Polimorfismo (Mystique) [FÍSICA]
+Dios de la Fuerza (Hércules) [FÍSICA]
+Dios del Trueno (Thor) [FÍSICA]
+Maestro de Espadas Asgardiano (Fandral) [FÍSICA]
+Fisionomía de Mariposa (Iridia) [FÍSICA]
+Experimento Genético: Acróbata (Longshot) [FÍSICA]
+Homo Superior Perfecto (Monet St. Croix) [FÍSICA]
+
+ATRACCIÓN DE NIVEL IV: Este nivel de atracción está destinado para personajes que han utilizado su atractivo para provocar efectos en terceros, como podría ser un embelesamiento temporal para conseguir información, persuasión, etcétera.
+Suero de la Viuda Negra (Natasha Romanoff) [FÍSICA]
+Disciplina Mágica: Manipulación Elemental (Morgan Le Fay) [FÍSICA/MÍSTICA]
+Control Capilar (Medusa) [FÍSICA]
+Dios del Engaño (Loki) [FÍSICA/MÍSTICA]
+Vampirismo Psíquico (Selene Gallio) [FÍSICA/MÍSTICA]
+Pájaro Cantor (Songbird) [SONORA]
+Maldición Mágica: Vampirismo (Varios) [FÍSICA/MÍSTICA]
+Telepatía y Cuerpo de Diamante (Emma Frost) [FÍSICA/MENTAL]
+
+ATRACCIÓN DE NIVEL III: Este nivel de atracción está destinado para personajes no necesitan esforzarse para causar efectos en terceros, su mera presencia altera a sus cercanos.
+Fisionomía Albina Felina (Hepzibah) [QUÍMICA/FÍSICA]
+Maldición Mágica: Vampirismo (Drácula) [MÍSTICA/FÍSICA]
+Metamorfosis Elemental (Meggan) [FÍSICA/EMPÁTICA]
+Empatía (Empath) [EMPÁTICA/FÍSICA]
+Metahumano: Persuasión (Hombre Púrpura) [QUÍMICA]
+
+ATRACCIÓN DE NIVEL II: Personajes especializados en provocar sentimientos de atracción a terceros, ya sea realzando su belleza, mediante hechizos, u otra vía.
+Maldición Mágica: Súcubo (Shiklah) [MÍSTICA/FÍSICA]
+Control Hormonal (Stacy-X) [QUÍMICA]
+Madonna Celestial (Mantis) [EMPÁTICA/MENTAL]
+Disciplina Mágica: Misticismos del Amor (Lorelai) [MÍSTICA/FÍSICA]
+Fisionomía de Mandril [QUÍMICA]
+Herencia Ancestral: Kumiho (White Fox) [MÍSTICA/FÍSICA]
+Eterno: Galante de Titán (Starfox) [QUÍMICA/FÍSICA]
+
+ATRACCIÓN DE NIVEL I: Personajes capaces de esclavizar con su atractivo, utilizar a terceros como títeres a través de extrañas auras que superan lo sobrenatural o entidades que representan como tal, un símbolo de atracción absurda.
+Disciplina Mágica: Hechicería Asgardiana (Enchantress) [MÍSTICA/FÍSICA]
+Herencia Infernal: Súcubo Demoníaco (Satana Hellstrom) [MÍSTICA/FÍSICA]
+Musa Olímpica (Venus) [MÍSTICA/FÍSICA]
+Masa Multi-Usos (Doop) [SIN CLASIFICAR]
+
+LOS EFECTOS DESCRITOS ABAJO ÚNICAMENTE SON GENERALES. CADA PODER PUEDE TENER ACLARACIONES ESPECIALES O INTERACCIONES ESPECÍFICAS DE VERSE NECESARIAS.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+EFECTOS SEGÚN TIER
+==================
+
+
+================================================================================
+[ATRACCIÓN CLASE 5] – NOMBRE DE LA PASIVA
+================================================================================
+  Indole – Habilidad Pasiva
+  Efecto visual: El usuario resulta atractivo a la vista ya sea gracias a su genética o apariencia resaltada gracias a factores externos. No tiene el potencial de causar gran impacto en terceros, pero normalmente es descrito como uno de los mejores aspectos de una habitación. 
+Efecto: El usuario reduce una de cada cinco acciones ofensivas en su contra (la primera) en un “25% [*0.75]” antes de aplicar defensas activas y pasivas siempre y cuando sean ejecutadas por personajes del SEXO OPUESTO al del usuario.
+
+ACLARACIONES:
+  - Esta habilidad puede ser ignorada por personajes con 2 VOL o más o personajes con un nivel de atracción superior al del usuario.
+- Únicamente aplica a habilidades con daño numérico directo. En ningún caso reduce controles de masa o estados alterados.
+================================================================================
+
+
+================================================================================
+[ATRACCIÓN CLASE 4] – NOMBRE DE LA PASIVA
+================================================================================
+  Indole – Habilidad Pasiva
+  Efecto visual: El usuario resulta atractivo a la vista ya sea gracias a su genética o apariencia resaltada gracias a factores externos. No tiene el potencial de causar gran impacto en terceros, pero normalmente es descrito como uno de los mejores aspectos de una habitación. 
+Efecto: El usuario reduce una de cada cuatro acciones ofensivas en su contra (la primera) en un “25% [*0.75]” antes de aplicar defensas activas y pasivas siempre y cuando sean ejecutadas por personajes del SEXO OPUESTO al del usuario.
+
+ACLARACIONES:
+  - Esta habilidad puede ser ignorada por personajes con 2 VOL o más o personajes con un nivel de atracción superior al del usuario.
+- Únicamente aplica a habilidades con daño numérico directo. En ningún caso reduce controles de masa o estados alterados.
+================================================================================
+
+
+================================================================================
+[ATRACCIÓN CLASE 3] – NOMBRE DE LA PASIVA
+================================================================================
+  Indole – Habilidad Pasiva
+  Efecto visual: El usuario resulta atractivo a la vista ya sea gracias a su genética o apariencia resaltada gracias a factores externos. No tiene el potencial de causar gran impacto en terceros, pero normalmente es descrito como uno de los mejores aspectos de una habitación. 
+Efecto: Ante oponentes del SEXO OPUESTO al del usuario:
+El usuario reduce una de cada tres acciones ofensivas (la primera) que tengan daño numérico directo en un “25% [*0.75]” que se aplica antes de defensas activas y pasivas. Estados alterados (no controles de masa) se ven reducidos en “-1 turno” y recibirá siempre como mínimo 1 turno de alteración.
+
+El usuario no puede ser atacado fuera de combate por oponentes que posean 2 VOL o inferior. Puede ser retado, sin embargo, el usuario podrá ser el primero en el orden de turnos, sin importar el orden de VELOCIDAD (no se aplica reorden posterior a la primera ronda).
+
+ACLARACIONES:
+  - Esta habilidad puede ser ignorada por personajes con 3 VOL o más o personajes con un nivel de atracción superior al del usuario.
+================================================================================
+
+
+================================================================================
+[ATRACCIÓN CLASE 2] – NOMBRE DE LA PASIVA
+================================================================================
+  Indole – Habilidad Pasiva
+  Efecto visual: El usuario resulta atractivo a la vista ya sea gracias a su genética o apariencia resaltada gracias a factores externos. No tiene el potencial de causar gran impacto en terceros, pero normalmente es descrito como uno de los mejores aspectos de una habitación. 
+Efecto: Ante oponentes del SEXO OPUESTO al del usuario:
+El usuario reduce una de cada dos acciones ofensivas (la primera) que tengan daño numérico directo en un “25% [*0.75]” que se aplica antes de defensas activas y pasivas. Estados alterados (no controles de masa) se ven reducidos en “-1 turno” y recibirá siempre como mínimo 1 turno de alteración.
+
+El usuario no puede ser atacado fuera de combate por oponentes que posean 3 VOL o inferior. Puede ser retado, sin embargo, el usuario podrá ser el primero en el orden de turnos, sin importar el orden de VELOCIDAD (no se aplica reorden posterior a la primera ronda).
+
+ACLARACIONES:
+  - Esta habilidad puede ser ignorada por personajes con 4 VOL o más o personajes con un nivel de atracción superior al del usuario.
+================================================================================
+
+
+================================================================================
+[ATRACCIÓN CLASE 1] – NOMBRE DE LA PASIVA
+================================================================================
+  Indole – Habilidad Pasiva
+  Efecto visual: La apariencia del usuario resulta embriagante para quien se atreva a posar la mirada sobre este. Su presencia es tal que causa impacto en terceros sin el más mínimo esfuerzo y por esto es increíblemente complicado que se vea en aprietos donde salga afectado. 
+Efecto: Ante oponentes del SEXO OPUESTO al del usuario:
+El usuario recibe una reducción de daño numérico directo del “25% [*0.75]” que se aplica antes de defensas activas y pasivas. Controles de masa y estados alterados se ven reducidos en “-1 acción” o en “-1 turno” y recibirá siempre como mínimo 1 acción/turno de control.
+
+El usuario no puede ser atacado fuera de combate por oponentes que posean 4 VOL o inferior. Puede ser retado, sin embargo, el usuario podrá ser el primero en el orden de turnos, sin importar el orden de VELOCIDAD (no se aplica reorden posterior a la primera ronda).
+En combates donde el usuario irrumpa o sea llamado, no podrá ser objetivo de ataques hasta que el mismo realice una acción ofensiva contra cualquiera de los oponentes. Ante áreas, se considerará que el usuario no ha podido ser objetivo por su atractivo.
+
+ACLARACIONES:
+  - Esta habilidad puede ser ignorada por personajes con 5 VOL o más.
+================================================================================
+

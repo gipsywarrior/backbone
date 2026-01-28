@@ -1,0 +1,31 @@
+
+================================================================================
+ARMAS DE CONTACTO
+================================================================================
+  Guía de Creación
+  Efecto visual: Las armas de contacto componen el estilo de juego de diversos personajes con entrenamientos exhaustivos. Generalmente guerreros antiguos, alienígenas o militares que prefieren el asesinato a corta distancia en misiones de sigilo. 
+En primera instancia, todo poder o documento cuyo contenido involucre la utilización de armas de contacto para fines ofensivos o defensivos, se regirá por el daño básico del ARMA para el cálculo de estas habilidades, el cual escala en función del rango y la clasificación es propia de cada poder. De manera base se considera el tamaño del arma de contacto como primer criterio.
+
+	
+TAMAÑOS
+[ARMA CORTA]: Armamento barato accesible por cualquier civil. Este tipo de armamento marca el inicio de la escala y representa el arma otorgada por el perfil básico la cual se extiende por una gama de armas de una sola mano como navajas, cuchillos y pinchos ordinarios. 
+[ARMA MEDIANA]: Armamento de mayor peligrosidad, generalmente se requiere una instrucción previa para usarlo correctamente. Las armas en esta franja alcanzan tamaños manipulables por una sola mano o ambas manos como lo son espadas rectas, estoques, porras policiales, nunchakus, machetes, cuchillos militares K-BAR, bastones, bates de baseball, mazas pequeñas, lanzas.
+[ARMA PESADA]: En esta categoría se encuentra el armamento de alto nivel que generalmente ocupa ambas manos como cualquier espadón, hachas gigantes, alabardas, martillos de guerra, mazas pesadas, lanzas largas.
+		
+HABILIDADES CON ARMAS DE CONTACTO
+[HABILIDAD DE TIER III] – Dentro de esta categoría se incluye cortes o impactos simples que no requieren de fuerza ni entrenamiento descomunal realizables a partir de RANGO I. Estas habilidades tendrán el coste de 1 PA.
+
+[HABILIDAD DE TIER II] – Dentro de esta categoría se incluye movimientos de combate con armas de un nivel basico o impactos con la fuerza máxima de un humano sin entrenamiento realizables a partir de RANGO II. Estas habilidades tendrán el coste de 2 PA.
+
+[HABILIDAD DE TIER I] – Dentro de esta categoría se incluye cortes o impactos de alto nivel solo realizables por verdaderos expertos en artes marciales que incluyan el uso de armamento, entrenamiento militar exhaustivo o en general un conocimiento muy superior al común. Estas habilidades tendrán el coste de 3 a 4 PA.
+
+[HABILIDAD DE TIER 0] – Dentro de esta categoría se incluye cortes o impactos letales realizados por oponentes con entrenamientos de localización de puntos vitales o que en general posean la fuerza suficiente para amputar miembros vitales del oponente. Estas habilidades tendrán el coste de 5 a 10 PA. 
+
+		
+INTERACCIONES ADICIONALES
+[DAÑO ADICIONAL]: Ciertos personajes con habilidades basadas en el uso de armas o con fuerzas descomunales (50 TON+) pueden añadir entre el “15% [*0.15]” y el “65% [*0.65]” de su FUE a un escalado con armas. Este daño no se ve beneficiado por ningún aumentativo y siempre debe sumarse al final de todos los cálculos. - No es obligatorio añadir esta interacción.
+
+ACLARACIONES:
+  N/A
+================================================================================
+

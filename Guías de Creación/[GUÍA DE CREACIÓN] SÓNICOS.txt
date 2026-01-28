@@ -1,0 +1,59 @@
+
+================================================================================
+DECIBELES
+================================================================================
+  Guía de Creación
+  Explicación: Dentro de Marvel existen personajes con la capacidad de realizar alteraciones de índole variado a través del sonido. En esta guía se establece un parámetro general para este tipo de documentos, así como sus características de acuerdo con ataques de esta índole.
+En primera instancia, todo poder o documento que represente la capacidad de manipular cierto grado de sonido para realizar proezas defensivas u ofensivas, adquirirá un nuevo atributo llamado DECIBELES (DEC) que escalará de acuerdo con su clasificación y rango.
+
+HABILIDADES SÓNICAS
+[HABILIDAD DE TIER III] – Estas habilidades pueden existir desde RANGO I. Estas habilidades tendrán el coste de 1 PA.
+
+[HABILIDAD DE TIER II] – Estas habilidades sólo pueden incluirse a partir de RANGO II. Estas habilidades tendrán el coste de 2 PA.
+
+[HABILIDAD DE TIER I] – Estas habilidades sólo pueden incluirse a partir de RANGO III. Estas habilidades tendrán el coste de 3 a 4 PA.
+
+[HABILIDAD DE TIER 0] – Estas habilidades sólo pueden incluirse a partir de RANGO IV. Estas habilidades tendrán el coste de 5 a 10 PA.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+DAÑO SONORO
+================================================================================
+  Explicación
+  Efecto visual: El daño sonoro a diferencia de otros, no puede percibirse físicamente y es capaz de atravesar casi cualquier tipo de defensa interpuesta ya que se produce de manera omnidireccional y prácticamente descontrolada.
+Efecto: Efecto exclusivo de habilidades capaces de provocar esta clase de efecto negativo basado en sus explicaciones en los cómics. De forma general, cualquier comando que posea índole Sonora/Sónica ignora defensas pasivas en su totalidad, así como defensas internas o externas que no cubran 360 grados.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+CLASIFICACIÓN DE PODERES ENERGÉTICOS
+================================================================================
+  Guía de Creación
+  Explicación: Algunos poderes de naturaleza sonora tienen un mayor control innato sobre sus capacidades.
+CONTROL SÓNICO IV: Representa la escala más común del control sonoro. La capacidad sonora que generan no destaca más allá de las conocidas generalmente.
+Todo poder que posea ciertos ataques sonoros y no esté clasificado en una escala superior. Aplica también para armas sónicas creadas por científicos, etcétera.
+CONTROL SÓNICO III: Son considerados personajes capaces de crear poderosas ondas sonoras, adquiriendo más control que el nivel anterior.
+Hobgoblin (Phil Urich)
+Syrin
+Banshee
+Songbird (Sin la alteración de cuerdas vocales)
+CONTROL SÓNICO II: Su control sonoro es amplio, generando ondas sonoras de gran destrucción, poseen un control del sonido casi sin igual.
+Shriek
+Klaw
+Songbird (Con la alteración de cuerdas vocales)
+CONTROL SÓNICO I: La clasificación más alta de control sonoro, estos personajes son capaces de destruir todo mediante las vibraciones.
+Ahura Boltagon (inicial).
+CONTROL SÓNICO 0: Clasificación única.
+Black Bolt
+
+ACLARACIONES:
+  En caso de que un poder no se encuentre enlistado, debe añadirse de acuerdo con los scans encontrados de susodicho que respalden su lugar correspondiente.
+================================================================================
+

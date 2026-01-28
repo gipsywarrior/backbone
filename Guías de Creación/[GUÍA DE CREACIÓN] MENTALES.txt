@@ -1,0 +1,159 @@
+
+================================================================================
+PODER PSÍQUICO
+================================================================================
+  Guía de Creación
+  Explicación: Los poderes de clasificación mental son todos aquellos que emplean formas de energía psíquica para hacer daños en la mente de otros personajes, alterar percepciones, tomar control parcial o absoluto de su voluntad, etcétera. En esta guía se explica la clasificación de cada poder de acuerdo con su potencial y cómo crear habilidades de esta índole.
+En primera instancia, todo poder que posea al menos un grado básico de telepatía (o cualquier forma de causar daños que entren en clasificación mental), se le otorgará un atributo nuevo llamado PODER PSÍQUICO (PSI) que escalará de acuerdo con su categoría.
+
+Lo conveniente es que cada poder perteneciente a una categoría permanezca en susodicha, salvo posea casos puntuales donde se refleje la mejora de su poder telepático para superar CONSISTENTEMENTE (no en un solo panel, por ejemplo) a telepatías de clase superior.
+Adicionalmente y de acuerdo con la clasificación en la que el poder o personaje se encuentre, obtendrá una bonificación numérica en base a la siguiente tabla. Este aumento siempre se sumará al final de cualquier posible cálculo y no podrá aumentarse en ningún caso.
+Se considera que los efectos anteriormente expuestos son generales y en todos los poderes mentales siempre y cuando estos entren en su clasificación correspondiente. Para añadir efectos adicionales, el creador de contenido en cuestión tendrá completa libertad en búsqueda de que una pasiva telepática se diferencie con otra perteneciente a otro poder.
+
+HABILIDADES MENTALES CON DAÑO
+[HABILIDAD DE TIER III] – Se compone de habilidades que producen daños básicos, correspondiendo a la mayoría de los ataques básicos de un telépata de cualquier tipo. Dentro de esta categoría entran los rayos mentales más conocidos de los cómics, efectos capaces de dormir, aturdir o confundir. Estas habilidades pueden existir desde RANGO I. Estas habilidades tendrán el coste de 1 PA.
+
+[HABILIDAD DE TIER II] – Se compone de habilidades mentales de mayor calibre, capaz de generar efectos considerables aún en oponentes resistentes. Dentro de esta categoría entra el rayo psiónico con proyección física y habilidades de poder similar. Estas habilidades sólo pueden incluirse a partir de RANGO II. Estas habilidades tendrán el coste de 2 PA.
+
+[HABILIDAD DE TIER I] – Se compone de habilidades con grandes efectos sobre la mente del rival, siendo capaz de derribarlo de manera inmediata o de causar problemas a bestias del nivel Gamma. Estas habilidades sólo pueden incluirse a partir de RANGO III. Estas habilidades tendrán el coste de 3 a 4 PA.
+
+[HABILIDAD DE TIER 0] – Se compone de habilidades con efectos casi siempre permanentes sobre la mente del oponente. Impactar una habilidad de este calibre podría significar una victoria casi inmediata. Estas habilidades sólo pueden incluirse a partir de RANGO IV. Estas habilidades tendrán el coste de 5 a 10 PA.
+
+ACLARACIONES:
+  Pese a que un poder se encuentre clasificado en una de las escalas anteriormente expuestas, es posible que un documento sea poseedor de pasivas que interactúen con escalas superiores, como sería el ejemplo de comparación entre el documento de Emma Frost y el de Charles Xavier, donde Emma tendría habilidades más letales y ofensivas que las de Charles pese a pertenecer a la misma escala de poder psíquico.
+================================================================================
+
+
+================================================================================
+CLASIFICACIÓN DE PODERES MENTALES
+================================================================================
+  Guía de Creación
+  Explicación: Los poderes de clasificación mental son todos aquellos que emplean formas de energía psíquica para hacer daños en la mente de otros personajes, alterar percepciones, tomar control parcial o absoluto de su voluntad, etcétera. En esta guía se explica la clasificación de cada poder de acuerdo con su potencial y cómo crear habilidades de esta índole.
+TELEPATÍA LATENTE: Se refiere a los personajes que manifiestan un grado bajísimo de telepatía. Sólo la demuestran en algunos cómics y no la utilizan de forma regular, en algunos casos, es inconsciente. Su telepatía no va más de la detección de mentes. Ejemplos de esta telepatía son los poderes a continuación.
+Control Electromagnético (Magneto/Polaris).
+Desequilibrio y Desorientación (Vertigo).
+Disciplinas místicas sin grandes hazañas mentales. Ejemplos de estas serían Misticismos Ancestrales (Jennifer Kale) quien puede comunicarse con gran esfuerzo con otras personas a través de mensajes telepáticos.
+Mejor Luchador del Mundo (Mister X).
+TELEPATÍA BETA: Personajes que utilizan la telepatía en múltiples cómics, pero no de forma regular. La utilizan en momentos precisos y su alcance o potencial se podría clasificar como bajo. No demuestran hazañas ofensivas, por lo que no acceden al Poder Telepático. Ejemplos de esta telepatía son los poderes a continuación.
+Destreza Humana: Asesina Mental (Elektra Natchios)
+Gorgón (Tomi Shishido).
+TELEPATÍA ALPHA: Son los telépatas comunes. Personajes que demuestran continuamente el don de la telepatía, su alcance o potencial son corrientes o vulgares. Su posición con el resto de telépatas no suele ser discutida por la comunidad. Ejemplos de esta telepatía son los poderes a continuación.
+Telepatía Inhumana (Sterilon)
+Ilusionismo (Lady Mastermind)
+Telepatía y Manipulación de Partículas (Ellie Phimister)
+Ciberpatía (Sage)
+Espiritismo y Constructos Psiónicos (Lil'Bro)
+Disciplinas místicas con demostraciones de telepatía ofensiva simple, sin hazañas destacables más allá de rayos mentales, o semejantes.
+TELEPATÍA HIGH ORDER: Demuestran una telepatía superior a lo común. En algunas ocasiones son capaces de superar con sus habilidades telepáticas a los personajes del siguiente grado, pero aun así no cuentan con el control, ni el dominio ni el alcance. Contienen pasivas únicas que hacen su telepatía diferencial a aquella regular. Ejemplos de esta telepatía son los poderes a continuación:
+Telepatía y Telequinesis Avanzada (Exodus) [BASE]
+Telepatía Grupal (Stepford Cuckoos) [MENOS DE 3 MIEMBROS]
+Telepatía y Telequinesis (Cable)
+Ninja Psíquico (Kwannon) 
+Precognición (Blindfold)
+Multipersonalidad Psiónica (Mary Typhoid)
+Telepatía y Telequinesis Clonada (Madelyne Pryor)
+TELEPATÍA OMEGA: Son aquellas telepatías cuyo dominio es superior a la media y presentan un alcance que puede ser a escala global. Son normalmente mal catalogados como telépatas “omega”, pero no entran en dicha categoría al no ser considerados mutantes con esta naturaleza. Sin embargo, sus hazañas pueden representar grandes efectos. Ejemplos de esta telepatía son los poderes a continuación:
+Telepatía Omega (Charles Xavier)
+Telepatía y Cuerpo de Diamante (Emma Frost)
+Vampirismo Psíquico (Selene Gallio)
+Telepatía y Telequinesis Avanzada (Exodus) [AVANZADO]
+Telepatía Grupal (Stepford Cuckoos) [3 MIEMBROS]
+Sangre Tengu (Karasu/Sojobo) [INDIVIDUALMENTE]
+Mariposa Mental (Elizabeth Braddock) 
+Dragón Lunar (Moondragon)
+Herencia Fénix (Rachel Summers)
+TELEPATÍA HIGH ORDER OMEGA: Son los llamados “telépatas omega”, cuyo poder no puede ser discutido ni desafiado, no pueden ser superados o igualados por ningún otro telépata. Esto no significa que no puedan ser derrotados. Nadie que naturalmente no sea mutante de categoría omega, no podrá entrar. Ejemplos de esta telepatía son los poderes a continuación:
+Telepatía y Telequinesis Avanzada (Jean Grey)
+Intelecto Sobrehumano (Quentin Quire)
+Sangre Tengu (Karasu/Sojobo) [JUNTOS]
+TELEPATÍA CÓSMICA: Corresponde al nivel de ciertas entidades cósmicas o divinas. Este grado telepático es discutible porque hay seres cósmicos que demuestran un mayor poder que otros. Ejemplos de esta telepatía son los personajes a continuación:
+Odinforce
+Entidad Fénix y sus avatares
+
+ACLARACIONES:
+  En caso de que un poder no se encuentre enlistado, debe añadirse de acuerdo con los scans encontrados de susodicho que respalden su lugar correspondiente.
+================================================================================
+
+
+HABILIDADES GENERALES
+=====================
+
+
+================================================================================
+[TELEPATÍA] – CONCENTRACIÓN
+================================================================================
+  100 EXP
+  Mental — Ofensiva/Suplementaria
+  Variable *
+  Coste: “MENTES” PA
+  Tier VARIABLE
+
+  Efecto visual: El usuario activa sus poderes psíquicos, concentrándose en la mente de uno o varios objetivos en específico para poder hacer uso de habilidades mentales.
+Efecto: Permite hacer uso de habilidades pertenecientes al documento que tengan índole Mental sobre objetivos que se encuentren bajo Concentración. En caso de que el usuario esté concentrado en más mentes que “VOLUNTAD” verá reducidos los efectos de sus habilidades en un “25% [*0.75]” y en “-VOLUNTAD acciones” de forma general.
+Los siguientes escenarios anularán de manera automática esta habilidad.
+Recibir un daño superior a “15%*VOLUNTAD” de su VIT máxima.
+Recibir un control de masa que impida el turno del usuario. No aplican inmovilizaciones ni tampoco parálisis para este escenario.
+[* NOTA CREADOR DE CONTENIDO]: El alcance de esta habilidad variará según la clasificación en la que se encuentre el documento del poder que se esté creando en base a:
+TELEPATÍA BÁSICA: Alcance “VOLUNTAD”
+TELEPATÍA BETA: Alcance “VOLUNTAD*2”
+TELEPATÍA ALPHA: Alcance “VOLUNTAD*3”
+TELEPATÍA HIGH ORDER: Alcance “VOLUNTAD *4”
+TELEPATÍA OMEGA: Alcance “VOLUNTAD *6”
+TELEPATÍA HIGH ORDER OMEGA: Alcance “VOLUNTAD *8”
+TELEPATÍA CÓSMICA: Alcance “VOLUNTAD *12”
+
+ACLARACIONES:
+  - Esta habilidad no puede ser reaccionada bajo métodos ordinarios salvo la reacción en cuestión especifique poder se utilizada para esta habilidad.
+- Esta habilidad puede utilizarse también sobre aliados, considerándose Suplementaria.
+- En caso de que el usuario pierda la Concentración, deberá volver a ejecutarla gastando los puntos de acción correspondientes. El usuario consume tantas PUNTOS DE ACCIÓN como OBJETIVOS (mentes) sobre los cuales desee concentrarse.
+- Las habilidades mentales del usuario afectan únicamente a un objetivo en individual salvo la misma especifique una aclaración contraria.
+- Concentración se mantiene aunque los objetivos se salgan posteriormente del alcance, pero las habilidades mentales requerirán del alcance de la habilidad para ejecutarse.
+================================================================================
+
+
+================================================================================
+[CONCENTRACIÓN] – LECTURA MENTAL
+================================================================================
+  Habilidad Pasiva — Mental
+  Efecto visual: El usuario es capaz de leer la mente de sus oponentes, obteniendo información automática mientras se encuentre concentrado.
+Efecto: El usuario detecta a todo aquel usuario sobre el que se esté concentrado y se oculte mediante métodos ordinarios. Esta detección no aplica si la ocultación del objetivo tiene aclaraciones contrarias a la de esta pasiva.
+TELEPATÍA HIGH ORDER: El usuario ignora los requisitos de reacción que posean 1 de cada 4 ataques (el primero) siempre y cuando sean referentes a REFLEJOS (REF).
+TELEPATÍA OMEGA: El usuario ignora los requisitos de reacción que posean 1 de cada 3 ataques (el primero) siempre y cuando sean referentes a REFLEJOS (REF).
+TELEPATÍA HIGH ORDER OMEGA y CÓSMICA: El usuario ignora los requisitos de reacción siempre y cuando sean referentes a REFLEJOS (REF).
+
+ACLARACIONES:
+  - Requiere poseer Concentración activa.
+- Únicamente ignora requisitos de REF, si la habilidad en cuestión posee otros tipos de requisitos adicionales, deberá cumplirlos para reaccionar.
+- Se considera una intrusión mental.
+================================================================================
+
+
+================================================================================
+CONTROL MENTAL
+================================================================================
+  100 EXP
+  Mental — Ofensiva
+  Alcance: CONCENTRACIÓN
+  Coste: 2 PA
+  TIER 2
+  Efecto visual: La usuaria se introduce en la mente de su oponente, dominándola.
+Efecto: La usuaria toma control del oponente, obteniendo control de su próximas “X” acciones. Mientras esta habilidad permanezca, la usuaria puede realizar los siguientes comandos.
+[CONTROL DE ACCIÓN]: La usuaria puede obligar al oponente a consumir sus PUNTOS DE ACCIÓN en habilidades ofensivas o suplementarias dirigidas hacia el usuario o los aliados del afectado. La usuaria puede obligar al oponente a atacarse a sí mismo, pudiendo este reaccionar mediante el comando “RESISTIR” a cada sugestión.
+
+[CONTROL DE MOVIMIENTO]: La usuaria puede obligar al oponente a consumir sus puntos de MOVIMIENTO/VELOCIDAD durante la ronda, desplazándose a donde este le indique. Este uso no consume Puntos de Acción de la usuaria.
+
+[MENTE DOMINADA]: Mientras el oponente se mantenga bajo control mental (es decir, hasta que la usuaria dé por finalizado el turno propio de control) el oponente perderá “-2 VOL” de cara a cualquier habilidad que reciba y recibirá un “10% [*1.10]” más de daño.
+
+ACLARACIONES (Eliminarse al añadirse al documento):
+- Telépatas de categoría "BETA" podrán ejercer control mental durante un total de 2 (dos) acciones. 
+- Telépatas de categoría "ALPHA" pondrán ejercer control mental durante un total de 3 (tres) acciones. 
+- Telépatas de categoría "HIGH ORDER" pondrán ejercer control mental durante un total de 4 (cuatro) acciones. 
+- Telépatas de cateogría "OMEGA" pondrán ejercer control mental durante un total de 5 (cinco) acciones. 
+- Telépatas de cateogría "HIGH ORDER OMEGA" podrán ejercer control mental durante un total de 6 (seis acciones)
+
+ACLARACIONES:
+  - No afecta a oponentes que superen en VOLUNTAD a la usuaria.
+- Un uso cada tres (3) rondas por rival afectado.
+- Debe resistirse. Por cada 2 puntos de VOL que la usuaria tenga de diferencia con el objetivo, aumenta el coste del comando básico “Resistir” en +1 PA.
+================================================================================
+

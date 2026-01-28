@@ -1,0 +1,69 @@
+
+================================================================================
+PUNTOS DE ACCIÓN
+================================================================================
+  Guía de Creación
+  Explicación: Los puntos de acción (PA) son el atributo que actúa como base del sistema de combate, rigiendo qué y cuántas habilidades se pueden usar dentro de una ronda. En esta guía se explica su funcionamiento de cara a la creación de contenido en documentos privados y su aplicación según la habilidad que se pretenda agregar, ciñéndose bajo parámetros establecidos más adelante. Hay que recordar que, ningún documento ordinario podrá aumentar este atributo por ningún método, salvo sea consultado anteriormente con administración. Este punto es ignorado por personajes no-jugables (NPC).
+El modelo general para seguir es que los costes de habilidades serán entre 1/2/3 PA de acuerdo con los efectos de la habilidad, sin embargo, puede darse el caso en que una habilidad supere los costes si se ve necesario, siendo esto, casos excepcionales y poco comunes en documentos.
+HABILIDADES OFENSIVAS:
+[HABILIDAD DE TIER III] – Este tipo de habilidades representarán los “básicos” de cada poder. Habilidades que el personaje realiza constantemente en los cómics, como podría ser un puñetazo de Iron Fist o un relámpago de Storm. Estas habilidades tendrán el coste base de 1 PA. Coste base: 100 EXP 
+[HABILIDAD DE TIER II] – En esta categoría ingresan habilidades poco comunes del personaje en cuestión o versiones mejoradas de habilidades que ya poseía. Un ejemplo sería Storm invocando una tormenta o un zumbido mental con múltiples objetivos de un mental promedio. Estas habilidades tendrán el coste base de 2 PA. Coste base: 200 EXP 
+[HABILIDAD DE TIER I] – En esta categoría entran habilidades potencialmente destructivas del personaje sobre el que se esté realizado el documento. Siguiendo al personaje inicial, un ejemplo sería un tornado de Storm o un terremoto en sala por parte de Rictor. Estas habilidades tendrán el coste base de 3 PA. Coste base: 300 EXP 
+HABILIDADES DEFENSIVAS: Un documento posee como límite lo siguiente:
+
+2 evasiones exclusivas.
+3 defensas internas/externas exclusivas.
+1 defensa degradable.
+2 anticipaciones.
+2 anulaciones.
+1 contraataque.
+2 desvíos/deflecciones.
+[HABILIDAD DE TIER III] – Defensas básicas, bloqueo con brazos, escudos energéticos con cifras base. Estas habilidades tendrán el coste base de 1 PA. Coste base: 100 EXP 
+[HABILIDAD DE TIER II] – Defensas con un valor considerablemente alto. Campos de fuerza, propiedades especiales al contacto, etcétera. Estas habilidades tendrán el coste base de 2 PA. Coste base: 200 EXP
+[HABILIDAD DE TIER I] – Defensas prácticamente indestructibles. Campos de fuerza en área, defensas que se mantengan en área, etcétera. Estas habilidades tendrán el coste base de 3 PA. Coste base: 300 EXP.
+[EVASIONES] – Engloba toda habilidad que visualmente represente el desplazamiento físico del personaje para evitar recibir un daño. Estas habilidades tendrán un coste base de 1 PA, por cada efecto adicional (véase, por ejemplo, ignorar requisitos de reacción) aumentará en 1 PA su coste hasta un máximo de 3 PA. Puede darse el caso de que tengan tiempos de reutilización de RONDAS si se añaden efectos, como, por ejemplo, el de evadir + realizar un ataque.
+[ANTICIPACIONES/ANULACIONES] – Engloba toda habilidad que ignora un daño por completo. Cada una tendrá sus condiciones específicas para poder cumplirse y tendrá un coste base de 2 PA, aumentable según los efectos de la anticipación o anulación. Es posible encontrar anulaciones de menor costo en comandos que funcionen contra un único tipo de habilidad (proyectiles de determinada dureza, cierto tipo de elemento, etcétera). Llevan obligatoriamente un tiempo de reutilización variable de 1 a 3 turnos propios (dependiendo el TIER y la magnitud de la habilidad).
+[DESVÍO/DEFLECCIÓN]: Un desvío o deflección se clasifica como una HABILIDAD TIER III hasta un máximo de TIER II, consume de manera obligatoria de 2 a 3 PA según el TIER y como máximo puede devolver el 75% [*0.75] del daño original con sus efectos a excepción los de reacción. Desvíos y deflecciones pueden combinarse junto a una anulación dado el caso, añadiendo el coste estipulado por separado como un extra en la habilidad original si fuese necesario.
+[CONTRAATAQUES] – Considerada defensa. El valor restante pasa a dañar al jugador del que se ha defendido. Tienen un coste base de 2 PA, aumentable según los efectos de la habilidad.
+[DEFENSA DEGRADABLE]: Una defensa degradable se clasifica como una HABILIDAD TIER III hasta un máximo de TIER II, consume de manera obligatoria de 1 a 3 PA según el TIER y su efectividad, esta no puede superar el 25% [*0.25] de su VITALIDAD TOTAL.
+HABILIDADES SUPLEMENTARIAS: 
+Este tipo de habilidades quedan a disposición del criterio del encargado en cuestión. Los únicos parámetros por considerar es que, de acuerdo con la habilidad, puede darse el caso de que tenga tiempos de reutilización en RONDAS como podría ser el caso de habilidades curativas no pertenecientes a poderes especializados en dicha capacidad. Coste base: 100 EXP 
+[POSICIÓN ALZADA/VOLADORA]: Son aquellas que nos permiten tomar una posición ventajosa en un combate, se clasifican como una HABILIDAD TIER III hasta un máximo de TIER II, consume de manera obligatoria de 1 a 2 PA según el TIER, con una duración máxima de 5 turnos propios. Nota: Un vuelo estándar por lo general sólo debería durar entre 2 a 3 turnos propios y tener como mínimo 1 turno de tiempo de reutilización antes de poder ser activable. Es posible añadir subcomandos para aumentar el TIER de la velocidad en caso de ser meritorio por las capacidades del personaje, teniendo como duración máxima el final de la ronda vigente en la que fueron aplicados. Existen poderes y/o habilidades cuya mecánica puede depender plenamente de habilidades levitantes o voladoras dependiendo de las características del personaje.
+
+[OCULTACIONES]: Son aquellas que nos permiten ocultarnos con cualquier método durante un combate, se clasifican como una HABILIDAD TIER III hasta un máximo de TIER II, consume de manera obligatoria de 1 a 2 PA según el TIER, con una duración máxima de 2 Turnos Propios.
+
+[IRRUPCIONES]: Son aquellas que nos permiten unirnos a un combate ignorando cierta cantidad de requisitos, se clasifican como una HABILIDAD TIER III hasta un máximo de TIER II donde en esta última es posible obtener una acción de interferencia para realizar como máximo una (1) habilidad ofensiva de TIER III, con un tiempo de reutilización de 48 a 96 HORAS. Consume 0 PA y 1 PA respectivamente.
+
+[ESCAPE/HUÍDA]: Son aquellas que nos permiten huir de un combate ignorando uno o todos los requisitos establecidos en el sistema.
+Huir ignorando todos los requisitos se clasifica como una HABILIDAD TIER III y consume de manera obligatoria 1 PA. Poseen un tiempo de reutilización obligatorio de 24 Horas + 12 Horas en caso de permitir huir con un tercero.  
+Huir ignorando todos los requisitos junto a un aliado o dos se clasifica como una HABILIDAD TIER II y consume de manera obligatoria 2 PA. Poseen un tiempo de reutilización obligatorio de 48 a 72 Horas + 12 Horas en caso de permitir huir con tercero(s).
+
+[APOYO OFENSIVO]: 
+Pueden añadir indirectos/inhabilitaciones a una habilidad que no lo posee, siguiendo la guía de su respectivo TIER. – Consume de 0 a 1 PA. 
+Pueden añadir controles de masa/alteraciones a una habilidad que no lo posee, siguiendo la guía de su respectivo TIER. – Consume de 0 a 1 PA.
+Pueden sustituir el alcance de una habilidad por área, cónico o frontal. – Consume de 0 a 2 PA dependiendo el aumento. 
+Pueden añadir un requisito de reacción basado en REFLEJOS o VELOCIDAD siguiendo la guía de su respectivo TIER. – Consume de 1 a 2 PA.
+Puede aumentar hasta un máximo de 15% [*1.15] la efectividad final de una ofensiva. – Consume de 0 a 1 PA.   
+Puede reutilizar una ofensiva. – Consume de 0 a 1 PA adicional + PA de la ofensiva. 
+Puede aumentar su TIER de cara a reacciones/requisitos u otros. – Consume de 1 a 3 PA dependiendo el aumento.
+
+[APOYO DEFENSIVO]: 
+Puede aumentar hasta un máximo de 15% [*1.15] la efectividad final de una defensa. – Consume de 0 a 1 PA.   
+Puede reutilizar una defensa. – Consume de 0 a 1 PA adicional + PA de la defensa. 
+Pueden añadir indirectos/inhabilitaciones a una defensa que no lo posee, siguiendo la guía de su respectivo TIER. – Consume de 1 a 2 PA. 
+Pueden añadir controles de masa/alteraciones a una defensa que no lo posee, siguiendo la guía de su respectivo TIER. – Consume de 1 a 2 PA.
+Pueden sustituir el alcance de una defensa por área o frontal. – Consume de 1 a 3 PA dependiendo el aumento. 
+Puede aumentar su TIER de cara a reacciones/requisitos u otros. – Consume de 1 a 3 PA dependiendo el aumento.
+
+DURACIÓN DE ESTADOS ALTERADOS Y CONTROLES DE MASA: 
+[CONTROLES DE MASA]: Incluye parálisis, aturdimiento/inconsciencia, desmayo/dormido e inmovilización. Su duración siempre será en acciones. 
+Por 1 PA es posible causar una duración máxima de 2 acciones, por costos de PA superiores será a elección del creador. 
+La duración de desmayo/dormido e inmovilización pueden ser ligeramente más altos a las otras formas de control de masa por costos de PA similares, debido a que presentan un efecto más tenue.
+[CEGUERA, INHABILITACIÓN DE EXTREMIDAD]: Su duración siempre será en acciones.
+[DESORIENTADO]: Su duración siempre será en turnos generales. 
+[ENAMORADO, SORDERA, MUDO]: Su duración puede ser en acciones o turnos generales.
+
+ACLARACIONES:
+  N/A
+================================================================================
+

@@ -1,0 +1,39 @@
+
+================================================================================
+ARMAS DE FUEGO
+================================================================================
+  Guía de Creación
+  Efecto visual: Las armas de fuego juegan un rol muy importante para esta época, las distintas habilidades van desde disparos simples que hasta un mero pandillero podría realizar a diestra y siniestra hasta disparos de alta precisión solo logrables por aquellos que han realizado un arduo entrenamiento militar. En esta guía se explicará cómo construir este tipo de habilidades.
+En primera instancia, todo poder o documento cuyo contenido involucre la utilización de armas de fuego para fines ofensivos o defensivos, se regirá por el daño básico del ARMA para el cálculo de estas habilidades, el cual escala en función del rango y la clasificación es propia de cada poder.
+
+	
+CALIBRES
+[CALIBRE BÁSICO]: Armamento barato accesible por cualquier civil. Este tipo de armamento marca el inicio de la escala y representa el arma otorgada por el perfil básico la cual posee la dureza más baja, por lo que sería posible sobrevivir a un disparo incluso en puntos vitales.
+[CALIBRE MEDIO]: Armamento de mayor calibre que representa pistolas pesadas como la Desert Eagle, Magnum .45 y en general armamento corto de ráfaga como las Uzi, Mini Uzi, Ingram. Incluye armamento cuya munición posea una dureza equivalente al Diamante (No es obligatorio asignar esta dureza para usar esta escala, solo en casos canónicos donde lo amerite)
+[CALIBRE MODERADO]: En esta categoría se encuentra el armamento de nivel militar, incluyendo todo tipo de fusiles de asalto, así como escopetas largas. Incluye armamento cuya munición posea una dureza equivalente al Acero Orgánico (No es obligatorio asignar esta dureza para usar esta escala, solo en casos canónicos donde lo amerite)
+[CALIBRE ALTO]: En esta categoría se encuentra el armamento humano de mayor calibre como lo son los rifles francotiradores. Incluye armamento cuya munición posea una dureza equivalente al Adamantium. (No es obligatorio asignar esta dureza para usar esta escala, solo en casos canónicos donde lo amerite)
+[CALIBRE EXPLOSIVO]: Específico para explosivos cuyo efecto abarque un área amplia como granadas de fragmentación, rockets, bazookas, minas, etc. Incluye armamento cuya munición posea una dureza equivalente al Vibranium.  (No es obligatorio asignar esta dureza para usar esta escala, solo en casos canónicos donde lo amerite)
+[DESTRUCCIÓN MASIVA]: En este último escuadrón de los calibres existentes se encuentran armas de destrucción masiva como lo son proyectiles nucleares, armas alienígenas de devastación planetaria y en general cualquier armamento cuyo efecto abarque un área tan extensa como una ciudad pequeña. Incluye armamento cuya munición posea una dureza equivalente al Uru.  (No es obligatorio asignar esta dureza para usar esta escala, solo en casos canónicos donde lo amerite)
+		
+HABILIDADES CON ARMAS DE FUEGO
+[HABILIDAD DE TIER III] – Dentro de esta categoría entran habilidades realizables a partir de RANGO I. Estas se verán representadas por disparos básicos, si bien pueden ser “letales” siguiendo la lógica de armas de fuego aplicada versus humanos normales, la definición más correcta sería: habilidades que no exprimen al máximo el poder ofensivo de las armas, que no presenten un gran poder ofensivo respecto a la potencialidad del arma, por ejemplo, un disparo de una pistola semiautomática a una extremidad o torso (en un punto no vital), un disparo de francotirador en un punto no vital. Estas habilidades tendrán el coste de 1 PA.
+
+[HABILIDAD DE TIER II] – Dentro de esta categoría entran habilidades realizables a partir de RANGO II. Estas se verán representadas por disparos más complejos y dañinos que los pertenecientes TIER anterior, que pueden ser o no letales. Como excepción a la regla, las habilidades de “CALIBRE EXPLOSIVO” o superior sí o sí deberán poseer como mínimo este TIER. Estas habilidades tendrán el coste de 2 PA.
+
+[HABILIDAD DE TIER I] – Dentro de esta categoría entran habilidades realizables a partir de RANGO III. Estas se verán representadas por habilidades de alto poder ofensivo, generalmente las habilidades representadas en este TIER son de carácter letal en el material original. Estas habilidades tendrán el coste de 3 a 4 PA.
+
+[HABILIDAD DE TIER 0] – Dentro de esta categoría entran habilidades realizables realizables a partir de RANGO IV. Estas se verán representadas por habilidades de armas únicas o especiales de gran poder destructivo, escapan de los parámetros de armas convencionales y no es posible encontrar “armas comunes” con este tipo de habilidades en ningún caso. Estas habilidades tendrán el coste de 5 a 10 PA. 
+		
+INTERACCIONES ADICIONALES (OPCIONALES)
+[BLOQUEOS FÍSICOS SIN ARMAS]: Solo unos pocos seres vivientes tienen la capacidad de bloquear un disparo con sus propias manos, a continuación, se explica esta interacción.
+Aquellos personajes con una escala de FUERZA TIER 4 no podrán defender habilidades con armas de fuego mediante bloqueos físicos sin armas.
+ Aquellos personajes con una escala de FUERZA TIER 3 podrán bloquear disparos de armas de CALIBRE MODERADO o inferior mediante bloqueos físicos sin armas.
+Aquellos personajes con una escala de FUERZA TIER 2 podrán bloquear disparos de armas de CALIBRE ALTO o inferior mediante bloqueos físicos sin armas.
+Aquellos personajes con una escala de FUERZA TIER 1 podrán bloquear disparos de armas de CALIBRE EXPLOSIVO o inferior mediante bloqueos físicos sin armas.
+Aquellos personajes con una escala de FUERZA TIER 0 podrán bloquear disparos de armas de cualquier calibre mediante bloqueos físicos sin armas.
+[ALTA PRECISIÓN]: Las armas de CALIBRE ALTO se consideran armamento de alta precisión por lo que requieren un mínimo de 4 REF para reaccionar al 100%..
+
+ACLARACIONES:
+  N/A
+================================================================================
+

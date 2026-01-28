@@ -1,0 +1,143 @@
+
+================================================================================
+PODER MÍSTICO
+================================================================================
+  Guía de Creación
+  Explicación: Todo personaje que tenga cierta afinidad a la mágica es capaz de desarrollar un poder místico, que variará según la naturaleza de sus prácticas. En esta guía se especifican las escalas de poder místico de acuerdo con cada disciplina mágica o poder que otorgue acceso al mundo de los misticismos, así como conceptos básicos.
+En primera instancia, todo poder o documento que represente la capacidad de manipular cierto grado de misticismos para realizar proezas defensivas u ofensivas, adquirirá un nuevo atributo llamado PODER MÁGICO (PM) que escalará de acuerdo con su clasificación y rango.
+
+Una característica de los poderes que tengan acceso al PODER MÍSTICO (PM) es que pueden adquirir en ciertos ataques la propiedad denominada Daño al Alma.
+HABILIDADES MÍSTICAS
+[HABILIDAD DE TIER III] – Se compone de habilidades místicas de complejidad baja o nula. Dentro de esta categoría entra el clásico rayo místico adaptado a la disciplina, así como otros efectos sin gran relevancia o poder, como ataduras mágicas, destellos, etcétera. Estas habilidades pueden existir desde RANGO I. Estas habilidades tendrán el coste de 1 PA.
+
+[HABILIDAD DE TIER II] – Se compone de habilidades místicas con una complejidad y efectos mayores. Dentro de esta categoría entran explosiones místicas de fuerza considerable capaz de dañar a sin problema alguno a personajes con fisionomías mejoradas. Dentro de esta categoría entran explosiones místicas o rayos mágicos potenciados. Estas habilidades sólo pueden incluirse a partir de RANGO II. Estas habilidades tendrán el coste de 2 PA.
+
+[HABILIDAD DE TIER I] – Se compone de habilidades místicas con una complejidad alta y un potencial destructivo considerable. Dentro de esta categoría entran hazañas capaces de causar grandes daños en área, hechizos místicos de gran potencial capaces de afectar a seres interdimensionales o con facilidad para ignorar resistencias físicas y místicas. Estas habilidades sólo pueden incluirse a partir de RANGO III. Estas habilidades tendrán el coste de 3 a 4 PA.
+
+[HABILIDAD DE TIER 0] – Se compone de habilidades místicas con una complejidad única y que requieren de gran concentración para generar efectos prácticamente devastadores en el área. Dentro de esta categoría entran hazañas únicas, capaces de incluso derrota a seres de gran poder con un único golpe. Impactar una habilidad de este calibre podría significar una victoria casi inmediata. Estas habilidades sólo pueden incluirse a partir de RANGO IV. Estas habilidades tendrán el coste de 5 a 10 PA. 
+HABILIDADES MÍSTICAS SIN PROYECCIÓN FÍSICA
+Dentro del universo Marvel existen habilidades que se realizan sin que el oponente esté consciente visualmente de ello. Las habilidades pertenecientes a esta categoría sólo destacan por, a diferencia de las anteriores, no poseer proyección física alguna. Conservan la mecánica de los TIER indicados en la proyección física, con la excepción de que estas reducirán sus efectos de daños directos en el juego. Adicionalmente, su forma de reaccionadas será mediante Resistir. Ejemplos de habilidades pertenecientes a esta categoría son combustiones internas.
+
+Los daños serán los indicados en la GUÍA CON PROYECCIÓN FÍSICA, sin embargo, sus efectos se reducirán en un “75% [*0.75]”. Esto se debe indicar al momento del escalado, encerrando el escalado básico entre paréntesis y agregando la multiplicación fuera de ellos.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+[MISTICISMOS] – DAÑO AL ALMA
+================================================================================
+  Explicación
+  Efecto visual: Forma de daño único relacionado a misticismos específicos. Se caracterizan por causar un daño profundo dentro de sus oponentes, siendo capaces no sólo de dañar su cuerpo físico, sino lo más profundo de sus almas.
+Efecto: Efecto exclusivo de habilidades capaces de provocar esta clase de efecto negativo basado en sus explicaciones en los cómics. Un ejemplo de magia de este tipo es el fuego infernal. Su efecto permite que el daño obtenga las siguientes propiedades:
+El daño al alma ignora un “50% [*0.50]” de las defensas internas, así como resistencias pasivas y reducciones de daño que no indiquen proteger daño al alma. Así mismo, el daño generado por estas habilidades no puede ser sanado ni regenerado a menos que sea tratado mediante habilidades activas o pasivas de índole místico.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+CLASIFICACIÓN PODERES MÍSTICOS
+================================================================================
+  Guía de Creación
+  Explicación: La clasificación de poderes místicos es una de las más estrictas, ya que además de la física, esta se encuentra comúnmente explicita en las habilidades de cada personaje.
+MISTICISMOS MENORES [TIER 5]: TIER básico en los poderes de capacidades místicos. Comprende al 99% de los novatos en la magia sin talento mágico innato. Es el TIER utilizado de forma básica para el Perfil.
+
+MISTICISMOS DE PODER BAJO [TIER 4]: Este TIER corresponde a personajes con habilidades místicas que, aunque superan a los hechiceros más básicos no han demostrado ningún talento especial que les haga considerarse hechiceros de gran calibre. 
+
+Bendición de Sila (Amka Aliyak) 
+Disciplina Mágica: Conjurador (Nina la Conjuradora)
+Disciplina Mágica: Conocimiento Celta (Doctor Druid) 
+Disciplina Mágica: Favor de Pendragón (Rey Arturo) 
+Disciplina Mágica: Hechicería Hyboriana (Kulan Gath)
+Disciplina Mágica: Hechicería Nativo-Americana (Black Crow) 
+Disciplina Mágica: Juegos Diabólicos (Diabolique)
+Disciplina Mágica: Legado Místico (Lionheart)
+Disciplina Mágica: Linaje Místico Ibérico (Capitán España) 
+Disciplina Mágica: Magia Brillante (Topaz)
+Disciplina Mágica: Misticismos Genéticos (Sebastian Druid)
+Disciplina Mágica: Misticismos Terrestres (Damian Tryp) 
+Disciplina Mágica: Pacto Diabólico (Master Pandemonium)
+Disciplina Mágica: Tecnomancia (Pkzkrfmknna)
+Disciplina Mágica: Linaje Místico (Capitán Britania) 
+Brujería de Batalla: Oni (Ogun)
+Descendencia Ancestral: Kumiho (White Fox)
+Disciplina Mágica: Culto Napal (Dansen Macabre)
+Fisionomía de Hada (Pixie)
+Posesión Demoníaca: Posesión Nisanti (The Hood) 
+Reencarnación de Huitzilopotchli (Hummingbird)
+Maldiciones (Varios personajes)
+Pactos Mágicos (Varios Personajes)
+TIER máximo para personajes no místicos que posean misticismos base (ejemplo: Mutantes, Humanos, Inhumanos)
+Britain Corps (Con sus especialidades)
+
+MISTICISMOS DE PODER MEDIO [TIER 3]: Este TIER corresponde a personajes con habilidades místicas que superan con creces a místicos de nivel bajo. Sus hazañas a menudo sorprenden incluso a hechiceros de gran calibre.  
+
+Cambiaformas (Snowbird) 
+Disciplina Mágica: Sendero de Bruja (Natalya Maximoff)
+Disciplina Mágica: Avatar del Amor Asgardiano (Sylvie Lushton) 
+Disciplina Mágica: Culto a Satán (Claire Voyant)
+Disciplina Mágica: Culto Voodoo (Marie Laveau) 
+Disciplina Mágica: Hechicería Atlante (Dakihm) 
+Disciplina Mágica: Hechicería Cuántica (Arcanna Jones) 
+Disciplina Mágica: Hechicería Hyboriana (Kulan Gath) 
+Disciplina Mágica: Hechicería Nativo-Americana (Black Crow) 
+Disciplina Mágica: Heredera del Camino Sinuoso (Jimaine Szardos) 
+Disciplina Mágica: Magia Griega (Emerald Warlock) 
+Disciplina Mágica: Magia y Tecnología (Isaac Newton) 
+Disciplina Mágica: Precognición y Alquimia (Nostradamus) 
+Fe de Dios (Crusader) 
+Herencia Mística: Súcubo (Shiklah) 
+Nigromante Tecnológico (Grim Reaper) 
+Teletransportación Mediante Discos (Magik)
+Metamorfismo Elemental (Meggan Pucceanu)
+Vampirismo Psiquico (Selene Gallio)
+Disciplina Mágica: Ocultismo e Invocación (Ian McNee)
+Disciplina Mágica: Misticismos Ancestrales (Jennifer Kale)
+Chamanismo (Shaman/Talisman) 
+TIER máximo para personajes no místicos que posean misticismos base, pero posean un origen místico (ejemplo: Deidades)
+
+MISTICISMOS DE PODER MEDIO [TIER 2]: Este TIER corresponde a personajes con habilidades místicas de un nivel único. Son de los mejores hechiceros de sus orígenes y a menudo han estado señalados como miembros de los mejores hechiceros del Universo Marvel.
+
+Arte Mágica: Manipulación Fuerza Oscura (Shroud) 
+Disciplina Mágica: Conocimiento Faltine (Clea) 
+Corona de Encantamientos (Talisman)
+Disciplina Mágica: Hechicería del Alma (Illyana Rasputín)
+Disciplina Mágica: Misticismos del Alma (Pixie)
+Disciplina Mágica: Misticismos del Amor (Lorelei) 
+Disciplina Mágica: Regente Faltine (Umar)
+Disciplina Mágica: Regente Goblin (Madelyne Pryor)
+Disciplina Mágica: Sendero Sinuoso (Margali Szardos) 
+Disciplina Mágica: Vínculo Terrestre (Storm)
+Engendro Nigromante (Baba Yaga) 
+Magia Infernal: Descendencia Demoníaca (Witchfire) 
+Disciplina Mágica: Conexión Arcana (Agatha Harkness) 
+Herencia Infernal: Súcubo Demoniaco (Satana Hellstrom). 
+Maldición Mágica: Santo Corrupto (Brass Bishop)
+Maldición Mágica: Siervo Demoníaco (Ghost Rider) 
+Herencia Mística (Nico Minoru)
+Disciplina Mágica: Maestro de la Magia Oscura (Kaluu) 
+
+MISTICISMOS DE PODER SUPREMO [TIER 1]: Este TIER corresponde a personajes con habilidades místicas de un nivel supremo. Quienes conforman este grupo son hechiceros con gran cantidad de hazañas que respaldan su gran poderío y han sido protagonistas de demostraciones mágicas únicas. 
+
+Disciplina Mágica: Elfismo Oscuro (Malekith) 
+Disciplina Mágica: Hechicería Arcana Norn (Karnilla)
+Disciplina Mágica: Hechicería Asgardiana (Enchantress) 
+Disciplina Mágica: Hechicería Tribal (Brother Voodoo) 
+Disciplina Mágica: Imaginación Mística (Wiccan) 
+Disciplina Mágica: Magia del Caos (Wanda Maximoff) 
+Disciplina Mágica: Magia Oscura (Barón Mordo) 
+Disciplina Mágica: Manipulación Elemental (Morgan Le Fay) 
+Disciplina Mágica: Poder Antiguo (Dr. Doom) 
+Magia Infernal: Alma Oscura (Daimon Hellstrom) 
+Disciplina Mágica: Adepto Vishanti (Dr. Strange)
+Libro Vishanti (Dr. Strange)
+
+En el caso de objetos mágicos que confieran bonificaciones al poder místico, como podría ser la corona de encantamientos u objetos pertenecientes a Dr. Strange, serán evaluados individualmente de acuerdo con la naturaleza del objeto.
+
+ACLARACIONES:
+  N/A
+================================================================================
+

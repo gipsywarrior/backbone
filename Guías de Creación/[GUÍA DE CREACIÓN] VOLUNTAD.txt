@@ -1,0 +1,48 @@
+
+================================================================================
+VOLUNTAD
+================================================================================
+  Guía de Creación
+  Explicación: El poder de voluntad dentro del universo de Marvel puede ser representado a través de distintas hazañas, así como también con distinta intensidad. Entendemos por voluntad la capacidad de un personaje para prevalecer ante las problemáticas o sobreponerse sobre otros elementos del juego o personajes, ya sea de forma ofensiva o inofensiva.
+En esta guía se explicará brevemente el funcionamiento de cada escala de VOLUNTAD base con la que algunos personajes deben empezar, así como el funcionamiento de habilidades que interactúen con este atributo y sus maneras de reaccionar.
+[BASE – TIER 4]: Dentro de esta categoría se encuentran personajes que han demostrado al menos un nivel de VOLUNTAD ligeramente superior al de alguien ordinario. No poseen aumentos de VOLUNTAD de base, pero pueden poseer pasivas que otorguen ciertos beneficios.
+[+1 VOLUNTAD – TIER 3]: Dentro de esta categoría se encuentran personajes que poseen una fuerza de voluntad innata o por entrenamientos básicos que han fortalecido sus capacidades mentales.
+Suero de Viuda Negra (Natasha Romanoff)
+Destreza Humana: Adiestramiento Militar (Punisher)
+Habilidades Arácnidas (Varios)
+Telepatía (Varios)
+Telepatías de clase Alpha y Beta
+[+2 VOLUNTAD – TIER 2]: Dentro de esta categoría se encuentran personajes que han demostrado tener un dominio completo de sus facultades mentales, y aunque no están en la cima de la escala, debe mencionarse que con más entrenamiento podrían llegar a estarlo.
+Ergoquinesis Climática (Storm)
+Dios del Trueno (Thor)
+Dios de la Fuerza (Hércules)
+Dios del Engaño (Loki)
+Habilidades Arácnidas (Camino Peter Parker)
+Metahumano: Persuasión (Hombre Púrpura)
+Suero del Super Soldado (Camino Steve Rogers)
+Telepatías de clase High Order
+[+3 VOLUNTAD – TIER 1]: Personajes con la capacidad de utilizar sus habilidades para suprimir la voluntad de otros y hacerlos prácticamente esclavos. También se encuentran aquellos que tienen una fuerza de voluntad mayor ante alteraciones como la mirada de penitencia.
+Disciplina Mágica: Hechicería Asgardiana (Enchantress)
+Herencia Infernal: Súcubo Demoníaco (Satana Hellstrom)
+Telepatías de clase Omega
+[+4 VOLUNTAD – TIER 0]: Personajes cuya voluntad representa la cúspide de la escala. Su presencia impone y altera en terceros sin la necesidad de recurrir a esfuerzos.
+Disciplina Mágica: Poder Antiguo (Dr. Doom)
+Telepatías de clase High Order Omega
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+CONTROLES MENTALES/MÍSTICOS/PERSUASIONES/ETC
+================================================================================
+  Guía de Creación
+  Explicación: Existen habilidades capaces de tomar control de otro personaje para llevar a cabo acciones u “ordenes” impuestas en contra de su voluntad. A continuación, se explica el funcionamiento de acuerdo con las mecánicas.
+El superar en VOLUNTAD al ejecutor de la habilidad vuelve automáticamente inmune a susodicha salvo la habilidad o el poder en cuestión indique una aclaración contraria.
+El método de reacción general y ordinario para esta clase de habilidades es el comando básico RESISTIR. Por cada dos puntos de VOLUNTAD que el usuario tenga de diferencia con el objetivo del control, el coste del comando aumenta en 1 PA.
+
+ACLARACIONES:
+  N/A
+================================================================================
+

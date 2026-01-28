@@ -1,0 +1,79 @@
+
+================================================================================
+PODER ELEMENTAL
+================================================================================
+  Guía de creación
+  Explicación: Se entienden como poderes de carácter elemental aquellos que de cualquier modo brinden alguna clase de conexión con las fuerzas naturales primarias. Engloban por ello distintos tipos de manipulación sobre los cuatro elementos básicos y derivados de los mismos, incluyendo de por medio fenómenos atmosféricos y fisicoquímicos. En casos particulares, poderes elementales habilitarán el desarrollo de un nexo con la flora y la fauna de un ecosistema.
+Es importante distinguir que el “daño elemental” como tal no es un concepto abarcado por los sistemas de juego, sino que los daños que comprenden las habilidades de este tipo se clasificarán como ENERGÉTICAS (en hazañas del tipo eléctrico, calórico y símiles) o FÍSICAS (en el caso de lesiones provocadas por tierra, agua, viento, entre otras). Como excepción a la regla, las habilidades relativas al daño por fuego se rotularán como ÍGNEAS.
+Cualquier poder con la capacidad de causar daños bajo la anterior premisa pasará a contar con un nuevo atributo llamado PODER ELEMENTAL “PE” que escalará en función a su TIER.
+La forma de clasificar en qué categoría entra cada poder depende del personaje en cuestión. Sin embargo, a norma general, aquellos que no estén especificados dentro de esta guía (a excepción de casos en los que sus feats sean equivalentes a controles superiores) iniciarán en PODER ELEMENTAL V y deberán escalar en los controles de acuerdo con las siguientes escenarios posibles o desarrollo correspondiente.
+El usuario puede escalar un nivel de control energético cada dos meses desde que fue aceptado en la plaza del poder.
+El usuario puede escalar un nivel de control energético como premio por evento.
+Para alcanzar el PODER ELEMENTAL II, si no lo otorga el poder o documento en cuestión se requerirá de permiso administrativo respectivo.
+
+HABILIDADES ELEMENTALES
+[HABILIDAD DE TIER III] – Se compone de habilidades elementales con efectos cotidianos. Dentro de esta categoría entran los clásicos rayos elementales, lanzamientos de rocas, chorros de fuego, etcétera. Estas habilidades pueden incluirse desde RANGO I y tendrán coste de 1 PA.
+[HABILIDAD DE TIER II] – Se compone de habilidades elementales con efectos mucho más considerables. Dentro de esta categoría entran olas de gran tamaño, torrentes de fuego, derrumbes de rocas, rayos de gran capacidad, etcétera. Estas habilidades pueden incluirse desde RANGO II y tendrán coste de 2 PA.
+[HABILIDAD DE TIER I] – Se compone de habilidades elementales con efectos críticos. Dentro de esta categoría entran llamaradas capaces de causar quemaduras de gravedad a un oponente o deshidratarlo, derrumbes colosales, rayos capaces de fulminar a un oponente y devastar el área, etc. Estas habilidades pueden incluirse desde rango III y tendrán coste de 3 a 4 PA.
+[HABILIDAD DE TIER 0] – Se compone de habilidades elementales con efectos mortales. Dentro de esta categoría entran rayos fulminantes capaces de desintegrar a un personaje y destrozar el área, llamaradas capaces de derretir al oponente, derrumbes colosales de tierra, tsunamis, terremotos, erupciones volcánicas, etcétera. Estas habilidades pueden incluirse desde rango IV y tendrán coste de 5 a 10 PA.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+CLASIFICACIÓN DE PODERES ELEMENTALES
+================================================================================
+  Guía de creación
+  Explicación: A continuación, se describe un listado de personajes a considerar a la hora de redactar poderes de tipo elemental. En función a su capacidad y rango de hazañas, se verán ordenados de menor a mayor.
+CONTROL DE PODER ELEMENTAL IV: Controles elementales poco destacables. 
+Poderes no clasificables debido a un control bajo o inexperto sobre los elementos. Aplican personajes con apariciones insuficientes.
+Citoquinesis (Driada)
+Citoquinesis Hiperacelerada (Timberius)
+Descarga Eléctrica Explosiva (Kaboom)
+Piroquinesis Inhumana (Spark)
+Proyección de Ondas de Viento (Kacy)
+Generación de Tornado (Texas Twister)
+CONTROL DE PODER ELEMENTAL III: Dominan un control primario sobre uno o varios elementos naturales. Pueden prestarse fácilmente a un desarrollo superior.
+Absorción de Materia (Mondo)
+Control Aeroquinético (Aireo)
+Hidroquinesis (Washout)
+Piroquinesis (Match, Rusty Collins)	
+Termoquinesis (Oya)
+Citoquinesis Empática (Jolen)
+Manipulación de Presión Ambiental (Iso)
+Serpiente Marina (Faira Sar Namora)
+Atmoquinesis Humana (Weather Witch)
+Citoquinesis Humana (Plantman)
+Crioquinesis Humana (Icemaster)
+Exposición a Energía Gélida (Luna Snow)
+Hidroquinesis (Wave)
+CONTROL DE PODER ELEMENTAL II: Poseen control avanzado sobre uno o varios elementos, por lo que son capaces de realizar hazañas de enorme calibre.
+Control de la Naturaleza (Lin Li)
+Electroquinesis (Surge)
+Geoquinesis (Petra)
+Magmaquinesis (Magma)
+Piroquinesis External (Nicodemus)
+Piroquinesis Plasmática (Sunfire)
+Electroquinesis Inhumana (Nahrees)	
+Control Botánico (Shredded Man)	
+Geoquinesis Magmática (Inferno)
+Manipulación Terrestre (Flint)
+Aeroquinesis Avanzada (Renascence)
+Aeroquinesis (Aero)
+Electroquinesis Humana (Electro)
+Radiación Cósmica: Habilidades Ígneas (Johnny Storm)
+Androide Cibernético: Piroquinesis (Jim Hammond)
+CONTROL DE PODER ELEMENTAL I: Gracias a un vínculo intrínseco con los fenómenos naturales o bien maestría sobre sus habilidades, gozan de un portento colosal difícilmente superable.
+Ergoquinesis Climática (Ororo Munroe)
+Control Molecular Atmosférico (Crystal)
+Crioquinesis (Iceman)
+Metamorfosis Elemental (Meggan Puceanu)	
+Híbrido de Humano Mutante y Atlante (Namor)
+CONTROL DE PODER ELEMENTAL X: Escala de poder máximo tentativa.
+
+ACLARACIONES:
+  En caso de que un poder no se encuentre enlistado, debe añadirse de acuerdo con el material de lectura de su personaje respetando los parámetros de clasificación.
+================================================================================
+

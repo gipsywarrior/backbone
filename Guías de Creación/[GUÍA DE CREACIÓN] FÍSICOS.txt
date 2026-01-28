@@ -1,0 +1,61 @@
+
+================================================================================
+FÍSICOS
+================================================================================
+  Guía de Creación
+  Efecto visual: La fuerza gobierna las habilidades de carácter físico, por ejemplo, un simple puñetazo, una llave de lucha libre o técnicas propias de artes marciales. Dentro de esta guía se explica cómo crear habilidades de este tipo y sus efectos. 
+En primera instancia, todo poder o documento cuyo contenido involucre la utilización de movimientos físicos para fines ofensivos o defensivos, se regirá por el atributo básico FUERZA (FUE) para el cálculo de estas habilidades, el cual escala en función del rango y la clasificación es propia de cada poder.
+
+
+HABILIDADES FÍSICAS
+[HABILIDAD DE TIER III] – Se compone de habilidades físicas con efectos básicos. Dentro de esta categoría entran patadas, puñetazos, golpes incapacitantes, técnicas de artes marciales simples, llaves de lucha libre, defensas con los brazos u otras partes del cuerpo, etcétera. Las habilidades ofensivas de esta categoría corresponden a un efecto visual no letal. Estas habilidades pueden existir desde RANGO I. Estas habilidades tendrán el coste de 1 PA.
+
+[HABILIDAD DE TIER II] – Se compone de habilidades físicas con efectos más agresivos. Dentro de esta categoría se encuentran habilidades de características similares al TIER anterior, solo que con efectos potenciados, golpes que abarquen un área mayor, técnicas de artes marciales de alta complejidad, etcétera. A partir de esta categoría es posible encontrar mutilaciones o laceraciones no letales y que no posean un efecto permanente, por lo general estas habilidades tienen un efecto visual no letal. Estas habilidades sólo pueden incluirse a partir de RANGO II. Estas habilidades tendrán el coste de 2 PA.
+
+[HABILIDAD DE TIER I] – Se compone de habilidades físicas con efectos devastadores. Dentro de esta categoría entran golpes a puntos vitales de carácter letal, ataques físicos con gran área de efecto, técnicas físicas que generen decapitaciones o mutilaciones letales, etcétera. Como regla general, toda habilidad física que posea un efecto letal en el material original entrará en esta categoría. Estas habilidades sólo pueden incluirse a partir de RANGO III. Estas habilidades tendrán el coste de 3 a 4 PA.
+
+[HABILIDAD DE TIER 0] – Se compone de habilidades físicas con efectos como mínimo city buster (capacidad para destruir o causar gran destrucción a una ciudad o similar). Dentro de esta categoría entran golpes que sean capaces de generar graves daños como mínimo el área que abarca una ciudad o pueblo de tamaño mediano, remecer los cimientos de una estructura gigante o puñetazos que sean capaces de destruir vehículos titánicos como una nave espacial. Impactar una habilidad de este calibre podría significar una victoria casi inmediata. Estas habilidades sólo pueden incluirse a partir de RANGO IV. Estas habilidades tendrán el coste de 5 a 10 PA.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+CLASIFICACIÓN DE PODERES FÍSICOS
+================================================================================
+  Guía de Creación
+  Explicación: Los diferentes personales del Universo de Marvel poseen diferentes niveles de fuerza física, los cuales se representan con el peso en unidad de kilógramos o toneladas que cada personaje es capaz de levantar sobre su cabeza con los brazos completamente extendidos.
+TIER 4: Representa la escala más baja de fuerza física, encontrándose la categoría HUMANO NORMAL, aquellos personajes que no poseen una fuerza superior y son capaces de levantar su propio peso corporal, HUMANO ENTRENADO, aquellos personajes con un desarrollo físico que son capaces de levantar una cantidad mayor a su peso corporal y por último LÍMITE HUMANO, aquellos personajes que han desarrollado su fuerza al punto máximo sin llegar al nivel sobrehumano.
+HUMANO NORMAL: Charles Xavier, May Parker, Mary Jane Watson
+HUMANO ENTRENADO: Hawkeye, Elektra, Sherlock Holmes
+LÍMITE HUMANO: Capitán América (Steve Rogers), Daredevil, Winter Soldier, Kingpin, Laura Kinney
+TIER 3: Representa la escala de fuerza física sobrehumana de más baja categoría, entendiéndose como cualquier fuerza física superior a 800 libras o 363 kg, prácticamente cualquier personaje que posea una fuerza superior a Steve Rogers, el cual es considerado la división entre el límite humano y la categoría sobrehumana. Se considera el TIER mínimo para levantar un automóvil o vehículo de tamaño pequeño o mediano. Abarca el rango de 2 a 10 TON. 
+2 TON: James Howlett (Wolverine), Michael Morbius, Sergei Kravinoff (Kraven)
+5 TON: Drácula, The Thing (primeras apariciones)
+10 TON: Spider-Man (Peter Parker), Green Goblin (Norman Osborn)
+TIER 2: Representa la escala de fuerza física de categoría intermedia, entendiéndose como cualquier fuerza física superior a las 10 toneladas. Los personajes que poseen una fuerza clasificada dentro de este rango son capaces de generar efectos más destructivos en sus golpes y se considera el TIER mínimo para que un personaje sea capaz de levantar un vehículo de tamaño grande o edificación pequeña o mediana. Abarca el rango de 20 a 50 TON. 
+20 TON: Lizard (Dr. Connors), Doctor Octopus, Escorpión
+30 TON: Armadillo, Asgardiano común
+40 TON: Volstagg, Heimdall
+50 TON: Luke Cage, Valkyria, She-Hulk (fuerza inicial)
+TIER 1: Representa la escala de fuerza física de categoría alta, entendiéndose como cualquier fuerza física superior a las 50 toneladas. Los personajes que poseen una fuerza clasificada dentro de este rango son capaces de generar efectos de gran destrucción, por lo general son capaces de destrozar un tanque de guerra sin esfuerzo, se considera el TIER mínimo para que un personaje sea capaz de levantar un vehículo colosal o una edificación grande. Abarca el rango de 75 a 100 TON Clase 3.
+75 TON: Ares, Capitán Marvel (Carol Danvers), Namora (en agua), Madman (base), The Thing (años 80-2000), She-Hulk (fuerza base años 90), Grey Hulk (base), Deathlok (Michael Collins, base).
+100 TON: Savage Hulk (base), The Captain, Rhino, The Thing (década 2010), She-Hulk (base años 2000), Titania, A-Bomb, Tyrone Cash, Sasquatch (base)
+100 TON C.1: Deathlok (Michael Collins, sin límites), Anti-Venom, Red Hulk (base), She-Hulk (base moderna)
+100 TON C.2: Abominación, Madman (límite), Sasquatch (Tanaraq), Professor Hulk.
+100 TON C.3: Namor (en tierra), Thor (Unworthy), Dario Agger (Minotauro), Beta Ray Bill (desarmado), Bi-Beast, Nefarius.
+TIER 0: Representa la escala de fuerza física de más alta categoría, entendiéndose como cualquier fuerza física que se considera incalculable y solo puede ser determinada en base a la comparación de dos fuerzas distintas. Los personajes que poseen una fuerza clasificada dentro de este rango son capaces de generar efectos de destrucción masiva. Abarca el rango de 100 TON Clase 4 a 100 TON Clase 10.
+100 TON C.4: Captain Wonder, The Thing (última encarnación), She-Hulk (límite), Grey Hulk (límite).
+100 TON C.5: Grey She-Hulk, Weapon-H, Thor (joven), Red Hulk (máxima energía absorbida)
+100 TON C.6: Namor (en agua), Savage Hulk (límite encarnación clásica), Skaar.
+100 TON C.7: Thor (clásico), Beta Ray Bill (Stormbreaker), Blue Marvel (base), Maestro, Gorr (Necrosword), Juggernaut, Wonder Man, Conde Nefaria.
+100 TON C.8: Hércules, Green Scar (WW Hulk), Immortal Hulk/Devil Hulk, Sentry (Golden), Blue Marvel (Negative Zone), 
+100 TON C.9: Sentry (Void), Gladiator (máxima confianza), King Thor
+100 TON C.10: Thanos
+FUERA DE ESCALA: Galactus, Tyrant, Old King Thor, Odín (Odinforce)
+
+ACLARACIONES:
+  N/A
+================================================================================
+

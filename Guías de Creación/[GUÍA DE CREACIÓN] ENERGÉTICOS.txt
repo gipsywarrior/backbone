@@ -1,0 +1,65 @@
+
+================================================================================
+ENERGÍA
+================================================================================
+  Guía de Creación
+  Efecto visual: La energía engloba todas aquellas habilidades que no posean una naturaleza explícitamente relacionada con otras guías, como podría ser la elemental o la física. Dentro de esta guía se explica cómo crear habilidades de este tipo y sus efectos. 
+En primera instancia, todo poder o documento que represente la capacidad de manipular cierto grado de energía para realizar proezas defensivas u ofensivas, adquirirá un nuevo atributo llamado ENERGÍA (EN) que escalará de acuerdo con su clasificación y rango.
+
+La forma de clasificar en qué categoría entra cada poder depende del personaje en cuestión. Sin embargo, a norma general, aquellos que no estén especificados dentro de esta guía (a excepción de casos en los que sus feats sean equivalentes a controles superiores) iniciarán en CONTROL ENERGÉTICO V y deberán escalar en los controles de acuerdo con las siguientes escenarios posibles o desarrollo correspondiente.
+El usuario puede escalar un nivel de control energético cada dos meses desde que fue aceptado en la plaza del poder.
+El usuario puede escalar un nivel de control energético como premio por evento.
+
+Para alcanzar el CONTROL ENERGÉTICO II, si no lo otorga el poder o documento en cuestión se requerirá de permiso administrativo respectivo.
+
+HABILIDADES ENERGÉTICAS
+[HABILIDAD DE TIER III] – Se compone de habilidades energéticas con efectos básicos. Dentro de esta categoría entran los clásicos rayos energéticos, defensas, explosiones en área menores, etcétera. Estas habilidades pueden existir desde RANGO I. Estas habilidades tendrán el coste de 1 PA.
+
+[HABILIDAD DE TIER II] – Se compone de habilidades energéticas con efectos más agresivos. Dentro de esta categoría entran rayos lacerantes, grandes explosiones energéticas, etcétera. Estas habilidades sólo pueden incluirse a partir de RANGO II. Estas habilidades tendrán el coste de 2 PA.
+
+[HABILIDAD DE TIER I] – Se compone de habilidades energéticas con efectos devastadores. Dentro de esta categoría entran rayos capaces de perforar fácilmente la piel de los adversarios o de derretir partes del cuerpo al estar concentrados, así como explosiones energéticas de gran alcance y poder. Estas habilidades sólo pueden incluirse a partir de RANGO III. Estas habilidades tendrán el coste de 3 a 4 PA.
+
+[HABILIDAD DE TIER 0] – Se compone de habilidades energéticas con efectos prácticamente de escala cósmica. Dentro de esta categoría entran rayos capaces de desintegrar o reducir a cenizas una gran parte del entorno, así como de combatir fácilmente con seres provenientes de los confines del espacio. Impactar una habilidad de este calibre podría significar una victoria casi inmediata. Estas habilidades sólo pueden incluirse a partir de RANGO IV. Estas habilidades tendrán el coste de 5 a 10 PA.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
+
+================================================================================
+CLASIFICACIÓN DE PODERES ENERGÉTICOS
+================================================================================
+  Guía de Creación
+  Explicación: Algunos poderes de naturaleza energética tienen un mayor control innato sobre sus capacidades, ya sea por lo que representa como tal o por las energías que manipula.
+CONTROL ENERGÉTICO IV: Representa la escala más común del control energético. Las energías que se manipulan en sí no destacan más allá de las conocidas generalmente.
+Todo poder que manipule energía y no esté clasificado en una escala superior.
+CONTROL ENERGÉTICO III: Son considerados personajes difíciles de derrotar por la capacidad de controlar energía de forma bastante efectiva, y aunque no sean energías únicas o potencialmente destructivas, tienen un control admirable en susodichas.
+Absorción de Energía Cinética (Sebastian Shaw)
+Absorción de Energía Solar (Sunspot)
+Armadura Psiónica (Armor)
+Control de Energía Cósmica (Havok)
+Manipulación de Energía Cinética (Gambit)
+Rayos Ópticos (Cyclops)
+Control Gravitacional (Graviton)
+Generación Sónica Oscura (Shriek)
+CONTROL ENERGÉTICO II: Su control energético es tal que comprenden el espectro y lo interpretan con suma facilidad. Casi ninguna energía es desconocida para estos y esto también se demuestra en sus resistencias.
+Absorción de Energía (Bishop)
+Ergoquinesis Climática (Ororo Munroe)
+Camara Psiónica (Chamber)
+Energía Mortal (Mortis)
+Proyección de Energía Térmica (Cannonball)
+Exposición a la Tecnología Kree (Ms. Marvel)
+CONTROL ENERGÉTICO I: Dominan la mayoría de las energías o en su defecto, controlan un tipo de energía con gran potencial destructivo y se consideran los mejores en esto.
+Control Electromagnético (Magneto)
+Irradiación de Partículas Radioactivas (Radioactive Man)
+Radiación Cósmica: Psicoquinesis (Vector)
+CONTROL ENERGÉTICO X: Clasificación especial.
+Control Energético Total (Vulcan)
+Exposición a Energías Extradimensionales (Spectrum)
+Exposición a la Zona Negativa (Blue Marvel)
+Manejo de Energía Estelar (Xorn/Kuan Yi)
+
+ACLARACIONES:
+  En caso de que un poder no se encuentre enlistado, debe añadirse de acuerdo con los scans encontrados de susodicho que respalden su lugar correspondiente.
+================================================================================
+

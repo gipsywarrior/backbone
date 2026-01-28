@@ -1,0 +1,30 @@
+
+================================================================================
+MASCOTAS Y ACOMPAÑANTES
+================================================================================
+  Guía de Creación
+  Efecto visual: Guía de creación de mascotas, acompañantes, etcétera, que establece diversos criterios para la creación de estas. 
+
+ESTADÍSTICAS
+Una mascota cuenta con sus propias estadísticas, ya sea VITALIDAD, DEFENSA PASIVA, REFLEJOS, VELOCIDAD, FUERZA y otros ATRIBUTOS ESPECIALES en caso de requerirlo como “ENERGÍA”, “PODER ELEMENTAL”, etcétera.
+
+Sin embargo, la estadística de VITALIDAD siempre se verá reducida en un “25% [*0.75]”, independiente de la escala que posea la mascota o acompañante.
+
+MECÁNICAS DE COMBATE
+Una mascota puede funcionar mediante dos mecánicas de combate:
+[CONSUMO DE PA SIMULTÁNEO]: Mediante esta mecánica, las mascotas poseen una cantidad de PA que escala en función del rango del usuario, véase: “RANGO+1/+2/+3” PA (a criterio del creador), sin embargo, cada habilidad que realice el acompañante consumirá 1 PA del usuario de manera paralela. En cada turno oponente, poseerá una cifra fija de “2/3/4 PA” (a criterio del creador). Si al inicio de un turno oponente posee más o menos PA su cantidad se modificará hasta esta última cifra.
+[SIN CONSUMO DE PA]: Mediante esta mecánica, las mascotas no poseen PA propio y sus habilidades ofensivas no consumen PA del usuario, sin embargo, sólo es posible realizar 1 habilidad ofensiva de la mascota por turno propio. Por otra parte, las acciones defensivas de la mascota consumirán PA del usuario. 
+
+NOTA: Se aconseja que mascotas con esta mecánica sólo posean habilidades ofensivas TIER 3.
+
+HABILIDADES
+Una mascota puede acceder a Comandos Básicos sin restricción, salvo el comando básico “Huir”, aunque el creador puede quitarle el acceso a más de uno de estos en caso de que lo considere conveniente
+
+Una mascota puede acceder a Perfiles Básicos sin restricción, sin embargo, se aconseja ser sumamente cuidadosos con esto y no otorgar más perfiles de los que realmente amerita.
+
+Una mascota puede tener habilidades propias de TIER 3, TIER 2 y TIER 1 sin restricciones, siempre que amerite dichas habilidades en  función del material de origen. Sin embargo, los multiplicadores de dichas habilidades tendrán un máximo diferente:
+
+ACLARACIONES:
+  N/A
+================================================================================
+

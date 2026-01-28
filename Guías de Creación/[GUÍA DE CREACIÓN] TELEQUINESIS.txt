@@ -1,0 +1,23 @@
+
+================================================================================
+TELEQUINESIS
+================================================================================
+  Guía de Creación
+  Efecto visual: La telequinesis es una habilidad bastante común dentro del universo Marvel, sin embargo, existen poderes que han desarrollado esta capacidad a mayor medida. Dentro de esta guía se explica la mecánica para poderes que posean una destreza telequinética explícita.
+Esta guía está estrechamente vinculada con la guía de ENERGÉTICOS, pues ambas utilizan la misma estadística denominada PODER TELEQUINÉTICO (variante de la ENERGÍA). Sin embargo, para poderes enteramente basados en telequinesis, se regirá por la siguiente tabla adaptándose a los nombres de cada clasificación.
+Los poderes que tengan acceso a esta guía adquirirán el siguiente beneficio: Un telequinético tiene la capacidad de invertir “1 PA” para aumentar los efectos numéricos finales de una habilidad basada en el control de esta energía. Por cada PA invertido, se considera que los bonificadores se suman entre sí.
+[REACCIONES] – Los controles de masa causados por TELEQUINESIS/GRAVEDAD/ETC, sólo podrán ser reaccionados mediante RESISTIR. Se debe respetar la siguiente lógica:
+Cada TIER de diferencia con la habilidad RESISTIR aumenta en +1 el consumo de PA necesario para que el comando sea efectivo. Por ejemplo, al RESISTIR ser una habilidad de TIER III contra una habilidad de TIER I, se tendría que consumir 1 PA + 1 PA de diferencia, en total requiriendo 2 PA para que sea efectiva.
+HABILIDADES TELEQUINÉTICAS
+[HABILIDAD DE TIER III] – Se compone de habilidades físicas con efectos cotidianos. Dentro de esta categoría entran rayos de fuerza, comprensiones sencillas, arrojamientos de objetos de tamaño considerable, etcétera. Estas habilidades pueden existir desde RANGO I. Estas habilidades tendrán el coste de 1 PA.
+
+[HABILIDAD DE TIER II] – Se compone de habilidades físicas con efectos mucho más considerable. Dentro de esta categoría entran compresiones capaces de romper extremidades, rayos de fuerza con capacidad mucho mayor, arrojamientos de automóviles u objetos de tamaño similar, etcétera. Estas habilidades sólo pueden incluirse a partir de RANGO II. Estas habilidades tendrán el coste de 2 PA.
+
+[HABILIDAD DE TIER I] – Se compone de habilidades físicas con efectos críticos. Dentro de esta categoría entran rayos de fuerza capaces de romper estructuras, campos de fuerza de gran capacidad defensiva, compresiones capaces de reducir a cero a personajes con gran fuerza, arrojamiento de objetos de tamaño colosal. Estas habilidades sólo pueden incluirse a partir de RANGO III. Estas habilidades tendrán el coste de 3 a 4 PA.
+
+[HABILIDAD DE TIER 0] – Se compone de habilidades físicas con efectos mortales. Dentro de esta categoría entran compresiones capaces de romper por completo un cuerpo, rayos con capacidad destructiva en área, campos de fuerza capaces de resistir impactos colosales, arrojamientos de objetos de tamaño único, como edificios. Impactar una habilidad de este calibre podría significar una victoria casi inmediata. Estas habilidades sólo pueden incluirse a partir de RANGO IV. Estas habilidades tendrán el coste de 5 a 10 PA.
+
+ACLARACIONES:
+  N/A
+================================================================================
+

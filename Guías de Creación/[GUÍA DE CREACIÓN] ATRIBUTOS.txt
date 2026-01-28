@@ -1,0 +1,74 @@
+
+================================================================================
+ELABORACIÓN DE STATS
+================================================================================
+  Guía de Creación
+  Explicación: Los atributos aumentados son características de personajes que demuestran poseer capacidades mayores a los de un mundano común y corriente. Dentro de esta guía se explica el funcionamiento de atributos aumentados de cara a dichos personajes, adquiriendo una bonificación en sus estadísticas base para representar de la mejor manera los atributos del personaje de los comics. En caso de tener dudas sobre donde encasillar a un personaje, pueden consultarse otros documentos para tomar inspiración o preguntar a administración.
+[FUERZA]
+La fuerza (FUE) representa el poder físico de un personaje. En caso de que un personaje posea una escala de fuerza que no esté en la siguiente tabulación, se elegirá la superior inmediata más cercana a la cifra que se esté buscando.
+
+
+[VITALIDAD]
+La vitalidad (VIT) es el atributo que expresa cuánto daño es capaz de resistir un personaje. Para identificarse cuál corresponde a cada uno tener en cuenta factores como entrenamientos, naturaleza del personaje, alteraciones físicas, etcétera.
+
+
+[VELOCIDAD]
+La velocidad (VEL) corresponde a la capacidad de un personaje para desplazarse a una potencia correspondiente a la naturaleza de su habilidad, poder o mutación.
+
+ 
+[DEFENSA PASIVA]
+La defensa pasiva es el atributo que expresa cuánto daño directo es capaz de mitigar un personaje sin realizar acción alguna, restándole la cantidad de defensa pasiva directamente al valor de daño total. Únicamente aplica para ataques que posean proyección física.
+
+
+[REFLEJOS]
+Los reflejos (REF) dictaminan la efectividad con la que un personaje es capaz de reaccionar ante ataques no ordinarios, sorpresa o super veloces. Este se rige por la siguiente escala:
+[1 REFLEJOS]: Capacidad de reacción normal que cualquier humano sin entrenamiento podría tener. Se considera el valor base en caso de que no demuestre lo contrario.
+[2 REFLEJOS]: Capacidad de reacción de un ser humano con entrenamiento físico, capaz de reaccionar a armas ocultas en la ropa, trampas en el terreno o cualquier otro ataque sorpresa que no implica velocidad combativa necesariamente, y en ocasiones pueden reaccionar a disparos de armas de fuego convencionales.
+[3 REFLEJOS]: Capacidad de reacción que se categoriza como límite humano (peak human reflexes), aplicándose también para la categoría más baja de reflejos sobrehumanos (superhuman reflexes), normalmente pueden reaccionar a encadenamientos de golpes realizados por artistas marciales, ataques de armamento cuerpo a cuerpo realizados por expertos, además es común que puedan reaccionar a disparos de armas de fuego convencionales.
+[4 REFLEJOS]: Capacidad de reacción que se categoriza como reflejos sobrehumanos (superhuman reflexes), que generalmente poseen como complemento sentidos agudizados o bien una diferencia de habilidad en combate significante con respecto a aquellos personajes que poseen reflejos sobrehumanos de la categoría anterior, pueden reaccionar con facilidad a armas de larga distancia como arcos, ballestas, disparos de armas de fuego convencionales. Además, pueden reaccionar a poderes sobrehumanos basados en proyecciones de energía a alta velocidad, o en general cualquier proyección de larga o corta distancia. 
+[5 REFLEJOS]: Capacidad de reaccionar a poderes sobrehumanos al nivel de la VELOCIDAD DEL SONIDO (MACH 1) incluyendo lecturas mentales básicas.
+[6 REFLEJOS]: Capacidad de reaccionar a poderes sobrehumanos que sobrepasan varias veces la VELOCIDAD DEL SONIDO (MACH 4-5).
+[7 REFLEJOS]: Capacidad de reaccionar a poderes sobrehumanos al nivel de la VELOCIDAD DE LA LUZ. 
+[8 REFLEJOS]: Capacidad de reaccionar a poderes sobrehumanos proyección instantánea como la teletransportación ofensiva o invocación directa en el objetivo mismo. 
+[9 REFLEJOS]: Las habilidades de esta gamma solo serán podrán reaccionarse por aquellos con habilidades precognitivas avanzadas o de visión instantánea del futuro. 
+[10 REFLEJOS]: El máximo nivel es representado por aquellos con consciencia cósmica. 
+
+[REGENERACIÓN]
+La regeneración es el atributo que expresa cuánta vitalidad perdida es capaz de recuperar un personaje sin realizar acción alguna, sumándose la cantidad de regeneración a la vitalidad al final de cada turno general.
+
+
+TIER 4: Representa la escala más baja de regeneración, encontrándose personajes que poseen un factor curativo que les permite sanar heridas más rápidamente que un humano normal, sin embargo, la diferencia de recuperación se refleja en cuestión de días y horas, por ejemplo, recuperarse en una semana de una fractura de un hueso largo o recuperarse de quemaduras en un par de días. Estos personajes no poseen regeneración numérica en combate y reducen en un “20% [*0.8]”” la duración de máxima y mínima de heridas.
+Capitán América (Steve Rogers), Spider-Man (Peter Parker), Thor, Black Widow, Green Goblin, Hobgoblin, Toad, Jessica Jones, Atlante común, Asgardiano común
+
+TIER 3: Representa una escala de regeneración intermedia, encontrándose personajes que poseen un factor curativo que les permite sanar heridas notoriamente más rápido que un humano normal, siendo capaces de recuperarse de heridas de baja complejidad en cuestión de minutos, como cortes y abrasiones superficiales. A partir de esta escala se ve una regeneración en combate, sin embargo, es poco notoria en el material original y rara vez se ve una recuperación de una viñeta a otra. Por lo general, estos personajes por lo general no son capaces de regenerar heridas graves, como daño crítico a órganos, así como extremidades perdidas. Estos personajes no poseen regeneración numérica en combate y reducen en un “40% [*0.6]”” la duración de máxima y mínima de heridas.
+She-Hulk, Abominación, Vampiro común, Blade (pre-Morbius), Mystique, Ángel, Namor (en agua)
+
+TIER 2: Representa una escala de regeneración media-alta, encontrándose personajes que poseen un factor curativo que les permite sanar heridas a un ritmo alarmante, siendo capaces de recuperarse de heridas de mediana complejidad en cuestión de minutos, como cortes profundos, quemaduras de tercer grado, etcétera. A partir de esta escala es posible encontrar personajes con la capacidad de regenerar extremidades perdidas u órganos, pero no siempre es el caso. 
+Aquellos personajes que posean la capacidad para regenerar órganos o extremidades poseerán la siguiente capacidad: 
+
+Reducen los daños indirectos catalogados como hemorragia, quemadura, corrosión/acido y dolor que posean una duración fija en “-1 acción” (no puede reducir la duración a “0”). Los daños indirectos de la misma categoría que posean una duración permanente se reducen a “7 acciones”. 
+Reducen en un “25% [*0.75*]” (no puede reducir la duración a “0”) la duración de inhabilitación de extremidades, mutilaciones, fractura, ceguera por amputación en combate. Aquellas que sean por el resto del combate, se regenerarán una vez transcurridos 4 turnos propios. En caso de una amputación, fractura, inhabilitación de extremidad o ceguera ya sea permanente o con duración de horas/días, el usuario regenerará la herida en 30 minutos.
+Reducen en un “60% [*0.4]”” la duración de máxima y mínima de heridas.
+Red Hulk, Lizard, Michael Morbius, Blade (post-Morbius), Drácula, Omega Red (base), Carol Danvers, Venom, Sasquatch.
+
+TIER 1: Representa una escala de regeneración alta, encontrándose personajes que poseen un factor curativo que les permite sanar heridas de baja y mediana complejidad en cuestión de segundos, y las más graves demorándose minutos. Es común ver en el material original regeneración de heridas en un par de viñetas. 
+Reducen los daños indirectos catalogados como hemorragia, quemadura, corrosión/acido y dolor que posean una duración fija de acciones en “-2 acciones” (no puede reducir la duración a “0”). Los daños indirectos de la misma categoría que posean una duración permanente se reducen a “5 acciones”. 
+Reducen en un “50% [*0.5*]” (no puede reducir la duración a “0”) la duración de inhabilitación de extremidades, mutilaciones, fractura, ceguera en combate. Aquellas que sean por el resto del combate, se regenerarán una vez transcurridos 2 turnos propios. En caso de una amputación, fractura, inhabilitación de extremidad y ceguera ya sea permanente o con duración de horas/días, el usuario regenerará la herida en 10 minutos.
+ Reducen en un “75% [*0.25]”” la duración de máxima y mínima de heridas.
+Lady Deathstrike, Sabretooth, Wolverine, Daken, X-23, Hulk (base), Omega Red (aumentado)
+
+TIER 0: Representa una escala de regeneración extrema, encontrándose personajes de características similares a la clasificación TIER 1, sin embargo, con un factor ligeramente más rápido o potente. 
+Reducen los daños indirectos catalogados como hemorragia, quemadura, corrosión/acido y dolor que posean una duración fija de acciones en “-3 acciones” (no puede reducir la duración a “0”). Los daños indirectos de la misma categoría que posean una duración permanente se reducen a “3 acciones”. 
+Reducen en un “75% [*0.25*]” (no puede reducir la duración a “0”) la duración de inhabilitación de extremidades, mutilaciones, fractura, ceguera por amputación en combate. Aquellas que sean por el resto del combate, se regenerarán una vez transcurrido 1 turno propio. En caso de una amputación, fractura, inhabilitación de extremidad o ceguera ya sea permanente o con duración de horas/días, el usuario regenerará la herida en 5 minutos.
+Reducen en un “90% [*0.1]”” la duración de máxima y mínima de heridas.
+Deadpool, Madcap, Hulk (furioso), Ghost Rider, Carnage
+
+TIER X: Representa una escala de regeneración instantánea, encontrándose personajes que poseen un factor curativo que les permite regenerarse a nivel molecular y atómico al instante, siendo prácticamente imbatibles. Poseen inmunidad total a fracturas, inhabilitaciones de extremidad, mutilaciones, cegueras por amputación, etcétera ya sea dentro o fuera de combate, considerándose que se regeneran de forma instantánea. 
+Reducen los daños indirectos catalogados como hemorragia, quemadura, corrosión/acido y dolor que posean una duración fija de acciones en “-4 acciones” (no puede reducir la duración a “0”). Los daños indirectos de la misma categoría que posean una duración permanente se reducen a “1 acción”. 
+Sentry, Slapstick
+No sufren heridas post-combate de forma convencional.
+
+ACLARACIONES:
+  N/A
+================================================================================
+
