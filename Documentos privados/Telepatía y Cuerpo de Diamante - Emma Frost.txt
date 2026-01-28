@@ -1,0 +1,1163 @@
+
+████████████████████████████████████████████████████████████████████████████████
+                  Telepatía y Cuerpo de Diamante   Emma Frost                   
+████████████████████████████████████████████████████████████████████████████████
+
+
+
+--------------------------------------------------------------------------------
+                              HABILIDADES BÁSICAS                               
+--------------------------------------------------------------------------------
+
+
+================================================================================
+ENTRENAMIENTO FÍSICO
+================================================================================
+  Física — Pasiva
+
+EFECTO VISUAL:
+  Pese a que tu mutación no te otorga atributos o características físicas aumentadas, te has visto en la necesidad de entrenar, siendo capaz de luchar de igual a igual sin ningún tipo de complicación contra oponentes de condiciones físicas similares. Efecto: La usuaria obtiene un aumento de estadísticas y los siguientes beneficios: [VITALIDAD/VELOCIDAD – HUMANO ENTRENADO]: La usuaria ha entrenado lo suficiente como para aguantar más que un humano normal y moverse a mayor velocidad. [2 REFLEJOS]: Posees una capacidad de reacción superior a un humano común debido a tu entrenamiento. [ENTRENAMIENTO CUERPO A CUERPO]: Adquiere el Perfil Combatiente Bruto de forma gratuita.
+
+ACLARACIONES:
+  Los atributos aumentados se REEMPLAZAN, en ningún caso se suman entre sí.
+
+================================================================================
+
+
+================================================================================
+INFLUENCIA
+================================================================================
+  Especial — Pasiva
+
+EFECTO VISUAL:
+  Destaca por ser una persona influyente y exitosa, siendo capaz de mover fácilmente voluntades a través de la labia, recursos económicos, seducción y otros. Efecto: La usuaria obtiene las siguientes bonificaciones: [IMAGEN PÚBLICA]: La usuaria imagen reconocida en la ciudad por todos los empresarios de esta, es por esta razón que su figura en las negociaciones y fiestas públicas nunca pasa desapercibida. Adquiere un aumento de tirada de “+3” en todas las tiradas en eventos D&D que tengan que ver con la persuasión de un objetivo. [INFLUENCIA ECONÓMICA, SOCIAL Y POLÍTICA]: Es capaz de llevar múltiples acciones en diversas compañías considerándose una de las personas más ricas de la nación. El lunes de cada semana obtiene 75 EXP. Toda la experiencia que obtiene aumenta en un “20% [*1.2]” (salvo la obtenida mediante esta pasiva). [LÍDER INNATA]: Adquiere el Perfil Líder. En caso de considerarse la líder de una agrupación reduce cualquier requisito numérico para ascender el rango de la agrupación en un “10% [*0.9]”. Adicionalmente adquiere las siguientes capacidades: [COORDINACIÓN]: Permite alterar como desee los turnos de su bando al inicio de la ronda. – No consume PA. Un uso cada 2 rondas. [PRESENCIA]: La usuaria puede realizar órdenes del Perfil Líder desde fuera de combate sobre jugadores pertenecientes a su agrupación. – Un uso por combate.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[ATRACCIÓN CLASE 4] — BELLEZA HIPNÓTICA
+================================================================================
+  Física/Mental — Pasiva
+
+EFECTO VISUAL:
+  Posees una belleza poco común. Usas tu atractivo físico para tu beneficio, consiguiendo persuadir a más de uno gracias a tus encantos, además usas tus poderes psíquicos para “hipnotizar” a aquellos que te rodean. Efecto: La usuaria reduce una (1) de cada cuatro (4) acciones ofensivas en su contra (la primera) en un “25% [*0.75]” antes de aplicar defensas activas y pasivas siempre y cuando sean ejecutadas por personajes del SEXO OPUESTO al de la usuaria.
+
+ACLARACIONES:
+  - Esta habilidad puede ser ignorada por personajes con 2 VOL o más o personajes con un nivel de atracción superior a la de la usuaria. - Únicamente aplica a habilidades con daño numérico directo. En ningún caso reduce controles de masa o estados alterados.
+
+================================================================================
+
+
+================================================================================
+INTELECTO SUPERIOR
+================================================================================
+  Mental — Pasiva
+
+EFECTO VISUAL:
+  Posees una inteligencia por sobre la normal, sin llegar al nivel de genialidad. Cuentas con un vasto conocimiento en electrónica, siendo capaz de poner estos conocimientos en práctica mediante invenciones especiales capaces de utilizar energía psiónica para distintos usos. Efecto: La usuaria adquiere el Perfil Científico obteniendo acceso al camino “[TECNOLOGÍA] GADGETS”, siendo capaz de crear aparatos que funcionan mediante energía psiónica de así desearlo. [INTELECTO SUPERIOR]: Posee un límite total de “6 legalizaciones”. Los usuarios en esta categoría podrán enviar una tanda de 2 Legalizaciones cada 30 días. El precio de cada legalización lo definirá moderación al momento de acordar los efectos, el precio no es negociable. NOTA: Adicionalmente al tiempo, se requiere poseer 2500 EXP acumulados por cada legalización a enviar, tal como se estipula en el documento de perfil. (Usuarios clasificados en “GENIO INVENTOR INNATO” ignoran este requisito).
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+TELEPATÍA MAESTRA
+================================================================================
+  Mental — Pasiva
+
+EFECTO VISUAL:
+  Tu mutación principal es la telepatía, clasificándose como telépata Omega en esta categoría, eres capaz de realizar increíbles hazañas psíquicas, eres una de las mentes más poderosas de la Tierra. Efecto: La usuaria posee una TELEPATÍA OMEGA, lo que le otorga acceso directo al atributo de PODER PSÍQUICO (PSI). Este valor es utilizado en todas las habilidades de índole mental que lo presenten en sus cálculos y escala conforme ascienda de rango. [TELEPATÍA OMEGA]: La usuaria, debido a la naturaleza de sus poderes mutantes, posee una voluntad superior a la ordinaria para ingresar a las mentes de otros. [+3 VOL] [CELERIDAD TELEPÁTICA]: En caso de ser objetivo de una habilidad de índole mental (incluyendo Concentración), la usuaria puede utilizar este comando para anular la habilidad y obtiene la capacidad de utilizar una habilidad ofensiva en respuesta contra el oponente. – Un uso cada tres rondas, consume 1 PA. No puede ser utilizada sobre oponentes que superen en “Poder Psíquico (PSI)”. [FORTALEZA MENTAL]: La usuaria adquiere una reducción del “30% [*0.7]” ante daños de índole mental, además reduce en “1 acción” la duración de controles de masa mentales. Además, reduce en “-1 PA” (mínimo 1) el coste del comando básico Resistir para habilidades empáticas, ilusiones, alteraciones, controles mentales, posesiones, influencias. – Sólo puede ser ignorada por oponentes que le superen en VOLUNTAD o posean un PSI mayor. [LECTURA MENTAL MUNDIAL]: Permite realizar una interpretación de 5 minutos en la que debe verse reflejado cómo lee la mente de grandes grupos de personas, incluso ciudades, obteniendo 50 EXP. – Un uso cada 7 días. También es posible utilizar esta capacidad adjuntado a un suceso del apartado “Heridas, Muertes y Sucesos”, aprendiendo sobre el hecho a través de un testigo o civil, el contexto del suceso a aprender debe ser el adecuado, como por ejemplo acontecimientos ocurridos en la vía pública. – Un uso cada 7 días. [POTENCIAL TELEPÁTICO]: La usuaria adquiere una CARGA PSÍQUICA tras dos rondas de combate, cada carga aumenta su PODER PSÍQUICO (PSI) en “+25”. – MÁXIMO 4 CARGAS. [SUTILEZA DE LA MENTE]: Puede utilizar este comando junto a una habilidad ofensiva telepática para aumentar en “+1” el consumo de PA del comando básico Resistir para reaccionar a dicha habilidad. – Un uso cada dos rondas, no consume PA. No afecta a oponentes que SUPEREN EN VOLUNTAD a la usuaria o bien posean una TELEPATÍA HIGH ORDER OMEGA o superior. [DESTROZAR DEFENSAS]: Permite utilizar este comando junto a una habilidad mental sin proyección física, ignorando escudos, reducciones y defensas mentales. – El primer uso de cada ronda no consume PA, posteriores usos consumen 1 PA. No afecta a oponentes que SUPEREN EN VOLUNTAD a la usuaria o bien posean una TELEPATÍA HIGH ORDER OMEGA o superior. No acumulable con Poderío Mental. [PODERÍO MENTAL]: Permite utilizar este comando junto a una habilidad mental sin proyección física, provocando que, en caso de ser Resistida, al menos el “35% [*0.35]” del daño afecte al oponente. – El primer uso de cada ronda no consume PA, posteriores usos consumen 1 PA. No afecta a oponentes que SUPEREN EN VOLUNTAD a la usuaria o bien posean una TELEPATÍA HIGH ORDER OMEGA o superior. No acumulable con Destrozar Defensas. [COMA CEREBRAL] (REQUIERE RANGO III): Puede utilizar este comando justo después de haber derrotado a un oponente, aplicando un Coma durante las próximas 72 horas. El oponente no podrá hacer uso de su personaje durante dichas horas. – 72 HRS/CD tras finalizar el estado en el oponente que se ha aplicado.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO I                                     
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – CONCENTRACIÓN
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: “VOLUNTAD*6”
+
+
+Coste: “MENTES/2” PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Activas tus poderes psíquicos, concentrándote en la mente de uno o varios objetivos en específico para poder hacer uso de habilidades mentales. Efecto: Permite hacer uso de habilidades pertenecientes al documento que tengan índole Mental sobre objetivos que se encuentren bajo Concentración. En caso de que la usuaria esté concentrada en más mentes que “VOLUNTAD” verá reducidos los efectos de sus habilidades en un “25% [*0.75]” y en “-VOLUNTAD acciones” de forma general. Los siguientes escenarios anularán de manera automática esta habilidad. Recibir un daño superior a “15%*VOLUNTAD” de su VIT máxima. Recibir un control de masa que impida el turno de la usuaria. No aplican inmovilizaciones ni tampoco parálisis para este escenario. [TELEPATÍA MAESTRA]: Es posible utilizar esta habilidad en ronda de preparación, sin consumo de PA.
+
+ACLARACIONES:
+  - Esta habilidad no puede ser reaccionada bajo métodos ordinarios salvo la reacción en cuestión especifique poder ser utilizada para esta habilidad. - Esta habilidad puede utilizarse también sobre aliados, considerándose Suplementaria. - En caso de que la usuaria pierda la Concentración, deberá volver a ejecutarla gastando los puntos de acción correspondientes. La usuaria consume tantas PUNTOS DE ACCIÓN como OBJETIVOS (mentes) sobre los cuales desee concentrarse. El redondeo es siempre a la BAJA. - Las habilidades mentales de la usuaria afectan únicamente a un objetivo en individual salvo la misma especifique una aclaración contraria. - Concentración se mantiene, aunque los objetivos se salgan posteriormente del alcance, pero las habilidades mentales requerirán del alcance de la habilidad para ejecutarse.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – LECTURA MENTAL
+================================================================================
+  Mental – Pasiva
+
+EFECTO VISUAL:
+  Eres capaz de leer la mente de sus oponentes, obteniendo información automática mientras se encuentre concentrado. Efecto: La usuaria detecta a todo aquel usuario sobre el que se esté concentrado y se oculte mediante métodos ordinarios. Esta detección no aplica si la ocultación del objetivo tiene aclaraciones contrarias a la de esta pasiva. [TELEPATÍA MAESTRA]: La usuaria ignora requisitos de reacción de oponentes que estén bajo “CONCENTRACIÓN”. Ignorando requisitos de 1 de cada 2 ataques (el primero) siempre y cuando sean referentes a REFLEJOS (REF). Por el consumo de 1 PA es capaz de ignorar requisitos siempre, independiente de si se trata del segundo ataque con requisitos de REFLEFJOS.
+
+ACLARACIONES:
+  - Requiere poseer Concentración activa. - Únicamente ignora requisitos de REF, si la habilidad en cuestión posee otros tipos de requisitos adicionales, deberá cumplirlos para reaccionar. - Se considera una intrusión mental.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – RAYO MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Manifiestas la energía de tu psique en haz psiónico a la mente del rival, dañándolo y causándole una ligera desorientación. Efecto: Genera un daño mental de “PSI*1.5” y produce desorientación durante 3 acciones. [ATAQUE MÚLTIPLE]: Puede utilizar esta habilidad sobre un máximo de dos oponentes al mismo tiempo. [RANGO III – SECUELAS]: Si un oponente recibe daño de esta habilidad, puede ejecutar este comando para aumentar el daño recibido en un “50% [*1.5]” y aumenta la duración de desorientación a 5 acciones. – Un uso por ronda, consume 1 PA adicional.
+
+ACLARACIONES:
+  Posee dos usos por ronda.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – DESCARGA MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Manifiestas la energía de tu psique en un potente rayo a la mente del rival, dañándolo y dejándole secuelas. Efecto: Genera un daño mental de “PSI*1.6” y produce un indirecto mental relacionado a dolor equivalente al “10% [*0.1]” del daño recibido durante 3 acciones.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – COLISIÓN MENTAL
+================================================================================
+
+100 EXP
+
+
+Energética/Mental — Ofensiva
+
+
+Alcance: 1
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Con un escudo mental ya creado es capaz de dar fuertes cabezazos que liberan energía psiónica, afectando a la mente de sus oponentes. Efecto: Genera un daño energético de “PSI*1.6” y aturde por 2 acciones.
+
+ACLARACIONES:
+  - Únicamente es posible usar esta habilidad si ESCUDO MENTAL se encuentra activo. - Esta habilidad puede ser defendida con normalidad al proyectarse de forma física. Esta habilidad no requiere de contacto físico. - El daño recibido se considera de índole mental.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – RAYO PSIÓNICO
+================================================================================
+
+100 EXP
+
+
+Energética/Mental — Ofensiva
+
+
+Alcance: 6
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Manifiestas la energía de tu psique en forma de un potente rayo psiónico que viaja a toda velocidad hacia su oponente, causando una gran sensación de dolor. Efecto: Provoca un daño energético de “PSI*1.5” y un indirecto de dolor equivalente al “10% [*0.1]” del daño recibido durante 4 acciones. [RANGO III]: Adquiere un requisito de 3 REF para reaccionar al “50% [*0.5]” de daños y efectos.
+
+ACLARACIONES:
+  - Esta habilidad puede ser defendida con normalidad al proyectarse de forma física. - El daño recibido se considera de índole mental.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – COLAPSO CEREBRAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Colapsas la mente de sus enemigos, aturdiéndolos. Efecto: Aturde a un oponente durante “1 + VOL” acciones. [RANGO III]: Es posible afectar a un oponente adicional.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – DEFENSA MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental — Defensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Creas un escudo mental en ti mismo o un aliado, permitiendo evitar intrusiones o habilidades mentales incluso de entidades como el Fénix. Efecto: Genera un escudo mental degradable con una resistencia de “PSI*1.35”. Mientras el objetivo de esta habilidad permanezca con el escudo activo, no podrá verse afectado por habilidades mentales carentes de daño salvo se le supere en VOLUNTAD al creador del escudo. [DOMINIO]: Por cada 2 VOL poseídos, el valor del escudo mental degradable aumenta en un “25% [*1.25]” acumulable. [RANGO IV]: Este escudo no puede ser ignorado mediante habilidades que indiquen ignoren defensas mentales. – Sólo ignorado a través de “TELEPATÍA CÓSMICA”.
+
+ACLARACIONES:
+  - No pueden acumularse escudos mentales. Debe haber sido degradado hasta 0 el vigente para poder reemplazarlo con uno nuevo. - En caso de querer ser aplicado sobre un aliado, requiere Concentración sobre este. - Puede ser utilizado en respuesta únicamente para defender a la usuaria, no a aliados.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – ENLACE PSÍQUICO
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: FDC
+
+
+Coste: FDC
+
+
+No clasificada
+
+EFECTO VISUAL:
+  Te aseguras de enlazar la mente de un aliado con la suya, de manera que ahora advierte la ubicación de este durante un periodo de tiempo. Efecto: La usuaria puede aplicar esta habilidad sobre “VOL” aliados a la semana. Mientras este vínculo permanezca activo, la usuaria puede irrumpir en combates donde los aliados seleccionados hayan sido los retados o atacados, ignorando requisitos de unión. Después de que el combate sobre el cual se hizo uso esta habilidad descarta al usuario auxiliado del enlace y debe esperar al inicio de una nueva semana para poder renovarlo, considerándose que una nueva semana inicia los lunes.
+
+ACLARACIONES:
+  No ignora el límite de huecos, únicamente los requisitos del comando Irrumpir.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – ADVERTENCIA PSÍQUICA
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: “MENTES” PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Manipulas las mentes de sus aliados, otorgándoles visión de lo que percibes y así transfiriéndoles información que quizás no comprendían. Efecto: La usuaria advierte de la ubicación de oponentes ocultos que sus aliados no perciban, pero él sí hasta la finalización del próximo turno propio del aliado.
+
+ACLARACIONES:
+  - Consume tantos PA como aliados a advertir.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – EVASIÓN ILUSORIA
+================================================================================
+
+100 EXP
+
+
+Mental — Defensiva (Evasión)
+
+
+Alcance: Propio
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Eres capaz de reemplazar su cuerpo por una ilusión de forma evasiva. Efecto: La usuaria evade una habilidad con proyección física de máximo “Área 4”.
+
+ACLARACIONES:
+  Posee dos usos por ronda. Solamente consume 1 PA para evadir habilidades directas o sin área. Sólo es capaz de utilizar esta habilidad si está concentrada sobre el atacante.
+
+================================================================================
+
+
+================================================================================
+CUERPO DE DIAMANTE
+================================================================================
+
+100 EXP
+
+
+Física — Defensiva/Suplementaria
+
+
+Alcance: Propio
+
+
+Coste: 0 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Manifiestas tu segunda mutación transformando tu cuerpo enteramente en diamante. Debido a la densidad del diamante, tu peso y fuerza se triplican, adquiriendo además la dureza del propio material. Como contratiempo el diamante vuelve imposible la capacidad de generar impulsos eléctricos en tu cerebro, así como recibirlos, significando un sacrificio de su telepatía y una ganancia de invulnerabilidad a la misma. Efecto: La usuaria obtiene un aumento de estadísticas y otros beneficios, además puede hacer uso de las habilidades de CUERPO DE DIAMANTE de este documento. [RESISTENCIA – HUMANO ENTRENADO]: Al estar transformada, adquieres una resistencia física sumamente alta. – El atributo RESISTENCIA se considera como una VITALIDAD distinta a la base de la usuaria, la cual está superpuesta sobre la misma. Dañar a la RESISTENCIA del CUERPO DE DIAMANTE, no dañará a la VITALIDAD base de la usuaria. [DEFENSA PASIVA – SOBREHUMANA+]: Adquieres un aguante físico mucho mayor. – Esta defensa pasiva aplica para índole SONORA. [TENACIDAD AUMENTADA]: Reduce la duración de controles de masa de habilidades con proyección física en “2 acciones” (puede reducir a “0”). [FUERZA – 2 TON]: Obtienes un aumento de fuerza mientras se encuentre en esta forma, siendo capaz de levantar alrededor de 2 TON. [3 REFLEJOS]: Obtienes un aumento en sus reflejos debido a que obtiene un oído mucho más agudo en esta forma. [REGENERACIÓN – TIER 2]: Al estar transformada adquiere una REGENERACIÓN de TIER 2, de forma que su forma de diamante recupera constantemente sus propiedades. – Únicamente actúa sobre “RESISTENCIA” otorgada por CUERPO DE DIAMANTE, no actúa sobre la VITALIDAD de la usuaria. [PROPIEDADES DE DIAMANTE]: Obtiene los siguientes beneficios mientras está en esta forma: [COMPOSICIÓN INORGÁNICA]: Adquiere inmunidad total a asfixias, hemorragias, venenos, enfermedades, toxinas, feromonas, drogas. [INMORTALIDAD]: Adquiere inmunidad parcial a habilidades basadas en absorción de vida o degeneración vital, reduciéndolas en un “50% [*0.5]”, además inmunidad total a envejecimientos o efectos de paso del tiempo. [ADAPTACIÓN]: Posee inmunidad total a efectos negativos relacionados a cambios climáticos (en ningún caso daño directo o similares). [IMPACTO DOLOROSO]: Habilidades de contacto físico (sin armas) sobre la usuaria sin poseer recubrimientos en sus manos o piernas reciben un “25% [*0.25]” del daño causado como daño físico como consecuencia del contacto con el cuerpo de la usuaria– No es posible reaccionar a este daño, considerándote factor oculto. No afecta a oponentes con defensa pasiva “SOBREHUMANA+” o superior. [INMUNIDAD A ARMAS]: Reduce en un “100% [*0]” el daño directo y efectos provocado por armas de filo, proyectiles balísticos, armas arrojadizas o armas contundentes que posean una dureza convencional. [CUERPO IGNÍFUGO]: Reduce en un “50% [*0.5]” el daño directo de habilidades de índole ignea. Se vuelve inmune a indirectos de quemadura. [CUERPO REFLECTANTE]: Reduce en un “30% [*0.7]” el daño directo de habilidades de índole energética. [EXTREMIDADES RESILIENTES]: No es posible inhabilitar o amputar sus extremidades de forma física salvo por oponentes con “FUE 100 TON C.4” o superior, armas con dureza Adamantium o superior. [CUERPO UNIFORME]: Posee inmunidad total a efectos secundarios (no daño directo) de habilidades relacionadas a ataques a puntos de presión o puntos vitales (no puntos débiles). [INMUNIDAD PSÍQUICA]: La usuaria adquiere una reducción del “100% [*0]” ante daños y efectos de índole mental. – No puede ser ignorada bajo ningún método. No aplica a habilidades mentales que no estén relacionadas a habilidades estrictamente PSIÓNICAS o PSÍQUICAS, como por ejemplo una persuasión mediante el convencimiento o carisma, etcétera.
+
+ACLARACIONES:
+  - La activación de la habilidad no cuenta de cara al conteo de acciones. - Es posible activar esta habilidad en su turno propio o en respuesta a una habilidad ofensiva, acompañándolo con una acción defensiva de forma adicional, consumiendo los PA correspondientes. - Es posible desactivar en su turno propio o en respuesta a una habilidad ofensiva, acompañándolo con una acción defensiva de forma adicional, consumiendo los PA correspondientes. - En caso de que “RESISTENCIA” se reduzca a “0” pasa a dañar a la VITALIDAD de la usuaria, pero contando con las inmunidades y resistencias de CUERPO DE DIAMANTE. - La “RESISTENCIA” que aporta esta habilidad no se renueva al desactivar y activar la habilidad, salvo por la REGENERACIÓN correspondiente, la cual no actúa al estar desactivada. - Mientras esta habilidad se mantenga activa no se podrá hacer uso de habilidades mentales o referidas a la telepatía sin excepción.
+
+================================================================================
+
+
+================================================================================
+[CUERPO DE DIAMANTE] — EMBATE
+================================================================================
+
+100 EXP
+
+
+Física —Ofensiva
+
+
+Alcance: 1
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Realizas un potente puñetazo al rostro de su oponente. Efecto: Genera un daño físico de “FUE*1.6” y produce retroceso equivalente a 3 casillas. En caso de colisión, aturde 2 acciones.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CUERPO DE DIAMANTE] — GOLPE AL CUELLO
+================================================================================
+
+100 EXP
+
+
+Física — Ofensiva
+
+
+Alcance: 1
+
+
+2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Das un potente puñetazo en el cuello de su oponente. Efecto: Genera daño físico de “FUE*2.25”, además produce un indirecto de asfixia equivalente al “5% [*0.05]” de la VIT MÁXIMA del oponente durante 3 acciones, además de la alteración “Mudo” durante la misma duración. [RANGO III]: En caso de que esta habilidad sea evadida, la usuaria puede repetir esta habilidad sobre el oponente sin costo de PA, contando únicamente con “75% [*0.75]” del daño y sin efectos secundarios. – Se considera efecto oculto.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[CUERPO DE DIAMANTE] — ESCUDO DIAMANTINO
+================================================================================
+
+100 EXP
+
+
+Física — Defensiva (Interna)
+
+
+Alcance: Propio
+
+
+1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Cruzas tus brazos recubiertos en diamante ante un ataque. Efecto: Genera una defensa interna de “FUE*1.75”. [POTENCIACIÓN]: Permite utilizar este comando para aumentar el valor de la defensa a “FUE*2.5”, considerándose TIER 2. – Consume 1 PA adicional.
+
+ACLARACIONES:
+  Al ejecutar esta defensa la capacidad “CUERPO IGNÍFUGO” y “CUERPO REFLECTANTE” se aplican antes del valor de esta defensa pasiva y activa.
+
+================================================================================
+
+
+================================================================================
+[CUERPO DE DIAMANTE] — FORTALEZA DE DIAMANTE
+================================================================================
+
+100 EXP
+
+
+Física — Defensiva
+
+
+Alcance: Propio
+
+
+1 PA
+
+
+No clasificada
+
+EFECTO VISUAL:
+  Endureces su diamante a puntos sin igual, volviéndose parcialmente invulnerable ante un daño en específico. Efecto: Reduce en un “50% [*0.5]” el daño de una habilidad con proyección física antes de aplicar defensas pasivas. En caso de habilidades que posean controles de masa, es capaz de reducir la duración de control de masa de 3 acciones a “0” mediante su pasiva TENACIDAD (sólo podrá reducir a cero controles de masa que posean duración de 2 acciones o menos).
+
+ACLARACIONES:
+  No tiene efecto sobre daño al alma.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                    RANGO II                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – TORMENTA MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Llevas grandes cantidades de energía psíquica a la mente de tus oponentes, dañándola considerablemente y dejando al mismo vulnerable. Efecto: Produce daño mental de “PSI*2.25” y aturde durante 3 acciones. Esta habilidad afecta a todos los oponentes sobre los que se posea concentración.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – CURACIÓN MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Enfocas tu energía psíquica en sanar las injurias mentales de sus aliados. Efecto: Sana “PSI*1.5” de VITALIDAD perdida por daños mentales, además de eliminar todo control de masa o alteración producido por habilidades mentales.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – DISPERSIÓN ILUSORIA
+================================================================================
+
+100 EXP
+
+
+Mental — Defensiva (Anulación)
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Burlas las ilusiones de un oponente, manipulándolas hasta dar fin a ellas. Efecto: Anula una habilidad mental basada en ilusiones que tenga como objetivo a la usuaria o a un aliado. [REGRESAR ILUSIÓN]: Puede utilizar este comando para redirigir los efectos de la ilusión al oponente, debiendo reaccionar a la misma. – Consume 1 PA adicional.
+
+ACLARACIONES:
+  - Requiere de “Concentración” en caso de ser utilizada sobre el aliado. - Solamente consume 1 PA si la habilidad a anular es de TIER 3, consumiendo 1 PA adicional por cada TIER superior.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – CONTROL EMPÁTICO: “PAZ”
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Infundes alegría sin igual sobre sus oponentes, haciéndoles olvidarse de sus problemas y del por qué estaban actuando de mala manera. Efecto: Obliga a un oponente a retirarse de un combate, debe utilizarse en respuesta a un reto o un ataque fuera de combate, de forma que el jugador afectado no podrá volver a retar a la usuaria durante 1 hora.
+
+ACLARACIONES:
+  - Un uso cada 72 horas. - No puede ser reaccionada, no afecta a oponentes que superen en VOLUNTAD a la usuaria. - Si el oponente que recibe esta habilidad es el retador, el combate finaliza automáticamente independiente si existen más jugadores en combate. - En caso de que la usuaria ataque a un aliado del jugador afectado o actos similares, el tiempo de inmunidad de reto se anula.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – CONTROL EMPÁTICO: “GUERRA”
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Infundes un gran enfado en sus oponentes, imposibilitando que distingan de quiénes son aliados de enemigos. Efecto: El oponente afectado por esta habilidad tendrá que dirigir sus dos (2) próximas habilidades ofensivas al aliado u oponente más cercano que no sea la usuaria misma. Al menos una de las habilidades utilizadas debe ser como mínimo TIER 2.
+
+ACLARACIONES:
+  - Un uso cada dos rondas. - No afecta a oponentes que superen en VOLUNTAD a la usuaria.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – INVISIBILIDAD TELEPÁTICA
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+No clasificada
+
+EFECTO VISUAL:
+  Te vuelves invisible ante una o varias personas, alterando su capacidad perceptiva para pasar desapercibido incluso estando enfrente del objetivo. Efecto: Vuelve invisible a la usuaria o a un aliado durante “2 + VOL” acciones. No puede ser objetivo de habilidades con alcance directo mientras permanezca con esta habilidad activa y tampoco podrá ser detectado por métodos que no sean mentales, místicos o especifiquen poder burlar invisibilidades de naturaleza mental. En caso de que la usuaria ejecute un ataque directo de naturaleza no mental con esta habilidad activa, el ataque en cuestión pasara a requerir “4 REF” para reaccionar, pero culminará automáticamente con esta habilidad, desactivándose. [ESPECIAL: TELEPATÍA Y CUERPO DE DIAMANTE]: Puede ser utilizada sobre un máximo de dos (2) objetivos.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – EXTRACCIÓN DE INFORMACIÓN
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+No clasificada
+
+EFECTO VISUAL:
+  Una vez dentro de la mente de un objetivo, extraes sus pensamientos más recientes, pudiendo identificar información relevante. Efecto: El objetivo de esta habilidad deberá responder una pregunta de la usuaria con la verdad absoluta, siendo lo que puede preguntarse aspectos como VITALIDAD restante, debilidades específicas, duración de una transformación, etc. Además, durante 2 turnos propios el afectado estará obligado a indicar cualquier posible efecto oculto en sus habilidades, así como interacciones especiales ante reacciones. Únicamente podrá preguntar cosas sistemáticas. En caso de que la usuaria salga victoriosa de un combate, puede hacer uso de esta habilidad para adquirir conocimientos interpretativos del oponente derrotado en caso de no tener protecciones – Un uso cada 24 horas.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – SECUELAS MENTALES
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Fragmentas las paredes psíquicas de su oponente con una emisión constante de energía, provocándole fuertes dolores de cabeza y desorientación. Efecto: Provoca aturdimiento durante 4 acciones, en los que producirá un daño de “PSI*0.65” cada acción de control de masa.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – CONTROL MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 3 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Sugestionas la mente de su oponente, tomando un control temporal de su accionar para que ejecute una serie de ordenes específicas. Efecto: La usuaria toma control del oponente durante “VOL/2” turnos propios del afectado. Mientras esta habilidad permanezca, la usuaria puede realizar los siguientes comandos. [CONTROL DE ACCIÓN]: La usuaria puede obligar al oponente a consumir sus PUNTOS DE ACCIÓN en habilidades ofensivas o suplementarias dirigidas hacia el usuario o los aliados del afectado. La usuaria puede obligar al oponente a atacarse a sí mismo, pudiendo este reaccionar mediante el comando “RESISTIR” a cada sugestión. [CONTROL DE MOVIMIENTO]: La usuaria puede obligar al oponente a consumir sus puntos de MOVIMIENTO/VELOCIDAD durante la ronda, desplazándose a donde este le indique. Este uso no consume Puntos de Acción de la usuaria.
+
+ACLARACIONES:
+  - No afecta a oponentes que superen en VOLUNTAD a la usuaria. - Debe resistirse. Por cada 2 puntos de VOL que la usuaria tenga de diferencia con el objetivo, aumenta el coste del comando básico “Resistir” en +1 PA.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – OLVIDO
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Te introduces en la mente de su oponente y le haces olvidar ciertas cosas, perdiendo ciertos conocimientos de forma temporal. Efecto: Obliga a un oponente a ignorar “1 + VOL” habilidades durante “VOL” rondas. Tras finalizar esta habilidad, no podrá utilizarse sobre el mismo oponente hasta transcurridos 2 turnos propios de la usuaria.
+
+ACLARACIONES:
+  No pueden olvidarse comandos básicos.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – DISTORSIÓN ILUSORIA
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 3
+
+EFECTO VISUAL:
+  Te introduces en la mente de su oponente y crea imágenes tan reales que le hace sentir que está en una situación completamente ajena. Efecto: El jugador afectado no podrá interactuar de ninguna forma con el resto de los combatientes durante “4 + VOL” acciones.
+
+ACLARACIONES:
+  - Un uso cada tres rondas. - A la hora de considerar INTERACCIÓN nos referimos a cualquier reacción o acción en la que intervenga un combatiente del combate, lo que significa que tampoco se podrá reaccionar a los combatientes fuera de la ilusión. - En caso de recibir daño, control de masa o alteración, los efectos de la ilusión finalizan.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – ILUSIÓN DISUASIVA
+================================================================================
+
+100 EXP
+
+
+Mental — Defensiva (Anulación)
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Te introduces en la mente de su oponente y creas una ilusión, confundiéndolo y deteniendo su actuar por unos instantes. Efecto: Anula una habilidad con proyección física realizada por un oponente. [RANGO III]: Puede ser utilizada para anular un desplazamiento de un oponente, reduciendo su VELOCIDAD a “0” por el resto del turno vigente. – Un uso cada tres rondas, consume 2 PA. Este uso puede resistirse.
+
+ACLARACIONES:
+  Solamente consume 1 PA si la habilidad a anular es de TIER 3, consumiendo 1 PA adicional por cada TIER superior.
+
+================================================================================
+
+
+================================================================================
+[CUERPO DE DIAMANTE] — REFLECTAR
+================================================================================
+
+100 EXP
+
+
+Física — Defensiva (Anulación)
+
+
+Alcance: Propio
+
+
+1 PA
+
+
+No clasificada
+
+EFECTO VISUAL:
+  Mediante tu piel de diamante reflejas una proyección de energía hacia cualquier punto. Efecto: Anula una habilidad de índole energética con proyección física dirigida hacia la usuaria. [REFLEXIÓN OFENSIVA]: Permite redirigir la habilidad anulada hacia cualquier oponente que se encuentre dentro del alcance de la habilidad original, debiendo reaccionar a la habilidad con el mismo daño y efectos. – Consume 1 PA adicional.
+
+ACLARACIONES:
+  No tiene efecto sobre habilidades que abarquen Área 3 o sean de TIER 1.
+
+================================================================================
+
+
+--------------------------------------------------------------------------------
+                                   RANGO III                                    
+--------------------------------------------------------------------------------
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – DESPERTAR MENTAL
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  La mente de la usuaria es tan poderosa que se mantiene en actividad aún en un hipotético coma. Efecto: Acompañando una habilidad con el comando *Despertar Mental es posible hacer uso de esta incluso encontrándose bajo aturdimientos, estados de sueño/inconsciencia o coma.
+
+ACLARACIONES:
+  - Hasta dos usos por ronda.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – INVISIBILIDAD EXPANDIDA
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: Sala
+
+
+Coste: 3 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Modifica la percepción de todas las mentes en una escala muchísimo mayor, volviendo invisible a los ojos de todas las acciones que esté realizando. Efecto: Cierra el combate de forma automática, impidiendo cualquier tipo de unión de bando y bando. Esta habilidad no puede ser reaccionada.
+
+ACLARACIONES:
+  - Un único uso cada 3 días.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – GRITO PSIÓNICO
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: Área 7
+
+
+Coste: 4 PA
+
+
+TIER 1
+
+EFECTO VISUAL:
+  Liberas todo el potencial de tu mente de una forma destructiva, aplacando hasta las mentes más fuertes que se encuentren a tu alrededor con una sacudida psiónica. Efecto: Produce daño mental de “PSI*3.25” a todos los oponentes que posean la capacidad de ser afectados por telepatía en el área y aturde durante 2 acciones.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – ENFRIAMIENTO CORPORAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Alteras el comportamiento del cerebro de tus rivales, paralizándolos en seco. Efecto: Paraliza por 3 acciones. Es posible afectar hasta a dos oponentes en simultáneo, aumentando en +1 el costo de PA.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – DAÑO CEREBRAL
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Causas un severo daño en el cerebro del rival, impidiéndole ciertas funciones motoras gracias a tu impacto telepático. Efecto: Produce daño mental de “PSI*2.35” e inhabilita un brazo/pierna (a elección de la usuaria) durante 4 acciones.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – ENGATUSAMIENTO
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Manipulas la psiquis de tu oponente, perfeccionando tus atributos físicos para que quede completamente hechizado y descuidado de tus posibles ataques. Efecto: Afectar a un oponente con esta habilidad provocará que no pueda reaccionar a la próxima habilidad mental realizada sobre él. Si el oponente posee 4 VOL o más no causará este efecto, sin embargo, reducirá su VOLUNTAD en -2.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – NO SERÍAS CAPAZ DE DAÑARME
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Manipulas la psiquis de tu oponente, volviéndote sumamente atractiva al punto de despertar el líbido. Completamente fuera de razonamiento, no será capaz de atacar. Efecto: El oponente se considerará Enamorado por las próximas 5 acciones. En caso de que llegue su turno manteniéndose bajo este efecto (en un combate individual), perderá directamente la cantidad de PA que permanezca el estado para poder realizarlo.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – POTENCIACIÓN GENÉTICA
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 1 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Influyes en la mente de tus aliados, modificando sus capacidades propias hasta el punto de permitir que sus poderes alcancen límites nunca sobrepasados. Efecto: Utilizado junto a un ataque realizado por un aliado aumenta su daño final en un “35% [*1.35]”. En caso de poseer tan sólo duración en acciones se sumarán +2.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – BESTIA CONTENIDA
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 3 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Te introduces en lo más profundo de la mente de una bestia, devolviéndola a su estado original como si de un mero siervo se tratase. Efecto: Anula una transformación activa en combate. No podrá volver a ser activada por lo mínimo durante 4 acciones.
+
+ACLARACIONES:
+  - No aplica a transformaciones de Bestias Gamma.
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – INHIBIDOR PSÍQUICO
+================================================================================
+
+100 EXP
+
+
+Mental — Ofensiva
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Rebuscas en lo más privado de la mente de tus oponentes, creando fuertes inhibidores psíquicos que les impidan hacer uso de sus habilidades. Efecto: Impide hacer uso durante “2 + VOL acciones” de habilidades relacionadas al poder. Esto elimina también cualquier beneficio pasivo activo que posea.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
+
+================================================================================
+[TELEPATÍA MAESTRA] – IMPOSICIÓN PROTECTORA
+================================================================================
+
+100 EXP
+
+
+Mental — Suplementaria
+
+
+Alcance: CONCENTRACIÓN
+
+
+Coste: 2 PA
+
+
+TIER 2
+
+EFECTO VISUAL:
+  Te introduces de lleno en la mente de tus aliados, eliminando cualquier rastro de influencia externa de sus mentes. Efecto: Libera al aliado de cualquier influencia, control, sugestión, persuasión, etcétera, de origen mental bajo la que se encuentre. No funciona ante habilidades que hayan sido por Telépatas de mayor categoría a la de la usuaria.
+
+ACLARACIONES:
+  N/A
+
+================================================================================
+
